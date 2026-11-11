@@ -13,8 +13,8 @@
     <string name="filter_parking">Στάθμευση</string>
     <string name="filter_izlazi">Έξοδοι</string>
     <string name="filter_punjaci">Φόρτιση</string>
-    <string name="tip_izlaz">Έξοδος %s</string>
-    <string name="tip_cvoriste">Κόμβος · έξοδος %s</string>
+    <string name="tip_izlaz">Έξοδος</string>
+    <string name="tip_cvoriste">Κόμβος</string>
     <string name="tip_odmoriste">Σταθμός εξυπηρέτησης</string>
     <string name="tip_autohof">Autohof · μικρή παράκαμψη</string>
     <string name="tip_parking">Στάθμευση (area di sosta)</string>

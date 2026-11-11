@@ -13,8 +13,8 @@
     <string name="filter_parking">Parken</string>
     <string name="filter_izlazi">Ausfahrten</string>
     <string name="filter_punjaci">Laden</string>
-    <string name="tip_izlaz">Ausfahrt %s</string>
-    <string name="tip_cvoriste">Kreuz/Dreieck · Ausfahrt %s</string>
+    <string name="tip_izlaz">Ausfahrt</string>
+    <string name="tip_cvoriste">Autobahnkreuz</string>
     <string name="tip_odmoriste">Rastanlage</string>
     <string name="tip_autohof">Autohof · kurzer Abstecher</string>
     <string name="tip_parking">Parkplatz (area di sosta)</string>

@@ -13,8 +13,8 @@
     <string name="filter_parking">Parkoló</string>
     <string name="filter_izlazi">Lehajtók</string>
     <string name="filter_punjaci">Töltés</string>
-    <string name="tip_izlaz">Lehajtó: %s</string>
-    <string name="tip_cvoriste">Csomópont · lehajtó: %s</string>
+    <string name="tip_izlaz">Lehajtó</string>
+    <string name="tip_cvoriste">Csomópont</string>
     <string name="tip_odmoriste">Pihenőhely szolgáltatásokkal</string>
     <string name="tip_autohof">Autohof · rövid kitérő</string>
     <string name="tip_parking">Parkoló (area di sosta)</string>

@@ -13,8 +13,8 @@
     <string name="filter_parking">Parkingi</string>
     <string name="filter_izlazi">Zjazdy</string>
     <string name="filter_punjaci">Ładowanie</string>
-    <string name="tip_izlaz">Zjazd %s</string>
-    <string name="tip_cvoriste">Węzeł · zjazd %s</string>
+    <string name="tip_izlaz">Zjazd</string>
+    <string name="tip_cvoriste">Węzeł</string>
     <string name="tip_odmoriste">MOP z usługami</string>
     <string name="tip_autohof">Autohof · krótki zjazd</string>
     <string name="tip_parking">Parking (area di sosta)</string>

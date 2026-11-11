@@ -13,8 +13,8 @@
     <string name="filter_parking">Parkování</string>
     <string name="filter_izlazi">Sjezdy</string>
     <string name="filter_punjaci">Nabíjení</string>
-    <string name="tip_izlaz">Sjezd %s</string>
-    <string name="tip_cvoriste">Křižovatka · sjezd %s</string>
+    <string name="tip_izlaz">Sjezd</string>
+    <string name="tip_cvoriste">Křižovatka</string>
     <string name="tip_odmoriste">Odpočívka se službami</string>
     <string name="tip_autohof">Autohof · krátká zajížďka</string>
     <string name="tip_parking">Parkoviště (area di sosta)</string>

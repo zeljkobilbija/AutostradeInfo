@@ -13,7 +13,7 @@
     <string name="filter_parking">Парковки</string>
     <string name="filter_izlazi">Съезды</string>
     <string name="filter_punjaci">Зарядка</string>
-    <string name="tip_izlaz">Съезд %s</string>
+    <string name="tip_izlaz">Съезд</string>
     <string name="tip_cvoriste">Развязка · съезд %s</string>
     <string name="tip_odmoriste">Площадка с сервисом</string>
     <string name="tip_autohof">Autohof · недалеко от трассы</string>

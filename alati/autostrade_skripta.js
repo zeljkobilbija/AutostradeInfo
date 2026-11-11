@@ -1,9 +1,10 @@
 /*
- * Autobahn Info – preuzimanje podataka za jedan autoput iz OpenStreetMap-a.
+ * Autostrade Info – preuzimanje podataka za jednu italijansku autostradu iz OpenStreetMap-a.
+ * (Prerađeno iz AutobahnInfo: italijanski izlazi nemaju brojeve, pa se prepoznaju po nazivu.)
  *
  * Iz terminala (Node 18+), fajlovi idu pravo u app/src/main/assets/autoputevi/:
- *   node alati/autobahn_skripta.js A1 A2 "A 3"
- *   node alati/autobahn_skripta.js --suvo A9    → samo izveštaj, ništa ne snima
+ *   node alati/autostrade_skripta.js A1 A4 A22
+ *   node alati/autostrade_skripta.js --suvo A1    → samo izveštaj, ništa ne snima
  *
  * U pregledaču (na stranici https://overpass-api.de/), kao ranije:
  *   1. Nalepi ceo ovaj fajl u konzolu.
@@ -14,7 +15,7 @@
  * Izlaz ima isti oblik kao assets/autoputevi/a8.json:
  *   { id, naziv, sekcije:[{od,do,plus,minus}], stavke:[…], izvor, datum }
  * Stavka: t (A izlaz, K čvorište, R odmorište, H Autohof, P parking), si (deonica),
- *   km, s ('+' smer rastućih km, '-' suprotno), n (naziv), ref (broj izlaza),
+ *   km, s ('+' smer rastućih km, '-' suprotno), n (naziv), ref (kod čvorišta oznaka druge autostrade, npr. A22),
  *   f (gorivo), h (lanci hrane), re, wc, du, e (punjači), ho, sh, lkw, oh, la, lo.
  */
 globalThis.AB = (() => {
@@ -27,12 +28,18 @@ globalThis.AB = (() => {
   const d = (a, b) => Math.hypot(a[0] - b[0], a[1] - b[1]);
   const pauza = ms => new Promise(r => setTimeout(r, ms));
 
-  const LANCI = ["McDonald's", 'Burger King', 'KFC', 'Nordsee', 'Subway', 'Coffee Fellows', 'Segafredo',
-    "L'Osteria", 'Starbucks', 'Serways', 'Marché', 'Axxe', 'Pizza Pronto', 'Greko', 'Tim Hortons', 'Dunkin\''];
-  const GORIVO = { 'Total': 'TotalEnergies', 'International Diesel Service': 'IDS', 'tankpool24.de': 'tankpool24',
-    'Kloiber bft Tankstelle': 'bft' };
+  const LANCI = ['Autogrill', 'Chef Express', 'Sarni', 'MyChef', 'Spizzico', 'Ciao', 'Bistrot', 'Roadhouse',
+    "McDonald's", 'Burger King', 'KFC', 'Starbucks', 'Old Wild West', 'Rosso Pomodoro', 'Lindt', 'Moto', 'Marché'];
+  const GORIVO = { 'Agip': 'Eni', 'Enilive': 'Eni', 'Eni Station': 'Eni', 'IP Gruppo api': 'IP', 'api': 'IP', 'Api': 'IP',
+    'Total': 'TotalEnergies', 'Tamoil Italia': 'Tamoil', 'Esso Italiana': 'Esso' };
+  // Ulaz na odmorište ucrtan kao "izlaz" – nije pravi izlaz, odmorište već dolazi iz highway=services
+  const NIJE_IZLAZ = /^(area\s+(di\s+)?(servizio|sosta|parcheggio)|area\s+di\s|ads\b|a\.d\.s\.|parcheggio|piazzola)/i;
+  // Čvorište: veza sa drugom autostradom, obilaznicom ili raskrsnica autostrada
+  const CVOR = /(^|[\s(\/-])A\d{1,2}(dir)?\b|tangenziale|bivio|diramazione|raccordo|allacciamento|interconnessione|autostrada|ramo|grande raccordo|\bgra\b|svincolo\s+con/i;
 
   const ab = { stanje: 'spreman', rezultat: null, log: [] };
+  /** Polazni grad kad relacija nema from= (ili je pogrešan). */
+  const OD = {};
   const zapisi = t => { ab.log.push(t); ab.stanje = t; if (NODE) console.error('  ' + t); };
 
   async function upit(q, pokusaja = 7) {
@@ -40,7 +47,7 @@ globalThis.AB = (() => {
     for (let i = 0; i < pokusaja; i++) {
       try {
         const r = await fetch(API, { method: 'POST', body: 'data=' + encodeURIComponent(q),
-          headers: NODE ? { 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'AutobahnInfo-alati/1.0' } : {} });
+          headers: NODE ? { 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'AutostradeInfo-alati/1.0' } : {} });
         if (r.ok) {
           const j = await r.json();
           // preopterećen server vraća 200 sa delimičnim podacima i napomenom (A4/A6 bez odmorišta)
@@ -172,6 +179,8 @@ globalThis.AB = (() => {
   }
 
   const tacka = e => e.lat != null ? [e.lat, e.lon] : e.center ? [e.center.lat, e.center.lon] : null;
+  /** Naziv izlaza: prvi deo pre ';', bez suvišnih razmaka. */
+  const imeIzlaza = t => (t.name || t['name:it'] || t.exit_to || t.destination || '').split(';')[0].replace(/\s+/g, ' ').trim();
   const punjac = e => {
     e = e.replace(/\b(GmbH|AG|SE|und Co\.KG|mobility\+|Drive Infrastructure|Energie Baden-Württemberg|Recharge Solutions)\b/g, '')
       .replace(/\s+/g, ' ').trim().replace(/^[ -]+|[ -]+$/g, '');
@@ -183,7 +192,8 @@ globalThis.AB = (() => {
    * Okreće autoput tako da brojevi izlaza rastu sa kilometrima
    * (kao zvanično: npr. A8 od Luksemburga ka Salcburgu).
    */
-  function orijentisi(rez, duzine, prsten) {
+  function orijentisi(rez, duzine, prsten, deonice, odQ) {
+    if (odQ) return orijentisiPoGradu(rez, duzine, prsten, deonice, odQ);
     const broj = x => 'AK'.includes(x.t) ? parseInt(x.ref, 10) : NaN;
     // svaka deonica posebno (delovi istog autoputa mogu biti ucrtani u suprotnim smerovima, npr. A93)
     rez.sekcije.forEach((sek, si) => {
@@ -216,6 +226,29 @@ globalThis.AB = (() => {
     const sredina = si => { const b = rez.stavke.filter(x => x.si === si).map(broj).filter(v => !isNaN(v)).sort((a, c) => a - c);
       return b.length ? b[b.length >> 1] : Infinity; };
     const red = rez.sekcije.map((_, si) => si).sort((a, c) => sredina(a) - sredina(c) || a - c);
+    rez.sekcije = red.map(si => rez.sekcije[si]);
+    rez.stavke.forEach(x => { x.si = red.indexOf(x.si); });
+    rez.stavke.sort((a, b) => a.si - b.si || a.km - b.km || ('AK'.includes(a.t) ? 0 : 1) - ('AK'.includes(b.t) ? 0 : 1));
+    return rez;
+  }
+
+  /**
+   * Italija: km 0 na kraju svake deonice koji je bliži polaznom gradu (A1: Milano),
+   * a deonice redom po udaljenosti od njega.
+   */
+  function orijentisiPoGradu(rez, duzine, prsten, deonice, odQ) {
+    rez.sekcije.forEach((sek, si) => {
+      const g = deonice[si].p, L = duzine[si];
+      if (prsten[si] || d(g[g.length - 1], odQ) >= d(g[0], odQ)) return;
+      rez.stavke.forEach(x => {
+        if (x.si !== si) return;
+        x.km = +Math.max(0, L - x.km).toFixed(1);
+        if (x.s) x.s = x.s === '+' ? '-' : '+';
+      });
+      rez.sekcije[si] = { od: sek.do, do: sek.od, plus: sek.minus, minus: sek.plus };
+    });
+    const blizina = si => { const g = deonice[si].p; return Math.min(d(g[0], odQ), d(g[g.length - 1], odQ)); };
+    const red = rez.sekcije.map((_, si) => si).sort((a, c) => blizina(a) - blizina(c));
     rez.sekcije = red.map(si => rez.sekcije[si]);
     rez.stavke.forEach(x => { x.si = red.indexOf(x.si); });
     rez.stavke.sort((a, b) => a.si - b.si || a.km - b.km || ('AK'.includes(a.t) ? 0 : 1) - ('AK'.includes(b.t) ? 0 : 1));
@@ -258,7 +291,7 @@ globalThis.AB = (() => {
   // ---------- 2. Glavni tok ----------
   async function preuzmi(ref) {
     const id = ref.replace(/\s+/g, '');
-    const rel = `rel[route=road][network="BAB"][ref="${ref}"]`;
+    const rel = `rel[route=road][network="IT:A-road"][ref="${ref}"][name!~"^(Raccordo|Ramo|Diramazione|Bretella|Svincolo)"]`;
 
     zapisi('1/3 linija autoputa…');
     const geo = await upit(`[out:json][timeout:240];${rel}->.r;(.r;rel(r.r););out geom;`);
@@ -278,6 +311,18 @@ globalThis.AB = (() => {
       linija = napraviLiniju(kao);
     }
     if (!linija.deonice.length) throw new Error('nema geometrije za ' + ref);
+
+    // km 0 = kraj bliži polaznom gradu (from= na relaciji, npr. A1: Milano)
+    let odQ = null;
+    const glavna = geo.elements.filter(e => e.type === 'relation' && (e.tags || {}).from)
+      .sort((a, b) => b.members.length - a.members.length)[0];
+    const od = OD[id] || (glavna && glavna.tags.from.split(/[;/]/)[0].trim());
+    if (od) {
+      const mesto = await upit(`[out:json][timeout:60];area["ISO3166-1"="IT"][admin_level=2]->.it;
+        node[place~"^(city|town|village)$"][name="${od}"](area.it);out 1;`);
+      const m = mesto.elements[0];
+      if (m) odQ = xy(m.lat, m.lon); else zapisi('polazni grad "' + od + '" nije nađen, km po brojevima');
+    }
 
     zapisi('2/3 izlazi i odmorišta…');
     const osnova = await upit(`[out:json][timeout:240];${putevi}
@@ -313,7 +358,7 @@ globalThis.AB = (() => {
       const st = strana(linija, q, projekcija(linija, q));
       const s = blizu.find(x => x.s === st && Math.abs(x.pr.km - blizu[0].pr.km) < 1.5) || blizu[0];
       const ime = (t.brand || t.name || '').trim();
-      if (t.amenity === 'fuel') s.f.add(GORIVO[ime] || ime || 'Tankstelle');
+      if (t.amenity === 'fuel') s.f.add(/\b(agip|eni)\b/i.test(ime) ? 'Eni' : GORIVO[ime] || ime || 'Distributore');
       else if (/^(fast_food|restaurant|cafe)$/.test(t.amenity)) {
         const lanac = /serways/i.test(ime) ? 'Serways' : /^axxe/i.test(ime) ? 'Axxe' : ime;
         if (LANCI.includes(lanac)) s.h.add(lanac); else s.re = true;
@@ -328,30 +373,42 @@ globalThis.AB = (() => {
     }
 
     const stavke = [];
-    // Izlazi (oba kolovoza imaju čvor → jedan izlaz po broju)
-    const izlazi = {};
+    // Izlazi: u Italiji nemaju brojeve, pa se oba kolovoza spajaju po nazivu
+    // (isti naziv na istoj deonici, do 4 km razmaka = jedan izlaz).
+    const izlazi = [];
+    let bezImena = 0, odmorista = 0;
     for (const e of osnova.elements) {
       const t = e.tags || {};
-      if (t.highway !== 'motorway_junction' || !t.ref || e.lat == null) continue;
+      if (t.highway !== 'motorway_junction' || e.lat == null) continue;
+      const n = imeIzlaza(t);
+      if (!n) { bezImena++; continue; }
+      if (NIJE_IZLAZ.test(n) || /area\s+(di\s+)?servizio/i.test(n)) { odmorista++; continue; }
       const q = xy(e.lat, e.lon), pr = projekcija(linija, q);
       if (pr.d > 800) continue;
-      const ref1 = t.ref.split(';')[0].trim(), k = pr.si + '|' + ref1;
-      (izlazi[k] = izlazi[k] || []).push({ pr, e, t, ref1 });
+      const k = n.toLowerCase().replace(/[^a-z0-9àèéìòù]+/g, ' ').trim();
+      const g = izlazi.find(x => x.k === k && x.si === pr.si && Math.abs(x.a[0].pr.km - pr.km) < 4);
+      if (g) g.a.push({ pr, e, n }); else izlazi.push({ k, si: pr.si, a: [{ pr, e, n }] });
     }
-    for (const a of Object.values(izlazi)) {
+    for (const { a } of izlazi) {
       const km = a.reduce((s, x) => s + x.pr.km, 0) / a.length;
       const la = a.reduce((s, x) => s + x.e.lat, 0) / a.length, lo = a.reduce((s, x) => s + x.e.lon, 0) / a.length;
-      const n = (a.find(x => x.t.name) || a[0]).t.name || '';
-      stavke.push({ t: /Kreuz|Dreieck/.test(n) ? 'K' : 'A', si: a[0].pr.si, km: +km.toFixed(1), ref: a[0].ref1, n,
-        la: +la.toFixed(5), lo: +lo.toFixed(5) });
+      const n = a.map(x => x.n).sort((p, q) => q.length - p.length)[0];
+      // oznaka druge autostrade u nazivu (A22, A1dir…) ide na znak čvorišta; sopstvena se ne računa
+      const druge = (n.match(/\bA\d{1,2}(dir)?\b/g) || []).filter(r => r !== id);
+      const cvor = CVOR.test(n.replace(new RegExp('\\b' + id + '\\b', 'g'), ''));
+      const o = { t: cvor ? 'K' : 'A', si: a[0].pr.si, km: +km.toFixed(1), n, la: +la.toFixed(5), lo: +lo.toFixed(5) };
+      if (cvor && druge.length) o.ref = druge[0];
+      stavke.push(o);
     }
+    if (bezImena || odmorista) zapisi(`preskočeno čvorova: ${bezImena} bez naziva, ${odmorista} ulaza na odmorišta`);
     // Odmorišta, Autohof-i i parkinzi
-    const prefiks = /^(Tank & Rast |Autobahnraststätte |Serways Raststätte |Raststätte |Rastanlage |Rasthof |Raststation |Rastplatz |Parkplatz )/;
+    const prefiks = /^(Area di [Ss]ervizio |Area [Ss]ervizio |Area di [Ss]osta |Area di [Pp]archeggio |AdS |A\.d\.S\. |Autogrill |Parcheggio )/;
     for (const s of sv) {
-      let n = (s.tag.name || '').trim(), t = /autohof/i.test(n) ? 'H' : s.t;
-      if (!n) { if (s.f.size) { n = 'Tankstelle'; if (t === 'R') t = 'H'; } else n = 'Parkplatz'; }
+      let n = (s.tag.name || '').trim(), t = s.t;
+      if (!n) n = s.f.size ? 'Distributore' : 'Area di sosta';
       for (let i = 0; i < 2; i++) n = n.replace(prefiks, '') || n;
       const o = { t, si: s.pr.si, km: +s.pr.km.toFixed(1), s: s.s, n };
+      if (s.f.size > 1) s.f.delete('Distributore'); // opšti naziv samo kad nema marke
       if (s.f.size) o.f = [...s.f];
       if (s.h.size) o.h = [...s.h];
       if (s.re) o.re = 1; if (s.wc) o.wc = 1; if (s.du) o.du = 1;
@@ -371,15 +428,16 @@ globalThis.AB = (() => {
 
     // Deonice: nazivi po prvom i poslednjem izlazu
     const sekcije = linija.deonice.map((_, si) => {
-      const iz = stavke.filter(x => x.si === si && 'AK'.includes(x.t) && x.n);
+      let iz = stavke.filter(x => x.si === si && x.t === 'A' && x.n);
+      if (!iz.length) iz = stavke.filter(x => x.si === si && 'AK'.includes(x.t) && x.n);
       const od = iz.length ? iz[0].n : '?', dok = iz.length ? iz[iz.length - 1].n : '?';
       return { od, do: dok, plus: dok, minus: od };
     });
 
     const duzine = linija.deonice.map(s => s.c[s.c.length - 1] / 1000);
     const prsten = linija.deonice.map((s, i) => duzine[i] > 50 && d(s.p[0], s.p[s.p.length - 1]) < 1000);
-    ab.rezultat = ukloniPrazne(izbaciStrane(orijentisi({ id, naziv: ref, sekcije, stavke, izvor: '© OpenStreetMap-Mitwirkende (ODbL)',
-      datum: new Date().toISOString().slice(0, 10) }, duzine, prsten)));
+    ab.rezultat = ukloniPrazne(izbaciStrane(orijentisi({ id, naziv: ref, sekcije, stavke, izvor: '© OpenStreetMap contributors (ODbL)',
+      datum: new Date().toISOString().slice(0, 10) }, duzine, prsten, linija.deonice, odQ)));
     const broj = {}; ab.rezultat.stavke.forEach(x => broj[x.t] = (broj[x.t] || 0) + 1);
     ab.sazetak = `${ref}: ${ab.rezultat.stavke.length} tačaka ${JSON.stringify(broj)}, deonice: ` +
       ab.rezultat.sekcije.map((s, i) => `${s.od} – ${s.do} (${Math.round(Math.max(...ab.rezultat.stavke.filter(x => x.si === i).map(x => x.km), 0))} km)`).join('; ');
@@ -435,8 +493,8 @@ globalThis.AB = (() => {
 if (typeof window === 'undefined' && typeof require !== 'undefined' && require.main === module) (async () => {
   const fs = require('fs'), path = require('path');
   const arg = process.argv.slice(2), suvo = arg.includes('--suvo');
-  const refs = arg.filter(a => !a.startsWith('--')).map(a => a.toUpperCase().replace(/^A\s*/, 'A '));
-  if (!refs.length) { console.error('Upotreba: node alati/autobahn_skripta.js [--suvo] A1 A2 …'); process.exit(1); }
+  const refs = arg.filter(a => !a.startsWith('--')).map(a => a.toUpperCase().replace(/\s+/g, ''));
+  if (!refs.length) { console.error('Upotreba: node alati/autostrade_skripta.js [--suvo] A1 A2 …'); process.exit(1); }
   const cilj = path.join(__dirname, '..', 'app', 'src', 'main', 'assets', 'autoputevi');
   let greske = 0;
   for (const [i, r] of refs.entries()) {

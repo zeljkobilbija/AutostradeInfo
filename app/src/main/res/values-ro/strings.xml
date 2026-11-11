@@ -13,8 +13,8 @@
     <string name="filter_parking">Parcare</string>
     <string name="filter_izlazi">Ieșiri</string>
     <string name="filter_punjaci">Încărcare</string>
-    <string name="tip_izlaz">Ieșirea %s</string>
-    <string name="tip_cvoriste">Nod rutier · ieșirea %s</string>
+    <string name="tip_izlaz">Ieșirea</string>
+    <string name="tip_cvoriste">Nod rutier</string>
     <string name="tip_odmoriste">Zonă de servicii</string>
     <string name="tip_autohof">Autohof · mic ocol</string>
     <string name="tip_parking">Parcare (area di sosta)</string>

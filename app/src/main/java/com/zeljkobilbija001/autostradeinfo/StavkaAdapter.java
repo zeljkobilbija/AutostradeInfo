@@ -48,13 +48,13 @@ public class StavkaAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
     }
 
     public static String naziv(Context c, Stavka s) {
-        return s.naziv.isEmpty() ? c.getString(R.string.tip_izlaz, s.ref) : s.naziv;
+        return s.naziv.isEmpty() ? c.getString(R.string.tip_izlaz) : s.naziv;
     }
 
     public static String opis(Context c, Stavka s) {
         switch (s.tip) {
-            case Stavka.IZLAZ: return c.getString(R.string.tip_izlaz, s.ref);
-            case Stavka.CVORISTE: return c.getString(R.string.tip_cvoriste, s.ref);
+            case Stavka.IZLAZ: return c.getString(R.string.tip_izlaz);
+            case Stavka.CVORISTE: return c.getString(R.string.tip_cvoriste);
             case Stavka.ODMORISTE: return c.getString(R.string.tip_odmoriste);
             case Stavka.AUTOHOF: return c.getString(R.string.tip_autohof);
             default: return c.getString(R.string.tip_parking);
@@ -137,17 +137,17 @@ public class StavkaAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
             Context c = itemView.getContext();
             km.setText(String.format(Locale.getDefault(), "%.1f", s.km));
 
-            // Znak na šini: broj izlaza, P, pumpa ili pribor za jelo
+            // Znak na šini: strelica izlaza, oznaka druge autostrade (čvorište), P, pumpa ili pribor za jelo
             boolean pumpa = !s.jeIzlaz() && s.tip != Stavka.PARKING && !s.gorivo.isEmpty();
             boolean hrana = !s.jeIzlaz() && s.tip != Stavka.PARKING && s.gorivo.isEmpty();
             int bela = 0xFFFFFFFF;
             int plava = Izgled.boja(c, R.color.plava);
             if (s.tip == Stavka.IZLAZ) {
                 znak.setBackground(Izgled.oblik(c, plava, 7, 0, 0));
-                tekstZnaka(s.ref, bela);
+                if (s.ref.isEmpty()) ikonaZnaka(R.drawable.ic_izlaz, bela); else tekstZnaka(s.ref, bela);
             } else if (s.tip == Stavka.CVORISTE) {
                 znak.setBackground(Izgled.oblik(c, bela, 7, plava, 2.5f));
-                tekstZnaka(s.ref, plava);
+                if (s.ref.isEmpty()) ikonaZnaka(R.drawable.ic_izlaz, plava); else tekstZnaka(s.ref, plava);
             } else if (s.tip == Stavka.PARKING) {
                 znak.setBackground(Izgled.oblik(c, plava, 7, 0, 0));
                 tekstZnaka("P", bela);

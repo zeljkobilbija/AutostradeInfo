@@ -13,8 +13,8 @@
     <string name="filter_parking">Parkiranje</string>
     <string name="filter_izlazi">Izvozi</string>
     <string name="filter_punjaci">Polnjenje</string>
-    <string name="tip_izlaz">Izvoz %s</string>
-    <string name="tip_cvoriste">Razcep · izvoz %s</string>
+    <string name="tip_izlaz">Izvoz</string>
+    <string name="tip_cvoriste">Razcep</string>
     <string name="tip_odmoriste">Počivališče s storitvami</string>
     <string name="tip_autohof">Autohof · kratek ovinek</string>
     <string name="tip_parking">Parkirišče (area di sosta)</string>

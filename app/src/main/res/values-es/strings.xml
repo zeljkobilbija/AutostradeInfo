@@ -13,8 +13,8 @@
     <string name="filter_parking">Aparcamiento</string>
     <string name="filter_izlazi">Salidas</string>
     <string name="filter_punjaci">Carga</string>
-    <string name="tip_izlaz">Salida %s</string>
-    <string name="tip_cvoriste">Enlace · salida %s</string>
+    <string name="tip_izlaz">Salida</string>
+    <string name="tip_cvoriste">Enlace</string>
     <string name="tip_odmoriste">Área de servicio</string>
     <string name="tip_autohof">Autohof · pequeño desvío</string>
     <string name="tip_parking">Aparcamiento (area di sosta)</string>

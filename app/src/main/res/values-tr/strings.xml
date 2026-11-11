@@ -13,8 +13,8 @@
     <string name="filter_parking">Otopark</string>
     <string name="filter_izlazi">Çıkışlar</string>
     <string name="filter_punjaci">Şarj</string>
-    <string name="tip_izlaz">Çıkış %s</string>
-    <string name="tip_cvoriste">Kavşak · çıkış %s</string>
+    <string name="tip_izlaz">Çıkış</string>
+    <string name="tip_cvoriste">Kavşak</string>
     <string name="tip_odmoriste">Hizmet tesisi</string>
     <string name="tip_autohof">Autohof · kısa sapma</string>
     <string name="tip_parking">Otopark (area di sosta)</string>

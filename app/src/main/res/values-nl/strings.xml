@@ -13,8 +13,8 @@
     <string name="filter_parking">Parkeren</string>
     <string name="filter_izlazi">Afritten</string>
     <string name="filter_punjaci">Laden</string>
-    <string name="tip_izlaz">Afrit %s</string>
-    <string name="tip_cvoriste">Knooppunt · afrit %s</string>
+    <string name="tip_izlaz">Afrit</string>
+    <string name="tip_cvoriste">Knooppunt</string>
     <string name="tip_odmoriste">Verzorgingsplaats</string>
     <string name="tip_autohof">Autohof · kleine omweg</string>
     <string name="tip_parking">Parkeerplaats (area di sosta)</string>

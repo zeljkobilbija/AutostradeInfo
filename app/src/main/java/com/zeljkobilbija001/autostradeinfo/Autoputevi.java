@@ -12,7 +12,7 @@ public final class Autoputevi {
     private Autoputevi() { }
 
     public static final List<Autoput> SVE = Arrays.asList(
-            new Autoput("A1", "Milano – Napoli", null),
+            new Autoput("A1", "Milano – Napoli", "autoputevi/a1.json"),
             new Autoput("A2", "Salerno – Reggio Calabria", null),
             new Autoput("A3", "Napoli – Salerno", null),
             new Autoput("A4", "Torino – Trieste", null),

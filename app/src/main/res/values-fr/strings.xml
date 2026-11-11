@@ -13,8 +13,8 @@
     <string name="filter_parking">Parkings</string>
     <string name="filter_izlazi">Sorties</string>
     <string name="filter_punjaci">Recharge</string>
-    <string name="tip_izlaz">Sortie %s</string>
-    <string name="tip_cvoriste">Échangeur · sortie %s</string>
+    <string name="tip_izlaz">Sortie</string>
+    <string name="tip_cvoriste">Échangeur</string>
     <string name="tip_odmoriste">Aire de service</string>
     <string name="tip_autohof">Autohof · petit détour</string>
     <string name="tip_parking">Parking (area di sosta)</string>

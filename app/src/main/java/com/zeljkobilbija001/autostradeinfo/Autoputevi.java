@@ -14,7 +14,7 @@ public final class Autoputevi {
     public static final List<Autoput> SVE = Arrays.asList(
             new Autoput("A1", "Milano – Napoli", "autoputevi/a1.json"),
             new Autoput("A2", "Salerno – Reggio Calabria", "autoputevi/a2.json"),
-            new Autoput("A3", "Napoli – Salerno", null),
+            new Autoput("A3", "Napoli – Salerno", "autoputevi/a3.json"),
             new Autoput("A4", "Torino – Trieste", null),
             new Autoput("A5", "Torino – Aosta – Monte Bianco", null),
             new Autoput("A6", "Torino – Savona", null),

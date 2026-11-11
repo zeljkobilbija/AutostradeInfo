@@ -31,11 +31,32 @@ globalThis.AB = (() => {
   const LANCI = ['Autogrill', 'Chef Express', 'Sarni', 'MyChef', 'Spizzico', 'Ciao', 'Bistrot', 'Roadhouse',
     "McDonald's", 'Burger King', 'KFC', 'Starbucks', 'Old Wild West', 'Rosso Pomodoro', 'Lindt', 'Moto', 'Marché'];
   const GORIVO = { 'Agip': 'Eni', 'Enilive': 'Eni', 'Eni Station': 'Eni', 'IP Gruppo api': 'IP', 'api': 'IP', 'Api': 'IP',
-    'Total': 'TotalEnergies', 'Tamoil Italia': 'Tamoil', 'Esso Italiana': 'Esso' };
+    'Total': 'TotalEnergies', 'Tamoil Italia': 'Tamoil', 'Esso Italiana': 'Esso', 'SarniOil': 'Sarni Oil', 'Sarni oil': 'Sarni Oil' };
   // Ulaz na odmorište ucrtan kao "izlaz" – nije pravi izlaz, odmorište već dolazi iz highway=services
-  const NIJE_IZLAZ = /^(area\s+(di\s+)?(servizio|sosta|parcheggio)|area\s+di\s|ads\b|a\.d\.s\.|parcheggio|piazzola)/i;
+  // (i "Area del Rio dei Cocchi ovest", "Famagosta parcheggio M2")
+  const NIJE_IZLAZ = /^(area\b|ads\b|a\.d\.s\.|piazzola)|parcheggio/i;
   // Čvorište: veza sa drugom autostradom, obilaznicom ili raskrsnica autostrada
-  const CVOR = /(^|[\s(\/-])A\d{1,2}(dir)?\b|tangenziale|bivio|diramazione|raccordo|allacciamento|interconnessione|autostrada|ramo|grande raccordo|\bgra\b|svincolo\s+con/i;
+  const CVOR = /(^|[\s(\/-])A\s?\d{1,2}(dir)?\b|tangenziale|bivio|diramazione|raccordo|allacciamento|interconnessione|autostrada|ramo|grande raccordo|\bgra\b|svincolo\s+con/i;
+
+  /**
+   * Ručne ispravke gde OSM ne daje dobar naziv deonice: d = [[od, do], …] redom po deonicama
+   * (posle orijentacije), k = "izlazi" koji su zapravo čvorišta.
+   */
+  const ISPRAVKE = {
+    A7: { d: [['Milano', 'Genova']] },
+    A11: { d: [['Pisa Nord', 'Firenze']], k: ['Genova', 'Genova-Rosignano Marittimo'] },
+    A26: { d: [['Gravellona Toce', 'Masone'], ['Masone', 'Genova Voltri']] },
+    A30: { d: [['Caserta', 'Maddaloni'], ['Nola', 'Salerno']], k: ['Avellino', 'Napoli - Caserta - Roma'] },
+  };
+  function ispravi(rez) {
+    const isp = ISPRAVKE[rez.id];
+    if (!isp) return rez;
+    for (const x of rez.stavke) if (x.t === 'A' && (isp.k || []).includes(x.n)) x.t = 'K';
+    if (isp.d && isp.d.length === rez.sekcije.length)
+      rez.sekcije = isp.d.map(([od, dok]) => ({ od, do: dok, plus: dok, minus: od }));
+    else if (isp.d) zapisi('ispravke: ' + rez.sekcije.length + ' deonica, a u tabeli ' + isp.d.length + ' – nazivi nisu promenjeni');
+    return rez;
+  }
 
   const ab = { stanje: 'spreman', rezultat: null, log: [] };
   /** Polazni grad kad relacija nema from= (ili je pogrešan). */
@@ -396,17 +417,22 @@ globalThis.AB = (() => {
       if (pr.d > 800) continue;
       const k = n.toLowerCase().replace(/[^a-z0-9àèéìòù]+/g, ' ').trim();
       const g = izlazi.find(x => x.k === k && x.si === pr.si && Math.abs(x.a[0].pr.km - pr.km) < 4);
-      if (g) g.a.push({ pr, e, n }); else izlazi.push({ k, si: pr.si, a: [{ pr, e, n }] });
+      // pravi naziv, a ne samo natpis sa putokaza (A11 "Genova", A27 "Trieste - Udine - Tarvisio - Pordenone")
+      const pravo = !!(t.name || t['name:it']) && n !== imeIzlaza({ destination: t.destination })
+        && n !== imeIzlaza({ destination: t.exit_to }) && n.split(/\s+-\s+/).length < 3;
+      if (g) { g.a.push({ pr, e, n }); g.pravo = g.pravo || pravo; } else izlazi.push({ k, si: pr.si, pravo, a: [{ pr, e, n }] });
     }
-    for (const { a } of izlazi) {
+    for (const { a, pravo } of izlazi) {
       const km = a.reduce((s, x) => s + x.pr.km, 0) / a.length;
       const la = a.reduce((s, x) => s + x.e.lat, 0) / a.length, lo = a.reduce((s, x) => s + x.e.lon, 0) / a.length;
       const n = a.map(x => x.n).sort((p, q) => q.length - p.length)[0];
       // oznaka druge autostrade u nazivu (A22, A1dir…) ide na znak čvorišta; sopstvena se ne računa
-      const druge = (n.match(/\bA\d{1,2}(dir)?\b/g) || []).filter(r => r !== id);
-      const cvor = CVOR.test(n.replace(new RegExp('\\b' + id + '\\b', 'g'), ''));
+      const nA = n.replace(/\bA\s+(\d)/g, 'A$1'); // "Milano-Varese (A 8)"
+      const druge = (nA.match(/\bA\d{1,2}(dir)?\b/g) || []).filter(r => r !== id);
+      const cvor = CVOR.test(nA.replace(new RegExp('\\b' + id + '\\b', 'g'), ''));
       const o = { t: cvor ? 'K' : 'A', si: a[0].pr.si, km: +km.toFixed(1), n, la: +la.toFixed(5), lo: +lo.toFixed(5) };
       if (cvor && druge.length) o.ref = druge[0];
+      if (!pravo) o._putokaz = 1; // "Trieste - Udine - Tarvisio - Pordenone" – ne za naziv deonice
       stavke.push(o);
     }
     if (bezImena || odmorista) zapisi(`preskočeno čvorova: ${bezImena} bez naziva, ${odmorista} ulaza na odmorišta`);
@@ -445,18 +471,27 @@ globalThis.AB = (() => {
     stavke.splice(0, stavke.length, ...stavke.filter(x => !ulazi.has(x)));
     stavke.sort((a, b) => a.si - b.si || a.km - b.km || ('AK'.includes(a.t) ? 0 : 1) - ('AK'.includes(b.t) ? 0 : 1));
 
-    // Deonice: nazivi po prvom i poslednjem izlazu
+    // Lažne kratke deonice (drugi kolovoz ili rampa ucrtani zasebno: "Masone – Masone") → izbaci
+    const duzine = linija.deonice.map(s => s.c[s.c.length - 1] / 1000);
+    if (Math.max(...duzine) >= 30) stavke.splice(0, stavke.length, ...stavke.filter(x => duzine[x.si] >= 10));
+    // Deonice: nazivi po prvom i poslednjem izlazu (po mogućstvu sa pravim nazivom, ne sa putokaza)
     const sekcije = linija.deonice.map((_, si) => {
-      let iz = stavke.filter(x => x.si === si && x.t === 'A' && x.n);
+      let iz = stavke.filter(x => x.si === si && x.t === 'A' && x.n && !x._putokaz);
+      if (!iz.length) iz = stavke.filter(x => x.si === si && x.t === 'A' && x.n);
       if (!iz.length) iz = stavke.filter(x => x.si === si && 'AK'.includes(x.t) && x.n);
-      const od = iz.length ? iz[0].n : '?', dok = iz.length ? iz[iz.length - 1].n : '?';
+      let od = iz.length ? iz[0].n : '?', dok = iz.length ? iz[iz.length - 1].n : '?';
+      if (od === dok) { // "Masone – Masone": drugi kraj po krajnjem izlazu ili čvorištu
+        const sve = stavke.filter(x => x.si === si && 'AK'.includes(x.t) && x.n && x.n !== od);
+        if (sve.length) { const z = sve[sve.length - 1], p = sve[0];
+          if (z.km > iz[0].km) dok = z.n; else od = p.n; }
+      }
       return { od, do: dok, plus: dok, minus: od };
     });
 
-    const duzine = linija.deonice.map(s => s.c[s.c.length - 1] / 1000);
     const prsten = linija.deonice.map((s, i) => duzine[i] > 50 && d(s.p[0], s.p[s.p.length - 1]) < 1000);
-    ab.rezultat = ukloniPrazne(izbaciStrane(orijentisi({ id, naziv: ref, sekcije, stavke, izvor: '© OpenStreetMap contributors (ODbL)',
-      datum: new Date().toISOString().slice(0, 10) }, duzine, prsten, linija.deonice, odQ)));
+    ab.rezultat = ispravi(ukloniPrazne(izbaciStrane(orijentisi({ id, naziv: ref, sekcije, stavke, izvor: '© OpenStreetMap contributors (ODbL)',
+      datum: new Date().toISOString().slice(0, 10) }, duzine, prsten, linija.deonice, odQ))));
+    ab.rezultat.stavke.forEach(x => delete x._putokaz);
     const broj = {}; ab.rezultat.stavke.forEach(x => broj[x.t] = (broj[x.t] || 0) + 1);
     ab.sazetak = `${ref}: ${ab.rezultat.stavke.length} tačaka ${JSON.stringify(broj)}, deonice: ` +
       ab.rezultat.sekcije.map((s, i) => `${s.od} – ${s.do} (${Math.round(Math.max(...ab.rezultat.stavke.filter(x => x.si === i).map(x => x.km), 0))} km)`).join('; ');
@@ -476,7 +511,7 @@ globalThis.AB = (() => {
   };
 
   /** Ponovo primenjuje filtere na već preuzet rezultat (posle izmene skripte, bez novog preuzimanja). */
-  ab.popravi = rez => ukloniPrazne(izbaciStrane(rez));
+  ab.popravi = rez => ispravi(ukloniPrazne(izbaciStrane(rez)));
   /** Broj izlaza čiji broj opada duž trase (0 = dobro). */
   ab.provera = () => {
     const a = ab.rezultat.stavke.filter(x => 'AK'.includes(x.t) && !isNaN(parseInt(x.ref, 10)));

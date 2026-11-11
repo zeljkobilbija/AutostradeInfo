@@ -20,7 +20,11 @@
  */
 globalThis.AB = (() => {
   const NODE = typeof window === 'undefined';
-  const API = 'https://overpass-api.de/api/interpreter';
+  // glavni server ponekad tiho vrati samo deo podataka (izlazi bez odmorišta) → prelazi se na sledeći
+  const SERVERI = ['https://overpass-api.de/api/interpreter', 'https://overpass.private.coffee/api/interpreter'];
+  let server = 0;
+  const api = () => SERVERI[server % SERVERI.length];
+  const sledeciServer = () => { server++; zapisi('prelazim na ' + api()); };
   const R = 6371000, RAD = Math.PI / 180;
   let cosLat = Math.cos(50 * RAD);
   const xy = (lat, lon) => [lon * RAD * R * cosLat, lat * RAD * R];
@@ -67,14 +71,14 @@ globalThis.AB = (() => {
     let cekaj = 10000;
     for (let i = 0; i < pokusaja; i++) {
       try {
-        const r = await fetch(API, { method: 'POST', body: 'data=' + encodeURIComponent(q),
+        const r = await fetch(api(), { method: 'POST', body: 'data=' + encodeURIComponent(q),
           headers: NODE ? { 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'AutostradeInfo-alati/1.0' } : {} });
         if (r.ok) {
           const j = await r.json();
           // preopterećen server vraća 200 sa delimičnim podacima i napomenom (A4/A6 bez odmorišta)
           if (!/error|timed out|out of memory/i.test(j.remark || '')) return j;
           zapisi('delimičan odgovor (' + j.remark.slice(0, 60) + '), ponavljam…');
-        } else zapisi('server ' + r.status + ', ponavljam…');
+        } else { zapisi('server ' + r.status + ', ponavljam…'); if (i % 2) sledeciServer(); }
       } catch (e) { zapisi('mreža: ' + e.message + ', ponavljam…'); }
       await pauza(cekaj); cekaj *= 1.6;
     }
@@ -356,6 +360,7 @@ globalThis.AB = (() => {
       if (ima('motorway_junction') && ima('services')) break;
       if (i >= 4) throw new Error('server vraća prazne odgovore (nema izlaza ili odmorišta), probaj kasnije');
       zapisi('prazan odgovor (bez izlaza ili odmorišta), ponavljam…');
+      sledeciServer();
       await pauza(30000 * (i + 1));
     }
 

@@ -433,6 +433,12 @@ globalThis.AB = (() => {
         for (const k in o) if (!(k in dup)) dup[k] = o[k];
       } else stavke.push(o);
     }
+    // "Izlaz" istog naziva kao odmorište/parking na manje od 1 km je samo ulaz na njega (A5: Prolex, Champagne, Les Crêtes)
+    const isto = n => n.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+    const ulazi = new Set(stavke.filter(x => x.t === 'A' && stavke.some(y => 'RP'.includes(y.t) && y.si === x.si
+      && Math.abs(y.km - x.km) < 1 && isto(y.n) === isto(x.n))));
+    if (ulazi.size) zapisi('izbačeno ' + ulazi.size + ' ulaza na parking/odmorište: ' + [...ulazi].map(x => x.n).join(', '));
+    stavke.splice(0, stavke.length, ...stavke.filter(x => !ulazi.has(x)));
     stavke.sort((a, b) => a.si - b.si || a.km - b.km || ('AK'.includes(a.t) ? 0 : 1) - ('AK'.includes(b.t) ? 0 : 1));
 
     // Deonice: nazivi po prvom i poslednjem izlazu

@@ -16,7 +16,7 @@ public final class Autoputevi {
             new Autoput("A2", "Salerno – Reggio Calabria", "autoputevi/a2.json"),
             new Autoput("A3", "Napoli – Salerno", "autoputevi/a3.json"),
             new Autoput("A4", "Torino – Trieste", null),
-            new Autoput("A5", "Torino – Aosta – Monte Bianco", null),
+            new Autoput("A5", "Torino – Aosta – Monte Bianco", "autoputevi/a5.json"),
             new Autoput("A6", "Torino – Savona", null),
             new Autoput("A7", "Milano – Genova", null),
             new Autoput("A8", "Milano – Varese", null),

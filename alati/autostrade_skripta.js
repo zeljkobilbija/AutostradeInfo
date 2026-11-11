@@ -325,9 +325,18 @@ globalThis.AB = (() => {
     }
 
     zapisi('2/3 izlazi i odmorišta…');
-    const osnova = await upit(`[out:json][timeout:240];${putevi}
+    // preopterećen server ponekad vrati prazan odgovor bez napomene (A1 bez ijednog odmorišta) → ponovi
+    let osnova;
+    for (let i = 0; ; i++) {
+      osnova = await upit(`[out:json][timeout:240];${putevi}
       node(w.w)[highway=motorway_junction];out qt;
       nwr[highway~"^(services|rest_area)$"](around.w:400);out center qt;`);
+      const ima = tip => osnova.elements.some(e => (e.tags || {}).highway === tip);
+      if (ima('motorway_junction') && ima('services')) break;
+      if (i >= 4) throw new Error('server vraća prazne odgovore (nema izlaza ili odmorišta), probaj kasnije');
+      zapisi('prazan odgovor (bez izlaza ili odmorišta), ponavljam…');
+      await pauza(30000 * (i + 1));
+    }
 
     zapisi('3/3 pumpe, hrana, punjači…');
     const usluge = await upit(`[out:json][timeout:240];${putevi}

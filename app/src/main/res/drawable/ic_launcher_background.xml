@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generisano: InterstateInfo/alati/ikona_evropa.py -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#009246" android:pathData="M0.00,0.00L42.00,0.00L42.00,56.00L0.00,56.00Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M42.00,0.00L66.00,0.00L66.00,56.00L42.00,56.00Z" />
+    <path android:fillColor="#CE2B37" android:pathData="M66.00,0.00L108.00,0.00L108.00,56.00L66.00,56.00Z" />
+    <path android:fillColor="#2E3440" android:pathData="M0.00,56.00L108.00,56.00L108.00,108.00L0.00,108.00Z" />
+</vector>

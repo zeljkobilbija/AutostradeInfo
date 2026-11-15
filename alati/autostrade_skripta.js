@@ -121,8 +121,18 @@ globalThis.AB = (() => {
     // Početak: kraj puta bez ulaza koji je najdalje od centra (jedan kraj autoputa)
     let kandidati = putevi.filter(w => !imaUlaz.has(kljuc(w.g[0])));
     if (!kandidati.length) kandidati = putevi;
-    let w = kandidati.reduce((a, b) => d(b.g[0], centar) > d(a.g[0], centar) ? b : a);
+    // više početnih kandidata (najdalji od centra), uzima se prvi koji pokrije jedan smer, inače onaj koji pokrije najviše
+    kandidati = [...kandidati].sort((a, b) => d(b.g[0], centar) - d(a.g[0], centar)).slice(0, 6);
+    let najbolje = null;
+    for (const start of kandidati) {
+      const r = gradi(start);
+      if (!najbolje || r.predjeno > najbolje.predjeno + 1000) najbolje = r;
+      if (najbolje.predjeno >= 0.47 * ukupno) break;
+    }
+    return { deonice: najbolje.deonice.map(p => { const c = [0]; for (let i = 1; i < p.length; i++) c.push(c[i - 1] + d(p[i], p[i - 1])); return { p, c }; }),
+      putevi };
 
+    function gradi(w) {
     const korisceni = new Set(), deonice = [];
     let tacke = [], predjeno = 0;
     while (w) {
@@ -169,9 +179,9 @@ globalThis.AB = (() => {
       }
       w = naj;
     }
-    if (tacke.length && duz(tacke) > 3000) deonice.push(tacke);
-    return { deonice: deonice.map(p => { const c = [0]; for (let i = 1; i < p.length; i++) c.push(c[i - 1] + d(p[i], p[i - 1])); return { p, c }; }),
-      putevi };
+    if (tacke.length && duz(tacke) > 3000) { deonice.push(tacke); predjeno += duz(tacke); }
+    return { deonice, predjeno };
+    }
   }
 
   function projekcija(linija, q) {
@@ -318,8 +328,35 @@ globalThis.AB = (() => {
     const id = ref.replace(/\s+/g, '');
     const rel = `rel[route=road][network="IT:A-road"][ref="${ref}"][name!~"^(Raccordo|Ramo|Diramazione|Bretella|Svincolo)"]`;
 
+    // lokalni Geofabrik izvod (alati/osm_lokalno.js) umesto Overpass-a: relacija IT:A-road + putevi po oznaci
+    const L = ab.lokalno ? ab.lokalno('IT') : null;
+    const BEZ = /^(Raccordo|Ramo|Diramazione|Bretella|Svincolo)/;
+    const sjedini = (a, b) => { const ids = new Set(a.map(w => w.id)); return a.concat(b.filter(w => !ids.has(w.id))); };
+    const kaoRelacija = w => { const gl = L.relacije('IT:A-road', ref).filter(x => x.from && !BEZ.test(x.name || '')).sort((a, b) => b.w.length - a.w.length)[0];
+      return [{ type: 'relation', tags: { type: 'route', ...(gl ? { from: gl.from } : {}) }, members: w.map(x => ({ type: 'way', role: '', geometry: x.geometry })) }]; };
+    // izvod Italije sadrži i pogranične strane autoputeve (francuski, švajcarski, austrijski, slovenački A 1…):
+    // putevi po oznaci samo ako nisu u stranoj mreži, blizu su puteva IT:A-road relacija ili su povezani sa njima
+    const domaci = ws => {
+      const strani = L.uMrezama(/^(FR:|CH:|ch:|AT:|at:|SI:|si:|SM:|VA:|DE:|BAB)/);
+      ws = ws.filter(w => !strani.has(w.id));
+      const r = L.sviIt || (L.sviIt = L.svePutevi('IT:A-road'));
+      if (!r.length) return ws;
+      const c = p => Math.round(p.lat * 4) + '_' + Math.round(p.lon * 3), mreza = new Set();
+      for (const w of r) for (const p of w.geometry) { const [a, b] = c(p).split('_').map(Number);
+        for (let i = -1; i <= 1; i++) for (let j = -1; j <= 1; j++) mreza.add((a + i) + '_' + (b + j)); }
+      const kt = p => p.lat.toFixed(6) + ',' + p.lon.toFixed(6), kraj = w => [w.geometry[0], w.geometry[w.geometry.length - 1]];
+      const uzeti = new Set(ws.filter(w => w.geometry.some(p => mreza.has(c(p)))));
+      const tacke = new Set(); for (const w of uzeti) for (const p of kraj(w)) tacke.add(kt(p));
+      for (let novo = true; novo;) { novo = false;
+        for (const w of ws) if (!uzeti.has(w) && kraj(w).some(p => tacke.has(kt(p)))) {
+          uzeti.add(w); novo = true; for (const p of kraj(w)) tacke.add(kt(p)); } }
+      return ws.filter(w => uzeti.has(w));
+    };
+    let wL = [];
+
     zapisi('1/3 linija autoputa…');
-    const geo = await upit(`[out:json][timeout:240];${rel}->.r;(.r;rel(r.r););out geom;`);
+    const geo = L ? { elements: kaoRelacija(wL = sjedini(L.putevi('IT:A-road', ref, BEZ), domaci(L.poOznaci(ref)))) }
+      : await upit(`[out:json][timeout:240];${rel}->.r;(.r;rel(r.r););out geom;`);
     const postaviCos = elementi => { let s = 0, n = 0; for (const el of elementi) for (const m of el.members || [])
       if (m.geometry) for (const p of m.geometry) { s += p.lat; n++; } cosLat = Math.cos((n ? s / n : 50) * RAD); };
     postaviCos(geo.elements);
@@ -329,7 +366,7 @@ globalThis.AB = (() => {
     if (!linija.deonice.length) {
       zapisi('1/3 relacija bez puteva, uzimam puteve po oznaci…');
       putevi = `way[highway=motorway][ref~"(^|;)${ref}(;|$)"]->.w;`;
-      const poOznaci = await upit(`[out:json][timeout:240];${putevi}.w out geom;`);
+      const poOznaci = L ? { elements: wL = domaci(L.poOznaci(ref)) } : await upit(`[out:json][timeout:240];${putevi}.w out geom;`);
       const kao = [{ type: 'relation', tags: { type: 'route' },
         members: poOznaci.elements.map(w => ({ type: 'way', role: '', geometry: w.geometry })) }];
       postaviCos(kao);
@@ -343,7 +380,7 @@ globalThis.AB = (() => {
       .sort((a, b) => b.members.length - a.members.length)[0];
     const od = OD[id] || (glavna && glavna.tags.from.split(/[;/]/)[0].trim());
     if (od) {
-      const mesto = await upit(`[out:json][timeout:60];area["ISO3166-1"="IT"][admin_level=2]->.it;
+      const mesto = L ? { elements: L.mesto(od) } : await upit(`[out:json][timeout:60];area["ISO3166-1"="IT"][admin_level=2]->.it;
         node[place~"^(city|town|village)$"][name="${od}"](area.it);out 1;`);
       const m = mesto.elements[0];
       if (m) odQ = xy(m.lat, m.lon); else zapisi('polazni grad "' + od + '" nije nađen, km po brojevima');
@@ -352,7 +389,12 @@ globalThis.AB = (() => {
     zapisi('2/3 izlazi i odmorišta…');
     // preopterećen server ponekad vrati prazan odgovor bez napomene (A1 bez ijednog odmorišta) → ponovi
     let osnova;
-    for (let i = 0; ; i++) {
+    if (L) { // odmorišta u pravougaoniku oko autoputa; udaljenost od trase se proverava kasnije (pr.d)
+      let ju = 90, za = 180, se = -90, is = -180;
+      for (const dd of linija.deonice) for (const q of dd.p) {
+        const [la, lo] = nazad(q); ju = Math.min(ju, la); se = Math.max(se, la); za = Math.min(za, lo); is = Math.max(is, lo); }
+      osnova = { elements: [...L.izlazi(wL), ...L.odmorista(ju - 0.01, za - 0.015, se + 0.01, is + 0.015)] };
+    } else for (let i = 0; ; i++) {
       osnova = await upit(`[out:json][timeout:240];${putevi}
       node(w.w)[highway=motorway_junction];out qt;
       nwr[highway~"^(services|rest_area)$"](around.w:400);out center qt;`);
@@ -365,7 +407,7 @@ globalThis.AB = (() => {
     }
 
     zapisi('3/3 pumpe, hrana, punjači…');
-    const usluge = await upit(`[out:json][timeout:240];${putevi}
+    const usluge = L ? { elements: L.usluge(osnova.elements.filter(e => /^(services|rest_area)$/.test((e.tags || {}).highway || ''))) } : await upit(`[out:json][timeout:240];${putevi}
       nwr[highway~"^(services|rest_area)$"](around.w:400)->.s;
       (nwr(around.s:350)[amenity~"^(fuel|fast_food|restaurant|cafe|toilets|charging_station|shower|parking)$"];
        nwr(around.s:350)[tourism~"^(hotel|motel)$"];
@@ -556,6 +598,12 @@ if (typeof window === 'undefined' && typeof require !== 'undefined' && require.m
   if (!refs.length) { console.error('Upotreba: node alati/autostrade_skripta.js [--suvo] A1 A2 …'); process.exit(1); }
   const cilj = path.join(__dirname, '..', 'app', 'src', 'main', 'assets', 'autoputevi');
   let greske = 0;
+  const lokalno = !arg.includes('--overpass'), osvezi = arg.includes('--osvezi');
+  if (lokalno) { // Geofabrik izvod Italije (~2 GB), jednom preuzet i obrađen (alati/osm/)
+    const L = require('./osm_lokalno');
+    await L.pripremi('IT', { osvezi });
+    AB.lokalno = L.ucitaj;
+  }
   for (const [i, r] of refs.entries()) {
     console.error(r + ':');
     AB.pokreni(r);
@@ -565,7 +613,7 @@ if (typeof window === 'undefined' && typeof require !== 'undefined' && require.m
       if (!suvo) fs.writeFileSync(path.join(cilj, ime), JSON.stringify(AB.rezultat));
       console.log((suvo ? '' : ime + ' ← ') + AB.sazetak + ' | van reda: ' + AB.provera());
     } else { console.log(r + ': ' + AB.stanje); greske++; }
-    if (i < refs.length - 1) await new Promise(ok => setTimeout(ok, 5000));
+    if (!lokalno && i < refs.length - 1) await new Promise(ok => setTimeout(ok, 5000));
   }
   process.exit(greske ? 1 : 0);
 })();

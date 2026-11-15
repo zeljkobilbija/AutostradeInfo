@@ -1,0 +1,21 @@
+logo_api_ip.webp	Api-Ip	Q3788748	https://commons.wikimedia.org/wiki/File:IP_Logo.svg
+logo_as_24.webp	AS 24	Q2819394	https://commons.wikimedia.org/wiki/File:LOGO_AS_24.png
+logo_auchan.webp	Auchan	Q758603	https://commons.wikimedia.org/wiki/File:Logo_Auchan_(1961-1983).svg
+logo_beyfin.webp	Beyfin	Q3639256	https://commons.wikimedia.org/wiki/File:Beyfin_(cropped).jpg
+logo_bp.webp	BP	Q152057	https://commons.wikimedia.org/wiki/File:Bp_textlogo.svg
+logo_energas.webp	Energas	Q124623439	https://commons.wikimedia.org/wiki/File:Logo_EnerGasQ8.jpg
+logo_eni.webp	Eni	Q565594	https://commons.wikimedia.org/wiki/File:Eni_wordmark.svg
+logo_esso.webp	Esso	Q867662	https://commons.wikimedia.org/wiki/File:Esso_textlogo.svg
+logo_giap.webp	Giap	Q107609037	https://commons.wikimedia.org/wiki/File:Giap_logo.png
+logo_ip.webp	IP	Q3788748	https://commons.wikimedia.org/wiki/File:IP_Logo.svg
+logo_lukoil.webp	Lukoil	Q329347	https://commons.wikimedia.org/wiki/File:Lukoil_company_logo.svg
+logo_omv.webp	OMV	Q168238	https://commons.wikimedia.org/wiki/File:Omv_logo.svg
+logo_q8.webp	Q8	Q4119207	https://commons.wikimedia.org/wiki/File:Q8_logo.svg
+logo_q8_easy.webp	Q8 Easy	Q1806948	https://commons.wikimedia.org/wiki/File:Q8_logo.svg
+logo_repsol.webp	Repsol	Q174747	https://commons.wikimedia.org/wiki/File:Repsol_2025.svg
+logo_retitalia.webp	Retitalia	Q119135752	https://commons.wikimedia.org/wiki/File:Retitalia_logo.png
+logo_shell.webp	Shell	Q110716465	https://commons.wikimedia.org/wiki/File:Shell_wordmark_2019.svg
+logo_socar.webp	SOCAR	Q1622293	https://commons.wikimedia.org/wiki/File:Logo_of_SOCAR.svg
+logo_tamoil.webp	Tamoil	Q706793	https://commons.wikimedia.org/wiki/File:Tamoil.svg
+logo_totalenergies.webp	TotalEnergies	Q154037	https://commons.wikimedia.org/wiki/File:Total_wordmark_(2003-2021).svg
+logo_vega_carburanti.webp	Vega Carburanti	Q66087902	https://commons.wikimedia.org/wiki/File:Logo_VEGA_Carburanti.png

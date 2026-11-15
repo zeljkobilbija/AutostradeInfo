@@ -36,6 +36,7 @@
     <string name="podeli_naslov">Teilen über</string>
     <string name="podeli_poruka">Schau dir Autostrade Info an – Raststätten, Tankstellen, Ausfahrten und Parkplätze an italienischen Autobahnen: %s</string>
     <!-- Ekran jednog mesta -->
+    <string name="det_kontakt">Kontakt</string>
     <string name="det_lokacija">Standort</string>
     <string name="det_autoput">Autobahn</string>
     <string name="det_deonica">Abschnitt</string>

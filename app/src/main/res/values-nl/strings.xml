@@ -36,6 +36,7 @@
     <string name="podeli_naslov">Delen via</string>
     <string name="podeli_poruka">Bekijk Autostrade Info – verzorgingsplaatsen, tankstations, afritten en parkeerplaatsen op Italiaanse snelwegen: %s</string>
     <!-- Ekran jednog mesta -->
+    <string name="det_kontakt">Contact</string>
     <string name="det_lokacija">Locatie</string>
     <string name="det_autoput">Snelweg</string>
     <string name="det_deonica">Traject</string>

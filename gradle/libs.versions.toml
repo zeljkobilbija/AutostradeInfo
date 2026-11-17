@@ -1,4 +1,5 @@
 [versions]
+billing = "8.0.0"
 playServicesLocation = "21.3.0"
 agp = "9.5.1"
 junit = "4.13.2"
@@ -14,6 +15,7 @@ playServicesAds = "25.5.0"
 ump = "4.0.0"
 
 [libraries]
+billing = { group = "com.android.billingclient", name = "billing", version.ref = "billing" }
 play-services-location = { group = "com.google.android.gms", name = "play-services-location", version.ref = "playServicesLocation" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }

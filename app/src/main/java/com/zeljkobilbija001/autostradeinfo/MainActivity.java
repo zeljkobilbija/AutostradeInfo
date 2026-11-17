@@ -84,6 +84,15 @@ public class MainActivity extends AppCompatActivity {
                 Reklame.prikaziPodesavanjaPrivatnosti(this, this::posleSaglasnosti));
         Reklame.prikupiSaglasnost(this, this::posleSaglasnosti);
 
+        // Kupovina „Bez reklama“: dugme dok nije kupljeno; promena stanja (kupovina,
+        // vraćanje na novom telefonu) ponovo iscrta ekran, pa baner nestane ili se pojavi
+        View dugmeBezReklama = findViewById(R.id.dugmeBezReklama);
+        dugmeBezReklama.setVisibility(Kupovina.bezReklama(this) ? View.GONE : View.VISIBLE);
+        dugmeBezReklama.setOnClickListener(v -> Kupovina.kupi(this, () -> runOnUiThread(() -> {
+            Toast.makeText(this, R.string.kupovina_hvala, Toast.LENGTH_LONG).show();
+            recreate();
+        })));
+        Kupovina.proveri(this, () -> runOnUiThread(this::recreate));
     }
 
     private void posleSaglasnosti() {
@@ -176,12 +185,13 @@ public class MainActivity extends AppCompatActivity {
                 .scaleY(1.08f)
                 .setDuration(280)
                 .setInterpolator(new AccelerateInterpolator())
-                .withEndAction(() -> {
+                .withEndAction(() -> Reklame.posleOglasa(this, () -> {
+                    // svako treće otvaranje (najviše jednom u 3 min, ne u Vožnji) prvo interstitial, pa autoput
                     Intent i = AutoputActivity.namera(this, a.id)
                             .addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
                     startActivity(i);
                     otvaranjeUToku = false;
-                })
+                }))
                 .start();
     }
 

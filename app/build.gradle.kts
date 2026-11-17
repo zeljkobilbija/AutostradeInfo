@@ -40,6 +40,7 @@ dependencies {
     implementation(libs.recyclerview)
     implementation(libs.play.services.ads)
     implementation(libs.ump)
+    implementation(libs.billing)
     implementation(libs.play.services.location)
     implementation(libs.material)
     testImplementation(libs.junit)

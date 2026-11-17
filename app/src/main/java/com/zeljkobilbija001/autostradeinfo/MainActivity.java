@@ -1,6 +1,9 @@
 package com.zeljkobilbija001.autostradeinfo;
 
+import android.Manifest;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.view.animation.AccelerateInterpolator;
@@ -9,13 +12,23 @@ import android.widget.ImageButton;
 import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
+import androidx.activity.result.ActivityResultLauncher;
+import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
+import androidx.core.content.ContextCompat;
 import androidx.core.splashscreen.SplashScreen;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.google.android.material.button.MaterialButton;
+import com.google.android.material.snackbar.Snackbar;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -23,6 +36,15 @@ public class MainActivity extends AppCompatActivity {
     private View okrenutaKartica;
     private boolean otvaranjeUToku;
     private ImageButton dugmePrivatnosti;
+    private MaterialButton voznjaDugme;
+    private android.widget.TextView voznjaOpis;
+    private AutoputAdapter adapterAutoputeva;
+    /** Autoput čiji je štit narandžast (Vožnja: vozač je na njemu). */
+    private String obojeniAutoput;
+
+    /** Dozvole za režim vožnje: precizna lokacija (obavezno) i obaveštenja (Android 13+). */
+    private final ActivityResultLauncher<String[]> dozvoleVoznje = registerForActivityResult(
+            new ActivityResultContracts.RequestMultiplePermissions(), this::posleDozvola);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,20 +62,92 @@ public class MainActivity extends AppCompatActivity {
 
         RecyclerView lista = findViewById(R.id.listaAutoputeva);
         lista.setLayoutManager(new GridLayoutManager(this, 2));
-        lista.setAdapter(new AutoputAdapter(Autoputevi.SVE, this::otvori));
+        adapterAutoputeva = new AutoputAdapter(Autoputevi.SVE, this::otvori);
+        lista.setAdapter(adapterAutoputeva);
 
         findViewById(R.id.dugmePodeli).setOnClickListener(v -> podeliAplikaciju());
+        voznjaDugme = findViewById(R.id.voznjaDugme);
+        voznjaOpis = findViewById(R.id.voznjaOpis);
+        // proba (samo debug verzija): dodir na karticu "Vožnja" otvara dnevnik
+        if (Dnevnik.ukljucen(this)) {
+            findViewById(R.id.voznja).setOnClickListener(v ->
+                    startActivity(new Intent(this, DnevnikActivity.class)));
+        }
+        voznjaDugme.setOnClickListener(v -> {
+            if (VoznjaService.radi) VoznjaService.zaustavi(this);
+            else pokreniVoznju();
+        });
 
         // Privatnost (GDPR) i baner: prozor za saglasnost se prikazuje samo kad je potreban
         dugmePrivatnosti = findViewById(R.id.dugmePrivatnosti);
         dugmePrivatnosti.setOnClickListener(v ->
                 Reklame.prikaziPodesavanjaPrivatnosti(this, this::posleSaglasnosti));
         Reklame.prikupiSaglasnost(this, this::posleSaglasnosti);
+
     }
 
     private void posleSaglasnosti() {
         Reklame.prikaziBaner(this, findViewById(R.id.reklamaKontejner));
         dugmePrivatnosti.setVisibility(Reklame.trebaDugmePrivatnosti(this) ? View.VISIBLE : View.GONE);
+    }
+
+    // ---------- Režim "Vožnja" ----------
+
+    private boolean ima(String dozvola) {
+        return ContextCompat.checkSelfPermission(this, dozvola) == PackageManager.PERMISSION_GRANTED;
+    }
+
+    private void pokreniVoznju() {
+        List<String> traziti = new ArrayList<>();
+        if (!ima(Manifest.permission.ACCESS_FINE_LOCATION)) {
+            traziti.add(Manifest.permission.ACCESS_FINE_LOCATION);
+            traziti.add(Manifest.permission.ACCESS_COARSE_LOCATION);
+        }
+        if (Build.VERSION.SDK_INT >= 33 && !ima(Manifest.permission.POST_NOTIFICATIONS)) {
+            traziti.add(Manifest.permission.POST_NOTIFICATIONS);
+        }
+        if (traziti.isEmpty()) {
+            VoznjaService.pokreni(this);
+            osveziVoznju();
+        } else {
+            dozvoleVoznje.launch(traziti.toArray(new String[0]));
+        }
+    }
+
+    private void posleDozvola(Map<String, Boolean> rezultat) {
+        if (ima(Manifest.permission.ACCESS_FINE_LOCATION)) {
+            VoznjaService.pokreni(this);
+            osveziVoznju();
+        } else {
+            Snackbar.make(findViewById(R.id.main), R.string.voznja_dozvola, Snackbar.LENGTH_LONG).show();
+        }
+    }
+
+    private void osveziVoznju() {
+        boolean radi = VoznjaService.radi;
+        voznjaDugme.setText(radi ? R.string.voznja_zaustavi : R.string.voznja_pokreni);
+        String opis = VoznjaService.opisStanja;
+        String tekst = radi && !opis.isEmpty() ? opis : getString(R.string.voznja_opis);
+        if (Dnevnik.ukljucen(this)) tekst += "\nDNEVNIK › (dodir na karticu)";
+        voznjaOpis.setText(tekst);
+        String sad = VoznjaService.sadAutoput;
+        if (!java.util.Objects.equals(sad, obojeniAutoput)) {
+            obojeniAutoput = sad;
+            adapterAutoputeva.notifyDataSetChanged();
+        }
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        VoznjaService.postaviSlusaoca(this::osveziVoznju);
+        osveziVoznju();
+    }
+
+    @Override
+    protected void onStop() {
+        VoznjaService.postaviSlusaoca(null);
+        super.onStop();
     }
 
     /** Standardni Android meni za deljenje: kratka poruka i link ka aplikaciji na Play prodavnici. */

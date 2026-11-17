@@ -57,4 +57,21 @@
     <string name="det_cene_ucitavanje">Loading prices…</string>
     <string name="det_cene_greska">Prices are not available right now.</string>
     <string name="det_cene_nedelja">National average price, week of %s (EU Weekly Oil Bulletin, fuel-prices.eu). Motorway stations are usually more expensive.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Driving mode</string>
+    <string name="voznja_opis">Your motorway, kilometre and direction from your location – and what is ahead of you</string>
+    <string name="voznja_pokreni">Start</string>
+    <string name="voznja_zaustavi">Stop</string>
+    <string name="voznja_naslov">Driving mode is on</string>
+    <string name="voznja_trazim">Looking for your motorway…</string>
+    <string name="voznja_van">Not on an Italian motorway</string>
+    <string name="voznja_na">On the %s</string>
+    <string name="voznja_na_smer">%1$s towards %2$s</string>
+    <string name="voznja_dozvola">Driving mode needs access to your precise location.</string>
+    <string name="lokacija_dugme">My position</string>
+    <string name="lokacija_ovde">You are here: km %s</string>
+    <string name="lokacija_ovde_smer">You are here: km %1$s, towards %2$s</string>
+    <string name="lokacija_nije_na">You are not on the %s right now</string>
+    <string name="lokacija_nema">Your location is not available.</string>
+    <string name="lokacija_vi_ste_ovde">You are here</string>
 </resources>

@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Se încarcă prețurile…</string>
     <string name="det_cene_greska">Prețurile nu sunt disponibile acum.</string>
     <string name="det_cene_nedelja">Preț mediu național, săptămâna din %s (EU Weekly Oil Bulletin, fuel-prices.eu). Benzinăriile de pe autostradă sunt de obicei mai scumpe.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Mod condus</string>
+    <string name="voznja_opis">Autostrada, kilometrul și direcția din locația ta – și ce ai în față</string>
+    <string name="voznja_pokreni">Pornește</string>
+    <string name="voznja_zaustavi">Oprește</string>
+    <string name="voznja_naslov">Modul condus este activ</string>
+    <string name="voznja_trazim">Se caută autostrada…</string>
+    <string name="voznja_van">Nu ești pe o autostradă italiană</string>
+    <string name="voznja_na">Pe %s</string>
+    <string name="voznja_na_smer">%1$s spre %2$s</string>
+    <string name="voznja_dozvola">Modul condus are nevoie de locația exactă.</string>
+    <string name="lokacija_dugme">Poziția mea</string>
+    <string name="lokacija_ovde">Sunteți aici: km %s</string>
+    <string name="lokacija_ovde_smer">Sunteți aici: km %1$s, spre %2$s</string>
+    <string name="lokacija_nije_na">Nu sunteți acum pe %s</string>
+    <string name="lokacija_nema">Locația nu este disponibilă.</string>
+    <string name="lokacija_vi_ste_ovde">Sunteți aici</string>
 </resources>

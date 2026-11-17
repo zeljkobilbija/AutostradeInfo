@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Učitavam cijene…</string>
     <string name="det_cene_greska">Cijene trenutačno nisu dostupne.</string>
     <string name="det_cene_nedelja">Nacionalna prosječna cijena, tjedan od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Benzinske na autocesti obično su skuplje.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Vožnja</string>
+    <string name="voznja_opis">Autocesta, kilometar i smjer prema vašoj lokaciji – i što je ispred vas</string>
+    <string name="voznja_pokreni">Pokreni</string>
+    <string name="voznja_zaustavi">Zaustavi</string>
+    <string name="voznja_naslov">Način vožnje je uključen</string>
+    <string name="voznja_trazim">Tražim autocestu…</string>
+    <string name="voznja_van">Niste na talijanskoj autocesti</string>
+    <string name="voznja_na">Na %s</string>
+    <string name="voznja_na_smer">%1$s prema %2$s</string>
+    <string name="voznja_dozvola">Za način vožnje potrebna je precizna lokacija.</string>
+    <string name="lokacija_dugme">Moj položaj</string>
+    <string name="lokacija_ovde">Ovdje ste: km %s</string>
+    <string name="lokacija_ovde_smer">Ovdje ste: km %1$s, prema %2$s</string>
+    <string name="lokacija_nije_na">Trenutno niste na %s</string>
+    <string name="lokacija_nema">Lokacija nije dostupna.</string>
+    <string name="lokacija_vi_ste_ovde">Ovdje ste</string>
 </resources>

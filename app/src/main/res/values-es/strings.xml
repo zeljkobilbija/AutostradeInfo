@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Cargando precios…</string>
     <string name="det_cene_greska">Los precios no están disponibles ahora.</string>
     <string name="det_cene_nedelja">Precio medio nacional, semana del %s (EU Weekly Oil Bulletin, fuel-prices.eu). Las gasolineras de autopista suelen ser más caras.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Modo conducción</string>
+    <string name="voznja_opis">Autopista, kilómetro y sentido según tu ubicación – y lo que tienes por delante</string>
+    <string name="voznja_pokreni">Iniciar</string>
+    <string name="voznja_zaustavi">Detener</string>
+    <string name="voznja_naslov">Modo conducción activado</string>
+    <string name="voznja_trazim">Buscando la autopista…</string>
+    <string name="voznja_van">No estás en una autopista italiana</string>
+    <string name="voznja_na">En la %s</string>
+    <string name="voznja_na_smer">%1$s hacia %2$s</string>
+    <string name="voznja_dozvola">El modo conducción necesita tu ubicación precisa.</string>
+    <string name="lokacija_dugme">Mi posición</string>
+    <string name="lokacija_ovde">Estás aquí: km %s</string>
+    <string name="lokacija_ovde_smer">Estás aquí: km %1$s, hacia %2$s</string>
+    <string name="lokacija_nije_na">Ahora no estás en la %s</string>
+    <string name="lokacija_nema">La ubicación no está disponible.</string>
+    <string name="lokacija_vi_ste_ovde">Estás aquí</string>
 </resources>

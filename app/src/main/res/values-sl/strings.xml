@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Nalagam cene…</string>
     <string name="det_cene_greska">Cene trenutno niso na voljo.</string>
     <string name="det_cene_nedelja">Povprečna cena v državi, teden od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Bencinske črpalke ob avtocesti so običajno dražje.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Vožnja</string>
+    <string name="voznja_opis">Avtocesta, kilometer in smer glede na vašo lokacijo – in kaj je pred vami</string>
+    <string name="voznja_pokreni">Zaženi</string>
+    <string name="voznja_zaustavi">Ustavi</string>
+    <string name="voznja_naslov">Način vožnje je vklopljen</string>
+    <string name="voznja_trazim">Iščem avtocesto…</string>
+    <string name="voznja_van">Niste na italijanski avtocesti</string>
+    <string name="voznja_na">Na %s</string>
+    <string name="voznja_na_smer">%1$s proti %2$s</string>
+    <string name="voznja_dozvola">Način vožnje potrebuje natančno lokacijo.</string>
+    <string name="lokacija_dugme">Moj položaj</string>
+    <string name="lokacija_ovde">Tukaj ste: km %s</string>
+    <string name="lokacija_ovde_smer">Tukaj ste: km %1$s, proti %2$s</string>
+    <string name="lokacija_nije_na">Trenutno niste na %s</string>
+    <string name="lokacija_nema">Lokacija ni na voljo.</string>
+    <string name="lokacija_vi_ste_ovde">Tukaj ste</string>
 </resources>

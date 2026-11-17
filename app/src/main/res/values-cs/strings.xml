@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Načítám ceny…</string>
     <string name="det_cene_greska">Ceny teď nejsou dostupné.</string>
     <string name="det_cene_nedelja">Celostátní průměrná cena, týden od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Dálniční čerpací stanice bývají dražší.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Režim jízdy</string>
+    <string name="voznja_opis">Dálnice, kilometr a směr podle vaší polohy – a co máte před sebou</string>
+    <string name="voznja_pokreni">Spustit</string>
+    <string name="voznja_zaustavi">Zastavit</string>
+    <string name="voznja_naslov">Režim jízdy je zapnutý</string>
+    <string name="voznja_trazim">Hledám dálnici…</string>
+    <string name="voznja_van">Nejste na italské dálnici</string>
+    <string name="voznja_na">Na %s</string>
+    <string name="voznja_na_smer">%1$s směr %2$s</string>
+    <string name="voznja_dozvola">Režim jízdy potřebuje přesnou polohu.</string>
+    <string name="lokacija_dugme">Moje poloha</string>
+    <string name="lokacija_ovde">Jste zde: km %s</string>
+    <string name="lokacija_ovde_smer">Jste zde: km %1$s, směr %2$s</string>
+    <string name="lokacija_nije_na">Nyní nejste na %s</string>
+    <string name="lokacija_nema">Poloha není k dispozici.</string>
+    <string name="lokacija_vi_ste_ovde">Jste zde</string>
 </resources>

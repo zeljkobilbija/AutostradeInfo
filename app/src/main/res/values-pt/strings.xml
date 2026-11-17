@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">A carregar preços…</string>
     <string name="det_cene_greska">Os preços não estão disponíveis agora.</string>
     <string name="det_cene_nedelja">Preço médio nacional, semana de %s (EU Weekly Oil Bulletin, fuel-prices.eu). Os postos na autoestrada costumam ser mais caros.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Modo condução</string>
+    <string name="voznja_opis">Autoestrada, quilómetro e sentido a partir da sua localização – e o que tem pela frente</string>
+    <string name="voznja_pokreni">Iniciar</string>
+    <string name="voznja_zaustavi">Parar</string>
+    <string name="voznja_naslov">Modo condução ativado</string>
+    <string name="voznja_trazim">Procurando a autoestrada…</string>
+    <string name="voznja_van">Não está numa autoestrada italiana</string>
+    <string name="voznja_na">Na %s</string>
+    <string name="voznja_na_smer">%1$s sentido %2$s</string>
+    <string name="voznja_dozvola">O modo condução precisa da sua localização exata.</string>
+    <string name="lokacija_dugme">Minha posição</string>
+    <string name="lokacija_ovde">Você está aqui: km %s</string>
+    <string name="lokacija_ovde_smer">Você está aqui: km %1$s, sentido %2$s</string>
+    <string name="lokacija_nije_na">Você não está na %s agora</string>
+    <string name="lokacija_nema">Localização indisponível.</string>
+    <string name="lokacija_vi_ste_ovde">Você está aqui</string>
 </resources>

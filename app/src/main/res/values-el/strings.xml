@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Φόρτωση τιμών…</string>
     <string name="det_cene_greska">Οι τιμές δεν είναι διαθέσιμες τώρα.</string>
     <string name="det_cene_nedelja">Εθνική μέση τιμή, εβδομάδα %s (EU Weekly Oil Bulletin, fuel-prices.eu). Τα πρατήρια στους αυτοκινητόδρομους είναι συνήθως ακριβότερα.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Λειτουργία οδήγησης</string>
+    <string name="voznja_opis">Αυτοκινητόδρομος, χιλιόμετρο και κατεύθυνση από τη θέση σας – και τι έχετε μπροστά σας</string>
+    <string name="voznja_pokreni">Έναρξη</string>
+    <string name="voznja_zaustavi">Διακοπή</string>
+    <string name="voznja_naslov">Η λειτουργία οδήγησης είναι ενεργή</string>
+    <string name="voznja_trazim">Αναζήτηση αυτοκινητόδρομου…</string>
+    <string name="voznja_van">Δεν βρίσκεστε σε ιταλικό αυτοκινητόδρομο</string>
+    <string name="voznja_na">Στον %s</string>
+    <string name="voznja_na_smer">%1$s προς %2$s</string>
+    <string name="voznja_dozvola">Η λειτουργία οδήγησης χρειάζεται την ακριβή τοποθεσία σας.</string>
+    <string name="lokacija_dugme">Η θέση μου</string>
+    <string name="lokacija_ovde">Βρίσκεστε εδώ: χλμ. %s</string>
+    <string name="lokacija_ovde_smer">Βρίσκεστε εδώ: χλμ. %1$s, προς %2$s</string>
+    <string name="lokacija_nije_na">Δεν βρίσκεστε τώρα στον %s</string>
+    <string name="lokacija_nema">Η τοποθεσία δεν είναι διαθέσιμη.</string>
+    <string name="lokacija_vi_ste_ovde">Βρίσκεστε εδώ</string>
 </resources>

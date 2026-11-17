@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Chargement des prix…</string>
     <string name="det_cene_greska">Les prix ne sont pas disponibles pour le moment.</string>
     <string name="det_cene_nedelja">Prix moyen national, semaine du %s (EU Weekly Oil Bulletin, fuel-prices.eu). Les stations d\'autoroute sont souvent plus chères.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Mode conduite</string>
+    <string name="voznja_opis">Autoroute, kilomètre et sens d’après votre position – et ce qui vous attend devant</string>
+    <string name="voznja_pokreni">Démarrer</string>
+    <string name="voznja_zaustavi">Arrêter</string>
+    <string name="voznja_naslov">Mode conduite activé</string>
+    <string name="voznja_trazim">Recherche de l’autoroute…</string>
+    <string name="voznja_van">Vous n’êtes pas sur une autoroute italienne</string>
+    <string name="voznja_na">Sur l’%s</string>
+    <string name="voznja_na_smer">%1$s direction %2$s</string>
+    <string name="voznja_dozvola">Le mode conduite a besoin de votre position précise.</string>
+    <string name="lokacija_dugme">Ma position</string>
+    <string name="lokacija_ovde">Vous êtes ici : km %s</string>
+    <string name="lokacija_ovde_smer">Vous êtes ici : km %1$s, direction %2$s</string>
+    <string name="lokacija_nije_na">Vous n’êtes pas sur l’%s en ce moment</string>
+    <string name="lokacija_nema">Position non disponible.</string>
+    <string name="lokacija_vi_ste_ovde">Vous êtes ici</string>
 </resources>

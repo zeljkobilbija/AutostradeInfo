@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Preise werden geladen…</string>
     <string name="det_cene_greska">Preise sind derzeit nicht verfügbar.</string>
     <string name="det_cene_nedelja">Bundesweiter Durchschnittspreis, Woche vom %s (EU Weekly Oil Bulletin, fuel-prices.eu). Autobahntankstellen sind meist teurer.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Fahrmodus</string>
+    <string name="voznja_opis">Autobahn, Kilometer und Fahrtrichtung aus Ihrem Standort – und was vor Ihnen liegt</string>
+    <string name="voznja_pokreni">Starten</string>
+    <string name="voznja_zaustavi">Beenden</string>
+    <string name="voznja_naslov">Fahrmodus ist aktiv</string>
+    <string name="voznja_trazim">Autobahn wird gesucht…</string>
+    <string name="voznja_van">Nicht auf einer italienischen Autobahn</string>
+    <string name="voznja_na">Auf der %s</string>
+    <string name="voznja_na_smer">%1$s Richtung %2$s</string>
+    <string name="voznja_dozvola">Der Fahrmodus benötigt Ihren genauen Standort.</string>
+    <string name="lokacija_dugme">Meine Position</string>
+    <string name="lokacija_ovde">Sie sind hier: km %s</string>
+    <string name="lokacija_ovde_smer">Sie sind hier: km %1$s, Richtung %2$s</string>
+    <string name="lokacija_nije_na">Sie sind gerade nicht auf der %s</string>
+    <string name="lokacija_nema">Standort nicht verfügbar.</string>
+    <string name="lokacija_vi_ste_ovde">Sie sind hier</string>
 </resources>

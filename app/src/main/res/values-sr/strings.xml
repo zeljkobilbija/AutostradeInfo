@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Učitavam cene…</string>
     <string name="det_cene_greska">Cene trenutno nisu dostupne.</string>
     <string name="det_cene_nedelja">Prosečna cena u zemlji, nedelja od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Pumpe na autoputu su obično skuplje.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Vožnja</string>
+    <string name="voznja_opis">Autoput, kilometar i smer iz vaše lokacije – i šta je ispred vas</string>
+    <string name="voznja_pokreni">Pokreni</string>
+    <string name="voznja_zaustavi">Zaustavi</string>
+    <string name="voznja_naslov">Režim vožnje je uključen</string>
+    <string name="voznja_trazim">Tražim autoput…</string>
+    <string name="voznja_van">Niste na italijanskom autoputu</string>
+    <string name="voznja_na">Na %s</string>
+    <string name="voznja_na_smer">%1$s ka %2$s</string>
+    <string name="voznja_dozvola">Za režim vožnje potrebna je precizna lokacija.</string>
+    <string name="lokacija_dugme">Moja pozicija</string>
+    <string name="lokacija_ovde">Vi ste ovde: km %s</string>
+    <string name="lokacija_ovde_smer">Vi ste ovde: km %1$s, ka %2$s</string>
+    <string name="lokacija_nije_na">Trenutno niste na %s</string>
+    <string name="lokacija_nema">Lokacija nije dostupna.</string>
+    <string name="lokacija_vi_ste_ovde">Vi ste ovde</string>
 </resources>

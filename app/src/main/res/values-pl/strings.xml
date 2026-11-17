@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Wczytywanie cen…</string>
     <string name="det_cene_greska">Ceny są teraz niedostępne.</string>
     <string name="det_cene_nedelja">Średnia cena krajowa, tydzień od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Stacje przy autostradach są zwykle droższe.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Tryb jazdy</string>
+    <string name="voznja_opis">Autostrada, kilometr i kierunek z Twojej lokalizacji – i to, co przed Tobą</string>
+    <string name="voznja_pokreni">Włącz</string>
+    <string name="voznja_zaustavi">Wyłącz</string>
+    <string name="voznja_naslov">Tryb jazdy jest włączony</string>
+    <string name="voznja_trazim">Szukam autostrady…</string>
+    <string name="voznja_van">Nie jesteś na włoskiej autostradzie</string>
+    <string name="voznja_na">Na %s</string>
+    <string name="voznja_na_smer">%1$s w kierunku %2$s</string>
+    <string name="voznja_dozvola">Tryb jazdy wymaga dokładnej lokalizacji.</string>
+    <string name="lokacija_dugme">Moja pozycja</string>
+    <string name="lokacija_ovde">Jesteś tutaj: km %s</string>
+    <string name="lokacija_ovde_smer">Jesteś tutaj: km %1$s, w kierunku %2$s</string>
+    <string name="lokacija_nije_na">Nie jesteś teraz na %s</string>
+    <string name="lokacija_nema">Lokalizacja jest niedostępna.</string>
+    <string name="lokacija_vi_ste_ovde">Jesteś tutaj</string>
 </resources>

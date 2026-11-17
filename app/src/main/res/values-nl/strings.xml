@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Prijzen laden…</string>
     <string name="det_cene_greska">Prijzen zijn nu niet beschikbaar.</string>
     <string name="det_cene_nedelja">Landelijke gemiddelde prijs, week van %s (EU Weekly Oil Bulletin, fuel-prices.eu). Tankstations langs de snelweg zijn meestal duurder.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Rijmodus</string>
+    <string name="voznja_opis">Snelweg, kilometer en rijrichting op basis van je locatie – en wat er voor je ligt</string>
+    <string name="voznja_pokreni">Starten</string>
+    <string name="voznja_zaustavi">Stoppen</string>
+    <string name="voznja_naslov">Rijmodus staat aan</string>
+    <string name="voznja_trazim">Snelweg zoeken…</string>
+    <string name="voznja_van">Niet op een Italiaanse snelweg</string>
+    <string name="voznja_na">Op de %s</string>
+    <string name="voznja_na_smer">%1$s richting %2$s</string>
+    <string name="voznja_dozvola">Rijmodus heeft je precieze locatie nodig.</string>
+    <string name="lokacija_dugme">Mijn positie</string>
+    <string name="lokacija_ovde">U bent hier: km %s</string>
+    <string name="lokacija_ovde_smer">U bent hier: km %1$s, richting %2$s</string>
+    <string name="lokacija_nije_na">U bent nu niet op de %s</string>
+    <string name="lokacija_nema">Locatie niet beschikbaar.</string>
+    <string name="lokacija_vi_ste_ovde">U bent hier</string>
 </resources>

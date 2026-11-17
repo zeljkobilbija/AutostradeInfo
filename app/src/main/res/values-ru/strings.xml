@@ -56,4 +56,21 @@
     <string name="det_cene_ucitavanje">Загрузка цен…</string>
     <string name="det_cene_greska">Цены сейчас недоступны.</string>
     <string name="det_cene_nedelja">Средняя цена по стране, неделя с %s (EU Weekly Oil Bulletin, fuel-prices.eu). На заправках у автомагистралей обычно дороже.</string>
+    <!-- Režim „Vožnja“ i Moja pozicija -->
+    <string name="voznja_kanal">Режим поездки</string>
+    <string name="voznja_opis">Автомагистраль, километр и направление по вашему местоположению – и что впереди</string>
+    <string name="voznja_pokreni">Включить</string>
+    <string name="voznja_zaustavi">Выключить</string>
+    <string name="voznja_naslov">Режим поездки включён</string>
+    <string name="voznja_trazim">Поиск автобана…</string>
+    <string name="voznja_van">Вы не на итальянской автомагистрали</string>
+    <string name="voznja_na">На %s</string>
+    <string name="voznja_na_smer">%1$s в сторону %2$s</string>
+    <string name="voznja_dozvola">Для режима поездки нужно точное местоположение.</string>
+    <string name="lokacija_dugme">Моё положение</string>
+    <string name="lokacija_ovde">Вы здесь: км %s</string>
+    <string name="lokacija_ovde_smer">Вы здесь: км %1$s, в сторону %2$s</string>
+    <string name="lokacija_nije_na">Сейчас вы не на %s</string>
+    <string name="lokacija_nema">Местоположение недоступно.</string>
+    <string name="lokacija_vi_ste_ovde">Вы здесь</string>
 </resources>

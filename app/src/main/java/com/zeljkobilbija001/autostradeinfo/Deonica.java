@@ -13,6 +13,18 @@ public final class Deonica {
         this.minus = minus;
     }
 
+    /** Mesta gde je autoput stvarno prekinut: parovi [km kraja, km nastavka]; tu se linija ne spaja. */
+    double[] prekidOd = new double[0], prekidDo = new double[0];
+
+    /** Da li je između dva kilometra prekid autoputa. */
+    public boolean prekidIzmedju(double a, double b) {
+        double od = Math.min(a, b), d = Math.max(a, b);
+        for (int i = 0; i < prekidOd.length; i++) {
+            if (prekidOd[i] >= od - 0.05 && prekidDo[i] <= d + 0.05) return true;
+        }
+        return false;
+    }
+
     public String naziv() {
         return od + " – " + doMesta;
     }

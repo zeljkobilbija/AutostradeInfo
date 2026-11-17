@@ -107,6 +107,8 @@ public class AutoputActivity extends AppCompatActivity {
         });
 
         napraviDeonice();
+        // autostrada u jednom komadu: dugmad za deonice samo ako ih ima više
+        if (podaci.deonice.size() < 2) ((View) deoniceRed.getParent()).setVisibility(View.GONE);
         napraviFiltere();
         osvezi(true);
 

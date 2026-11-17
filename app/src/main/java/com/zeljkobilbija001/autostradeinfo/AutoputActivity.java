@@ -298,7 +298,7 @@ public class AutoputActivity extends AppCompatActivity {
         t.append(StavkaAdapter.opis(this, s)).append('\n');
         t.append(autoput.oznaka()).append(" · ").append(d.naziv()).append(" · ")
                 .append(getString(R.string.km)).append(' ')
-                .append(String.format(Locale.getDefault(), "%.1f", s.km)).append('\n');
+                .append(String.format(Locale.getDefault(), "%.1f", s.kmPrikaz())).append('\n');
         if (!s.jeIzlaz()) {
             t.append(getString(R.string.smer_voznje)).append(": ")
                     .append(s.strana == '+' ? d.minus + " → " + d.plus : d.plus + " → " + d.minus).append('\n');

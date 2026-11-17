@@ -47,6 +47,19 @@ public final class Podaci {
             JSONObject s = sek.getJSONObject(i);
             Deonica d = new Deonica(s.getString("od"), s.getString("do"),
                     s.getString("plus"), s.getString("minus"));
+            JSONArray kal = s.optJSONArray("kal");
+            if (kal != null) {
+                int n = kal.length();
+                d.kalNas = new double[n];
+                d.kalTabla = new double[n];
+                d.kalSmer = new int[n];
+                for (int j = 0; j < n; j++) {
+                    JSONArray q = kal.getJSONArray(j);
+                    d.kalNas[j] = q.getDouble(0);
+                    d.kalTabla[j] = q.getDouble(1);
+                    d.kalSmer[j] = q.getInt(2);
+                }
+            }
             // autostrada u jednom komadu (alati/spoji_deonice.js): stvarni prekidi
             JSONArray prek = s.optJSONArray("prekidi");
             if (prek != null) {
@@ -67,6 +80,7 @@ public final class Podaci {
             s.tip = o.getString("t").charAt(0);
             s.deonica = o.getInt("si");
             s.km = o.getDouble("km");
+            if (s.deonica >= 0 && s.deonica < p.deonice.size()) s.kmTabla = p.deonice.get(s.deonica).kmTabla(s.km);
             String strana = o.optString("s", "+");
             s.strana = strana.isEmpty() ? '+' : strana.charAt(0);
             s.naziv = o.optString("n", "");

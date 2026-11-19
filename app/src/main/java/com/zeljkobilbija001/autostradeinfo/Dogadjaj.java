@@ -132,6 +132,14 @@ public final class Dogadjaj {
                 Set<String> r = reci(pravac);
                 boolean plus = !java.util.Collections.disjoint(r, reci(d.plus));
                 boolean minus = !java.util.Collections.disjoint(r, reci(d.minus));
+                if (plus == minus) {
+                    // grad nije kraj autostrade (A4 "in direzione Milano"): izlaz sa tim imenom ispred ili iza
+                    Stavka cilj = nadji(p, pravac.replaceFirst("^(autostrada|Svincolo|Allacciamento) ", ""));
+                    if (cilj != null && cilj.deonica == s.deonica && Math.abs(cilj.km - s.km) > 1) {
+                        plus = cilj.km > s.km;
+                        minus = !plus;
+                    }
+                }
                 if (plus != minus) t2 = naKm(p, s.deonica, s.km + (plus ? 1 : -1));
             }
         }

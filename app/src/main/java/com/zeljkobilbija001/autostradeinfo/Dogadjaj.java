@@ -49,6 +49,8 @@ public final class Dogadjaj {
 
     /** Da li zbog ove poruke vredi poslati obaveštenje (udes, kolona, zatvoren put, opasnost). */
     public boolean zaObavestenje() {
+        // vozila u kvaru su u Italiji stalno (desetine dnevno): samo u listi, bez obaveštenja
+        if (vrsta == OPASNOST && (opis.contains("avaria") || opis.contains("veicolo fermo"))) return false;
         return vrsta == ZATVORENO || vrsta == UDES || vrsta == OPASNOST || vrsta == KOLONA;
     }
 
@@ -138,6 +140,7 @@ public final class Dogadjaj {
         if (t.startsWith("code") || t.startsWith("coda")) return KOLONA;
         if (t.startsWith("incidente")) return UDES;
         if (t.startsWith("traffico rallentato") && t.contains("incidente")) return KOLONA;
+        if (t.startsWith("traffico rallentato") || t.startsWith("veicoli lenti")) return SPORO; // "… causa perdita di carico"
         if (t.contains("avaria") || t.contains("veicolo fermo") || t.contains("perdita di carico")
                 || t.contains("ostacolo") || t.contains("pedoni") || t.contains("animali") || t.contains("incendio")
                 || t.contains("nebbia") || t.contains("neve") || t.contains("ghiaccio") || t.contains("grandine")

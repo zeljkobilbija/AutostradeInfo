@@ -62,6 +62,14 @@ public class DnevnikActivity extends AppCompatActivity {
         LinearLayout dugmad = new LinearLayout(this);
         dugmad.setPadding(pad / 2, pad / 2, pad / 2, pad / 2);
         dugmad.addView(dugme("Osveži", () -> osvezi(true)));
+        dugmad.addView(dugme("Proveri sada", () -> {
+            if (VoznjaService.proveriSada()) {
+                Toast.makeText(this, "Provera pokrenuta", Toast.LENGTH_SHORT).show();
+                glavna.postDelayed(() -> osvezi(true), 4000);
+            } else {
+                Toast.makeText(this, "Režim vožnje nije uključen", Toast.LENGTH_SHORT).show();
+            }
+        }));
         dugmad.addView(dugme("Pošalji", this::posalji));
         dugmad.addView(dugme("Obriši", () -> {
             Dnevnik.obrisi(this);
@@ -119,11 +127,13 @@ public class DnevnikActivity extends AppCompatActivity {
         StringBuilder s = new StringBuilder();
         s.append("Režim vožnje: ").append(VoznjaService.radi ? "UKLJUČEN" : "isključen").append('\n');
         if (VoznjaService.radi) s.append(VoznjaService.opisStanja).append('\n').append(VoznjaService.uzivo).append('\n');
+        s.append("Obaveštenja: ").append(Obavestenja.ukljucena(this) ? "uključena" : "isključena").append(" · praćeni autoput: ").append(Obavestenja.praceni(this))
+                .append(" · obaveštenja dozvoljena: ").append(Obavestenja.smeDaObavesti(this) ? "da" : "NE");
         stanje.setText(s);
 
         boolean bioNaDnu = !skrol.canScrollVertically(1);
         String t = Dnevnik.procitaj(this);
-        dnevnik.setText(t.isEmpty() ? "Dnevnik je prazan. Uključi režim vožnje." : t);
+        dnevnik.setText(t.isEmpty() ? "Dnevnik je prazan. Uključi režim vožnje ili praćenje autoputa." : t);
         if (naDno || bioNaDnu) skrol.post(() -> skrol.fullScroll(ScrollView.FOCUS_DOWN));
     }
 
@@ -132,7 +142,7 @@ public class DnevnikActivity extends AppCompatActivity {
         String t = Dnevnik.procitaj(this);
         if (t.length() > 90_000) t = t.substring(t.length() - 90_000);
         Intent i = new Intent(Intent.ACTION_SEND).setType("text/plain")
-                .putExtra(Intent.EXTRA_SUBJECT, "AutobahnInfo dnevnik")
+                .putExtra(Intent.EXTRA_SUBJECT, "AutostradeInfo dnevnik")
                 .putExtra(Intent.EXTRA_TEXT, t);
         startActivity(Intent.createChooser(i, "Pošalji dnevnik"));
     }

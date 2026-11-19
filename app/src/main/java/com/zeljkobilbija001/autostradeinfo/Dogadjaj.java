@@ -123,6 +123,18 @@ public final class Dogadjaj {
             t1 = t2;
             t2 = null;
         }
+        // samo jedno mesto ("a Svincolo Reggio Emilia in direzione Milano"): smer iz "in direzione",
+        // upoređen sa krajevima autostrade; druga tačka 1 km dalje u tom smeru
+        if (t1 != null && t2 == null && !pravac.isEmpty()) {
+            Stavka s = nadji(p, samoNaziv(mesto1 != null ? mesto1 : mesto2));
+            if (s != null && s.deonica >= 0 && s.deonica < p.deonice.size()) {
+                Deonica d = p.deonice.get(s.deonica);
+                Set<String> r = reci(pravac);
+                boolean plus = !java.util.Collections.disjoint(r, reci(d.plus));
+                boolean minus = !java.util.Collections.disjoint(r, reci(d.minus));
+                if (plus != minus) t2 = naKm(p, s.deonica, s.km + (plus ? 1 : -1));
+            }
+        }
 
         String id = naslov + "|" + vrstaTekst + "|" + deonica + "|" + smer + "|" + pocetak;
         return new Dogadjaj(Integer.toHexString(id.hashCode()), vrsta, deonica, smer, opis, pocetak,
@@ -221,10 +233,15 @@ public final class Dogadjaj {
         Set<String> a = reci(naziv);
         if (a.isEmpty()) return null;
         boolean odmoriste = naziv.startsWith("Area") || naziv.startsWith("Parcheggio");
+        // "Allacciamento A1 Milano-Napoli" je petlja sa drugim autoputem: samo među petljama
+        // (inače "Napoli" iz naziva petlje kod Milana pogodi izlaz kod Napulja)
+        boolean petlja = naziv.startsWith("Allacciamento") || naziv.startsWith("Interconnessione")
+                || naziv.startsWith("Diramazione");
         Stavka naj = null;
         double najS = 0;
         for (Stavka s : p.stavke) {
             if (s.naziv.isEmpty() || Double.isNaN(s.lat)) continue;
+            if (petlja && s.tip != Stavka.CVORISTE) continue;
             double sl = slicnost(a, reci(s.naziv));
             if (sl <= 0) continue;
             if (odmoriste == (s.tip != Stavka.IZLAZ && s.tip != Stavka.CVORISTE)) sl += 0.05;

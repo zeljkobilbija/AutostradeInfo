@@ -111,4 +111,5 @@
     <string name="vrsta_sporo">Slow traffic</string>
     <string name="vrsta_prilaz">Exit closed</string>
     <string name="vrsta_ostalo">Report</string>
+    <string name="lokacija_pravac">direction %s</string>
 </resources>

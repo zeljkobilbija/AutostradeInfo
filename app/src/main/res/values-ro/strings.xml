@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Trafic lent</string>
     <string name="vrsta_prilaz">Ieșire închisă</string>
     <string name="vrsta_ostalo">Știre</string>
+    <string name="lokacija_pravac">direcția %s</string>
 </resources>

@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Yavaş trafik</string>
     <string name="vrsta_prilaz">Çıkış kapalı</string>
     <string name="vrsta_ostalo">Bildiri</string>
+    <string name="lokacija_pravac">%s yönü</string>
 </resources>

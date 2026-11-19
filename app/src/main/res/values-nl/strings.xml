@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Langzaam verkeer</string>
     <string name="vrsta_prilaz">Afrit dicht</string>
     <string name="vrsta_ostalo">Bericht</string>
+    <string name="lokacija_pravac">richting %s</string>
 </resources>

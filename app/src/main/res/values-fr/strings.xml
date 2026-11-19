@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Trafic ralenti</string>
     <string name="vrsta_prilaz">Sortie fermée</string>
     <string name="vrsta_ostalo">Info</string>
+    <string name="lokacija_pravac">direction %s</string>
 </resources>

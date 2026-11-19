@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Stockender Verkehr</string>
     <string name="vrsta_prilaz">Ausfahrt gesperrt</string>
     <string name="vrsta_ostalo">Meldung</string>
+    <string name="lokacija_pravac">Richtung %s</string>
 </resources>

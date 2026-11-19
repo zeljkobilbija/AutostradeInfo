@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Spowolniony ruch</string>
     <string name="vrsta_prilaz">Zamknięty zjazd</string>
     <string name="vrsta_ostalo">Komunikat</string>
+    <string name="lokacija_pravac">kierunek %s</string>
 </resources>

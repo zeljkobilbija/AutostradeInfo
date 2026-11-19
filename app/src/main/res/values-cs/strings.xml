@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Pomalý provoz</string>
     <string name="vrsta_prilaz">Uzavřený sjezd</string>
     <string name="vrsta_ostalo">Zpráva</string>
+    <string name="lokacija_pravac">směr %s</string>
 </resources>

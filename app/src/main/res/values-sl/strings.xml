@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Počasen promet</string>
     <string name="vrsta_prilaz">Zaprt izvoz</string>
     <string name="vrsta_ostalo">Obvestilo</string>
+    <string name="lokacija_pravac">smer %s</string>
 </resources>

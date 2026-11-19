@@ -110,4 +110,5 @@
     <string name="vrsta_sporo">Медленное движение</string>
     <string name="vrsta_prilaz">Съезд закрыт</string>
     <string name="vrsta_ostalo">Сообщение</string>
+    <string name="lokacija_pravac">направление %s</string>
 </resources>

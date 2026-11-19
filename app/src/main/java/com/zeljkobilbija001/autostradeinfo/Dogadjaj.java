@@ -133,6 +133,8 @@ public final class Dogadjaj {
     static int vrsta(String t) {
         if (t.contains("contromano")) return OPASNOST;
         if (t.startsWith("ripristino")) return SPORO;
+        // radnici na putu (i kad uklanjaju ostatke udesa ili teret): radovi, ne nova opasnost
+        if (t.startsWith("personale su strada")) return TRAKA;
         if (t.contains("chius") && (t.contains("uscita") || t.contains("entrata") || t.contains("svincolo")
                 || t.contains("ingresso") || t.contains("allacciamento"))) return PRILAZ;
         if (t.contains("chiusa") || t.contains("chiuso") || t.contains("chiusura") || t.contains("bloccat")

@@ -1,0 +1,258 @@
+{{Strada
+|nome = Autostrada A13
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada Euganea <br /> Bologna-Padova
+|simbolo = Autostrada A13 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-EMR}}<br />{{IT-VEN}}
+|divisione amm 2 = {{IT-BO}}<br />{{IT-FE}}<br />{{IT-RO}}<br />{{IT-PD}} 
+|inizio = Innesto in [[Autostrada A14 (Italia)|A14]] presso [[Bologna]]
+|fine = Innesto in [[Autostrada A4 (Italia)|A4]] presso [[Padova]]
+|lunghezza = 116,7<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=34&ramo=34&code=A13&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente --> |accesso=8 dicembre 2009 |dataarchivio=12 gennaio 2014 |urlarchivio=https://web.archive.org/web/20140112184600/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=34&ramo=34&code=A13&link=&tipo= |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1970]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy<!-- Titolo generato automaticamente --> |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = sistema chiuso
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A13.svg
+|tracciato = Tracciato A13.svg
+}}
+
+L{{'}}'''autostrada A13 Bologna-Padova''', oppure '''Autostrada Euganea''', collega [[Bologna]] a [[Padova]] passando per [[Ferrara]] e [[Rovigo]]. Lunga 116,7&nbsp;km, è interamente gestita da [[Autostrade per l'Italia]]<ref name="autogenerato12">{{Cita web|url=http://www.autostrade.it/it/la-nostra-rete|titolo=La rete - Autostrade per l'Italia|accesso=9 dicembre 2016}}</ref>.
+
+Nelle vicinanze dei due estremi del percorso autostradale si trovano due tra i più grandi [[interporto|interporti]] italiani, quelli di Bologna e di Padova.
+
+==Storia==
+[[File:Paolo Monti - Servizio fotografico (Italia, 1981) - BEIC 6330919.jpg|sinistra|miniatura|verticale|L'autostrada nel 1981 in una foto di [[Paolo Monti]], scattata a metà strada tra l'odierna uscita Bologna Interporto e l'area di servizio "Castel Bentivoglio".]]
+Il primo tratto dellʾautostrada, da [[Bologna]] a [[Ferrara]] Sud, venne aperto al traffico il 22 dicembre [[1966]].<ref name = "BO FE">{{Cita pubblicazione |titolo = La rete autostradale IRI - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno IX |numero = 2 |editore = |città = Roma |anno = 1967 |mese = febbraio |p = 51 |ISSN = 0005-1756 }}</ref>
+
+Il 10 agosto [[1968]] venne aperto il tronco da Ferrara Sud a Ferrara Nord.<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XI |numero = 7 |editore = |città = Roma |anno = 1969 |mese = luglio |p = 65 |ISSN = 0005-1756 }}</ref> Il 7 agosto dell'[[1969|anno successivo]] seguì il tratto da [[Boara Pisani|Boara]] a [[Padova]].<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XI |numero = 10 |editore = |città = Roma |anno = 1969 |mese = ottobre |p = 49 |ISSN = 0005-1756 }}</ref> Il 6 agosto 1970 fu aperta al traffico  l'intera tratta autostradale.
+
+È stata inoltre la prima [[autostrada]] su cui è stata sperimentata la [[segnale stradale|segnaletica]] antinebbia.
+
+Un suo prolungamento da Padova a Treviso, e successivamente verso Tarvisio, fu ipotizzato già nel 1964 ma non ebbe seguito.<ref>[http://legislature.camera.it/deputati/legislatureprecedenti/leg04/vW_PDF.asp?Tipo=RSI&Data=9 dicembre 1964&TipoSed=&intIdLegislatura=4&lngPagina=3703 Camera dei Deputati, Atti Parlamentari, IV legislatura, seduta del 9 dicembre 1964, pag.3703].</ref>
+
+È prevista, con il [[Decreto ministeriale (ordinamento italiano)|D.M.]] ''Italia Veloce'', la costruzione della terza corsia nella tratta Padova Sud - Monselice Sud (casello di nuova costruzione).<ref>{{Cita news|autore=Martina Zambon|url=https://corrieredelveneto.corriere.it/veneto/cronaca/20_luglio_08/italia-veloce-ci-sono-10-opere-venete-commissario-la-venezia-trieste-4077c090-c0e5-11ea-a942-26b3cd5c4ec4.shtml|titolo=Italia veloce, ci sono 10 opere venete
+Commissario per la Venezia-Trieste|pubblicazione=[[Corriere del Veneto]]|data=8 luglio 2020}}</ref>
+
+== L'autostrada oggi ==
+[[File:Autostrada A13, casello Rovigo 02.jpg|miniatura|Casello di Rovigo.]]
+[[File:A13-Cartelli per nebbia.JPG|miniatura|Uno dei segnali stradali sperimentali antinebbia]]
+Il tragitto ha origine dalla [[tangenziale]] del capoluogo emiliano, che unisce anche le autostrade [[Autostrada A1 (Italia)|A1]] ([[Milano]]-[[Napoli]]) e [[Autostrada A14 (Italia)|A14]] ([[Bologna]]-[[Taranto]]), mentre ha termine a Padova con l'intersezione con l'[[Autostrada A4 (Italia)|autostrada A4]] ([[Torino]]-[[Trieste]]).
+
+Il suo percorso si snoda tutto nella [[pianura padana]] e attraversa due [[regioni d'Italia|regioni]], l'[[Emilia-Romagna]] e il [[Veneto]]. Le uniche alture nelle vicinanze sono quelle rappresentate dai [[colli Euganei]], famosa zona termale con al centro [[Abano Terme]]. Proprio per le caratteristiche morfologiche del terreno attraversato, nella stagione [[inverno|invernale]] è spesso invasa dalla [[nebbia]] che determina una visibilità molto scarsa.
+
+La gestione è di competenza della società ''[[Autostrade per l'Italia]]''.
+
+All'altezza di Ferrara Sud è presente uno svincolo autostradale per [[Comacchio|Porto Garibaldi]], sul mare Adriatico, che nel primo tratto tra il casello Ferrara Sud e l'incrocio con la Strada Statale 16 è competenza di "Autostrade per l'Italia", e tra quest'incrocio e la SS 309 "Romea" competenza ANAS. Attualmente il cosiddetto [[Raccordo autostradale 8]] fino a Porto Garibaldi è equipollente a una [[superstrada]] senza [[pedaggio]], ma è stata manifestata l'intenzione di trasformarla in autostrada a pagamento nel futuro prossimo.<ref>{{Cita web|url=https://www.skyscrapercity.com/threads/ra8-trasformazione-in-autostrada-del-raccordo-ferrara-porto-garibaldi.985830/|titolo=RA8 {{!}} Trasformazione in autostrada del raccordo...|sito=SkyscraperCity Forum|lingua=en|accesso=2022-12-05}}</ref>
+
+==Tutor==
+Questa autostrada è stata scelta, unitamente alla A4 e alla A14, per testare i nuovi dispositivi di misurazione della velocità media ([[SICVE|Tutor]]) in funzione dalla fine del [[2005]]. Il primo "portale", in direzione Bologna, è situato poco prima dell'uscita per [[Occhiobello]], il secondo, che calcola la velocità media rispetto al primo, poco prima dell'uscita Ferrara Nord.
+
+==Tabella percorso==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''{{simbolo|Autostrada A13 Italia.svg|30}} BOLOGNA - PADOVA'''<br />
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''
+|-
+| {{simbolo|AB-AS-grün.svg}}{{simbolo|AB-Kreuz-grün.svg|20}}||{{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A14 Italia.svg|23}} [[Autostrada A14 (Italia)|Bologna - Taranto]] - <small>[[Bologna|Fiera - San Lazzaro - Borgo Panigale]]</small><br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Bologna-Borgo Panigale|Bologna-Borgo Panigale]]<br /><small>{{simbolo|Italian traffic signs - strada europea 35.svg|22}} {{simbolo|Autostrada A1 Italia.svg|18}} [[Autostrada A1 (Italia)|Milano - Firenze]]</small><small> - {{simbolo|Italian traffic signs - raccordo autostradale 1.svg|31}} [[Raccordo autostradale 1|Tangenziale di Bologna]]</small>
+| align="right" |0|| align="right"| 116,7||rowspan=5 align="center"|[[Città metropolitana di Bologna|BO]]
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Bologna]] [[Ippodromo dell'Arcoveggio|Arcoveggio]]<br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 1.svg|31}} [[Raccordo autostradale 1|Tangenziale di Bologna]]</small> || align="right"|0,6|| align="right"| 116,1
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Interporto di Bologna|Bologna Interporto]]|| align="right"|7,9|| align="right"| 108,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Castel [[Bentivoglio (Italia)|Bentivoglio]]"|| align="right" |11,7|| align="right"|105
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Altedo di Malalbergo|Altedo]] || align="right" |20,5|| align="right"| 96,2
+|-
+| {{simbolo|AB-AS-grün.svg}}{{simbolo|AB-Kreuz-grün.svg|20}}
+|[[Ferrara]] Sud<br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 8.svg|31}} [[Raccordo autostradale 8|Porto Garibaldi]]</small>|| align="right" |33,7|| align="right"| 83||rowspan=3 align="center"|[[Provincia di Ferrara|FE]]
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Ferrara]] Nord|| align="right" |41,9|| align="right"| 74,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Po"|| align="right"|43,4|| align="right"|73,3 
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Occhiobello]]|| align="right"|49,1|| align="right"| 67,6||rowspan=5 align="center"|[[Provincia di Rovigo|RO]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Quattro Vie"<ref>solo direzione Padova</ref>||align="right"|50,3||align="right"|66,4
+
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Villamarzana]] - Rovigo Sud <small>{{simbolo|Strada Statale 434 Italia.svg|31}}</small><ref>Svincolo aperto il 20 settembre 2007</ref><small> </small>
+| align="right" |63|| align="right"| 53,7
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Adige"|| align="right"|65,3|| align="right"|51,4
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Rovigo]] Centro|| align="right" |70,4|| align="right"| 46,3
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Boara Pisani|Boara]] Pisani- [[Rovigo]] Nord|| align="right" |74,8|| align="right"| 41,9|| rowspan="7" align="center" |[[Provincia di Padova|PD]]
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Monselice]]|| align="right" |88,6|| align="right" | 28,1
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|{{simbolo|Italian traffic signs - icona terme.svg}} [[Terme Euganee]]|| align="right" |95|| align="right" | 21,7
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "San Pelagio"|| align="right"|98,2|| align="right"|18,5 
+|-
+| {{simbolo|AB-AS-grün.svg}}{{simbolo|AB-Kreuz-grün.svg|20}}
+|[[Padova]] Sud<br /><small>{{simbolo|Autostrada A13 Italia.svg}} [[#A13 Diramazione Padova Sud|Diramazione Padova Sud]]</small>
+|align="right"|101|| align="right"|15
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Padova]] Nord {{simbolo|Italian traffic signs - icona industria.svg}} Zona Industriale || align="right" |112,4|| align="right"| 4,3
+|-
+| {{simbolo|AB-Kreuz-grün.svg|20}}
+|{{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Torino - Trieste]]|| align="right" |116,7|| align="right"| 0
+|}
+
+==A13 Diramazione Padova Sud==
+{{Strada
+|nome = Autostrada A13
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Padova sud
+|simbolo = Autostrada A13 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-VEN}}
+|divisione amm 2 = {{IT-PD}}
+|inizio = Innesto in A13 presso lo svincolo di Padova
+|fine = [[Padova]]
+|lunghezza = 4,3<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=34&ramo=35&code=D13&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente --> |accesso=8 dicembre 2009 |dataarchivio=29 aprile 2014 |urlarchivio=https://web.archive.org/web/20140429232857/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=34&ramo=35&code=D13&link=&tipo= |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = 
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+[[File:A13 direzione Padova.JPG|thumb|left|upright|L'inizio della diramazione, a sinistra, provenendo da Bologna]]
+
+La '''diramazione per Padova Sud''' congiunge l'autostrada A13, a sud di [[Padova]], con la [[Grande Raccordo Anulare di Padova|tangenziale omonima]]. Il tracciato della struttura è pianeggiante, con due corsie per senso di marcia.
+Inizialmente la diramazione costituiva la tratta terminale dell'A13. Quando fu costruito il tratto che porta all'A4, lo svincolo fu costruito in modo incompleto: non era possibile raggiungere la diramazione provenendo dall'A13 in direzione Bologna né l'A13 in direzione A4 provenendo dalla diramazione. Nel 2013 sono stati aperti i cantieri per completare lo svincolo con le rampe mancanti; i lavori si sono conclusi ad aprile 2017: il nuovo raccordo è stato aperto al traffico il 20 settembre dello stesso anno.<ref>{{Cita pubblicazione|autore=Cristina Salvato|data=20 settembre 2017|titolo=Padova, aperto il raccordo autostradale: A13 e A4 finalmente collegate|rivista=Il Mattino di Padova|numero=|url=http://mattinopadova.gelocal.it/padova/cronaca/2017/09/20/news/padova-aperto-il-raccordo-autostradale-a13-e-a4-finalmente-collegate-1.15879187?ref=hfmppdec-3}}</ref><ref>{{Cita web|autore = F.Cav.|url = http://www.ilgazzettino.it/pay/padova_pay/raccordo_a13_lavori_in_dirittura_d_arrivo-2339397.html|titolo = Raccordo A13, lavori in dirittura d'arrivo|accesso = |editore = |data = 25 marzo 2017}}</ref><ref>{{Cita web|url=https://www.mattinopadova.it/cronaca/aperto-il-cantiere-di-padova-sud-shzuj0f3|titolo=Aperto il cantiere di Padova Sud|autore=Cristina Salvato|sito=[[Il Mattino di Padova]]|data=29 settembre 2013|accesso=9 marzo 2025|urlarchivio= https://web.archive.org/web/20160910222239/http://mattinopadova.gelocal.it/padova/cronaca/2013/09/29/news/aperto-il-cantiere-di-padova-sud-1.7832868|dataarchivio=10 settembre 2016|urlmorto=no}}</ref>
+
+<br />
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''{{simbolo|Autostrada A13 Italia.svg}} DIRAMAZIONE PADOVA SUD'''<br />
+|-
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Provincia'''
+|-
+| {{simbolo|AB-Kreuz-grün.svg|20}}
+|{{simbolo|Autostrada A13 Italia.svg|23}} Bologna - Padova||align="right"| 0||align="right"| 4,3||rowspan=4 align="center"|[[Provincia di Padova|PD]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg|20}}|| Barriera [[Padova]] Sud|| align="right" | 0,7||align="right"| 2,9
+|-|
+| {{simbolo|AB-AS-grün.svg}} 
+|<small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|20}}</small> [[Tangenziale Sud di Padova]]
+<small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|20}}</small> [[Tangenziale Est di Padova]]
+| align="right" | 2,9||align="right"| 0,5
+|-
+|{{simbolo|AB-ende-grün.svg|20}}||<small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|20}}</small> [[Tangenziale Ovest di Padova]]
+<small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|20}} {{simbolo|Strada Regionale 47 Italia.svg|31}}</small> [[Strada statale 47 racc di Altichiero|di Altichiero]]
+| align="right" | 4,3||align="right"| 0
+|}
+
+==A13 Diramazione per Ferrara==
+{{Strada
+|nome = Autostrada A13
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Ferrara sud
+|simbolo = Autostrada A13 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-EMR}}
+|divisione amm 2 = {{IT-FE}}
+|inizio = A13
+|fine = [[Raccordo autostradale 8|RA 8]]
+|lunghezza = 6,3<ref name=autogenerato1>{{cita web |url=https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=34&ramo=36&code=D23&link=&tipo= |titolo=Copia archiviata |accesso=12 luglio 2009 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20060508023735/https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=34&ramo=36&code=D23&link=&tipo= }}</ref>
+|direzione = 
+|apertura = [[1966]]<ref name = "BO FE"/>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|mappa = 
+|tracciato = 
+}}
+[[File:A13 diramazione ferrara.png|thumb|left|La diramazione in direzione RA 8]]
+
+La ''diramazione per Ferrara'' è lunga 6,3&nbsp;km e ha origine dallo svincolo di Ferrara Sud dell'A13. Prosegue, verso [[Porto Garibaldi]], senza soluzione di continuità come [[raccordo autostradale 8]] per altri 49&nbsp;km.
+
+Venne aperta al traffico il 22 dicembre [[1966]].<ref name = "BO FE"/>
+
+Questa diramazione è classificata internamente ad [[Autostrade per l'Italia]] come ''D23''<ref name=autogenerato1 />.
+
+Esiste un progetto per un prolungamento in direzione ovest fino al casello di Rolo-Reggiolo sulla [[autostrada A22 (Italia)|autostrada A22]], tramite la realizzazione dell'[[Autostrada Cispadana|Autostrada regionale Cispadana]].
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A13 Italia.svg|30}} DIRAMAZIONE FERRARA SUD'''
+|-
+!align="center"|'''Tipo'''!!align="center"|'''Uscita'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center|'''Provincia'''
+|-
+| {{simbolo|AB-Kreuz-grün.svg|20}}
+|{{simbolo|Autostrada A13 Italia.svg|23}} Bologna - Padova||align="right"|0|| align="right"| 6,3||rowspan=5 align="center"|[[Provincia di Ferrara|FE]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg|20}}|| Barriera [[Ferrara]] Sud|| align="right" | 0,2|| align="right"| 6,1
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Ferrara]] Sud - <br />{{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Fiera di Ferrara|Fiera]]<br/>{{simbolo|Strada Statale 723 Italia.svg|31}} [[Strada statale 723 Tangenziale Ovest di Ferrara|Tangenziale Ovest]]<br/>{{simbolo|Strada Statale 64 Italia.svg|31}} [[Strada statale 64 Porrettana|Porrettana]]|| align="right" |0,9|| align="right"| 5,2
+|-
+| {{simbolo|AB-AS-grün.svg}}
+|[[Ferrara]] Centro <br />{{simbolo|Strada Statale 16 Italia.svg|31}} [[Strada statale 16 Adriatica|Adriatica]]|| align="right" |6|| align="right"| 0,3
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|20}}||{{simbolo|Italian traffic signs - raccordo autostradale 8.svg|31}} [[Raccordo autostradale 8|Porto Garibaldi]]|| align="right"|6,3 || align="right"| 0
+|}
+
+== Obblighi ==
+Sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile su tutta la tratta.<ref>{{Cita web|lingua=it-IT|url=https://www.autostrade.it/it/obbligo-catene|titolo=Obbligo catene a bordo|sito=Autostrade per l'Italia|accesso=2025-05-22}}</ref>
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Bologna Padova |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLIX |numero = 4 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1969 |mese = aprile |pp = 205-215 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1561#page/284/mode/2up }}
+
+== Altri progetti ==
+{{interprogetto}}
+
+==Collegamenti esterni==
+*{{cita web|http://www.autostrade.it|Autostrade per l'Italia}}
+*{{cita web|http://www.lotsberg.net/data/italia/A13.html|Gallerie e viadotti della A13}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A13]]
+[[Categoria:Trasporti in Veneto]]
+[[Categoria:Trasporti in Emilia-Romagna]]

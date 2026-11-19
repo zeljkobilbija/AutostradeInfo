@@ -1,0 +1,102 @@
+{{Strada
+|nome = Autostrada A54
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale Ovest di Pavia
+|simbolo = Autostrada A54 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-PV}}
+|inizio = [[San Martino Siccomario]]
+|fine = [[Pavia]]
+|lunghezza = 8,4<ref>{{Cita web |url=http://www.serravalle.it/Tratte-autostradali-2.html |titolo=Dal sito del gestore |accesso=16 luglio 2009 |urlarchivio=https://web.archive.org/web/20120209233152/http://www.serravalle.it/Tratte-autostradali-2.html |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1994]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy<!-- Titolo generato automaticamente --> |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Milano Serravalle - Milano Tangenziali]]
+|pedaggio = Gratuito
+|città servite = Pavia
+|intersezioni = [[Autostrada A53 (Italia)|A53]]
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A54.svg
+|tracciato = Mappa autostrada A54.svg
+}}
+[[File:San Martino Siccomario - autostrada A54.jpg|miniatura|upright=1.2|L'autostrada A54 nella zona di San Martino Siccomario]] 
+L''''autostrada A54'''<ref>{{Cita web |url=http://www.serravalle.it/Tratte-autostradali-2.html |titolo=Milano Serravalle<!-- Titolo generato automaticamente --> |accesso=16 luglio 2009 |urlarchivio=https://web.archive.org/web/20120209233152/http://www.serravalle.it/Tratte-autostradali-2.html |urlmorto=sì }}</ref><ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |titolo=A pag. 8 |accesso=8 maggio 2010 |dataarchivio=16 ottobre 2013 |urlarchivio=https://web.archive.org/web/20131016102523/http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |urlmorto=sì }}</ref>, o '''tangenziale Ovest di Pavia''', è un'[[autostrada]] tangente alla città di [[Pavia]] nella sua zona [[ovest]], gestita dalla società concessionaria [[Milano Serravalle - Milano Tangenziali]].
+
+== Storia ==
+Costruita dalla società concessionaria ''[[Milano Serravalle - Milano Tangenziali]] SpA'' è entrata in funzione nel [[1994]] dopo tre anni di lavori.
+Fino al 2015 è stata l'unica tangenziale di tipo autostradale a servire un capoluogo di sola provincia e non anche di regione, fino all’inaugurazione della [[Autostrada A60 (Italia)]] Tangenziale sud di Varese.
+
+== L'autostrada oggi ==
+Nasce come variante autostradale della ex [[strada statale 35 dei Giovi]]. Arrivando da [[Genova]] dalla statale si entra sulla tangenziale al km 0; la strada poi prosegue in direzione nord passando sul [[Ticino (fiume)|fiume Ticino]] seguendo un andamento curvilineo, si collega direttamente all'[[Autostrada A7 (Italia)|A7 Milano-Genova]] per mezzo del [[Autostrada A53 (Italia)|raccordo Bereguardo-Pavia]] e alla tangenziale Nord di Pavia e termina dopo 8,4 km immettendosi di nuovo sulla SS 35 diretta a [[Milano]].
+
+È costituita da due [[corsia di marcia|corsie per senso di marcia]] ed è priva di [[corsia di emergenza]].
+Tutti i sei svincoli d'uscita e ingresso sono liberi da caselli e non possiede [[Barriera autostradale|barriere autostradali]] in quanto priva di [[pedaggio]].
+
+Attraversa due comuni, quello di [[San Martino Siccomario]] dal km 0 al km 2,5 e quello di [[Pavia]].
+
+==Tabella percorso==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''A54 TANGENZIALE DI PAVIA'''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!! align="center" |'''km'''!! align="center" |'''Provincia'''
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|17}} {{Simbolo|Italian traffic signs - icona autostrada.svg}}||{{simbolo|Strada Statale 35 Italia.svg|45}} [[Strada statale 35 dei Giovi|dei Giovi]] - [[Genova]]|| align="right" |0,0
+|PV
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pavia]] Sud|| align="right" |0,4
+|PV
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Martino Siccomario]] [[Pavia]] Borgo Ticino|| align="right" |1,8
+|PV
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A53 Italia.svg|23}} [[Autostrada A53 (Italia)|Raccordo Bereguardo-Pavia]]<br />{{simbolo|Autostrada A7 Italia.svg|18}} <small>[[Autostrada A7 (Italia)|Milano - Genova]]</small>|| align="right" |5,3
+|PV
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pavia]] Ovest 
+{{Simbolo|Strada Statale 526 Italia.svg|40}} [[Bereguardo]]-[[Abbiategrasso]]
+{{Simbolo|Italian traffic signs - icona stazione FS.svg}} [[Stazione di Pavia|Stazione ferroviaria]]
+| align="right" |5,9
+|PV
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pavia]] {{Simbolo|Italian traffic signs - icona ospedale.svg}} Ospedali
+{{Simbolo|Italian traffic signs - icona università.svg}} Istituti Universitari
+| align="right" |6,1
+|PV
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pavia]] Via Brambilla
+{{Simbolo|Italian traffic signs - icona polizia.svg}} Questura {{Simbolo|Emblem of Italy (black and white without striped background).svg}} Prefettura {{Simbolo|Italian traffic signs - icona stadio.svg}} Stadio
+| align="right" |7,0
+|PV
+|-
+|[[File:AB-Kreuz-blaugrün.svg|16x16px]]
+|{{Simbolo|Strada Statale 617 Italia.svg|40}} [[Strada statale 617 Bronese|Bronese]] - [[Tangenziale nord e tangenziale est di Pavia|Tangenziale nord Pavia]]
+{{Simbolo|Autostrada A1 Italia.svg|20}}-{{Simbolo|Autostrada A21 Italia.svg}} [[Piacenza]]
+|7,4
+|PV
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|17}} {{Simbolo|Italian traffic signs - fine autostrada.svg}}||{{simbolo|Strada Statale 35 Italia.svg|45}} [[Strada statale 35 dei Giovi|dei Giovi]] - [[Milano]]|| align="right" |8,4 || align="center" |[[Provincia di Pavia|PV]]
+|}
+L'autostrada dal km 5 in poi si sviluppa totalmente nel territorio urbano di [[Pavia]]; precedentemente, invece, attraversa parzialmente la campagna pavese e il [[Parco naturale lombardo della Valle del Ticino|Parco del Ticino]].
+
+==Note==
+<references />
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+*{{cita web|http://www.serravalle.it|Milano Mare - Milano Tangenziali}}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A54]]
+[[Categoria:Trasporti a Pavia]]
+[[Categoria:Tangenziali in Italia|Pavia]]

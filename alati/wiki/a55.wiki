@@ -1,0 +1,430 @@
+{{Strada
+|nome = Autostrada A55
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale di Torino
+|simbolo = Autostrada A55 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}
+|divisione amm 2 = {{IT-TO}}
+|inizio = Innesto sulla [[Autostrada A21 (Italia)|A21]] presso [[Santena]] ([[Città metropolitana di Torino|TO]])
+|fine = Innesto sulla [[Autostrada A5 (Italia)|A5]] presso [[Settimo Torinese]] ([[Città metropolitana di Torino|TO]])
+|lunghezza = 57,57<ref name=autogenerato1>{{Cita web |url=http://www.ativa.it/societa/autostrada.htm |titolo=Copia archiviata |accesso=10 ottobre 2008 |urlarchivio=https://web.archive.org/web/20080610162711/http://www.ativa.it/societa/autostrada.htm |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1976]]<ref>{{Cita web |url=http://www.ativa.it/societa/chi_siamo.htm |titolo=Copia archiviata |accesso=24 giugno 2009 |urlarchivio=https://web.archive.org/web/20090307025721/http://www.ativa.it/societa/chi_siamo.htm |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = Ivrea Torino Piacenza S.p.A. ([[Sacyr]])
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|sistema aperto]]
+|città servite = 
+|intersezioni = 
+|europea1 = 70
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A55.svg
+|tracciato = Mappa A55.svg
+}}
+Il sistema '''tangenziale di Torino''', ufficialmente indicato con la sigla '''A55'''<ref>{{Cita web | 1 = http://www.ativa.it/ATIVA/composizione_carta.html | 2 = Autostrada Torino Ivrea Valle d'Aosta - Ativa | urlmorto = sì }}</ref><ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/mensile-mag-10.pdf |titolo=AISCAT-mensile mag10 |accesso=8 settembre 2010 |dataarchivio=5 marzo 2016 |urlarchivio=https://web.archive.org/web/20160305012922/http://www.aiscat.it/pubblicazioni/downloads/mensile-mag-10.pdf |urlmorto=sì }}</ref>, è un insieme di arterie [[autostrada]]li che corrono nelle periferie del capoluogo [[piemonte]]se. Nel suo percorso principale, che circonda per tre quarti la città subalpina, è composto da tre corsie per senso di marcia con corsia di emergenza ed è diviso figurativamente (e in passato fisicamente) in due tronconi: la tangenziale Nord e la tangenziale Sud, entrambi gestiti dalla [[Ivrea Torino Piacenza]].
+
+È allo studio il progetto per un ulteriore tronco di tangenziale (tangenziale Est), che andrebbe a unire le autostrade [[Autostrada A21 (Italia)|A21]] e [[Autostrada A5 (Italia)|A5]], completando così l'anello viario autostradale attorno a [[Torino]]. Il flusso del traffico che interessa questo tratto autostradale è di oltre 400.000 veicoli al giorno, e il 20% è costituito da veicoli pesanti.<ref>{{Cita web |url=http://www.ativa.it/societa/autostrada.htm |titolo=dati Ativa S.p.a |accesso=10 ottobre 2008 |urlarchivio=https://web.archive.org/web/20080610162711/http://www.ativa.it/societa/autostrada.htm |urlmorto=sì }}</ref>
+
+Il sistema autostradale tangenziale torinese (S.A.T.T.)<ref>{{Cita web | 1 = http://www.ativa.it/ATIVA/composizione_della_rete.html | 2 = Autostrada Torino Ivrea Valle d'Aosta - Ativa | urlmorto = sì }}</ref> comprende inoltre il raccordo tangenziale Nord-A4-ex SS 11, detto raccordo della Falchera, la diramazione autostradale per Pinerolo, e i 3 assi di penetrazione urbana di Moncalieri, [[corso Orbassano]] e corso Regina Margherita.
+
+Nel sistema autostradale che ruota attorno alla tangenziale di Torino vi è ancora il [[raccordo autostradale 10]] per l'[[aeroporto di Torino-Caselle]], gestito dall'[[ANAS]]. Inoltre, a nord il raccordo della Falchera prosegue senza soluzione di continuità nella [[Strada statale 11 Padana Superiore|superstrada Torino-Chivasso]], che funziona sia come continuazione della tangenziale per i comuni di cintura urbana di [[Settimo Torinese]], [[San Mauro Torinese]] e [[Gassino Torinese]], sia come secondo allacciamento con l'[[Autostrada A4 (Italia)|autostrada A4]].
+
+==Storia==
+La tangenziale di Torino, auspicata da decenni, fu costruita a partire dalla fine degli anni sessanta e terminata nel 1976<ref>{{Cita web |url=http://www.ativa.it/societa/chi_siamo.htm |titolo=Chi siamo |accesso=24 giugno 2009 |urlarchivio=https://web.archive.org/web/20090307025721/http://www.ativa.it/societa/chi_siamo.htm |urlmorto=sì }}</ref>, a eccezione della diramazione per [[Pinerolo]], che fu prevista sin dal principio (lo svincolo di corso Orbassano fu già costruito prevedendo il prolungamento), ma costruita solo a partire dagli anni novanta.
+
+Inizialmente, la tangenziale prevedeva anche due barriere a pedaggio intermedie, una sulla tangenziale Nord subito a ovest di corso Regina Margherita, e una sulla tangenziale Sud tra l'interporto e corso Orbassano. Le due barriere vennero abolite nel 1977<ref>{{Cita web | 1 = http://www.ativa.it/ATIVA/50_anni_di_storia.html | 2 = Autostrada Torino Ivrea Valle d'Aosta - Ativa | urlmorto = sì }}</ref> per facilitare la circolazione locale.
+
+Alcuni svincoli e servizi non inizialmente previsti vennero costruiti in anni successivi: le rampe aggiuntive dello svincolo di [[Venaria]] verso lo [[Stadio delle Alpi]] (oggi [[Juventus Stadium]]) risalgono al 1990, lo svincolo Debouchè, per  [[Nichelino]] e [[Vinovo]] e lo svincolo [[strada statale 24 del Monginevro|SS 24]] [[Collegno]]-[[Pianezza]] agli anni novanta, lo svincolo Vadò (l'unico ad essere dotato di barriera di pedaggio), il doppio svincolo [[Savonera]] e l'area di servizio Bauducchi a metà degli anni 2000. Inoltre, la terminazione sulla [[strada statale 25 del Moncenisio|SS 25]] a [[Rivoli]] fu rivista e ampliata quando fu costruita la [[Autostrada A32|A32]], che si innesta direttamente nella tangenziale nord senza soluzione di continuità.
+
+In occasione delle [[XX Giochi olimpici invernali|Olimpiadi di Torino 2006]], fu completamente ricostruito lo svincolo di Bruere tra la tangenziale Nord e la tangenziale Sud. Da allora, la carreggiata della tangenziale Sud prosegue direttamente nella tangenziale Nord verso la [[Autostrada A5 (Italia)|A5]], mentre il ramo iniziale della tangenziale nord verso la barriera di Bruere (e la [[Autostrada A32|A32]]), originariamente parte integrante della tangenziale Nord, è divenuto una diramazione.
+
+Dal 1º dicembre [[2024]] l'autostrada è gestita dalla società [[Ivrea Torino Piacenza]] della famiglia Dogliani, nuova concessionaria subentrata alla [[ATIVA]] del gruppo Gavio.<ref>{{cita news|Christian Benna|https://torino.corriere.it/notizie/economia/24_ottobre_05/i-dogliani-al-volante-delle-autostrade-piemontesi-a-dicembre-parte-la-ivrea-torino-piacenza-0964e7b9-d272-468e-8567-33fd2b284xlk.shtml?refresh_ce|I Dogliani al volante delle autostrade piemontesi: «A dicembre parte la Ivrea-Torino-Piacenza»|Corriere della Sera|5 ottobre 2024|2 dicembre 2024|it}}</ref>
+
+==L'autostrada oggi==
+La tangenziale costituisce oggi un corpo unico, ma amministrativamente è ancora divisa in due tronconi: la tangenziale Nord e la tangenziale Sud.
+
+=== Tangenziale Nord ===
+La ''tangenziale Nord'' di [[Torino]] parte da [[Rivoli]], al termine della [[Autostrada A32|A32]], e termina con l'allacciamento con l'[[Autostrada A5 (Italia)|autostrada A5]] a [[Settimo Torinese]].
+
+Ha una lunghezza di 20,24&nbsp;km, ma comprende anche il raccordo di penetrazione di [[corso Regina Margherita]] pari a 0,83&nbsp;km, per un totale di 21,07&nbsp;km.
+
+=== Tangenziale Sud ===
+La ''tangenziale Sud'' parte a [[Santena]], al termine della [[Autostrada A21 (Italia)|A21]], e termina a Bruere ([[Rivoli]]), con l'allacciamento con la tangenziale Nord.<br />
+Ha una lunghezza di 25,86&nbsp;km, ma comprende anche il raccordo di penetrazione urbana a corso Trieste di [[Moncalieri]] per 6,18&nbsp;km ed il raccordo di penetrazione di [[corso Orbassano]] a [[Torino]] per 1,33&nbsp;km.
+
+===Tabella percorso===
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A55 Italia.svg|30}}<br />Tangenziale Nord di Torino'''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''km'''<ref name=autogenerato2>{{Cita web |url=https://www.ativa.it/it/ |titolo=Dati ufficiali ATIVA |accesso=23 agosto 2015 |urlarchivio=https://web.archive.org/web/20151126070204/https://www.ativa.it/it/ |urlmorto=sì }}</ref>!!align="center"|'''Città metropolitana'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Autostrada A32 Italia.svg|23}} [[Autostrada A32|Bardonecchia]]<br />||align="right"| 0|| rowspan="21" align="center" |[[Città metropolitana di Torino|TO]]||rowspan=6 align="center"|[[File:Italian traffic signs - strada europea 70.svg|50px|link=Strada europea E70|Simbolo dell'autostrada E70]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale ]]|| {{simbolo|Strada Statale 25 Italia.svg|45}} ''[[Strada statale 25 del Moncenisio|del Moncenisio]]''<br /><small>[[Rivoli]]</small>||align="right"| 0,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Rivoli Sud"||align="right"|0,8<br /><small>Solo carreggiata est</small>
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Rivoli Nord"||align="right"| 1,8<br /><small>Solo carreggiata ovest</small>
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera Bruere||align="right"| 2,9
+|-
+| [[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]||{{simbolo|Autostrada A55 Italia.svg|23}} Tangenziale Sud||align="right"| 3,7
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]||  {{simbolo|Strada Provinciale 24 Italia.svg|45}} ''[[Strada statale 24 del Monginevro|del Monginevro]]''<br /><small> [[Pianezza]], [[Collegno]]</small><br />||align="right"| 6,6|| rowspan="14" align="center" |
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Pianezza]]<br /><small>{{simbolo|Strada Provinciale 24 Italia.svg|45}} ''[[Strada statale 24 del Monginevro|del Monginevro]]''</small>||align="right"| 6,9<br /><small>Solo carreggiata ovest</small>
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Savonera]]<br /><small>{{simbolo|Italian traffic signs - icona castello.svg}} [[Reggia di Venaria Reale]]<br />[[Druento]]<br /></small>||align="right"|7,6<br /><small>Solo carreggiata est</small>
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| {{simbolo|Autostrada A55 Italia.svg|23}} [[Corso Regina Margherita]]<br />||align="right"| 8,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Savonera]]<br /><small>{{simbolo|Italian traffic signs - icona castello.svg}} [[Reggia di Venaria Reale]]<br />[[Druento]]<br /></small>|| align="right" | 8,9<br /><small>Solo carreggiata ovest</small>
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Venaria Reale|Venaria - Stadio]]<br /><small>[[Druento]]<br />{{simbolo|Strada Provinciale 1 Italia.svg|40}} [[Valli di Lanzo]]<br />{{simbolo|Italian traffic signs - icona stadio.svg}} [[Juventus Stadium]]</small>||align="right"| 12,2
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Borgaro Torinese|Borgaro]]<br /><small>{{simbolo|Italian traffic signs - icona castello.svg}} [[Reggia di Venaria]]<br /></small>{{simbolo|Strada Provinciale 501 Italia.svg|40}}<small> della Reggia -</small><small> {{simbolo|Strada Provinciale 1 Italia.svg|40}}</small> <small>[[Valli di Lanzo]]</small>|| align="right" | 14,1
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Stura Nord"||align="right"|15,5<br /><small>Solo carreggiata ovest</small>
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Stura Sud"||align="right"|16,4<br /><small>Solo carreggiata est</small>
+|-
+| [[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]||[[Caselle Torinese|Caselle]] - {{simbolo|Italian traffic signs - raccordo autostradale 10.svg|40}} [[Raccordo autostradale 10|Torino - Caselle]]<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Torino-Caselle]]</small><br /><small>{{simbolo|Strada Provinciale 2 Italia.svg|40}} [[Valli di Lanzo]]<br />{{simbolo|Strada Statale 460 Italia.svg|40}} ''[[strada statale 460 di Ceresole|di Ceresole]]'' - [[Canavese]]</small>||align="right"| 17,1
+|-
+| [[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]|| {{simbolo|Autostrada A55 Italia.svg|23}} Raccordo della Falchera<br /><small>{{simbolo|Italian traffic signs - strada europea 64.svg|22}} {{simbolo|Autostrada A4 Italia.svg|18}} [[Autostrada A4 (Italia)|Torino-Milano]]<br />{{simbolo|Strada Statale 11 Italia.svg|40}} ''[[Strada statale 11 Padana Superiore|Padana Superiore]]''</small>||align="right"| 18,2
+|-
+|{{Simbolo|AB-AS-grün.svg}}|| [[Settimo Torinese]] ''Uscita A5''|| align="right" | 20,1
+|-
+|{{Simbolo|Italian traffic signs - stazione.svg}}
+|Barriera Torino Nord
+''Barriera A5''
+| align="right" |20,1
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 612.svg|35}} {{simbolo|Autostrada A5 Italia.svg|23}} [[Autostrada A5 (Italia)|Aosta]]||align="right"| 20,2
+|}
+
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A55 Italia.svg|30}}<br />Tangenziale Sud di Torino''' {{simbolo|Italian traffic signs - strada europea 70.svg|30}}
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''km'''<ref name=autogenerato2 />!!align="center"|'''Città metropolitana'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Autostrada A21 Italia.svg|23}} [[Autostrada A21 (Italia)|Piacenza-Brescia]]||align="right"| 0||rowspan=16 align="center"|[[Città metropolitana di Torino|TO]] ||rowspan=16 align="center"|[[File:Italian traffic signs - strada europea 70.svg|50px|link=Strada europea E70|Simbolo dell'autostrada E70]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Santena]]||align="right"| 0,1
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Trofarello]]||align="right"| 4,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| Vadò {{simbolo|Italian traffic signs - stazione.svg|17}}||align="right"| 4,7
+|-
+| [[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]|| Bauducchi<br /><small>{{simbolo|Autostrada A55 Italia.svg}} C.so Unità d'Italia<br />{{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Lingotto (comprensorio)|Lingotto]]<br />[[Moncalieri]] </small><br />{{simbolo|Italian traffic signs - strada europea 717.svg|22}} {{simbolo|Autostrada A6 Italia.svg|23}} [[Autostrada A6 (Italia)|Savona]]||align="right"| 6,8
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| {{simbolo|Strada Provinciale 20 Italia.svg|45}} ''[[Strada statale 20 del Colle di Tenda e Valle Roja|del Colle di Tenda e della Valle Roja]]''<br /><small>[[La Loggia]]</small>||align="right"| 9,6
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Nichelino Nord"||align="right"| 10,1<br /><small>Solo carreggiata nord</small>
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Nichelino Sud"||align="right"| 11,6<br /><small>Solo carreggiata sud</small>
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| Debouché<br /><small>[[Nichelino]], [[Vinovo]]<br />{{simbolo|Italian traffic signs - icona ippodromo.svg}} [[Ippodromo Stupinigi|Ippodromi di Torino]]</small>||align="right"| 13,7
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Stupinigi]]<br /><small>{{simbolo|Strada Regionale 23 Italia.svg|40}} ''[[Strada statale 23 del Colle di Sestriere|Nichelino - Pinerolo]]''</small><br /><small>{{simbolo|Italian traffic signs - icona castello.svg}} [[Palazzina di caccia di Stupinigi]]</small><br /><small>[[Corso Unione Sovietica]]<br />{{simbolo|Italian traffic signs - icona stadio.svg}} [[Stadio Olimpico Grande Torino|Stadio Olimpico]]</small>-
+| align="right" | 15,2
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]<br /><br />[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]||Drosso<br />{{simbolo|Autostrada A55 Italia.svg|23}} C.so Orbassano<br /><small> {{simbolo|Italian traffic signs - icona industria.svg}} Stabilimento [[FIAT]] Drosso</small><br />[[Beinasco]]-[[Orbassano]] ||align="right"| 17,3
+|-
+| [[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]||{{simbolo|Autostrada A55 Italia.svg|23}} [[Pinerolo]]<br /><small>''autostrada del Pinerolese''<br />{{simbolo|Strada Statale 589 Italia.svg|40}} ''[[Strada statale 589 dei Laghi di Avigliana|dei Laghi di Avigliana]]''</small>||align="right"| 18,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| S.I.TO Interporto<br />{{simbolo|Italian traffic signs - icona ospedale.svg}} Ospedale S. Luigi di Orbassano<br /><small> "Autostrada Ferroviaria Alpina"</small><br />||align="right"| 21,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]<br /><br />[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| C.so Allamano<br /><small> [[Grugliasco]]</small><br />C.so IV Novembre<br />||align="right"| 24,7
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Corso Francia|C.so Francia]]<br /><small>[[Rivoli]], Cascine Vica</small>||align="right"| 25,4
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Autostrada A55 Italia.svg|23}} Tangenziale Nord||align="right"| 25,9
+|}
+
+==Raccordi e diramazioni==
+===Raccordo della Falchera===
+{{Strada
+|nome = Autostrada A55
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Raccordo della Falchera
+|simbolo = Autostrada A55 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}
+|divisione amm 2 ={{IT-TO}} 
+|inizio = A55
+|fine = [[Strada statale 11 Padana Superiore|SR11]]
+|lunghezza = 3,13<ref name=autogenerato1 />
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = [[Ivrea Torino Piacenza]]
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|sistema aperto]]
+|città servite = 
+|intersezioni = [[Autostrada A4 (Italia)|A4]], [[Autostrada A5 (Italia)|A5]]
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Raccordo della Falchera.svg
+|tracciato = 
+}}
+
+Il '''[[Raccordo autostradale|raccordo]] della Falchera''' si sviluppa per 3,13&nbsp;km. Ha inizio presso lo svincolo Falchera dell'A55-Tangenziale nord e termina, senza soluzione di continuità, con la [[Strada statale 11 Padana Superiore#Superstrada Torino-Chivasso|SR 11]]. Nel suo tragitto vi è la barriera di pedaggio della Falchera, lo svincolo per la [[Strada statale 460 di Ceresole|SSP 460]] e l'interconnessione con l'[[Autostrada A4 (Italia)|A4]] e l'[[Autostrada A5 (Italia)|A5]]. La strada è stata chiusa per lavori fino al 2024, ma attualmente è riaperta al traffico.
+
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A55 Italia.svg|30}}<br />Raccordo della Falchera'''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''km'''!!align="center"|'''Città metropolitana'''
+|-
+|[[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]|| {{simbolo|Autostrada A55 Italia.svg|23}} Tangenziale Nord||align="right"| 0,0||rowspan=6 align="center"|[[Città metropolitana di Torino|TO]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Falchera]] <br /><small>''pedaggio € 1,50'' ||align="right"| 0,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Leini]]<br /><small>{{simbolo|Strada Statale 460 Italia.svg|40}} ''[[Strada statale 460 di Ceresole|di Ceresole]]''</small>||align="right"| 0,5
+|-
+| [[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]|| {{simbolo|Italian traffic signs - strada europea 64.svg|27}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Torino - Trieste]] ||align="right"| 1,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Barca (Torino)|Abbadia di Stura]]||align="right"| 3,1
+|-
+| {{simbolo|Italian traffic signs - strada extraurbana principale.svg|17}}|| {{simbolo|Strada Statale 11 Italia.svg|45}} ''[[Strada statale 11 Padana Superiore|Padana Superiore]]''||align="right"| 3,2
+|}
+{{clear}}
+
+===Diramazione per Moncalieri===
+{{Strada
+|nome = Autostrada A55
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione per Moncalieri
+|simbolo = Autostrada A55 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}
+|divisione amm 2 ={{IT-TO}} 
+|inizio = [[Autostrada A6 (Italia)|A6]]
+|fine = Corso Trieste a [[Moncalieri]]
+|lunghezza = 6,18<ref name=autogenerato1 />
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = 
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Diramazione per Moncalieri.svg
+|tracciato = 
+}}
+
+La ''[[Raccordo autostradale|diramazione]] per Moncalieri'' è un tratto autostradale lungo 6,18&nbsp;km. È la prosecuzione dell'[[Autostrada A6 (Italia)|A6]] la quale termina, senza soluzione di continuità, poco prima dell'interconnessione con l'A55-Tangenziale Sud.
+
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="5" | '''{{simbolo|Autostrada A55 Italia.svg|30}} DIRAMAZIONE PER MONCALIERI'''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Città metropolitana'''
+|-
+| {{simbolo|Italian traffic signs - città.svg}}|| [[Moncalieri]] - C.so Trieste<br />|| align="right" |0,0 || align="right"|6,2 || rowspan="5" align="center" |[[Città metropolitana di Torino|TO]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Intesa Sanpaolo|San Paolo]]<br />{{simbolo|Strada Statale 393 Italia.svg|45}} ''[[Strada statale 393 di Villastellone|di Villastellone]]''||align="right"|3,3 ||align="right"|2,9
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Bauducchi"||align="right"| 4,3|| align="right"| 1,9
+|-
+| [[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada ]]||{{simbolo|Autostrada A55 Italia.svg|23}} Tangenziale Sud||align="right"| 5,1|| align="right"| 1,1
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}||{{simbolo|Italian traffic signs - strada europea 717.svg|28}} {{simbolo|Autostrada A6 Italia.svg|23}} [[Autostrada A6 (Italia)|Savona]] ||align="right"|6,2 || align="right" |0,0
+|}
+{{clear}}
+
+=== Diramazione per Pinerolo ===
+[[File:rio torto autostrada del pinerolese.jpg|upright=0.8|thumb|left|Il ponte sul [[Rio Torto di Roletto|rio Torto]]]]
+{{Strada
+|nome = Autostrada A55
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada del Pinerolese
+|simbolo = Autostrada A55 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}
+|divisione amm 2 ={{IT-TO}} 
+|inizio = A55 - Corso Orbassano
+|fine = ex SS 23 presso [[Pinerolo]]
+|lunghezza = 23,44<ref name=autogenerato1 />
+|direzione = 
+|apertura = [[1992]]<ref name=autogenerato1 />
+|provvedimento istituzione = 
+|gestore = 
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Diramazione per Pinerolo.svg
+|tracciato = 
+}}
+
+L'idea di costruire una diramazione autostradale da [[Torino]] verso [[Pinerolo]] nasce negli anni sessanta, in conseguenza dell'aumento di traffico verso [[Pinerolo]] e le sue valli ([[val Chisone]] in particolare).
+
+La diramazione era prevista fin dal progetto originario della tangenziale di Torino, ma a causa di molteplici problemi il primo tratto [[Torino]]-[[None (Italia)|None]] viene inaugurato solo nel 1992; l'ultimo tratto vede la luce grazie all'assegnazione dei [[XX Giochi olimpici invernali]] alla città di [[Torino]] ed è stato inaugurato il 9 gennaio 2006.<ref>{{Cita web |url=http://www.ativa.it/societa/autostrada.htm |titolo=L'autostrada |accesso=10 ottobre 2008 |urlarchivio=https://web.archive.org/web/20080610162711/http://www.ativa.it/societa/autostrada.htm |urlmorto=sì }}</ref> Il completamento della diramazione ha così abbreviato i tempi di percorrenza tra il capoluogo piemontese e Pinerolo.
+
+La diramazione, gestita dalla [[Ivrea Torino Piacenza]], è a due corsie per senso di marcia con corsia di emergenza, per tutta la sua lunghezza. Ha inizio come asse di penetrazione urbana di corso Orbassano in [[Torino]] nel quartiere di [[Mirafiori Sud]] (corso Orbassano) per una lunghezza di 1,33&nbsp;km; termina a Pinerolo, innestandosi senza soluzione di continuità sulla [[strada statale 23 del Colle di Sestriere|strada regionale 23 del Sestriere]], che in tale punto diventa anch'essa a due corsie per senso di marcia (sprovvista tuttavia di corsia di emergenza), formando la circonvallazione (detta talvolta tangenziale) di [[Pinerolo]].
+
+Lungo il tragitto sono presenti quattro aree di servizio, Beinasco Nord/Sud e Piscina Nord/Sud.<br />
+È presente una barriera di pedaggio, a Beinasco, poco prima dell'intersezione con la tangenziale Sud. Gli svincoli tra Riva di Pinerolo e Candiolo sono liberi da pedaggio; prima della costruzione era libero da pedaggio, e completamente usufruibile, anche lo svincolo di Orbassano. Dopo la costruzione della barriera tale svincolo non è più accessibile in uscita in direzione Torino ed in entrata in direzione Pinerolo.<br />
+Al momento dell'attivazione il pedaggio era di 1 €, è stato aumentato quindi in seguito:
+* 1,10 € nel 2008
+* 1,20 € a maggio 2009
+* 1,30 € a luglio 2010
+* 1,40 €
+* 1,50 € a gennaio 2012
+* 1,60 € ad aprile 2013
+*1,70 € a Gennaio 2018
+
+A questa diramazione la concessionaria ATIVA ha assegnato il soprannome di autostrada del Pinerolese.
+
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="5" | '''{{simbolo|Autostrada A55 Italia.svg|30}} TORINO - PINEROLO'''<br />Autostrada del Pinerolese
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Città metropolitana'''
+|-
+| {{simbolo|Italian traffic signs - città.svg}}|| [[Torino]] - C.so Orbassano||align="right"|0,0 || align="right"|23,44 ||rowspan=15 align="center"|[[Città metropolitana di Torino|TO]]
+|-
+| [[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]|| {{simbolo|Autostrada A55 Italia.svg|18}} tangenziale Nord<br /><small>{{simbolo|Italian traffic signs - strada europea 64.svg|22}} {{simbolo|Autostrada A4 Italia.svg|18}} [[Autostrada A4 (Italia)|Milano]] </small><br /><small>{{simbolo|Italian traffic signs - strada europea 70.svg|22}} {{simbolo|Autostrada A32 Italia.svg|18}} [[Autostrada A32|Bardonecchia]] </small><br /><small>{{simbolo|Italian traffic signs - strada europea 612.svg|22}} {{simbolo|Autostrada A5 Italia.svg|18}} [[Autostrada A5 (Italia)|Aosta]] </small><br /><small>{{simbolo|Traforo T1 Italia.svg|15}}{{simbolo|Traforo T2 Italia.svg|15}}{{simbolo|Traforo T4 Italia.svg|15}} Trafori </small>||align="right"|0,9 ||align="right"|22,54
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]<br /><br />[[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]||{{simbolo|RWB Industriegebiet.svg|18}} Stabilimento Drosso{{efn|Utilizzo riservato solo agli addetti allo stabilimento [[FIAT]]}}{{simbolo|Autostrada A55 Italia.svg|18}} tangenziale Sud<br /><small>{{simbolo|Italian traffic signs - strada europea 717.svg|22}} {{simbolo|Autostrada A6 Italia.svg|18}} [[Autostrada A6 (Italia)|Savona]] </small><br /><small>{{simbolo|Italian traffic signs - strada europea 70.svg|22}} {{simbolo|Autostrada A21 Italia.svg|18}} [[Autostrada A21 (Italia)|Piacenza - Brescia]] </small>||align="right"|1,33 || align="right"|22,11 
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg|17}}|| Autostrada del pinerolese||align="right"| 1,33|| align="right"| 22,11
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera [[Beinasco]]||align="right"|2,3 || align="right"|21,14
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Beinasco"||align="right"| 3|| align="right"|20,4
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Orbassano]]{{efn|Solo entrata in direzione Torino, solo uscita in direzione Pinerolo.}}||align="right"|4,2 || align="right"|19,2
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Candiolo]]<br /><small>[[Rivalta di Torino|Rivalta]]</small><br /><small> [[Orbassano]]</small><br /><small>{{simbolo|Italian traffic signs - ospedale.svg|15}} I.R.C.C. - Centro Tumori </small><br />||align="right"|7,1 || align="right"|16,3
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| Gerbole di Volvera||align="right"|9,6 || align="right"|13,8
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Volvera]]||align="right"|12,1 || align="right"|11,3
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[None (Italia)|None]]||align="right"|13,9 || align="right"|9,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Piscina (Italia)|Piscina]]||align="right"|19,8 || align="right"|3,6
+|-
+| {{simbolo|AB-Tank.svg}}|| Area Servizio "Piscina" ||align="right"|21,5 || align="right"|1,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| Riva di Pinerolo||align="right"|23,1 || align="right"|0,3
+|-
+| {{simbolo|Italian traffic signs - strada extraurbana principale.svg|17}}|| [[Pinerolo|Tangenziale di Pinerolo]]<br /><small> {{simbolo|Strada Statale 23 Italia.svg|35}} [[Val Chisone]] - [[Sestriere]]<br />{{simbolo|Strada Statale 589 Italia.svg|35}} [[Saluzzo]] - [[Cuneo]]<br />{{simbolo|Strada Provinciale 161 Italia.svg|35}} [[Val Pellice]]</small>||align="right"|23,44 || align="right"|0,0
+|}
+=== Asse di penetrazione urbana di Corso Regina Margherita ===
+{{Strada
+|nome = Autostrada A55
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Asse di penetrazione urbana di Corso Regina Margherita
+|simbolo = Autostrada A55 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}
+|divisione amm 2 ={{IT-TO}} 
+|inizio = A55 Tangenziale nord / SP 176 presso [[Savonera]]
+|fine = uscita [[strada statale 24 del Monginevro|SP 24]] presso [[Torino]]
+|lunghezza = 0,8
+|direzione = 
+|apertura =
+|provvedimento istituzione = 
+|gestore = 
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Asse di corso regina margherita.svg
+|tracciato = 
+}}
+L{{'}}'''Asse di penetrazione urbana di Corso Regina Margherita''' è il raccordo più breve dell'autostrada A55, con una lunghezza di 800 m, collegando l'autostrada con la [[strada statale 24 del Monginevro|SP 24]] presso [[Torino]] e prosegue come [[Corso Regina Margherita]].
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="5" |{{simbolo|Autostrada A55 Italia.svg|30}}<br />Asse di penetrazione urbana di Corso Regina Margherita
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Città metropolitana'''
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]||{{simbolo|Autostrada A55 Italia.svg|26}} ''Tangenziale nord''<br/>{{simbolo|Strada Provinciale 176 Italia.svg|35}} [[Savonera]]||align="right"|0,0 || align="right"|0,8 ||rowspan=2 align="center"|[[Città metropolitana di Torino|TO]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Torino]] Via Pianezza<br/>{{simbolo|Strada Provinciale 24 Italia.svg|35}} ''[[strada statale 24 del Monginevro|del Monginevro]]''||align="right"|0,8 || align="right"|0,0
+|}
+{{Gruppo di note}}
+
+==Tangenziale Est (progetto accantonato)==
+{{Vedi anche|Tangenziale est di Torino}}
+La [[Tangenziale est di Torino|tangenziale Est di Torino]] era un progetto di tratto autostradale che avrebbe chiuso l'anello tangenziale della città di [[Torino]].<br />Il progetto era stato inserito nel corso del [[2009]] nelle opere infrastrutturali più importanti d'Italia e la [[Provincia di Torino]] aveva dichiarato che nel 2011 sarebbero partiti i lavori, dopo l'approvazione prevista nel 2010: ma le diverse valutazioni dei Comuni interessati sul tracciato e le difficoltà economiche sopravvenute hanno fatto sì che nell'anno 2023 non sia stata iniziata alcuna opera in merito.
+
+Questo tratto autostradale era un'idea di complessa realizzazione, in quanto il territorio a est della città è prevalentemente collinare.
+
+La [[Piemonte|Regione Piemonte]] ha stanziato circa 100 mila euro{{senza fonte}} per realizzarne uno studio di fattibilità.<ref name=LaStampa>Diego Andrà. ''Via ai lavori del ponte. E Castiglione chiude al traffico pesante''. "la Stampa - Torino e provincia", 6 gennaio 2008, 71.</ref>
+
+===Il percorso===
+Il progetto di massima è quello di collegare la [[Autostrada A21 (Italia)|A21]] Torino-Piacenza, all'altezza della frazione di [[Pessione]] ([[Chieri]]), sino alla città di [[Chieri]]. Successivamente, tra [[Chieri]] ed il comune di [[Gassino Torinese]] il percorso proseguirebbe in galleria per circa 7,5&nbsp;km. Il fiume [[Po]] sarebbe superato da un nuovo ponte e il tratto autostradale raggiungerebbe l'[[Autostrada A4 (Italia)|autostrada A4]] Torino-Milano sullo svincolo già esistente di [[Volpiano]] sud. La tangenziale proseguirebbe sino alla vicina [[Autostrada A5 (Italia)|A5]] Torino-Aosta, per raccordarsi all'altezza dello svincolo di [[Volpiano]]<ref name=Corriere>F.G. ''A grandi passi verso la tangenziale''. "Corriere di Chieri", 20 novembre 2007.</ref>.
+
+===Gli svincoli===
+Gli svincoli previsti, sarebbero in corrispondenza di [[Chieri]] nord, [[Chieri]] sud, [[Strada statale 590 della Val Cerrina|SSP 590]]-[[San Raffaele Cimena]], oltre alle interconnessioni con la [[Autostrada A21 (Italia)|A21]] in località [[Pessione]], con la [[Strada statale 11 Padana Superiore|SS11]], con la [[Autostrada A4 (Italia)|A4]] nel comune di [[Brandizzo]] e con la [[Autostrada A5 (Italia)|A5]] nel comune di [[Volpiano]].
+
+I caselli autostradali sarebbero localizzati a [[Pessione]] (in sostituzione dell'attuale casello di [[Villanova d'Asti]] situato al raccordo con la [[Tangenziale Sud di Torino]]), all'interconnessione di [[Brandizzo]], sostituendo il casello torinese della [[Falchera]], ed all'interconnessione con la A5 nel comune di [[Volpiano]]<ref name=lastampaa>Antonella Perotti, Maurizio Tropeano. ''Grandi Opere''. "la Stampa", 18 novembre 2007.</ref>.
+
+Sarebbe previsto anche un raccordo a servizio dello stabilimento della [[Martini & Rossi]] in località [[Pessione]]<ref name=Corriere/>.
+
+===Cantierizzazioni===
+Sebbene il progetto non sia mai stato definito, il cantiere di una delle grandi opere collegate al progetto di tangenziale è partito a gennaio [[2008]] e si è concluso a marzo [[2010]]: si tratta del viadotto sul fiume [[Po]] che collega la [[Strada statale 590 della Val Cerrina|SSP 590 della Valle Cerrina]], nel tratto tra i comuni di [[Gassino Torinese]] e [[San Raffaele Cimena]], con la [[Strada statale 11 Padana Superiore|SS11]] allo svincolo di [[Brandizzo]]; questo viadotto è inoltre collegato, con un tratto di strada a doppia carreggiata, allo svincolo di [[Volpiano|Volpiano sud]] dell'[[Autostrada A4 (Italia)|A4 Torino-Trieste]].
+
+L'infrastruttura si sviluppa per 2.765 metri, compresa la parte esclusiva del viadotto lungo 1.200 metri. Quest'ultimo è formato da 12 campate di calcestruzzo e acciaio, con cavi di decompressione a vista, ed è stato progettato dall'Ares Piemonte e finanziato dalla [[Regione Piemonte]]. I lavori sono stati eseguiti dalle ditte CO.GE.FA. e Cumino di [[Torino]]<ref name=LaStampa/> per un costo totale di 37 milioni di euro.
+
+===Critiche all'opera===
+È nato un comitato di difesa del territorio, ''Comitato NoTangEst'', che opera per informare i cittadini sulle problematiche (inquinamento indotto dal traffico pesante, problemi idrogeologici, problemi ambientali etc.) relative alla realizzazione dell'opera, e organizza iniziative di informazione e pressioni sulle amministrazioni pubbliche coinvolte nella realizzazione del progetto.
+
+===Accantonamento===
+Dato il forte impatto ambientale che con una [[tangenziale]] autostradale andrebbe a incidere sulla [[Colline del Po|Collina Torinese]] (sito [[Riserva della biosfera]] [[UNESCO]]), il progetto è stato accantonato in favore della realizzazione di una ''Gronda'', da ottenersi mediante riorganizzazione della viabilità esistente e una riduzione al minimo di gallerie e viadotti.<ref>{{cita web|1=http://www.cittametropolitana.torino.it/cms/comunicati/viabilita/da-settembre-i-sopralluoghi-per-definire-i-dettagli-dello-studio-di-fattibilita-della-gronda-est|2=Da settembre i sopralluoghi per definire i dettagli dello studio di fattibilità della Gronda Est}}</ref>
+Tuttavia anche questo progetto è oggetto di opposizione da parte del comitato.<ref>{{Cita web|lingua=it|autore=Giulia Mesolella|url=https://www.torinocronaca.it/news/torino/709779/gronda-est-il-comitato-ribadisce-il-no-puntare-sulle-alternative-per-la-collina-torinese.html|titolo=Gronda est, il comitato ribadisce il no: «Puntare sulle alternative per la collina torinese»|sito=www.torinocronaca.it|data=2026-10-11|accesso=2026-11-03}}</ref>
+
+==Note==
+<references/>
+
+==Voci correlate==
+*[[Raccordo autostradale 10]]
+
+==Altri progetti==
+{{interprogetto}}
+
+==Collegamenti esterni==
+* {{cita web | 1 = http://traffico.octotelematics.it/ | 2 = (Octotelematics): Monitoraggio in tempo reale del traffico sulla tangenziale di Torino. | accesso = 10 aprile 2008 | dataarchivio = 27 aprile 2020 | urlarchivio = https://web.archive.org/web/20200427183531/http://traffico.octotelematics.it/ | urlmorto = sì }}
+* {{cita web | url = http://www.ativa.it/ATIVA/progressive.html | titolo = Le progressive chilometriche nel sito del gestore | urlmorto = sì }}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}{{Portale|Torino|trasporti}}
+
+[[Categoria:Autostrade in Italia|A55]]
+[[Categoria:Tangenziali in Italia|Torino]]
+[[Categoria:Progetti di Torino]]

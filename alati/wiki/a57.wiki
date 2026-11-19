@@ -1,0 +1,322 @@
+{{Strada
+|nome = Autostrada A57
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale di Mestre
+|simbolo = Autostrada A57 Italia.svg
+|nome precedente = [[Autostrada A4 (Italia)|A4]]
+|nome successivo = 
+|divisione amm 1 = {{IT-VEN}}
+|divisione amm 2 ={{IT-VE}}<br />{{IT-TV}} 
+|inizio = [[Autostrada A4 (Italia)|A4]] al km 374,6
+|fine = [[Autostrada A4 (Italia)|A4]] al km 407
+|lunghezza = 26,7<ref name=t>{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=291&ramo=1&code=A57&link=&tipo=|titolo=TE Online}}</ref>
+|direzione = 
+|apertura = [[1972]]<ref name=e>{{cita testo|url=http://www.cocit.org/cocit/lastoriadellatangenziale/lastoriadellatangenziale.htm|titolo=La storia della tangenziale|urlarchivio=https://web.archive.org/web/20110725183702/http://www.cocit.org/cocit/lastoriadellatangenziale/lastoriadellatangenziale.htm }}</ref> (tratto centrale)
+|provvedimento istituzione = 
+|gestore = * [[Concessioni Autostradali Venete|CAV]] (Barriera Venezia Ovest-Aeroporto)
+* [[Società Autostrade Alto Adriatico]] (A27-Barriera Venezia Est)
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]] nel tratto A4 ovest-Venezia Marghera e Quarto d'Altino-A4 est. [[Gratis|Gratuito]] nella tratta centrale.
+|città servite = 
+|intersezioni = 
+|europea1 = 55
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A57.svg
+|tracciato = Tangenziale di mestre.svg
+}}
+La '''tangenziale di Mestre''', ufficialmente classificata come '''autostrada A57'''<ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |titolo=A pag. 8 |accesso=8 maggio 2010 |urlarchivio=https://web.archive.org/web/20131016102523/http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |urlmorto=sì }}</ref><ref>Nonostante in Italia il concetto di ''[[tangenziale]]'' non sia né menzionato né di conseguenza spiegato nel [[Codice della Strada]], in alcuni segnali stradali l'A57 è definita tangenziale. Esempi:<br />
+* {{cita web|url=https://upload.wikimedia.org/wikipedia/commons/c/ca/Tangenziale_di_Mestre_-_A57.JPG|titolo=il segnale stradale di ''conferma distanze'' posto nell'A57 in direzione est prima dello svincolo di Mirano-Dolo;}}
+* {{cita testo|url=https://upload.wikimedia.org/wikipedia/commons/e/e7/VIABILITà_a_Mestre.jpg|titolo=la segnaletica (installata dopo l'apertura del ''passante'') situata nella rotonda nei pressi del cimitero di Mestre.}}</ref> dall'8 febbraio [[2009]] (giorno dell'apertura del [[Passante di Mestre]], variante dell'[[Autostrada A4 (Italia)|autostrada A4]]), collega la [[Venezia|terraferma veneziana]] con la [[Riviera del Brenta]] (a ovest) e i comuni di [[Quarto d'Altino]] e [[Marcon]] (a est). Inoltre l'A57 alle due estremità presenta le interconnessioni (ovest e est) con l'[[Autostrada A4 (Italia)|autostrada A4]], mentre nel tratto centrale hanno inizio l'[[Autostrada A27 (Italia)|autostrada A27]] e la [[#Diramazione aeroporto|diramazione]] per l'[[Aeroporto di Venezia-Tessera|aeroporto Marco Polo]].
+
+È gestita da [[Concessioni Autostradali Venete S.p.A.|CAV]]<ref name=t/><ref name=a>{{cita web|url=http://www.autovepd.it/bandicav/src/cav_08_09/08-2009%20bando%20imp.%20TELEMATICI.pdf|titolo=Bando di gara della CAV dove al punto II.1.2 vengono descritte le tratte di competenza|urlarchivio=https://web.archive.org/web/20150324111226/http://www.autovepd.it/bandicav/src/cav_08_09/08-2009%20bando%20imp.%20TELEMATICI.pdf }}</ref>, dal km 0 al km 16,161<ref>{{cita web|url=http://www.cavspa.it/files/la%20carta%20dei%20servizi.pdf|titolo=Carta dei Servizi CAV SpA|urlarchivio=https://web.archive.org/web/20140826133743/http://www.cavspa.it/files/la%20carta%20dei%20servizi.pdf }}</ref>, e da [[Società Autostrade Alto Adriatico]]<ref>{{cita web|url=http://www.autovie.it/cartografia.aspx|titolo=Le tratte gestite da Autovie Venete, in verde|urlarchivio=https://web.archive.org/web/20090606034032/http://www.autovie.it/Cartografia.aspx }}</ref>, dal km 16,161 al km 26,661. Fino al 29 novembre [[2009]] il tratto oggi gestito da CAV era affidato alla [[Società delle Autostrade di Venezia e Padova]]<ref name=b>{{cita testo|url=http://www.italiaoggi.it/giornali/dettaglio_giornali.asp?preview=false&accessMode=FA&id=1583762&codiciTestate=1|titolo=L'articolo di Italia Oggi}}</ref><ref name="d">{{Cita web|url=http://www.marketpress.info/notiziario_det.php?art=82500|titolo=PASSANTE DI MESTRE. GALAN: IL PRIMO CASO ITALIANO DI FEDERALISMO AUTOSTRADALE TROVA APPLICAZIONE IN VENETO. FATTI, NON PAROLE|accesso=3 marzo 2024}}</ref><ref>{{Cita web|url=http://www.autovepd.it/index.php?option=com_content&view=article&id=45&Itemid=13 |titolo=Le tratte gestite da Società delle Autostrade di Venezia e Padova|urlarchivio=https://web.archive.org/web/20110722024446/http://www.autovepd.it/index.php?option=com_content&view=article&id=45&Itemid=13}}</ref>.
+
+== Storia ==
+La [[tangenziale]] di [[Mestre]] è stata costruita e aperta al traffico in diverse fasi:
+
+* il tratto dall'interconnessione ovest con l'A4 alla barriera di Venezia Ovest è stato aperto il 15 ottobre del [[1933]]<ref>{{Cita web|url=http://www.fondazionenordest.net/Autostrade_di_Venezia_e_Padova.277.0.html |titolo=La data dell'inaugurazione dal sito della Fondazione Nord Est|urlarchivio=https://web.archive.org/web/20091003011314/http://www.fondazionenordest.net/Autostrade_di_Venezia_e_Padova.277.0.html }}</ref>, come autostrada Padova-Venezia;
+* il tratto dall'interconnessione con l'A27 alla barriera Venezia Est è stato aperto il 22 febbraio del [[1970]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=Cronologia delle autostrade in Italia; per il tratto in questione vedere, nella prima colonna, A04 e fare riferimento al tratto Mestre-Sistiana |accesso=24 giugno 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>, come autostrada A4 Venezia-Trieste;
+* il tratto centrale, dalla barriera di Venezia Mestre all'interconnessione con l'A27, è stato aperto il 3 settembre [[1972]]<ref name=e/> come tratto urbano ([[tangenziale]]) di Mestre dell'autostrada A4 Torino-Trieste, funzionando da bretella di collegamento tra i due tratti autostradali scollegati. Questo tratto è stato progettato nel 1968<ref>Pubblicazione ''Progetto Mestre '900'' edito dal Comune di Venezia nel 2007</ref> e previsto sin dal Piano regolatore del comune di Venezia del 1959<ref>{{cita testo|url=http://www.cocit.org/cocit/archivio/ilvallicodimestre/IlVallicoDiMestre.pdf|titolo=Pag. 14|urlarchivio=https://web.archive.org/web/20160304122507/http://www.cocit.org/cocit/archivio/ilvallicodimestre/IlVallicoDiMestre.pdf }}</ref>.
+
+I tre tratti, diventati dal [[1972]] un'unica autostrada (l'A4 Torino-Trieste), sono stati classificati come autostrada A57 a partire dall'apertura, l'8 febbraio [[2009]], della variante dell'autostrada A4 in prossimità di [[Mestre]], variante conosciuta come [[Passante di Mestre]].
+
+Il 29 luglio [[1967]], alla presenza del ministro [[Giusto Tolloy|Tolloy]], venne inaugurato il raccordo fra la rotatoria posta al termine dell'[[autostrada Padova-Venezia]] e il [[Ponte della Libertà]].<ref>{{Cita pubblicazione |titolo = Inaugurata a Mestre la prima parte dei raccordi fra l'autostrada A4 e la zona industriale di Marghera |rivista = [[Le Strade]] |volume = anno XLVII |numero = 8/9 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1967 |mese = agosto/settembre |pp = 690-691 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1559#page/864/mode/2up }}</ref>
+
+== L'autostrada oggi ==
+* Dall'interconnessione ovest con l'[[Autostrada A4 (Italia)|A4]] fino alla barriera di Venezia Ovest - Mestre, l'A57 è a tre corsie per senso di marcia più corsia di emergenza (fino al 1991 il tratto era a due corsie più quella di emergenza<ref name=l>{{Cita web |url=http://www.autovepd.it/index.php?option=com_content&view=article&id=11&Itemid=12 |titolo=La storia, dal sito Autostrada VePd |accesso=15 maggio 2009 |urlarchivio=https://web.archive.org/web/20110722024639/http://www.autovepd.it/index.php?option=com_content&view=article&id=11&Itemid=12 |urlmorto=sì }}</ref>).
+Ci sono due caselli: il primo è  [[Mirano]] - [[Dolo (Italia)|Dolo]] (in località [[Vetrego]]) ; il secondo è [[Mira (Italia)|Mira]], in località [[Borbiago]].
+
+* Dalla barriera di [[Venezia]] Ovest fino all'interconnessione con l'[[Autostrada A27 (Italia)|Autostrada A27]] è a [[Terza corsia dinamica|tre corsie dinamiche]] (a larghezza ridotta a 3,50 metri) per senso di marcia con pannelli luminosi (''pannelli a messaggio variabile'') che ne segnalano l'eventuale chiusura e i limiti di velocità e con piazzole per la sosta di emergenza ogni 600-700 metri.
+* Dall'interconnessione con l'[[Autostrada A27 (Italia)|Autostrada A27]] fino alla barriera Venezia Est è a due corsie per senso di marcia più corsia di emergenza. In questo tratto, in entrambe le carreggiate, sono state installate tra il 2009 e marzo 2010 le barriere fonoassorbenti<ref>{{Cita web |url=http://carta.ilgazzettino.it/MostraStoria.php?TokenStoria=438966&Data=20100321&CodSigla=VE |titolo=L'articolo del Gazzettino del 21 marzo 2010 |accesso=21 marzo 2010 |urlarchivio=https://web.archive.org/web/20150323131138/http://carta.ilgazzettino.it/MostraStoria.php?TokenStoria=438966&Data=20100321&CodSigla=VE |urlmorto=sì }}</ref>.
+
+<gallery>File:A57 Venezia Ovest- Venezia.JPG|Carreggiata tipo del tratto ''Interconnessione ovest [[Autostrada A4 (Italia)|A4]]''-''barriera Venezia Ovest''
+File:A57 TAN MESTRE6.JPG|Carreggiata tipo del tratto ''barriera Venezia Ovest''-''Interconnessione [[Autostrada A27 (Italia)|A27]]''
+File:A57 PMV dir est.JPG|Carreggiata tipo del tratto ''Interconnessione [[Autostrada A27 (Italia)|A27]]''-''Interconnessione est [[Autostrada A4 (Italia)|A4]]''</gallery>
+
+=== Strada europea ===
+L'autostrada A57, dal km 9,7 fino all'interconnessione Est con l'[[Autostrada A4 (Italia)|autostrada A4]], coincide con parte del percorso italiano della [[Strada europea E55]] che collega [[Helsingborg]], in [[Svezia]], a [[Kalamáta]], in [[Grecia]]. L'E55 prosegue, da un lato, nell'[[Autostrada A4 (Italia)|autostrada A4]], in direzione [[Trieste]], e, dall'altro lato, nella [[strada statale 309 Romea]] (la quale ha inizio dalle uscite per [[Ravenna]] dal km 9,7 al km 11,5).
+
+=== Limiti di velocità ===
+Pur essendo classificata come [[autostrada]] l'A57 in molti suoi tratti ha limiti inferiori a quello stabilito dal [[Codice della Strada]] italiano per le autostrade (130&nbsp;km/h).
+
+==== Carreggiata ovest-est ====
+[[File:Svincolo Romea dell'A57 direzione est.jpg|thumb|L'A57 in direzione est nei pressi del km 10,3]]
+Dall'interconnessione ovest con l'A4 fino alla barriera di Venezia Ovest il limite di velocità massimo è pari a 130&nbsp;km/h (tranne nei pressi dei due svincoli intermedi dove la velocità massima consentita è pari a 110&nbsp;km/h); dalla barriera di Venezia Ovest fino all'interconnessione con l'A27 (tratto dove è attiva la [[terza corsia dinamica]]) se sono attive tutte e tre le corsie la velocità massima consentita nella corsia di destra è 60&nbsp;km/h nelle altre due è 90&nbsp;km/h mentre se sono attive due corsie la velocità massima consentita nella corsia di destra è 60&nbsp;km/h nell'altra è 90&nbsp;km/h (per i mezzi pesanti con massa a pieno carico superiore alle 3,5 tonnellate la velocità massima è 60&nbsp;km/h in ogni caso; inoltre se la segnaletica luminosa è spenta la velocità massima consentita è pari 50&nbsp;km/h in ogni corsia per tutti i veicoli); dall'interconnessione con l'A27 fino all'interconnessione est con l'A4 la velocità massima consentita è 130&nbsp;km/h.
+
+In tutta l'interezza della carreggiata la velocità massima consentita per tutti i mezzi in caso di nebbia è 50&nbsp;km/h. I limiti nei pressi delle barriere di Venezia Ovest e di Venezia Est e nei pressi delle interconnessioni est e ovest con l'A4 sono più bassi per permettere le operazioni collegate al pagamento del pedaggio e per adeguare la velocità nelle rampe di accelerazione e decelerazione.
+
+==== Carreggiata est-ovest ====
+[[File:AUTOSTRADA A57---TANGENZIALE DI MESTRE TRA MARCON E L'A27.jpg|left|thumb|L'A57 in direzione ovest tra lo svincolo di Marcon e l'interconnessione con l'A27]]
+Dall'interconnessione est con l'A4 fino allo svincolo di Marcon la velocità massima consentita è 130&nbsp;km/h; dallo svincolo di Marcon fino all'interconnessione con l'A27 la velocità massima è 110&nbsp;km/h per i veicoli con massa a pieno carico inferiore alle 3,5 tonnellate altrimenti la velocità massima consentita è 60&nbsp;km/h; dall'interconnessione con l'A27 fino alla barriera di Venezia Ovest (tratto dove è attiva la [[terza corsia dinamica]]) se sono attive tutte e tre le corsie la velocità massima consentita nella corsia di destra è 60&nbsp;km/h nelle altre due è 90&nbsp;km/h mentre se sono attive due corsie la velocità massima consentita nella corsia di destra è 60&nbsp;km/h nell'altra è 90&nbsp;km/h (per i mezzi pesanti con massa a pieno carico superiore alle 3,5 tonnellate la velocità massima è 60&nbsp;km/h in ogni caso; inoltre se la segnaletica luminosa è spenta la velocità massima consentita è pari 50&nbsp;km/h in ogni corsia per tutti i veicoli); dalla barriera di Venezia Ovest fino all'interconnessione ovest con l'A4 la velocità massima consentita è 130&nbsp;km/h.
+
+In tutta l'interezza della [[carreggiata]] la velocità massima consentita per tutti i mezzi in caso di nebbia è 50&nbsp;km/h. I limiti nei pressi delle barriere di Venezia Ovest e di Venezia Est e nei pressi delle interconnessioni est e ovest con l'A4 sono più bassi per permettere le operazioni collegate al pagamento del pedaggio e per adeguare la velocità alle rampe di accelerazione e decelerazione.
+
+=== Divieti ===
+[[File:Autostrada A57 - Tangenziale di Mestre.JPG|thumb|L'A57 in direzione ovest tra lo svincolo di Mirano-Dolo e l'interconnessione ovest con l'A4]]
+Dall'ottobre del 2004 sono vietate le segnalazioni acustiche dalle 22.00 alle 6.00 nel tratto ''barriera Venezia Ovest-Svincolo via Terraglio'' in entrambe le direzioni<ref>{{Cita web|url=https://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2004/10/11/VM5VM_VM502.html|titolo=Tangenziale, stop ai clacson - la Nuova di Venezia|sito=Archivio - la Nuova di Venezia|data=11 ottobre 2004|lingua=it|accesso=3 marzo 2024}}</ref>.
+
+I mezzi pesanti non possono occupare tutte le corsie ma possono occupare solo alcune corsie in modo differente in base al tratto percorso:
+* nel tratto ''interconnessione ovest A4-barriera Venezia Ovest'' in entrambe le direzioni possono utilizzare le due corsie di destra e non la terza;
+* nel tratto ''barriera Venezia Ovest-interconnessione A27'' possono occupare solo la corsia di destra ad esclusione dei seguenti brevi tratti: ''barriera Venezia Ovest - [[via Miranese]]'' in direzione est e ''interconnessione A27 - via Terraglio'' in direzione ovest dove possono utilizzare le due corsie di destra quando sono usufruibili tutte e tre le corsie;
+* nel tratto ''interconnessione A27-interconnessione est A4'', in entrambe le direzioni, i mezzi pesanti superiori alle 12 tonnellate e le [[autovettura|autovetture]] trainanti un [[Rimorchio#Rimorchi per autovetture|rimorchio]], dalle 6.00 alle 21.00, possono occupare solo la corsia di destra.
+
+=== L'emergenza traffico, il ''Passante di Mestre'' e la ''Terza corsia dinamica'' ===
+Il tratto centrale, il più trafficato, della tangenziale di Mestre, aperto nel [[1972]] a 2 corsie di marcia più corsia di emergenza, è stato progettato per sopportare il passaggio di 55.000 veicoli al giorno. Con il passare degli anni e con la caduta del [[Muro di Berlino#La caduta|Muro di Berlino]] e la conseguente apertura ad est dei traffici commerciali e turistici il traffico è aumentato di anno in anno<ref name=e/>, superando abbondantemente le previsioni del 1972. Anche le previsioni di aumento del traffico del [[1990]] della Regione Veneto si sono rivelate sottostimate in quanto prevedevano la saturazione della tangenziale nel [[2010]] ma con 110.000 transiti al giorno<ref>Corriere della Sera-Ed. nazionale del 2 agosto 2009, pagina 9</ref>.
+[[File:Piazzola d'emergenza nell'A57.jpg|upright=0.8|left|thumb|Una delle numerose piazzole per la sosta di emergenza nel tratto dove è stata costruita la [[terza corsia dinamica]]]]
+Infatti nei primi [[anni 2000]] i veicoli che transitavano erano circa 150.000 (30% mezzi pesanti) al giorno (con punte di 170.000), rendendo la tangenziale del tutto inadeguata, e ciò ha provocato inquinamento atmosferico e continui intasamenti con ripercussioni sulla viabilità urbana<ref name=e/>. Per questi motivi il 28 febbraio [[2003]] è stato dichiarato dal ''Presidente del Consiglio dei Ministri'' [[Silvio Berlusconi]] lo stato d'emergenza per il traffico di Mestre<ref>{{cita testo|url=http://www2.regione.veneto.it/videoinf/giornale/newgiornale/71/passante.htm|titolo=Articolo della Regione Veneto|urlarchivio=https://web.archive.org/web/20130616025233/http://www2.regione.veneto.it/videoinf/giornale/newgiornale/71/passante.htm }}</ref>, il 19 marzo [[2003]] è stato nominato un ''Commissario delegato per l'emergenza socio economico ambientale della viabilità di Mestre'' (che doveva rimanere in carica fino al 30 novembre [[2009]]<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=741449&Data=20090818&CodSigla=PG|titolo=L'articolo del Gazzettino del 18 agosto 2009|postscript=nessuno|urlarchivio=https://web.archive.org/web/20140826114443/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=741449&Data=20090818&CodSigla=PG }}</ref> ma l'incarico è stato prorogato il 27 novembre [[2009]]<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraStoria.php?TokenStoria=76013&Data=20091128&CodSigla=VE|titolo=Il Gazzettino 28/11/2009|postscript=nessuno|urlarchivio=https://web.archive.org/web/20140826114604/http://carta.ilgazzettino.it/MostraStoria.php?TokenStoria=76013&Data=20091128&CodSigla=VE }}</ref>) con il compito, tra gli altri, di curare la costruzione del [[Passante di Mestre]], è stata costruita la [[terza corsia dinamica]] (entrata in funzione il 14 aprile [[2003]]<ref name="o">{{Cita web|url=https://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2004/04/18/VM7VM_VM701.html|titolo=Un anno di terza corsia, dimezzati gli incidenti - la Nuova di Venezia|sito=Archivio - la Nuova di Venezia|data=18 aprile 2004|lingua=it|accesso=3 marzo 2024}}</ref>) nel tratto barriera Venezia Mestre-interconnessione autostrada A27 ed è stato costruito il [[passante di Mestre]], variante dell'[[Autostrada A4 (Italia)|autostrada A4]], per evitare il transito in tangenziale dei veicoli non diretti verso la terraferma di [[Venezia]].[[File:Svincolo per l'A27 direzione est dell'A57.jpg|upright=0.8|thumb|Il bivio per l'A27 in direzione est]] La [[terza corsia dinamica]], costruita come soluzione tampone per l'emergenza traffico, nei primi tre anni di funzionamento ha parzialmente diminuito gli intasamenti, ha aumentato del 30,35% la velocità di movimento dei veicoli e ha ridotto del 70% il tasso di incidentalità.<ref>{{Cita web|url=https://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2007/04/01/VMAVM_VMA01.html|titolo=«A4, apriamo al traffico la corsia d'emergenza» - la Nuova di Venezia|sito=Archivio - la Nuova di Venezia|data=1º aprile 2007|lingua=it|accesso=3 marzo 2024}}</ref>
+A un mese dall'apertura del Passante di Mestre, il traffico è calato dal 20 al 30%<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=414603&Data=20090314&CodSigla=PG|titolo=L'articolo del Gazzettino del 14 marzo 2009|urlarchivio=https://web.archive.org/web/20150323074526/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=414603&Data=20090314&CodSigla=PG }}</ref> nel tratto centrale della tangenziale di Mestre, mentre del 15% complessivamente (con punte più elevate per il traffico pesante<ref>{{Cita web|url=https://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2009/03/14/VMBPO_VMB01.html|titolo=A27 chiusa al traffico giovedì prossimo - la Nuova di Venezia|sito=Archivio - la Nuova di Venezia|data=14 marzo 2009|lingua=it|accesso=3 marzo 2024}}</ref>). Nei primi mesi di apertura del ''[[Passante di Mestre]]'' alla barriera di Venezia Ovest sono transitati mediamente 45&nbsp;000 veicoli leggeri e 12&nbsp;000 veicoli pesanti (circa 57&nbsp;000 passaggi complessivi) al giorno, contro i 61&nbsp;000 veicoli leggeri e 24&nbsp;000 veicoli pesanti (circa 85&nbsp;000 veicoli complessivi) al giorno del 2008, mentre nel tratto [[Via Miranese]] - [[Strada statale 245 Castellana|Via Castellana]] sono transitati mediamente, in un giorno feriale, 99&nbsp;000 veicoli contro i 114&nbsp;000 veicoli del 2008<ref>{{Cita web |url=http://www.ilgazzettino.it/articolo.php?id=56765&sez=NORDEST |titolo=L'articolo del Gazzettino -  |accesso=3 maggio 2009 |urlarchivio=https://web.archive.org/web/20150121150134/http://www.ilgazzettino.it/articolo.php?id=56765&sez=NORDEST |urlmorto=sì }}</ref>. I transiti di veicoli leggeri alla barriera di Venezia Mestre sono diminuiti del 30%, nel periodo dall'8 febbraio [[2009]] (giorno di apertura del [[Passante di Mestre]]) al 30 giugno [[2009]] rispetto all'analogo periodo dell'anno precedente, mentre il calo riferito al solo transito dei mezzi pesanti è del 55%, sempre nello stesso periodo considerato<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=795098&Data=20090914&CodSigla=PG|titolo=L'articolo del Gazzettino del 14 settembre 2009|postscript=nessuno|urlarchivio=https://web.archive.org/web/20150121150525/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=795098&Data=20090914&CodSigla=PG }}</ref>.<br />L'apertura del Passante di Mestre ha ridotto di circa il 10% il traffico sulla viabilità ordinaria della terraferma (con punte del 20%) e ha raddoppiato la quota di residenti che utilizzano la tangenziale (per esempio nel tratto [[Via Miranese]] - [[Strada statale 245 Castellana|Via Castellana]] la percentuale di residenti sul totale del traffico è passata dal 20% del 2008 al 40% del 2009)<ref name=n>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=528886&Data=20090505&CodSigla=VE|titolo=L'articolo del Gazzettino del 5 maggio 2009|postscript=nessuno|urlarchivio=https://web.archive.org/web/20150121150352/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=528886&Data=20090505&CodSigla=VE }}</ref>. Inoltre con l'apertura del ''[[passante di Mestre]]'' sono diminuiti gli incidenti stradali nell'A57<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=770708&Data=20090901&CodSigla=VE|titolo=L'articolo del Gazzettino del 1º settembre 2009|postscript=nessuno|urlarchivio=https://web.archive.org/web/20150323064935/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=770708&Data=20090901&CodSigla=VE }}</ref> di quasi il 71% (la riduzione degli incidenti tra mezzi pesanti è pari all'83%) nei primi otto mesi del 2009<ref name=m>{{Cita web |url=http://carta.ilgazzettino.it/MostraStoria.php?TokenStoria=19158&Data=20091111&CodSigla=VE |titolo=L'articolo del Gazzettino dell'11 settembre 2009 |accesso=11 novembre 2009 |urlarchivio=https://web.archive.org/web/20150121144742/http://carta.ilgazzettino.it/MostraStoria.php?TokenStoria=19158&Data=20091111&CodSigla=VE |urlmorto=sì }}</ref>. Grazie al calo netto degli incidenti stradali il 25 novembre del [[2009]] sono stati aumentati di 10&nbsp;km/h i limiti massimi di velocità (da 80&nbsp;km/h a 90&nbsp;km/h nelle corsie di sinistra e da 50&nbsp;km/h a 60&nbsp;km/h nella corsia di destra<ref name=m/>); anche i limiti massimi di velocità per i mezzi pesanti sono stati aumentati di 10&nbsp;km/h (da 50 a 60&nbsp;km/h). Il Comune di Venezia (ente che non ha, attualmente, potere decisionale sulla tangenziale) è contrario a un aumento dei limiti di velocità per evitare un aumento di traffico e di conseguenza un aumento dell'inquinamento atmosferico<ref name=n/>.
+
+[[File:Code A4+a57.png|left|thumb|L'ingorgo del 1/8/2009 a Venezia Est; a destra il Passante di Mestre, a sinistra l'A57]]
+
+Nell'[[estate]] del [[2009]], rispetto alle estati precedenti, non si sono verificate code alle barriere dell'A57, dovute al maggior traffico, rispetto all'inverno, dei turisti diretti alle spiagge di [[Jesolo]], [[Bibione]], o diretti a [[Trieste]] o alla [[Croazia]], grazie all'apertura del ''Passante di Mestre''<ref>{{cita testo|url=http://www.gazzettino.it/articolo.php?id=64534&sez=NORDEST|titolo=L'articolo del Gazzettino del 4 luglio 2009|urlmorto=sì}}</ref><ref>{{cita testo|url=http://ricerca.quotidianiespresso.it/nuovavenezia/archivio/nuovavenezia/2009/07/05/VMCPO_VMC04.html|titolo=L'articolo de la Nuova Venezia del 5 luglio 2009}}</ref><ref>{{cita testo|url=http://www.ilmessaggero.it/articolo.php?id=64537&sez=HOME_INITALIA|titolo=L'articolo del Messaggero -|urlmorto=sì}}</ref>. Il 1º agosto [[2009]], a causa dell'ingorgo di 50&nbsp;km nell'A4 tra Venezia Ovest e Cessalto, il [[Passante di Mestre]]<ref>{{Cita web |url=http://www.gazzettino.it/articolo.php?id=67883&sez=NORDEST |titolo=L'articolo del Gazzettino del 1º agosto 2009 |accesso=1º agosto 2009 |urlarchivio=https://web.archive.org/web/20090805075631/http://www.gazzettino.it/articolo.php?id=67883&sez=NORDEST |urlmorto=sì }}</ref> è stato chiuso per un'ora e mezza in direzione Trieste, dirottando il traffico nell'ex tratto urbano dell'A4 (l'A57), causando però a sua volta code di 3/4&nbsp;km in direzione est alle barriere di Venezia Ovest e Venezia Est dell'A57.
+
+{{Vedi anche|Passante di Mestre}}
+
+=== Sistema M.A.R.C.O. e T3-Terza corsia dinamica ===
+Nel tratto barriera Venezia Ovest e interconnessione con l'autostrada A27 sono in funzione due sistemi: il ''sistema M.A.R.C.O.'' e la ''[[terza corsia dinamica]]-T3''.
+
+[[File:Pannelli a messaggio variabile a Mestre dell'Autostrada A57.jpg|upright=0.8|thumb|Un pannello a messaggio variabile]] Il sistema M.A.R.C.O., entrato in funzione nei primi anni del 2000, svolge 4 funzioni:
+
+* monitora continuamente il traffico attraverso sensori distribuiti lungo il tratto di tangenziale in grado di rilevare l'esatto numero di veicoli presenti e la loro velocità;
+* controlla la situazione del tratto di tangenziale attraverso telecamere;
+* informa gli utenti sulle condizioni del traffico attraverso pannelli a messaggio variabile presenti sia nel tratto di tangenziale sia in alcuni punti strategici della [[terraferma veneziana]];
+* regola gli accessi nel tratto di tangenziale attraverso semafori presenti lungo le corsie di accelerazione; in caso di traffico rallentato o bloccato gli accessi in tangenziale vengono razionati attraverso i semafori; in questo modo il traffico è più fluido, i cosiddetti "stop and go" sono ridotti e la probabilità di incidenti è minore.
+
+Tutti i dati raccolti dal sistema M.A.R.C.O. vengono trasmessi a un ''Centro di Controllo'' che è in grado di elaborare previsioni sul traffico, regolare i tempi di attesa nei semafori sulle corsie di accelerazione e gestire i pannelli a messaggio variabile.
+{{Approfondimento
+|allineamento = sinistra
+|larghezza = 300px
+|titolo=Schema di funzionamento<br />
+della terza corsia dinamica
+|contenuto=
+[[File:File-Dynamic lane italian.gif|upright=1.2|left|thumb|Schema di funzionamento della [[terza corsia dinamica]] attraverso i pannelli a messaggio variabile.<br />
+Nel 1º caso sono utilizzabili tutte e tre le corsie, come corsie di marcia; nel 2º caso la corsia di marcia di destra deve essere sgombrata perché è prossima la sua chiusura (diventando corsia d'emergenza); nel 3º caso solo le due corsie di sinistra sono corsie di marcia utilizzabili poiché quella di destra funziona da corsia di emergenza.]]
+}}
+
+La [[terza corsia dinamica]], ''sistema T3'', entrata in funzione il 14 aprile 2003<ref name=o/>, è stata costruita, come soluzione d'emergenza, per risolvere parzialmente il problema traffico in attesa dell'apertura del [[Passante di Mestre]]. Il progetto della terza corsia dinamica è stato approvato nella ''Conferenza di Servizi'' del 26/10/1999 ed è stato fortemente voluto dalle categorie economiche, dagli Enti Locali, dalle concessionarie autostradali e sostenuto dal Governo<ref name=e/>. Non potendo allargare le carreggiate in mancanza di spazio e per i costi elevati, la corsia d'emergenza è stata trasformata in corsia dinamica (in base alle necessità o di marcia o di emergenza) e le precedenti due sono state ristrette: in questo modo si è passati da 2 corsie larghe 3,75 metri più corsia di emergenza per senso di marcia a 3 corsie larghe 3,5 metri per senso di marcia. Il sistema M.A.R.C.O. gestisce l'apertura o la chiusura della corsia dinamica, in base al livello del traffico, attraverso pannelli a messaggio variabile.
+{{Vedi anche|Terza corsia dinamica}}
+Per sopperire alla mancanza della corsia d'emergenza sono state costruite 22 piazzole d'emergenza con colonnine SOS e con idranti ogni 600-700 metri circa e sono stati costruiti varchi d'emergenza (ogni 80-100 metri circa) e percorsi pedonali esterni per consentire, in caso di incidenti o blocchi del traffico, delle vie di fuga per gli automobilisti o per i passeggeri per raggiungere aree sicure. Per motivi di sicurezza sono stati adeguati i guard-rail, sono stati modificati i profili delle rampe d'entrata e uscita degli svincoli, è stato costruito un impianto antincendio e sono state realizzate aree di sosta per i mezzi di soccorso. Il sistema ''T3-[[Terza corsia dinamica]]'' ha reso possibile anche la costruzione di opere sia di mitigazione acustica sia di bonifica ambientale e la costruzione di barriere fonoassorbenti.
+
+=== Richieste del Comune di Venezia ===
+[[File:Cavalcavia autostrada A57 a Cipressina.jpg|upright|thumb|Un cavalcavia dell'A57 nella terraferma veneziana. La zona sottostante è stata trasformata in parcheggio di scambio.]] La tangenziale di Mestre attraversa per circa 13&nbsp;km (i più trafficati) il territorio comunale di [[Venezia]]. Fin dall'apertura nel 1972, la tangenziale ha creato problemi di tipo ambientale derivanti dall'inquinamento atmosferico dei gas di scarico e problemi sul tessuto urbano della [[terraferma veneziana]], in quanto, con lo sviluppo urbanistico e l'espansione della città nelle zone a nord, la tangenziale ha creato degrado urbano (in particolare in corrispondenza dei cavalcavia) e una divisione tra le diverse zone della terraferma.
+
+Il Comune di Venezia nel 2008, per mantenere gli attuali benefici (in particolare meno traffico e meno inquinamento atmosferico) derivanti dal [[Passante di Mestre]], ha richiesto che il tratto tra la barriera di Venezia Ovest e l'interconnessione con l'autostrada A27 venga dato in gestione al Comune stesso e venga declassato a strada urbana per deviare il traffico di attraversamento che preferisce percorrere ancora la tangenziale (anziché il Passante di Mestre)<ref name=n/><ref name=q>{{cita testo|url=http://nuovavenezia.gelocal.it/dettaglio/cacciari-adesso-gestiamo-noi-la-tangenziale/1565360?ref=search|titolo=L'articolo de La Nuova Venezia del 21 dicembre 2008}}</ref>. Il Cocit (''Coordinamento contro l'inquinamento da Tangenziale'') ha organizzato una "raccolta firme" (il [[sindaco]] [[Massimo Cacciari]] durante il suo mandato è stato tra i primi firmatari) per promuovere e appoggiare la richiesta del Comune di Venezia<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=615587&Data=20090612&CodSigla=VE|titolo=L'articolo del Gazzettino del 12 giugno 2009|urlarchivio=https://web.archive.org/web/20150323070355/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=615587&Data=20090612&CodSigla=VE }}</ref>.
+
+=== Denominazioni ufficiali e alternative ===
+
+Con l'apertura del [[Passante di Mestre]], la tangenziale di Mestre ha cambiato numerazione: non più A4 ma A57. Molti dei segnali stradali non sono stati ancora cambiati (ad esempio percorrendo l'A57 in direzione est provenendo dall'interconnessione ovest con l'A4, è presente l'indicazione ''A4-Venezia'' e non l'indicazione corretta ''A57-Venezia'') o integrati (ad esempio provenendo dall'[[Autostrada A27 (Italia)|A27]] da [[Belluno]], per accedere all'A57 è necessario seguire l'indicazione ''A4 Trieste'' o ''A4 Venezia'') e recano pertanto solo l'indicazione A4.
+
+La nuova numerazione è già presente, per esempio, sulle segnalazioni poste in A4 per accedere all'A57, su quelle in prossimità del nuovo svincolo di [[Quarto d'Altino]] (aperto in funzione del Passante di Mestre, circa 3&nbsp;km più a ovest rispetto al precedente), sulla nuova segnaletica nella rotonda via Giovanni da Verazzano-via Santa Maria dei Battuti a [[Mestre]], nella nuova viabilità nei pressi di [[Vetrego]] e sui pannelli integrativi posti in prossimità dei cavalcavia in A57. La denominazione A57 è sconosciuta ai più<ref>{{Cita web|url=https://www.skyscrapercity.com/threads/venezia-passante-autostradale-di-mestre.173328/|titolo=VENEZIA {{!}} Passante autostradale di Mestre|sito=SkyscraperCity Forum|data=17 giugno 2007|lingua=en|accesso=3 marzo 2024}}</ref>; infatti l'A57 è comunemente chiamata semplicemente ''tangenziale''<ref>{{cita testo|url=http://www.ilmessaggero.it/articolo.php?id=70405&sez=HOME_INITALIA|titolo=L'articolo del Messaggero del 21 agosto 2009 -|urlmorto=sì}}</ref> (nel tratto Quarto d'Altino-barriera Venezia Mestre) o ''autostrada (A4)'' (nel tratto Dolo-barriera Venezia Ovest).
+
+<gallery>
+File:Bivio per l'A57 in A4 da Trieste.jpg| Il primo bivio in A4, in direzione Milano, per l'A57
+File:Accesso A57 Quarto d'Altino.jpg| Lo svincolo per l'A57 di Quarto d'Altino
+File:Indicazioni a vetrego.JPG|La nuova segnaletica nei pressi di Vetrego
+File:Cavalcavia n°8 A57.png| Il pannello integrativo indicante il cavalcavia 8</gallery>
+
+=== Pedaggio ===
+[[File:Uscita terraglio direzione est autostrada A57.PNG|upright=0.8|left|thumb|L'indicazione Venezia integrata dalla scritta ''Ultima uscita'' in prossimità dello svincolo del ''Terraglio'' in direzione Est.]] Dal [[1972]] al [[1991]] la tangenziale era priva di pedaggio dalla barriera di Venezia Ovest allo svincolo di ''via Terraglio'' poiché la barriera (la struttura è stata completamente demolita il 1º ottobre [[2005]]<ref>{{Cita web|url=https://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2005/09/29/VM9VM_VM902.html|titolo=Va giù il casello, la tangenziale chiude - la Nuova di Venezia|sito=Archivio - la Nuova di Venezia|data=29 settembre 2005|lingua=it|accesso=3 marzo 2024}}</ref>) di Venezia Est si trovava tra l'interconnessione con l'autostrada A27 e lo svincolo di ''via Terraglio'' (in direzione Interconnessione Est con l'Autostrada A4 l'indicazione per ''Venezia'' dello svincolo di ''via Terraglio'' è integrata dalla scritta ''"Ultima uscita"'' a testimonianza che lo svincolo era l'ultimo senza pedaggio). Dal [[1991]], anno dell'apertura della diramazione per l'aeroporto "Marco Polo", all'8 febbraio [[2009]], la tangenziale era priva di pedaggio dalla barriera di Venezia Mestre allo svincolo di Quarto d'Altino poiché la barriera di Venezia Est era stata spostata più a est di 9&nbsp;km circa.
+
+Dall'8 febbraio [[2009]] la tangenziale-A57 è priva di pedaggio nel tratto barriera Venezia Ovest&nbsp;– barriera Venezia Est (spostata 4&nbsp;km circa più a ovest rispetto alla precedente), mentre nel tratto tra l'interconnessione Ovest A4 e la barriera Venezia Ovest si possono verificare i seguenti casi per il pedaggio:
+
+[[File:Veneziaest.png|upright=0.8|thumb|La barriera Venezia Est in direzione dell'autostrada A4.]]
+
+# i soli tratti Mirano-Dolo/barriera Venezia Ovest (e viceversa), Mira-Oriago/barriera Venezia Ovest (e viceversa) e Mira-Oriago/Mirano-Dolo (e viceversa) sono privi di pedaggio;
+# negli altri casi il pedaggio era calcolato in base allo svincolo autostradale d'entrata (in direzione barriera Venezia Mestre, provenendo dall'interconnessione ovest A4) o di uscita (provenendo dalla barriera di Venezia Ovest, da Dolo o da Mira, in direzione interconnessione ovest A4).
+
+Nel caso 2, provenendo dall'interconnessione ovest con l'A4 in direzione A57-barriera [[Venezia]] Ovest, era possibile risparmiare il pedaggio (€ 2,20 per auto e moto; € 5,50 per camion autoarticolati) del tratto da Mirano-Dolo alla barriera Venezia Ovest, uscendo al casello di [[Mirano]]-[[Dolo (Italia)|Dolo]] (pagando il pedaggio maturato), 3&nbsp;km dopo l'interconnessione A4-A57, e rientrandovi per continuare verso Venezia, in quanto la tratta Mirano/Dolo{{Ln}}barriera Venezia Ovest è priva di pedaggio (rientrando nel caso 1).
+
+[[File:Casello di Mirano-Dolo in entrata.jpg|upright=0.8|left|thumb|Il casello di Mirano-Dolo in entrata.]] Lo stesso espediente poteva essere utilizzato per il percorso inverso, dalla barriera di Venezia Ovest in direzione interconnessione ovest A4<ref>{{cita web|url=http://www.ilgazzettino.it/articolo.php?id=45885&sez=REGIONI|titolo=Passante e “caro pedaggio”, come risparmiare 100 euro al mese|accesso=12 febbraio 2009|urlarchivio=https://web.archive.org/web/20090213114617/http://ilgazzettino.it/articolo.php?id=45885&sez=REGIONI|urlmorto=sì}}</ref>.<br />Secondo le stime della società di gestione dell'A57, questo espediente era utilizzato da circa 20.000 automobilisti al giorno (inizialmente erano circa 5.000)<ref name="carta.ilgazzettino.it">{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=572532&Data=20090524&CodSigla=VE|titolo=L'articolo del Gazzettino del 24 maggio 2009|postscript=nessuno|urlarchivio=https://web.archive.org/web/20150121145827/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=572532&Data=20090524&CodSigla=VE }}</ref><ref name=":0">{{Cita web|url=https://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2009/10/16/VR1VM_VR101.html|titolo=Il trucco del casello costa 14 milioni alla Ve-Pd - la Nuova di Venezia|sito=Archivio - la Nuova di Venezia|data=16 ottobre 2009|lingua=it|accesso=3 marzo 2024}}</ref> (stima della società di gestione aggiornata ad ottobre [[2009]])<ref name=":0" /> e l'utilizzo di questo espediente da parte anche dei camionisti. Era quantificato in oltre 30 milioni di euro (aggiornato ad agosto [[2009]]) il ricavo derivante dai pedaggi delle persone che non utilizzano l'espediente<ref name=p>{{cita testo|url=https://img25.imageshack.us/img25/3923/dolobarriera.jpg|titolo=L'articolo del Leggo del settembre 2009}}</ref>.
+
+La precedente società di gestione del tratto dell'A57 e del casello di Mirano-Dolo chiese alla Regione di risolvere il problema, che creava problemi anche alla viabilità ordinaria nei pressi dello svincolo di Mirano-Dolo (poiché la viabilità nei pressi del casello era gravata dalle persone che escono e rientrano)<ref name="carta.ilgazzettino.it"/>, anche se la gestione del tratto e del casello è passata 5 mesi dopo (a novembre 2009) alla Regione stessa, attraverso la società ''[[Concessioni Autostradali Venete S.p.A.|Concessioni autostradali venete]]''.
+
+Dal 1º gennaio 2014 il pedaggio è stato uniformato per le entrate/uscite da Mirano-Dolo/Mira-Oriago/barriera Venezia Ovest rendendo inutile l'entrata/uscita al casello di Mirano-Dolo. Rimane comunque gratuita la percorrenza tra i caselli dell'A57.<ref>{{Cita web |url=http://nuovavenezia.gelocal.it/cronaca/2014/01/01/news/autostrade-aumento-record-tra-mirano-e-padova-est-da-0-80-a-2-70-euro-1.8393449 |titolo=Autostrade, aumento record tra Mirano e Padova Est: da 0,80 a 2,80 euro - Cronaca - la Nuova di Venezia<!-- Titolo generato automaticamente --> |accesso=2 gennaio 2014 |urlarchivio=https://web.archive.org/web/20140102193001/http://nuovavenezia.gelocal.it/cronaca/2014/01/01/news/autostrade-aumento-record-tra-mirano-e-padova-est-da-0-80-a-2-70-euro-1.8393449 |urlmorto=sì }}</ref><ref>{{Cita web|url=http://www.ilsole24ore.com/art/impresa-e-territori/2014-01-02/la-mini-tratta-maxi-pedaggio-venezia-padova-132446.shtml?uuid=ABkrlFn|titolo=La mini tratta a maxi pedaggio sulla Venezia Padova|sito=Il Sole 24 ORE|lingua=it|accesso=3 marzo 2024}}</ref>
+
+=== Tabella percorso ===
+{| class="wikitable"
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A57 Italia.svg|30}} TANGENZIALE DI MESTRE'''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Area!!Strada europea
+|-
+| {{simbolo|AB-Kreuz-grün.svg|22}} || {{simbolo|Italian traffic signs - strada europea 70.svg|40}} {{simbolo|Autostrada A4 Italia.svg|24}} [[Autostrada A4 (Italia)|Milano-Trieste]] || align="right"| 0,0 || align="right"| 26,7 || rowspan=13 align="center"|[[Città metropolitana di Venezia|VE]] || rowspan=4 align="center"| -
+|-
+|[[File:AB-AS-grün.svg]] || [[Mirano]] - [[Dolo (Italia)|Dolo]] || align="right"| 2,7 || align="right"| 24,0
+|-
+|[[File:AB-AS-grün.svg]] || [[Mira (Italia)|Mira]] - [[Oriago]] || align="right"| 7,5 || align="right"| 19,2
+|-
+|{{simbolo|Italian traffic signs - stazione.svg}} || Barriera [[Venezia]] [[Mestre]] || align="right" | 9,2 || align="right"| 17,5
+|-
+| [[File:AB-AS-grün.svg]] || [[Marghera|Venezia - Marghera]]<br />{{simbolo|Italian traffic signs - strada europea 55.svg|40}} {{simbolo|Strada Statale 309 Italia.svg|40}} <small>[[Strada statale 309 Romea|Romea]]</small> || align="right"| 10,3 || align="right"| 15,6 || rowspan=12 align="center"|[[File:Italian traffic signs - strada europea 55.svg|45px|link=Strada europea E55]]
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Marghera" || align="right"| 11,1 ||align="right"|
+|-
+| [[File:AB-AS-grün.svg]] || [[Venezia]]<ref>uscita direzione ovest ed entrata direzione est; in uscita est ed entrata ovest è adibito il precedente svincolo di Venezia Marghera</ref><br />{{simbolo|Strada Statale 11 Italia.svg|40}} <small>[[Strada statale 11 Padana Superiore|Padana Superiore]]</small><br />{{simbolo|Italian traffic signs - icona porto.svg}} <small>''[[Porto Marghera]]''</small>|| align="right" | 11,6 || align="right"| 15,1
+|-
+|[[File:AB-AS-grün.svg]] || [[Venezia]] - [[Via Miranese]]<br />{{simbolo|Strada Provinciale 32 Italia.svg|40}} <small>[[Via Miranese|Miranese]]</small> || align="right" | 12,5 || align="right"| 14,2
+|-
+|[[File:AB-AS-grün.svg]] || [[Venezia]] - Via Castellana<br />{{simbolo|Strada Statale 245 Italia.svg|40}} <small>[[Strada statale 245 Castellana|Castellana]]</small> || align="right" | 14,5 || align="right"| 12,2
+|-
+|[[File:AB-AS-grün.svg]] || [[Venezia]] - [[Terraglio]]<br />{{simbolo|Strada Statale 14bis Italia.svg|40}} <small> [[Strada statale 14 bis di Mestre|di Mestre]] </small> || align="right" | 16,4 || align="right"| 10,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Bazzera" || align="right"| 17,7 ||align="right"| 9,0
+|-
+| {{simbolo|AB-Kreuz-grün.svg|22}} || {{simbolo|Autostrada A27 Italia.svg|24}} [[Autostrada A27 (Italia)|Belluno]]<br />{{simbolo|Autostrada A57 Italia.svg|23}} [[#Diramazione aeroporto|Diramazione aeroporto "Marco Polo"]] || align="right"| 19,5 || align="right"| 7,2
+|-
+| [[File:AB-AS-grün.svg]] || [[Marcon]] || align="right"| 21,6 || align="right"| 5,1
+|-
+| [[File:AB-AS-grün.svg]] || [[Quarto d'Altino]] || align="right"| 24,9 || align="right"| 1,8 || rowspan=2 align="center"|[[Provincia di Treviso|TV]]
+|-
+|{{simbolo|Italian traffic signs - stazione.svg}} || Barriera [[Venezia]] est || align="right" | 25,2 || align="right"| 1,5
+|-
+| {{simbolo|AB-Kreuz-grün.svg|22}} || {{simbolo|Italian traffic signs - strada europea 55.svg|40}} {{simbolo|Italian traffic signs - strada europea 70.svg|40}} {{simbolo|Autostrada A4 Italia.svg|24}} [[Autostrada A4 (Italia)|Milano-Trieste]] || align="right"| 26,7 || align="right"| 0,0 || align="center"|[[Città metropolitana di Venezia|VE]]
+|-
+|}
+
+== Lavori, idee, progetti e controversie ==
+Il progetto del ''Passante di Mestre'' prevede opere complementari anche nell'Autostrada A57:
+* lo spostamento a ovest della barriera Venezia Ovest tra l'interconnessione ovest con l'A4 e lo svincolo di Mirano-Dolo (in modo tale che le uscite di Mirano-Dolo e Mira-Oriago, oltre ad essere senza alcun pedaggio come già avviene, siano anche prive di caselli);
+* la riapertura dello svincolo diretto per Dolo in località Roncoduro (aperto nel 1991 in sostituzione dello svincolo di [[Cazzago (Pianiga)|Cazzago]] e chiuso il 12 luglio 2008 per i lavori del ''[[Passante di Mestre]]''<ref>{{cita testo|url=http://www.ridatecilcasellodidolo.com/?page_id=171|titolo=Breve cronistoria del casello di Dolo|urlarchivio=https://web.archive.org/web/20090606231059/http://www.ridatecilcasellodidolo.com/?page_id=171 }}</ref>).
+[[File:Casello mirano dolo in uscita.png|upright=1.4|thumb|left|Il casello di Mirano-Dolo in uscita]]
+Tuttavia, entrambi questi progetti sono stati sospesi<ref>{{Cita web|url=https://www.skyscrapercity.com/threads/venezia-passante-autostradale-di-mestre.173328/|titolo=VENEZIA {{!}} Passante autostradale di Mestre|sito=SkyscraperCity Forum|data=5 febbraio 2009|lingua=en|accesso=3 marzo 2024}}</ref>, suscitando contrarietà negli abitanti della zona e nei titolari delle attività produttive. Infatti, l'accesso all'A57 è attualmente svantaggioso dall'attuale casello "Mirano-Dolo" sito in località [[Vetrego]] (distante circa 5&nbsp;km dal centro di Dolo), rispetto al vecchio casello "Dolo-Mirano" già situato in località Roncoduro, per i pendolari e autotrasportatori della Riviera del Brenta che debbano raggiungere Padova o [[Venezia]] e il traffico tende a riversarsi quindi nella viabilità locale (in particolare la [[Strada statale 11 Padana Superiore|SR 11]], con un aumento del traffico del 10-15%), gravando soprattutto nei centri abitati di [[Stra]], [[Fiesso d'Artico]], [[Dolo (Italia)|Dolo]], [[Mira (Italia)|Mira]], [[Oriago]] e dove si è passati da 2000 auto al giorno a 9000<ref>{{Cita web|url=https://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2009/03/06/VPAPO_VPA01.html|titolo=«Il centro di Marano sia chiuso alle auto» - la Nuova di Venezia|sito=Archivio - la Nuova di Venezia|data=6 marzo 2009|lingua=it|accesso=3 marzo 2024}}</ref>.
+
+Il [[Ministero delle infrastrutture e dei trasporti]], rispondendo in merito a una interrogazione parlamentare, ha escluso che la barriera di Venezia Ovest venga spostata e ha escluso la riapertura, come da progetto, da accordi con gli enti locali nel 2004 e dalla delibera del [[CIPE]] del [[2003]], del casello in località Roncoduro poiché questa decisione è condivisa dalla Giunta regionale, dagli enti locali, dall'[[ANAS]] e dalla società di gestione dell'autostrada A4 Venezia-Padova e per evitare problemi alla viabilità autostradale in [[Autostrada A4 (Italia)|A4]] provenendo da [[Padova]] in direzione A57-Venezia Ovest e problemi alla viabilità ordinaria. Gli enti locali interessati hanno smentito la versione del [[Ministero]] e hanno ribadito i danni derivanti dalla mancata riapertura del casello in località Roncoduro, incluse frequenti code in uscita al casello di [[Mira (Italia)|Mira]]-[[Oriago]] causate dal mancato assorbimento del traffico dalla viabilità locale<ref name="venezia">{{Cita web|url=https://www.skyscrapercity.com/threads/venezia-passante-autostradale-di-mestre.173328/|titolo=VENEZIA {{!}} Passante autostradale di Mestre|sito=SkyscraperCity Forum|data=8 aprile 2008|lingua=en|accesso=3 marzo 2024}}</ref>, mentre ''l'Assessore Regionale alle Infrastrutture'' ha dichiarato che non si è mai parlato di riaprire il vecchio casello di Dolo-Mirano in località Roncoduro<ref name="venezia" />.
+[[File:Barriera venezia mestre.png|upright=1.8|thumb|La barriera di Venezia Mestre in direzione est]] Il ''Commissario delegato al Passante di Mestre'' ha dichiarato che il progetto di riapertura del casello in località Roncoduro non è previsto in nessun progetto e non sarebbe possibile riaprirlo nella stessa zona in cui si trovava in quanto occupata dall'autostrada A4 anche se non ha escluso, se ci sarà un accordo comune tra i vari soggetti interessati, l'apertura di uno svincolo per servire la parte occidentale della [[Riviera del Brenta]]<ref name=n/>, nella zona tra [[Arino (Dolo)|Arino]] ([[Dolo (Italia)|Dolo]]) e [[Pianiga]]<ref>{{Cita web|url=https://www.skyscrapercity.com/threads/venezia-passante-autostradale-di-mestre.173328/|titolo=VENEZIA {{!}} Passante autostradale di Mestre|sito=SkyscraperCity Forum|data=2 dicembre 2006|lingua=en|accesso=3 marzo 2024}}</ref>. Ad agosto [[2009]] è stato presentato il progetto di uno svincolo, in sostituzione di quello di Roncoduro, nell'A4 nella località Albarea di [[Pianiga]] a ovest dell'interconnessione ovest dell'A57 con l'A4<ref>{{cita testo|url=http://ricerca.quotidianiespresso.it/nuovavenezia/archivio/nuovavenezia/2009/08/05/VP1PO_VP103.html|titolo=L'articolo de la Nuova Venezia del 5 agosto 2009}}</ref>. Tale ipotesi progettuale, tuttavia, ha suscitato non poche perplessità, in quanto causerebbe la costruzione di una infrastruttura stradale di notevoli dimensioni nel pieno del [[Centuriazione del territorio di Padova|Graticolato Romano]], oltre che in una delle ultime aree verdi, tra Venezia e Padova, ancora caratterizzate da paesaggio agricolo di notevole pregio sostanzialmente intonso.
+
+Secondo le dichiarazioni ''dell'Assessore Regionale alle Infrastrutture'' la barriera di Venezia Ovest non sarà spostata, contrariamente al progetto originario del [[Passante di Mestre]] nella zona dell'interconnessione ovest con l'A57, perché potrebbero formarsi code in direzione A57 (interconnessione ovest) nell'autostrada A4 provenendo da Padova<ref name="venezia" />.
+[[File:Sistema autostradale venezia aggiornato.svg|thumb|upright=1.4|left|La ''tangenziale di Mestre'' e il sistema autostradale dell'area veneziana con la rappresentazione delle attuali barriere, di quelle dismesse e di quella in progetto di Venezia Mestre. Lo spostamento delle barriere è dovuto ai lavori del ''[[Passante di Mestre]]'']] Il ''Commissario delegato al Passante di Mestre'' invece ha dichiarato che i lavori per l'arretramento della barriera di Venezia Mestre potranno iniziare dopo la stagione turistica estiva solo se gli studi sui flussi di traffico indicheranno che non potranno formarsi code anche in A4, provenendo da Padova, in direzione A57 (interconnessione ovest)<ref name=n/>.
+Inoltre, nell'agosto del [[2009]], è stato presentato un esposto alla [[Procura della Repubblica]] di Venezia dal ''Coordinamento dei Comitati della Riviera del Brenta e del [[Miranese]]''. Il Coordinamento infatti sarebbe in possesso di atti che dimostrerebbero che la decisione di non arretrare la ''barriera di Venezia Ovest'' risalga al 5 novembre [[2007]] con la ratificazione del ''Commissario delegato per l'emergenza socio economico ambientale della viabilità di [[Venezia]]'' (che aveva il compito, tra gli altri, di curare la realizzazione del [[Passante di Mestre]]), attraverso il decreto nº 72, il 18 agosto [[2008]], nonostante nel frattempo le autorità competenti avessero ribadito che la barriera di Venezia Ovest sarebbe stata arretrata<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=746046&Data=20090820&CodSigla=VE|titolo=L'articolo del Gazzettino del 20 agosto 2009|urlarchivio=https://web.archive.org/web/20150121144220/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=746046&Data=20090820&CodSigla=VE }}</ref>. L'[[ANAS]], nel settembre del [[2009]], ha dichiarato che la barriera di Venezia Ovest deve essere spostata anche se non è stata indicata la tempistica<ref name=p/>.
+
+[[File:A57direzionest.png|thumb|L'attuale svincolo di ''[[Via Miranese]]'' in direzione est]]
+
+=== Interramento ===
+Dagli anni novanta si parla di interrare o il tratto tra la barriera di Venezia Ovest e l'interconnessione con l'autostrada A27 per un totale di circa 10&nbsp;km o un tratto più piccolo di 3&nbsp;km circa tra gli svincoli ''via Miranese'' e ''via Castellana''<ref name=q/>. L'idea di interrare la tangenziale per 10&nbsp;km sembra essere un progetto abbandonato sia per la complessità dell'opera e per i costi molto elevati sia per l'apertura del ''Passante di Mestre'' che ha tolto traffico pesante e leggero che provocava inquinamento atmosferico nella [[terraferma veneziana]], mentre non è abbandonata l'idea di interrare la tangenziale per 3&nbsp;km. L'interramento dei 3&nbsp;km della tangenziale è un progetto auspicato dal Comune di Venezia per riqualificare parte del territorio di [[Mestre]]. Nel 2008 la ''Regione Veneto'' si è resa disponibile a finanziare l'opera per 1/3 dei costi complessivi (la spesa ipotizzata è di circa 120-150 milioni di euro)<ref>{{Cita web|url=https://www.skyscrapercity.com/threads/tunnel-autostradale-sotto-mestre.538218/|titolo=Tunnel autostradale sotto Mestre|sito=SkyscraperCity Forum|data=19 marzo 2009|lingua=en|accesso=3 marzo 2024}}</ref>.
+
+== Diramazione Marco Polo ==
+{{Strada
+|nome = Autostrada A57
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Marco Polo
+|simbolo = Autostrada A57 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-VEN}}
+|divisione amm 2 ={{IT-VE}} 
+|inizio = [[Autostrada A27 (Italia)|Autostrada A27]]
+|fine = [[Strada statale 14 della Venezia Giulia|Strada statale 14]]
+|lunghezza = 6,520<ref name=i>{{Cita web |url=https://mit.gov.it/sites/default/files/media/documentazione/2020-02/22%29%202020-CAV_TDS_15012020_def_rev1.pdf |titolo=Copia archiviata |accesso=12 settembre 2022 |urlarchivio=https://web.archive.org/web/20230408003746/https://mit.gov.it/sites/default/files/media/documentazione/2020-02/22)%202020-CAV_TDS_15012020_def_rev1.pdf |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1991]]<ref name="209.85.229.132">{{cita testo|url=http://www.lotsberg.net/data/italia/autostra-2.html|urlarchivio=https://web.archive.org/web/20160407033506/http://www.lotsberg.net/data/italia/autostra-2.html|urlmorto=sì|titolo=Cronologia raccordi autostradali; per il tratto in questione vedere, nella prima colonna, R11}}</ref>
+|provvedimento istituzione = 
+|gestore =Concessioni Autostradali Venete 
+|pedaggio = Gratuita
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+[[File:Autostrada AMP Italia.svg|thumb|100px|right|Simbolo alternativo per il raccordo]]
+Anche il tratto terminale, inaugurato l'11 marzo del [[1991]]<ref name=l/><ref name="209.85.229.132"/> e costruito come infrastruttura collegata ai [[Campionato mondiale di calcio 1990|Mondiali di Calcio del 1990]]<ref>{{cita testo|url=http://www.italgiure.giustizia.it/nir/1989/lexs_122358.html|urlarchivio=https://web.archive.org/web/20070815043435/http://www.italgiure.giustizia.it/nir/1989/lexs_122358.html|urlmorto=sì|titolo=Decreto legge 1º aprile 1989}}</ref>, dell'[[Autostrada A27 (Italia)|autostrada A27]] a [[Venezia]] è gestito da CAV.
+
+Fino al 30 novembre 2009 è stato gestito dalla ''[[Società delle Autostrade di Venezia e Padova]]''<ref name=b/><ref name=d/>.
+
+=== Sigle identificative ===
+Questa [[Raccordo autostradale#Diramazioni, bretelle e raccordi autostradali|''diramazione'']]<ref name=f>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |titolo=Il sito, gestito da Autostrade per l'Italia, per le autorizzazioni ai trasporti eccezionali dove il tratto autostradale è definito ''raccordo'' ma classificato con la lettera ''D'' di ''diramazione'' |accesso=29 marzo 2009 |urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |urlmorto=sì }}</ref> (talvolta definita anche come [[Raccordo autostradale#Diramazioni, bretelle e raccordi autostradali|''bretella'']]<ref>{{Cita web|url=https://www.google.it/maps?q=Bretella+Aeroporto+Marco+Polo,+30173+Venezia,+Veneto&ie=UTF8&hl=it&cd=1&geocode=FeXCtgIdeOO7AA&split=0&ll=45.532688,12.313442&spn=0.063371,0.110378&z=13&iwloc=A|titolo=Bretella|sito=Bretella|lingua=it-US|accesso=3 marzo 2024}}</ref> o [[Raccordo autostradale#Diramazioni, bretelle e raccordi autostradali|''raccordo'']]<ref name=f/>) è segnalata in diversi modi:
+
+* è segnalata come A57 nel pannello integrativo installato nel 2009 posto in prossimità dell'unico cavalcavia presente nel tratto;
+* è segnalata dalla sigla '''MP''' (sigla che sta per Marco Polo, il nome dell'aeroporto) nella segnaletica installata nel dicembre del 2010 di inizio/fine tratta di competenza del gestore autostradale<ref>Questa è la sigla usata anche nella mappa del sito della Cav spa, si veda {{cita web |url=http://www.cavspa.it/index.php?option=com_content&view=article&id=89&Itemid=192 |titolo=Copia archiviata |accesso=20 ottobre 2013 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20121001011134/http://www.cavspa.it/index.php?option=com_content&view=article&id=89&Itemid=192 }} ove per ''AE'' s'intende "Aeroporto"</ref>;
+
+<gallery>
+File:Autostrada A57 diramazione aeroporto - segnale numerazione cavalcavia.jpg|Il pannello integrativo
+File:diramazione aeroporto a57.jpg|Il segnale di inizio tratta di competenza
+</gallery>
+
+* è classificata come ''diramazione D25'' secondo la numerazione interna di [[Autostrade per l'Italia]]<ref name=f/> o ''raccordo R11''<ref>{{cita testo|url=http://www.rai.it/RAI/Rportale/traffico/DatabaseTMC_2.pdf|titolo=Portale traffico Rai (PDF)|urlarchivio=https://web.archive.org/web/20051109070857/http://www.rai.it/RAI/Rportale/traffico/DatabaseTMC_2.pdf }}</ref><ref>{{cita testo|url=https://www.motorways-exits.com/europe/i/italy.html|titolo=Il sito ''motorways-exits''}}</ref> o ''raccordo R37''<ref>{{Cita web |url=http://www.istat.it/strumenti/rispondenti/indagini/incidentistradali/2010/modello_rilevazione_2010.pdf |titolo=Codici ISTAT per i raccordi |accesso=28 dicembre 2010 |urlarchivio=https://web.archive.org/web/20101113184748/http://www.istat.it/strumenti/rispondenti/indagini/incidentistradali/2010/modello_rilevazione_2010.pdf |urlmorto=sì }}</ref> secondo altre numerazioni interne.
+
+Per l'[[AISCAT]] invece il raccordo non è identificato da nessuna sigla<ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/mensile-sett-10.pdf |titolo=AISCAT-mensile sett10<!-- Titolo generato automaticamente --> |accesso=29 dicembre 2010 |urlarchivio=https://web.archive.org/web/20160305005655/http://www.aiscat.it/pubblicazioni/downloads/mensile-sett-10.pdf |urlmorto=sì }}</ref>.
+
+=== Caratteristiche ===
+Tutto il tratto è senza pedaggio, è a due corsie per senso di marcia (larghe 3,750 metri) più corsia di emergenza, sono presenti colonnine SOS e piazzole di sosta ogni 500 metri circa, lo spartitraffico centrale è largo 4 metri circa e vige il limite di 130&nbsp;km/h<ref name=i/>.
+
+=== Barriere fonoassorbenti ===
+Il 21 maggio [[2009]] sono iniziati i lavori per la posa di barriere fonoassorbenti nel tratto della diramazione nei pressi di [[Dese (Venezia)|Dese]]. La posa delle barriere fonoassorbenti è un'operazione fortemente voluta dagli abitanti della zona per minimizzare i danni derivanti dall'inquinamento acustico e rimandata, per vari motivi, sin dall'apertura della diramazione nel [[1991]]. I lavori dovevano durare circa 3 mesi e concludersi quindi a luglio [[2009]]<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=566243&Data=20090521&CodSigla=VE|titolo=L'articolo del Gazzettino del 21/05/09|urlarchivio=https://web.archive.org/web/20150323102905/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=566243&Data=20090521&CodSigla=VE }}</ref> mentre sono stati conclusi ad agosto [[2009]]<ref>{{Cita web|url=https://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2009/08/08/VMGPO_VMG01.html|titolo=Sottopasso, partiti gli scavi a Dese - la Nuova di Venezia|sito=Archivio - la Nuova di Venezia|data=8 agosto 2009|lingua=it|accesso=3 marzo 2024}}</ref>.
+
+=== Tabella percorso ===
+
+[[File:Autostrada A57 PER AEROPORTO MARCO POLO.jpg|thumb|Il tratto finale in direzione aeroporto]]
+{| class="wikitable"
+|-
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="5" | '''{{simbolo|Autostrada A57 Italia.svg|30}} AUTOSTRADA A57'''<br />Diramazione Marco Polo
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Città metropolitana
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|18}}|| {{simbolo|Strada Statale 14 Italia.svg|40}} ''[[Strada statale 14 della Venezia Giulia|della Venezia Giulia]]''<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Venezia-Tessera|Aeroporto Marco Polo]] - [[Venezia]]</small><br /><small>[[Trieste]] - [[Jesolo]]</small>||align="right"| 0||align="right"|- || align="center" rowspan=4|[[Città metropolitana di Venezia|VE]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Dese (Venezia)|Dese]] - [[Marcon]]|| align="right"|3,5 ||align="right"|-
+|-
+| [[File:AB-Kreuz-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Autostrada A57 Italia.svg|23}} Tangenziale di Mestre<br /><small>{{simbolo|Autostrada A4 Italia.svg|18}} [[Autostrada A4 (Italia)|Milano-Trieste]]</small>||align="right"|5,2||align="right"|-
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|18}} || {{simbolo|Autostrada A27 Italia.svg|23}} [[Autostrada A27 (Italia)|Belluno]] ||align="right"| 6,5||align="right"| -
+|-
+|}
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = La grande viabilità nell'entroterra veneziano |autore = Giacomo Sanmartin |rivista = [[Le Strade]] |volume = anno XLV |numero = 5 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1965 |mese = maggio |pp = 204-211 |ISSN = |url = https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1557#page/314/mode/2up }}
+
+== Voci correlate ==
+* [[Autostrada]]
+* [[Autostrade in Italia]]
+* [[Passante di Mestre]]
+* [[Riviera del Brenta]]
+* [[Strada Europea E55]]
+* [[Tangenziale]]
+
+== Altri progetti ==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.cavspa.it/index.php?option=com_content&view=article&id=93&Itemid=195|titolo=Traffico e velocità media in tempo reale nel tratto ''barriera Venezia Mestre-interconnessione A27''|urlmorto=sì|urlarchivio=https://web.archive.org/web/20150106011635/http://www.cavspa.it/index.php?option=com_content&view=article&id=93&Itemid=195}}
+* {{cita web|url=http://www.cavspa.it/index.php?option=com_content&view=article&id=90&Itemid=137|titolo=Telecamere in vari punti strategici del tratto ''barriera Venezia Mestre-interconnessione A27''|urlmorto=sì|urlarchivio=https://web.archive.org/web/20110911231528/http://www.cavspa.it/index.php?option=com_content&view=article&id=90&Itemid=137}}
+* {{cita web|url=http://www.autovie.it/|titolo=Il sito del gestore dell'A57 ''Autovie Venete'' nel tratto ''svincolo Mestre via Terraglio-interconnessione est A4''}}
+* {{cita web|url=http://www.cavspa.it/|titolo=Il sito del gestore dell'A57 ''Concessioni Autostradali Venete'' nel tratto ''interconnessione ovest A4-svincolo Mestre via Terraglio'' e della diramazione per l'aeroporto Marco Polo}}
+* {{cita web | url = http://www.autovepd.it/ | titolo = Il sito del vecchio gestore dell'A57 ''Società delle Autostrade di Venezia e Padova'' nel tratto ''interconnessione ovest A4-svincolo Mestre via Terraglio'' e della diramazione per l'aeroporto Marco Polo | accesso = 17 marzo 2009 | urlarchivio = https://web.archive.org/web/20110722024318/http://www.autovepd.it/ | urlmorto = sì }}
+* {{cita web | url = http://www.cocit.org/ | titolo = Il sito del ''Cocit'' (Coordinamento contro l'inquinamento da Tangenziale) con approfondimenti sui danni derivanti dall'inquinamento dell'acqua, dell'aria e acustico | accesso = 15 marzo 2009 | urlarchivio = https://web.archive.org/web/20090315033446/http://www.cocit.org/ | urlmorto = sì }}
+* {{cita web|url=http://www.lotsberg.net/data/italia/A57.html|titolo=Gallerie e viadotti della A57}}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}
+{{portale|trasporti|Venezia}}
+
+[[Categoria:Autostrade in Italia|A57]]
+[[Categoria:Tangenziali in Italia|Mestre]]
+[[Categoria:Trasporti a Venezia]]
+[[Categoria:Strade del Veneto]]

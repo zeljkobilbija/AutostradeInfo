@@ -1,0 +1,851 @@
+{{Strada
+|nome = Autostrada A1
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada del Sole<br />Autosole<br />Milano-Napoli
+|simbolo = Autostrada A1 Italia.svg
+|nome precedente = [[Autostrada A2 (Italia, 1962-1988)|A2]] (nel tratto Roma-Napoli, 1962-1988)
+|nome successivo =
+|divisione amm 1 = {{IT-LOM}}<br />{{IT-EMR}}<br />{{IT-TOS}}<br />{{IT-UMB}}<br />{{IT-LAZ}}<br />{{IT-CAM}}
+|divisione amm 2 = 
+|inizio = Allacciamento con [[Autostrada A51|A51]] presso [[Rogoredo (Milano)|Rogoredo]] ([[Milano]])
+|fine = Allacciamento con [[Autostrada A3 (Italia)|A3]] presso [[Barra (Napoli)|Barra]] ([[Napoli]])
+|lunghezza = 760,3<ref>[http://www.autostrade.it/autostrade-gis/rete.do?op=caselli Calcolo percorsi e pedaggi - Autostrade per l'Italia]</ref>
+|direzione =Nord-sud 
+|apertura = [[1958]] (primo tratto aperto)
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = * [[Pedaggio#Sistema autostradale chiuso|Sistema chiuso]] da Melegnano (presso la barriera di Milano sud) fino a Marcianise (presso la barriera di Napoli nord)
+* [[Pedaggio#Sistema autostradale aperto|Sistema aperto]] per lo svincolo di [[Melegnano]] con tariffa di {{M|1.30|u=€}} e per quello di [[Caserta]] sud con tariffa di {{M|1.60|u=€}}
+* Gratuito nella tratta [[Lombardia|lombarda]] Milano-A50 Tangenziale Ovest e nel tratto [[Campania|campano]] Pomigliano D'Arco-[[Autostrada A3 (Italia)|A3]]
+|città servite = 
+|intersezioni = * [[Autostrada A51|A51]], [[Autostrada A50|A50]] e [[Autostrada A58|A58]] a Milano 
+* [[Autostrada A21 (Italia)|A21]] a Piacenza, [[Autostrada A21 (Italia)#A21 dir Diramazione Fiorenzuola d'Arda|A21dir]] a Fiorenzuola
+* [[Autostrada A15 (Italia)|A15]] a Parma
+* [[Autostrada A22 (Italia)|A22]] a Modena
+* [[Autostrada A14 (Italia)|A14]] e [[Raccordo autostradale 1|RA1]] a Bologna
+* [[Variante di Valico|A1var]] a La Quercia e ad Aglio
+* [[Autostrada A11 (Italia)|A11]] a Firenze
+* [[Raccordo autostradale 6|RA6]] a Valdichiana
+* [[Autostrada A24 (Italia)|A24]] a Roma
+* [[Autostrada A30 (Italia)|A30]] a Caserta
+* [[Strada statale 162 NC Asse Mediano|Asse Mediano]] e [[Autostrada A16 (Italia)|A16]] ad Afragola
+* [[Circumvallazione Esterna di Napoli|SP1]] a Casoria 
+* [[Autostrada A56|A56]] e [[Autostrada A3 (Italia)|A3]] a Napoli
+|europea1 = 35
+|europea2 = 45
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A1.svg
+|tracciato = 
+}}
+
+L{{'}}'''autostrada A1''', detta anche '''Milano-Napoli''' o '''Autostrada del Sole''', oppure più brevemente '''Autosole''', collega [[Milano]] a [[Napoli]] attraversando internamente la penisola italiana e passando per [[Bologna]], [[Firenze]] e [[Roma]]. Lunga 760,3&nbsp;km, è interamente gestita da [[Autostrade per l'Italia]]<ref name="autogenerato1">{{Cita web|url=http://www.autostrade.it/it/la-nostra-rete|titolo=La rete - Autostrade per l'Italia|accesso=9 dicembre 2016}}</ref>.
+
+Costruita tra il [[1956]] ed il [[1964]], è ad oggi il principale asse meridiano della [[rete autostradale italiana]], nonché la più lunga [[autostrada]] italiana in esercizio<ref>{{Cita web|url=https://lombardia.portale-infrastrutture.it/infrastruttura.php?id=947#:~:text=Con%20i%20suoi%20760%20km,Autostrade%20per%20l'Italia%20Spa.|titolo=''Autostrada A1 Milano - Napoli (tratta lombarda)''|accesso=20 settembre 2023}}</ref><ref>{{Cita web|url=https://www.ladigetto.it/interno/37656-l%E2%80%99arteria-che-cambi%C3%B2-l%E2%80%99italia%3A-i-50-anni-dell%E2%80%99autostrada-del-sole.html|titolo=''L’arteria che cambiò l’Italia: i 50 anni dell’Autostrada del Sole''|accesso=20 settembre 2023}}</ref>.
+
+== Storia ==
+[[File:AutoSoleOperai1960.JPG|thumb|Pausa pranzo per gli operai in un cantiere dell'Autosole nel [[1960]].]]
+
+=== Ideazione e affidamento ===
+L'idea dell'autostrada del sole si deve all'ingegnere [[Piero Puricelli]], che aveva già progettato la [[Autostrada dei Laghi|Milano-Laghi]], che entrò in funzione tra il 1924 e il 1925, e a [[Salvino Sernesi]], direttore generale dell'[[IRI]]. Nasce quindi la SISI ("Società iniziative strade italiane"), un [[consorzio|consorzio aziendale]] costituito dalla [[FIAT]], dalla [[Pirelli (azienda)|Pirelli]], dall'[[Agip]] e dall'[[Italcementi]], che avevano in comune l'obiettivo di migliorare la viabilità automobilistica.
+
+La SISI infatti rappresentava la commissione delle [[gara d'appalto|gare d'appalto]] successive ed era incaricata di eseguire lo [[studio di fattibilità]] economica e strutturale. La necessità di rinnovare la rete autostradale era evidente in tutta [[Italia]], soprattutto perché, prima di quegli anni, ci si era concentrati perlopiù sulle [[ferrovia|reti ferroviarie]] e sulle relative infrastrutture.
+
+Tra il 1953 e il 1955 la SISI elaborò un progetto approssimativo dell'autostrada, le cui tappe principali erano [[Milano]], [[Bologna]], [[Firenze]], [[Roma]] e [[Napoli]], ipotizzando un'idea finanziaria sulla riscossione dei pedaggi. Per la redazione del progetto fu nominato [[Francesco Aimone Jelmoni]], che aveva il compito di progettare il percorso migliore per collegare le varie città. Il compito si rivelò arduo, in quanto le [[cartografia|cartografie territoriali]] erano pochissime e insufficienti: furono quindi necessari molteplici sopralluoghi. Nel 1955 la SISI trasferì il progetto allo Stato, in particolare al [[Ministri dei lavori pubblici della Repubblica Italiana|ministro dei lavori pubblici]] e ingegnere [[Giuseppe Romita]], che aveva le competenze adatte. Egli si fece portavoce di un'opera enorme, e seguì la costruzione frenetica e benefica del [[dopoguerra]], con l'idea di riportare l'[[Italia]] allo splendore.
+Il 21 maggio 1955 fu emanata la legge n. 463, che regolava tutte le autostrade preesistenti, in costruzione e da costruire. Gli articoli 1 e 9 prestavano attenzione particolare alla rete autostradale del [[Mezzogiorno (Italia)|Mezzogiorno]], regolandone aspetti costruttivi ed economici. Nel titolo II fu trattata la parte economica relativa alla riscossione di tasse, quantificate poi nell'articolo 20, nella sezione "Disposizioni finali".
+
+Ai sensi della legge Romita, la costruzione e l'esercizio delle autostrade sarebbero spettati in prima battuta all'[[Anas (azienda)|Anas]], che era presieduta dal ministro dei lavori pubblici, e solo in subordine sarebbero stati affidati in concessione a terzi. Tuttavia, la preferenza attribuita dalla legge all'Anas era considerata una mera formalità: era infatti opinione diffusa che l'Anas non avesse né la capacità finanziaria, né l'efficienza né la competenza per farlo (a titolo di esempio, a partire dal 1951, aveva impiegato otto anni per costruire 26&nbsp;km per la tratta [[autostrada A10 (Italia)|Genova-Savona]]). Alla luce di tutto questo, si decise di optare per le [[partecipazione statale|partecipazioni statali]]: la costruzione dell'autostrada Milano-Napoli fu pertanto affidata alla neo-costituita società ''Concessioni e Costruzioni Autostrade Spa'' (oggi chiamata [[Autostrade per l'Italia]]), di totale proprietà dell'[[IRI]], con una convenzione che veniva approvata il 14 aprile 1956 con [[decreto interministeriale]] in pari data n. 3072. La società fu affidata a [[Fedele Cova]], un ingegnere di [[Borgomanero]] che nel dopoguerra aveva costruito per l'IRI la [[Cementir]], un'azienda pubblica per la [[cemento|produzione del cemento]] che sfruttava le scorie e l'energia degli [[stabilimento siderurgico|stabilimenti siderurgici]] [[Finsider]], di proprietà dello Stato, e rendeva il settore pubblico delle costruzioni indipendente dai privati (prima di tutto dall'[[Italcementi]] di Pesenti) per le forniture di cemento.
+
+Si trattava quindi di organizzare e gestire circa 800 chilometri di autostrada. Il problema alla base era la [[burocrazia]]: nessuna procedura statalmente riconosciuta permetteva una rapida costruzione. Cova sapeva che l'importante era cominciare e che la necessità dell'opera avrebbe permesso di superare gli ostacoli burocratici. Suddivise l'autostrada in [[lotto|lotti]] di massimo 5 chilometri e li affidò a molteplici imprese mediante appalto concorso, soluzione efficace poiché le imprese ingaggiarono i migliori progettisti, come [[Silvano Zorzi]] e [[Riccardo Morandi]]. Il progetto relativo al lotto messo a bando era eseguito da Jelmoni, e con la procedura di appalto concorso i progettisti si basavano su quel progetto per la natura della costruzione e per necessità e costi.
+
+Ogni lotto aveva una sua "scatola", cioè un blocco di fascicoli che veniva consegnato all'appaltatore vincente con all'interno tutte le informazioni relative al lotto. Laddove era necessario costruire un ponte, già progettato da Jelmoni, esso veniva adattato dal progettista di ogni singola [[azienda]] secondo le proprie modalità. Tutti i cantieri venivano supervisionati costantemente, per non avere varianti superflue in fase d'opera (cioè modifiche al progetto durante la sua realizzazione) e non avere quindi ingenti ritardi temporali.
+
+=== Costruzione ===
+Il 19 maggio 1956 si celebrò la posa della prima pietra, con la partecipazione del Presidente della Repubblica [[Giovanni Gronchi]]. La costruzione dell'arteria partì da [[Milano]] alla volta di [[Piacenza]]. Fondamentalmente, la costruzione di questo tratto non presentò notevoli problemi, nonostante alcuni punti più critici che richiesero la costruzione di numerosi ponti. Di fatto, il primo impedimento significativo si trovò nei pressi di Piacenza, con la presenza del fiume [[Po]], il cui attraversamento è sempre stato difficoltoso, a causa del fondo e dei [[flusso|flussi d'acqua]] piuttosto irregolari. In questo caso, l'ingegnere [[Silvano Zorzi]] riuscì a progettare un ponte che fu considerato per l'epoca la più grande opera in [[calcestruzzo armato]] precompresso in Europa. Il [[ponti sul Po|ponte sul Po]] fu aperto al traffico il 15 giugno 1959.
+In questo periodo [[Fedele Cova]] ricevette una prima analisi dei costi relativi dell'opera. Per il timore che i fondi non bastassero per arrivare fino a [[Napoli]], i lavori cominciarono anche dal capoluogo campano, di modo che fosse necessario terminare per non rimanere con due tronconi monchi e scollegati.
+
+Passato il [[Po]], si procedette molto rapidamente fino a [[Bologna]], dove iniziò la tratta più complessa, quella appenninica: vennero realizzati molteplici ponti, che ebbero come progettista [[Riccardo Morandi]], padre di opere come i viadotti [[Quercia Setta]], [[Gambellato]] e [[Melizzano]]. Un esempio dello sforzo ingegneristico messo in campo per l'AutoSole s'incontrò in direzione [[Firenze]], dove fu realizzata una curva dell'autostrada completamente su viadotto.
+Il 3 dicembre 1960, la transappenninica fu pronta: si trattò di {{M|85|u=km}} autostradali con circa 40 ponti. La necessità dell'opera fu confermata dal fatto che, prima della sua costruzione, s'impiegava un pomeriggio circa per raggiungere Bologna in auto partendo da Firenze, mentre con l'Autostrada del Sole sono tutt'oggi sufficienti solo un'ora e quindici minuti. 
+L'inaugurazione fu presieduta dal [[Presidente del Consiglio dei ministri della Repubblica Italiana|Presidente del Consiglio]] [[Amintore Fanfani]], in carica per il suo terzo governo. Lo stesso Fanfani varò un piano edile per i lavoratori dell'AutoSole, [[manovra|manovra politica]] contro la disoccupazione: il piano [[INA-Casa]], durato circa 14 anni. Da Milano si arrivò quindi a Firenze, mentre nel 1962 da Napoli la costruzione giunse a [[Roma]] (originariamente questo tronco era classificato come [[Autostrada A2 (Italia, 1962-1988)|A2]]).
+
+L'ultimo tratto ad essere costruito fu pertanto quello compreso tra Firenze e Roma, poiché le città intermedie di [[Siena]], [[Arezzo]] e [[Perugia]] si contendevano il passaggio dell'arteria. Furono perciò progettate due varianti al tracciato originale (detto tracciato "delle valli" in quanto avrebbe attraversato il [[Valdarno]], la [[Val di Chiana]] e le valli del [[Paglia (fiume)|Paglia]] e del [[Tevere]]): la variante "senese-viterbese", che sarebbe passata per Siena e per [[Viterbo]], e quella "umbro-sabina", che sarebbe passata per Perugia, [[Terni]] e la [[Sabina]]. Oltre a queste, fu progettata dall'ingegnere aretino [[Ubaldo Cassi]] un'altra variante, che avrebbe avvicinato tanto il tracciato originale quanto quello umbro-sabino alla città di Arezzo. Scartati preliminarmente il tracciato senese-viterbese e la parte sabina di quello umbro-sabino perché troppo onerosi, nel 1961, poco prima dell'approvazione della legge n. 729 proposta dal [[Ministero dei lavori pubblici|ministro]] [[Benigno Zaccagnini]], con cui furono affidate alla [[Autostrade per l'Italia|Società Autostrade]] la costruzione e la concessione di circa 2200 km di autostrade a pedaggio, il consiglio di amministrazione dell'[[Anas (azienda)|Anas]] optò per il tracciato delle valli e, per quanto concerne il tratto aretino, per la variante progettata da Ubaldo Cassi. Dal momento che questa variante era stata caldeggiata (e, secondo la rivista [[Quattroruote]], disegnata personalmente su una mappa con una [[matita]] rossa<ref>[[Quattroruote]], 1963, n. 94, pag. 82</ref>) dall'allora Presidente del Consiglio Fanfani, originario di [[Pieve Santo Stefano]], nella [[Valtiberina]] aretina, questo tratto dell'autostrada è noto come "curva Fanfani"<ref>{{Cita web|url=https://www.lanazione.it/arezzo/cronaca/le-curve-fanfani-non-furono-clientelismo-e-il-percorso-piu-logico-per-treni-e-autosole-c3c4b6e3|titolo=Le ‘Curve Fanfani’ non furono clientelismo È il percorso più logico per treni e Autosole|sito=La Nazione|data=2022-02-13|lingua=it|accesso=2024-11-12}}</ref>. In questo tratto fu costruito, su progetto ancora di Silvano Zorzi, il [[viadotto Romita|ponte]] sul fiume [[Arno]] dedicato al ministro [[Giuseppe Romita]], scomparso nel 1958. Siena e Perugia furono comunque compensate con la costruzione di alcuni [[raccordo autostradale|raccordi autostradali]].
+
+Il 4 ottobre 1964, con l'apertura al traffico del tratto compreso tra [[Chiusi]] e [[Orvieto]], si concluse la costruzione dell'Autostrada del Sole, dopo soli 8 anni di lavori. La cerimonia di inaugurazione, a cui partecipò il Presidente del Consiglio [[Aldo Moro]], si tenne a Firenze, presso la [[Chiesa dell'Autostrada del Sole]], progettata dall'architetto [[Giovanni Michelucci]] e dedicata agli operai morti durante la costruzione dell'autostrada. L'evento annunciò, di fatto, la fine del [[Miracolo economico italiano|boom economico italiano]], periodo di cui la A1 diventò un simbolo, dando anche un notevole impulso alla diffusione della [[motorizzazione]] di massa e del [[turismo]] in Italia.
+
+Il 21 luglio 1988 fu inaugurata la bretella [[Fiano Romano]]-[[San Cesareo]], che collega i due tronchi autostradali Milano-Roma e Roma-Napoli e permette di evitare il [[Grande Raccordo Anulare]].
+
+Il 23 dicembre 2015 fu aperta al traffico la [[autostrada A1 var|variante di valico]] che, rispetto al tracciato inaugurato nel 1960, rimasto comunque aperto al traffico e chiamato "A1 panoramica", valica l'[[Appennino]] ad una quota inferiore ({{M|490|u=m}}) rispetto agli oltre {{M|700|u=m}} della tratta originaria.
+
+L'autostrada fu aperta in più fasi funzionali<ref>{{Cita web |url=http://www.gustosamente.com/article/a1-l-autostrada-che-uni-l-italia |titolo=Copia archiviata |accesso=23 febbraio 2016 |urlarchivio=https://web.archive.org/web/20160311120503/http://www.gustosamente.com/article/a1-l-autostrada-che-uni-l-italia |urlmorto=sì }}</ref>:
+{| class="wikitable sortable" style="font-size:90%"
+! style="text-align:center" | Data
+! style="text-align:center" | Tratta
+! style="text-align:center" | Lunghezza
+|-
+|8 dicembre [[1958]]
+|Milano - [[Guardamiglio|Piacenza nord]]
+|{{M|49.7|u=km}}
+|-
+|8 dicembre 1958
+|[[Piacenza|Piacenza sud]] - [[Parma]]
+|{{M|52.2|u=km}}
+|-
+|16 febbraio [[1959]]
+|[[Capua (città moderna)|Capua]] - Napoli
+|{{M|39.4|u=km}}
+|-
+|15 giugno 1959
+|Piacenza nord - Piacenza sud
+|{{M|8.5|u=km}}
+|-
+|15 giugno 1959
+|Parma - [[Modena|Modena nord]]
+|{{M|47.4|u=km}}
+|-
+|15 luglio 1959
+|Modena nord - [[Bologna|Bologna sud]]
+|{{M|37,9|u=km}}
+|-
+|24 novembre 1959
+|Bologna sud - [[Sasso Marconi]]
+|{{M|14,3|u=km}}
+|-
+|3 dicembre [[1960]]
+|Sasso Marconi - [[Firenze|Firenze nord]]
+|{{M|73|u=km}}
+|-
+|2 giugno [[1962]]
+|[[Roma|Roma sud]] - [[Frosinone]]
+|{{M|67|u=km}}
+|-
+|22 settembre 1962
+|Frosinone - Capua
+|{{M|96|u=km}}
+|-
+|19 settembre [[1963]]
+|Roma nord - [[Magliano Sabina]]
+|{{M|52|u=km}}
+|-
+|24 dicembre 1963
+|Magliano Sabina - [[Orte]]
+|{{M|10|u=km}}
+|-
+|30 dicembre 1963
+|Firenze nord - Firenze Certosa
+|{{M|16|u=km}}
+|-
+|29 aprile [[1964]]
+|Firenze Certosa - [[Valdarno]]
+|{{M|40|u=km}}
+|-
+|29 luglio 1964
+|Orte - [[Orvieto]]
+|{{M|40|u=km}}
+|-
+|28 agosto 1964
+|Valdarno - [[Chiusi]]
+|{{M|74|u=km}}
+|-
+|4 ottobre 1964
+|Chiusi - Orvieto
+|{{M|41|u=km}}
+|-
+|21 luglio [[1988]]
+|[[Fiano Romano]] - [[San Cesareo]]
+|{{M|45|u=km}}
+|}
+
+=== Ponti e viadotti ===
+I ponti e i viadotti dell'Autostrada del Sole presentano caratteristiche comuni che rispecchiano in maniera limpida le tendenze dell'[[ingegneria civile]] dell'Italia del secondo dopoguerra. Lo stile preponderante è quello del ponte [[Robert Maillart]], dove un arco portante reca [[pilastro|pilastrini poggianti]] su di esso e questi, a loro volta, reggono l'impalcato e il [[manto stradale]]: su questa matrice, poi, ogni progettista applicò le modifiche opportune per rendere l'opera più funzionale. La costruzione dell'intero ponte risultava in questo modo economica e veloce, anche grazie alla centina Innocenti, ideata dall'ingegnere [[Ferdinando Innocenti]]. Le qualità estetiche sono relative rispetto alla funzionalità di un ponte, ma, per quanto riguarda i manufatti dell'Autostrada del Sole, non vengono neglette: in tal senso, significativo è stato il ricorso al calcestruzzo armato precompresso, così da ottenere opere leggere, snelle ed economiche, seppur resistenti e rapide da costruire. Tra i ponti più significativi vi sono: il ponte sul [[Po]] a [[Piacenza]], il [[Viadotto Romita|ponte]] sull'[[Arno]] a [[Levane]] e i viadotti Merizzano e Gambellato sull'[[Appennino]].
+
+La realizzazione del ponte sul Po a Piacenza, situato nel tratto [[Milano]]-[[Bologna]], rappresentò la prima grande applicazione del calcestruzzo armato precompresso all'autostrada del Sole. Le travi, alte {{M|3.2|u=m}}, in [[cemento armato precompresso]], poggiano su delle pile in [[cemento armato ordinario]], rivestite in modo da ottenere la parvenza di una finta muratura. Una volta effettuata la colata, quando il cemento cominciava a indurirsi all'interno delle casseforme poste sopra i piloni, si procedeva a tendere con un martinetto i fili di acciaio molto resistenti che costituiscono i cavi immersi nel conglomerato. Per il collaudo, effettuato tra il 4 e il 5 giugno 1959, il viadotto venne attraversato da 20 autocarri a pieno carico e 10 [[carro armato|carri armati]] "Patton" da 44 tonnellate. Questa operazione fu la conferma decisiva che il ponte era in grado di permettere l'attraversamento in tutta sicurezza di uno dei fiumi maggiormente critici del percorso, come il Po.
+[[File:Viadotti Gambellato e Merizzano.jpg|miniatura|Da sinistra: viadotto Gambellato, viadotto Merizzano, area di servizio ed uscita di Roncobilaccio.]]
+Altre opere significative in tal senso furono due ponti per il tratto dell'Autostrada del Sole tra [[Firenze]] e Bologna, cioè i viadotti Gambellato e Merizzano, che confermarono l'ascesa professionale della figura di [[Giulio Krall]], all'epoca direttore tecnico della [[Ferrobeton]]. Inizialmente, per il primo, Jelmoni aveva previsto tre arcate paraboliche. Krall, tuttavia, decise di abbandonare quest'idea per realizzare un unico grande arco con una sagoma ottimizzata, così da poter rispondere meglio alle varie sollecitazioni a sostegno dei pilastri che sorreggono l'impalcato stradale. Il secondo viadotto, con un'intelaiatura ben visibile, presenta una struttura molto simile a quella del viadotto sul Gambellato, ma con un'unica differenza che è costituita a due arcate invece che da una sola.
+
+Notevole è anche il ponte sull'Arno a Levane, intitolato al ministro dei Lavori Pubblici [[Giuseppe Romita]], morto nel 1958, a pochi anni dal termine dei lavori di costruzione. In carica negli anni del dopoguerra, Romita firmò il piano di costruzione dell'Autostrada del Sole e si batté affinché la sua realizzazione venisse affidata allo stato. Il ponte a Levane, ultimo dell'Autosole ad essere costruito, ha una struttura ad arco poligonale (disegnato secondo la funicolare dei carichi) incastrato alle imposte e con travate armate precompresse. La sua realizzazione incontrò un importante ostacolo nell'instabilità del terreno del pendio dove il ponte sarebbe nato, tanto che fu necessario bloccare in fondazione uno dei piloni contro l'arco.
+
+== L'autostrada oggi ==
+=== Tratto Milano-Bologna ===
+[[File:Autostrada del sole sesso reggio emilia.jpg|thumb|Tratto [[Milano]]-[[Bologna]] nei pressi di [[Reggio Emilia]]]][[File:A1 (A14 Bologna B.go Panigale).JPG|thumb|Tratto dell'A1 a 4 corsie all'altezza dell'uscita di Bologna [[Borgo Panigale]], innesto A14 in direzione sud]]
+
+Oggi la A1 inizia a sud-est di Milano come prosecuzione, senza soluzione di continuità, della [[Autostrada A51|tangenziale Est di Milano (A51)]]. Il tratto tra la tangenziale Est e lo [[svincolo]] di [[San Donato Milanese]] è una variante, denominata raccordo R6,<ref name="Google Maps">{{Cita web|url=https://www.google.it/maps/@45.4145649,9.2524858,3a,75y,289.14h,88.41t/data=!3m6!1e1!3m4!1sm5bYNO1hm3eqjpTorShuMg!2e0!7i16384!8i8192?hl=it-it|titolo=Google}}</ref> del [[#Raccordo A1-Piazzale Corvetto|percorso originario]] con il quale la A1 terminava direttamente nel centro abitato di [[Milano]]<ref group="N">La modifica del primo tratto dell'autostrada, con l'arretramento del capolinea, giustifica il fatto che il chilometraggio parta in negativo di quasi due chilometri, in quanto il gestore non volle ricalcolare le chilometriche dell'intera arteria autostradale per non perdere i riferimenti ormai acquisiti da decenni.</ref>.
+
+Nei pressi di [[San Giuliano Milanese]] si collega con la [[Autostrada A50|tangenziale Ovest di Milano (A50)]]; segue lo svincolo di [[Melegnano]]-[[Binasco]]. Dopo la barriera di Milano sud, dalla quale ha inizio il calcolo del pedaggio, si connette con la [[Autostrada A58|tangenziale Est Esterna di Milano (A58)]] e prosegue verso [[Lodi]] e [[Casalpusterlengo]] - [[Ospedaletto Lodigiano]]. Per il tratto tra Milano sud e Lodi è in fase autorizzativa l'ampliamento alla quarta corsia<ref>{{Cita news|nome=Il|cognome=Cittadino|url=http://www.ilcittadino.it/Facet/ultimaOra/Uuid/c9398dd8-59b9-11e6-ab41-e1cdf4c5d2c8/|titolo=Quarta corsia dell'A1: entro l'autunno via ai cantieri|accesso=9 dicembre 2016|urlmorto=sì|urlarchivio=https://web.archive.org/web/20161005170312/http://www.ilcittadino.it/Facet/ultimaOra/Uuid/c9398dd8-59b9-11e6-ab41-e1cdf4c5d2c8/}}</ref>. Dopo aver attraversato il fiume [[Po]] l'autostrada entra in [[Emilia-Romagna]] e serve [[Piacenza]], dove si interseca con l'[[Autostrada A21 (Italia)|Autostrada A21]] per [[Torino]] e [[Brescia]], [[Parma]], da cui ha origine l'[[Autostrada A15 (Italia)|Autostrada della Cisa (A15)]], [[Reggio Emilia]], [[Modena]] e [[Bologna]].
+
+Nel tratto compreso tra Piacenza e Bologna è stata ampliata alla terza corsia negli anni '70, negli anni '90 ha avuto la terza corsia il tratto tra Piacenza e Milano. Tra le uscite di Piacenza sud e Modena è in fase autorizzativa l'ampliamento a quattro corsie per avere più fluidità di traffico su tutto il tratto da Piacenza sud a Bologna presso l’innesto con la A14. 
+A nord di Modena riceve l'[[Autostrada A22 (Italia)|Autostrada del Brennero (A22)]], mentre a Bologna hanno origine prima l'[[Autostrada A14 (Italia)|Adriatica (A14)]] e poco dopo il [[Raccordo autostradale 1|ramo Casalecchio]]. Nel [[2006]] il tratto compreso tra queste interconnessioni (A1/A22 nei pressi di Modena Nord e A1/A14 nei pressi di Bologna Borgo Panigale) è stato ampliato a quattro corsie. Il tratto in questione ha la peculiarità di avere entrambi le strade europee ([[Strada europea E45|E35]] ed [[Strada europea E45|E45]]) in comune.
+
+=== Tratto Bologna-Firenze ===
+Il tratto, detto anche tratto appenninico, attraversa l'[[Appennino tosco-emiliano]] con un percorso ardito, ricco di [[tunnel|gallerie]] e [[viadotto|viadotti]].
+
+Come accaduto per il tratto Milano-Bologna, anche questo ha conosciuto, in particolare dagli anni 2000, gli ammodernamenti di seguito elencati. Fin da poco dopo la sua costruzione e in particolare con l'aumento del traffico di mezzi pesanti si notarono i limiti del tracciato originale. Già negli anni '80 iniziò la progettazione di un nuovo tracciato e negli anni '90 si intraprese un lunghissimo processo autorizzativo che permise l'inizio dei primissimi lavori solo nel 2002. Nel 2006 venne ultimata e aperta al traffico la terza corsia fra Sasso Marconi e La Quercia (dove oggi inizia la Variante di Valico e si iniziarono i lavori per quest'ultima), che ha comportato alcune modifiche al tracciato originario, reso più rettilineo, e lo spostamento {{M|3|u=km}} più a sud del casello di Sasso Marconi. Relativamente a tale intervento, dal 30 giugno 2006 la sezione di Vado non è più quella originaria, e a differenza del raccordo di Sasso Marconi questo vecchio tratto è stato completamente abbandonato. Dal 1994 l'[[Anas (azienda)|Anas]] ha in progetto la realizzazione della tangenziale di Vado-Monzuno. Successivamente, nel 2009 è stata aperta la terza corsia tra [[Casalecchio di Reno]] e [[Sasso Marconi]], che ha reso necessario l'allestimento di barriere fonoassorbenti<ref>{{Cita web|url=https://www.autostrade.it/it/web/variante-di-valico/opera/la-storia|titolo=La Storia - Variante di Valico - Autostrade per l'Italia|sito=Variante di Valico|lingua=it|accesso=2024-09-26}}</ref>.
+
+Per quanto riguarda il tratto compreso tra La Quercia ed Aglio, dal 23 dicembre [[2015]] è possibile scegliere se percorrere il tracciato storico, detto anche ''A1 panoramica''<ref name="Il Resto del Carlino">{{Cita news|nome=RITA|cognome=BARTOLOMEI|autore=|url=https://www.ilrestodelcarlino.it/bologna/variante-valico-direttissima-panoramica-1.2149763|titolo=La Variante di valico cambia nome e diventa 'Direttissima'. Guarda le foto - il Resto del Carlino|pubblicazione=il Resto del Carlino|data=12 maggio 2016|accesso=9 dicembre 2016}}</ref>, o la [[Autostrada A1 var|variante di valico]], detta anche ''A1 Direttissima''<ref name="Il Resto del Carlino" />, che valica l'Appennino a una quota inferiore di circa 220 metri rispetto alla tratta storica<ref>{{Cita web|url=http://www.autostrade.it/it/web/variante-di-valico/|titolo=Home - Variante di Valico|sito=Variante di Valico|accesso=9 dicembre 2016}}</ref>.
+
+Tra Aglio e [[Barberino di Mugello|Barberino]] in direzione nord si utilizzano le due carreggiate originarie (quella esterna per la variante di valico, quella interna per il tracciato storico), in direzione sud nel 2015 è stata aperta al traffico una nuova carreggiata a tre corsie ed è stata chiusa in direzione di Firenze l'area di servizio ''Aglio ovest'', esclusa dal nuovo tracciato autostradale. La scelta tra le due tratte si può compiere circa 500 m prima del casello di Barberino, quindi per andare dal paese [[Mugello|mugellano]] verso [[Bologna]] bisogna percorrere necessariamente la ''A1 Direttissima''<ref>{{Cita news|nome=PAOLO|cognome=GUIDOTTI|autore=|url=https://www.lanazione.it/firenze/cronaca/variante-di-valico-1.1615048|titolo=L'altra faccia della variante di valico, Barberino ‘orfana’ di tre uscite a nord - La Nazione|pubblicazione=La Nazione|data=2 gennaio 2016|accesso=9 dicembre 2016}}</ref>.
+
+Il 19 marzo 2022 è stata aperta in direzione sud la nuova carreggiata a tre corsie tra le uscite di Barberino e [[Calenzano]], che si sviluppa prevalentemente in galleria<ref>{{Cita web|url=https://corrierefiorentino.corriere.it/firenze/notizie/cronaca/22_marzo_18/a1-apre-galleria-piu-lunga-d-europa-barberino-mugello-firenze-nord-6054bfb0-a6a5-11ec-a017-d8d336ac1ac2.shtml|titolo=A1, Galleria Santa lucia inaugurata oggi: è la più lunga d’Europa a tre corsie|autore=Giorgio Bernardini|sito=Corriere Fiorentino|data=2022-03-18|lingua=it|accesso=2022-09-11}}</ref>; in direzione nord sono in corso i lavori di ammodernamento della tratta Calenzano-bivio variante di Valico, al termine dei quali verranno utilizzate le 4 corsie di entrambe le carreggiate preesistenti, che si riuniranno all'altezza della futura area di servizio Bellosguardo (che sarà l'area di servizio più grande in [[Europa]])<ref>{{Cita web|url=http://firenze.repubblica.it/dettaglio/il-paese-david-contro-il-golia-autostrade/1589329?refresh_ce|titolo=Il paese David contro il Golia Autostrade {{!}} Firenze la Repubblica.it|sito=firenze.repubblica.it|accesso=9 dicembre 2016|urlmorto=sì|dataarchivio=2 settembre 2017|urlarchivio=https://web.archive.org/web/20170902184322/http://firenze.repubblica.it/dettaglio/il-paese-david-contro-il-golia-autostrade/1589329?refresh_ce}}</ref> per poi separarsi nuovamente all'altezza del bivio tra il tracciato storico e la variante di valico<ref>{{Cita web|url=http://web.comune.calenzano.fi.it/portale/schede/ambiente-e-viabilita/gruppo-di-lavoro-autostrade/Comunicazione/terza-corsia-autostrada-progetto-opere-compensative-e-impatti/lavori-terza-corsia-autostrada-a-calenzano|titolo=Terza corsia autostrada a Calenzano — Sito istituzionale del Comune di Calenzano|sito=web.comune.calenzano.fi.it|accesso=9 dicembre 2016|dataarchivio=20 settembre 2016|urlarchivio=https://web.archive.org/web/20160920185540/http://web.comune.calenzano.fi.it/portale/schede/ambiente-e-viabilita/gruppo-di-lavoro-autostrade/Comunicazione/terza-corsia-autostrada-progetto-opere-compensative-e-impatti/lavori-terza-corsia-autostrada-a-calenzano|urlmorto=sì}}</ref>. Per scavare la [[Galleria stradale Santa Lucia|galleria Santa Lucia]], lunga quasi {{m|8|u=km}}, è stata utilizzata una [[Tunnel Boring Machine|TBM]] che ha un diametro di scavo di 15,87 metri ({{m|25|ul=cm}} in più rispetto alla TBM Martina, che ha scavato la galleria Sparvo della variante di valico)<ref>{{Cita web|url=https://www.theconstructionindex.co.uk/news/view/handover-completed-for-europes-largest-tbm|titolo=Europe's largest TBM handed over|sito=www.theconstructionindex.co.uk|lingua=en|accesso=2022-09-11}}</ref>.
+
+=== Tratto di Firenze ===
+[[File:Autostrada A1 dal cavalcavia n° 281 in direzione Firenze.jpg|thumb|Tratto [[Firenze]]-[[Roma]] nella [[Val di Chiana]].]]
+[[File:Autostrada A1 a Guidonia.JPG|thumb|Tratto a [[Guidonia Montecelio]] della bretella [[Fiano Romano]]-[[San Cesareo]].]]
+
+Dopo aver superato l'Appennino, l'autostrada contorna [[Firenze]]; da qui si diramano la [[Autostrada A11 (Italia)|Firenze-Pisa nord]], la [[Strada di grande comunicazione Firenze-Pisa-Livorno|Fi-Pi-Li]] e il [[Raccordo autostradale 3|raccordo]] per [[Siena]]. Nel [[2011]] sono finiti i lavori di ampliamento tra Calenzano e Firenze sud: il tratto verso [[Roma]] è a tre corsie, mentre quello in direzione nord, per la presenza di una serie di gallerie, coincide in parte con la vecchia tratta e ha le quattro corsie suddivise in carreggiata interna ed esterna. Solo questa ultima permette di uscire a Firenze [[Impruneta]].
+
+Il 12 giugno [[2017]] è stato inaugurato il primo [[parcheggio scambiatore]] d'[[Italia]] realizzato completamente in sede autostradale<ref>{{Cita news|url=http://firenze.repubblica.it/cronaca/2017/06/12/foto/scandicci_aperto_il_parcheggio_di_villa_costanza_si_arriva_dall_a1_e_si_prende_la_tramvia-167899370/1/#1|titolo=Scandicci, aperto il parcheggio di Villa Costanza: si arriva dall'A1 e si prende la tramvia|pubblicazione=La Repubblica|data=12 giugno 2017|accesso=12 giugno 2017}}</ref>. Può ospitare 25 autobus e 505 autovetture. All'uscita è posto il capolinea della linea [[Rete tranviaria di Firenze|T1 della Tramvia fiorentina]], che permette di raggiungere [[Scandicci]] in pochi minuti e il [[Centro storico di Firenze|centro di Firenze]] in meno di mezz'ora. L'uscita è denominata Villa Costanza.
+
+=== Tratto Firenze-Roma ===
+Superata l'uscita di Firenze Sud, l'infrastruttura piega sul [[Valdarno]] (da anni sono aperti i cantieri per la realizzazione della terza corsia tra Firenze sud e [[Figline e Incisa Valdarno|Incisa]]), tocca [[Arezzo]], il cui centro è raggiungibile tramite un breve [[Strada statale 679 Arezzo-Battifolle|raccordo]], e attraversa la [[Val di Chiana]]. All'altezza del casello di Valdichiana, si collega col [[raccordo autostradale 6|raccordo per Perugia]] e con [[Strada statale 715 Siena-Bettolle|quello per Siena]]. Quindi scorre marginalmente in [[Umbria]], e da [[Orvieto]] a [[Roma]] segue il corso del fiume [[Tevere]], attraversandolo nove volte. A [[Orte]], s'innesta con la [[Strada statale 675 Umbro-Laziale|superstrada Terni-Viterbo]], che, attraverso la [[Strada statale 3 bis Tiberina|superstrada Terni-Ravenna]] con cui forma la [[Strada europea E45|E45]], consente di raggiungere [[Perugia]] e la [[Romagna]]. Superata Orte, l'autostrada si amplia a 3 corsie e si biforca nei pressi di [[Fiano Romano]]: una diramazione porta al [[Autostrada A90|Grande Raccordo Anulare]], l'altra permette di evitare completamente la capitale per congiungersi alla Roma-Napoli a [[San Cesareo]].
+
+=== Tratto Fiano Romano-San Cesareo ===
+Questo tratto aperto nel [[1988]], interamente a 3 [[Corsia di marcia|corsie di marcia]] più [[corsia di emergenza]] per [[carreggiata]], collega senza soluzione di continuità il tratto Firenze-Roma nei pressi di Fiano Romano (diramazione di ''Roma nord'' della A1 per il [[Autostrada A90|GRA]]) con il tratto Roma-Napoli nei pressi di San Cesareo (diramazione di ''Roma sud'' della A1 per il GRA). Lungo il suo percorso sono presenti l'interconnessione per l'[[Autostrada A24 (Italia)|Autostrada dei Parchi]] in direzione di [[L'Aquila]]-[[Teramo]] ([[Autostrada A24 (Italia)|A24]]) e [[Pescara]]-[[Chieti]] ([[Autostrada A25 (Italia)|A25]]) per raggiungere la costa [[adriatica]]. A novembre 2011 è stata realizzata l'uscita per [[Guidonia]].
+
+=== Tratto Roma-Napoli ===
+[[File:Autostrada A1 Anagni 2022.png|miniatura|Autostrada A1 poco dopo l'[[Autogrill]] La Macchia Est, ad [[Anagni]]]]
+A [[San Cesareo]] l'autostrada riceve la diramazione proveniente da [[Roma]] e attraversa tutta la [[provincia di Frosinone]] proseguendo lungo la valle di Sacco, Liri e Garigliano fino a [[San Vittore del Lazio|San Vittore]]. Qui entra in [[Campania]], passando per [[Caianello]] (dove si innesta la [[Strada statale 372 Telesina|SS 372 Telesina]] che conduce a [[Benevento]]), [[Capua (città moderna)|Capua]] e [[Caserta]]. Dopo lo svincolo di Caserta Nord seguono l'uscita che conduce all'[[Autostrada A30 (Italia)|autostrada A30]] diretta a [[Salerno]], da cui si può imboccare l'[[Autostrada A2 (Italia)|autostrada A2]] evitando la [[Autostrada A3 (Italia)|autostrada A3]], e la nuova barriera di ''Napoli nord''. L'uscita per la A30 conduce inoltre al [[nolano]] e da qui all'[[Autostrada A16 (Italia)|autostrada A16]] per [[Avellino]] e la [[Puglia]].
+
+Nella zona napoletana sono stati modificati nel tempo alcuni elementi: l'autostrada fino agli anni '90 terminava infatti all'altezza dell'aeroporto di [[Aeroporto di Napoli-Capodichino|Capodichino]] e l'ultimo casello ''Napoli stazione'' si trovava vicino a [[Casoria]], dove oggi sorgono la sottosezione della [[polizia stradale]] e il Free To X Point, 200 metri dopo l'allacciamento con l'A16. Oggi, invece, dopo [[Casoria]] l'autostrada prosegue verso sud, intersecando la [[strada statale 162 dir del Centro Direzionale]], e confluisce direttamente nella A3.
+
+L'originario assetto a due corsie per ogni senso di marcia fu modificato in tre corsie negli anni '90.
+
+Il tratto finale originale oggi si chiama ''ramo Capodichino'' e ha una progressiva chilometrica propria. Il limite di competenza termina in asse con la strada di accesso all'aeroporto dove, senza interruzioni, ci si trova sulla [[tangenziale di Napoli]].
+
+== Tabella percorso ==
+{| class="wikitable" 
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="5" | {{simbolo|Autostrada A1 Italia.svg|30}} '''MILANO - NAPOLI'''<br />Autostrada del Sole
+|-
+! Tipo !! Indicazione !! ↓km↓ !! {{Abbr|Prov.|Provincia}}{{Abbr|CM|Città metropolitana}}
+! Strada europea
+|-
+| [[File:AB-gerade-grün.svg]] || {{simbolo|Italian traffic signs - simbolo autostrada (figura II 161).svg}} [[#Raccordo A1-A51|Raccordo R6]]<br /><small>{{simbolo|Autostrada A51 Italia.svg|17}} ''[[Autostrada A51|Tangenziale est di Milano]]''</small> || align="right" |0|| rowspan="8" align="center" |[[Provincia di Milano|MI]] ||align="center" rowspan=3|
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A1 Italia.svg}} [[#Raccordo A1-Piazzale Corvetto|Raccordo R5 Piazzale Corvetto]]<ref group="N">Solo da e per [[Bologna]]. Nella direzione opposta la relazione è svolta dallo svincolo 1 della Tangenziale est.</ref><br /> [[File:AB-AS-grün.svg]] [[San Donato Milanese]]|| align="right"|1,5 
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Giuliano Milanese]]|| align="right"|2,7 
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A50 Italia.svg|23}} [[Autostrada A50|Tangenziale ovest di Milano]]
+|align="right"|4,5 || rowspan="22" align="center" |[[File:Italian traffic signs - strada europea 35.svg|50px|link=Strada europea E35]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Melegnano]] - [[Binasco]] {{simbolo|Italian traffic signs - stazione.svg|15}}<ref group="N">Pedaggio {{M|1.30|u=€}} solo per e da [[Milano]].</ref><ref group="N">Il riferimento all’invero non vicinissima località di Binasco fu introdotto in tempi recenti con finalità di disambiguazione fra questo casello e quello di Milano Sud, larghissimamente noto come ''casello di Melegnano''.</ref>|| align="right"|7,7 
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Milano]] sud|| align="right"|8,9 
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A58 Italia.svg|23}} [[Autostrada A58|Tangenziale est esterna di Milano]]<br/><small>{{simbolo|AB-AS-grün.svg|15}} [[Vizzolo Predabissi]]</small>||align="right"|10,5 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "San Zenone" || align="right"|15,1 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Lodi]]||align="right"| 22,3 || rowspan="4" align="center" |[[Provincia di Lodi|LO]]
+|-
+| [[File:AB-AS-grün.svg]] ||[[Casalpusterlengo]]<br/><small>[[Ospedaletto Lodigiano]]</small>|| align="right"|37,8 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "Somaglia" || align="right"|43,5 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Guardamiglio|Basso Lodigiano]]{{#tag:ref|Fino al febbraio 2019 l'uscita era denominata "Piacenza nord"<ref>{{cita news|titolo="Piacenza Nord" non c'è più, l'uscita autostradale è diventata "Basso lodigiano"|url=https://www.ilpiacenza.it/cronaca/piacenza-nord-non-c-e-piu-l-uscita-autostradale-e-diventata-basso-lodigiano.html}}</ref>|group="N"}}|| align="right"|49,7 
+|-
+| [[File:AB-Kreuz-grün.svg]][[File:AB-AS-grün.svg]]|| [[File:Italian traffic signs - strada europea 70.svg|27px|link=Strada europea E70]] {{simbolo|Autostrada A21 Italia.svg|23}} [[Autostrada A21 (Italia)|Torino - Brescia]] <br />[[Piacenza]] sud<ref group="N">La ''complanare di Piacenza'', classificata da [[Autostrade per l'Italia]] come raccordo '''R49''', si estende dal chilometro 55,8 al chilometro 58,3. Su di essa di innesta dai primi anni Duemila il casello di [[Piacenza]] sud.</ref> || align="right"|58,2 || rowspan="4" align="center" |[[Provincia di Piacenza|PC]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio [[Ristoro a ponte|bidirezionale]] "Arda"|| align="right"|73,3 
+|-
+| [[File:AB-AS-grün.svg]][[File:AB-Kreuz-grün.svg]]||[[Fiorenzuola d'Arda|Fiorenzuola]]<br />{{simbolo|Autostrada A21dir Italia.svg|23}} [[Autostrada A21 (Italia)#A21 dir Diramazione Fiorenzuola d'Arda|Brescia]]<ref group="N">Solo da e per [[Bologna]].</ref>|| align="right"|74,0 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Chiaravalle"<ref name="SoloBologna" group="N">Solo direzione Bologna.</ref>|| align="right"|79,8 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Bastelli"<ref name="Solo carreggiata nord" group="N">Solo direzione Milano.</ref>|| align="right"|80 || rowspan="5" align="center" |[[Provincia di Parma|PR]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Fidenza]]<br/><small>[[Salsomaggiore Terme]]</small>|| align="right"|90,4 
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 33.svg|27}} {{simbolo|Autostrada A15 Italia.svg|23}} [[Autostrada A15 (Italia)|Sissa Trecasali - La Spezia]]<br/><small>{{simbolo|AB-AS-grün.svg|15}} [[Parma]] ovest </small>||align="right"|103,0 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Parma]]||align="right"|110,4 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "San Martino" || align="right"|114,1 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Canossa|Terre di Canossa]] - [[Campegine]]|| align="right"|124,4 || rowspan="4" align="center" |[[Provincia di Reggio nell'Emilia|RE]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Crostolo" || align="right"|135,4 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Reggio Emilia]]|| align="right"|138,1 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Calvetro"<ref name="SoloBologna" group="N"/>|| align="right"|152,8 
+|-
+| [[File:AB-Kreuz-grün.svg]] ||{{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A22 Italia.svg|23}} [[Autostrada A22 (Italia)|Brennero]]<br/><small> {{simbolo|AB-AS-grün.svg|15}} [[Campogalliano]]</small>||align="right"|156,1 || rowspan="5" align="center" |[[Provincia di Modena|MO]] ||align="center" rowspan=7|[[File:Italian traffic signs - strada europea 35.svg|30px|link=Strada europea E35]] [[File:Italian traffic signs - strada europea 45.svg|30px|link=Strada europea E45]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "Secchia" || align="right"|156,5 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Modena]] nord|| align="right"|157,6 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Modena]] sud|| align="right"|170,8 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Castelfranco" || align="right"|177,0 
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Valsamoggia]]
+| align="right"|184,8 || rowspan="12" align="center" |[[città metropolitana di Bologna|BO]]
+|-
+| [[File:AB-Kreuz-grün.svg]] ||{{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A14 Italia.svg|23}} [[Autostrada A14 (Italia)|Ancona]]<ref group="N">Solo da e per [[Milano]].</ref><br /><small>{{simbolo|AB-AS-grün.svg|15}} [[Bologna]] [[Borgo Panigale]]<ref group="N">Ex stazione "Bologna nord", in precedenza accessibile in entrambe le direzioni.</ref><br />{{simbolo|Autostrada sfondo verde.PNG}} [[Raccordo autostradale 1|Tangenziale di Bologna]]</small>|| align="right"|188,8 
+|-
+| [[File:AB-Kreuz-grün.svg]] ||{{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A14 Italia.svg|23}} [[Autostrada A14 (Italia)#Ramo Casalecchio|Ancona]]<br /><small>{{simbolo|AB-AS-grün.svg|15}} [[Bologna]] [[Casalecchio]]<ref group="N">Ex stazione "Bologna sud".</ref><br />{{simbolo|Autostrada sfondo verde.PNG}} [[Raccordo autostradale 1|Tangenziale di Bologna]]</small>|| align="right"|195,5|| rowspan="52" align="center" |[[File:Italian traffic signs - strada europea 35.svg|50px|link=Strada europea E35]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]][[File:Italian traffic signs - icona chiesa.svg|20x20px]]|| Area di servizio [[Ristoro a ponte|bidirezionale]] "Cantagallo" 
+(dove si trova anche la ''[[Chiesa di Sant'Angelo al Cantagallo]]'')
+| align="right" |199,2 
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Sasso Marconi]] Nord<ref group="N">Solo da e per [[Milano]], svincolo riservato unicamente al pagamento con [[Carta di credito|carte di credito]] e con apparati di [[Telepedaggio]] ([[Telepass]], [[UnipolMove]], [[MooneyGo]] e dei principali creditori di telepedaggio europei).</ref> [[File:Strada Statale 64var Italia.svg|sinistra|35x35px|SS64]][[Strada statale 64 Porrettana|Variante di Sasso Marconi]] 
+|align="right"| 199,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[File:Strada Statale 64 Italia.svg|sinistra|35x35px|SS64]][[Sasso Marconi]] - [[Strada statale 64 Porrettana|Porrettana]]
+
+[[Rocchetta Mattei]]
+| align="right" |209,8 
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|[[File:Autostrada_A1var_Italia.svg|23x23px]] [[Autostrada A1 var|Variante di Valico]]<br />Interscambio "La Quercia" || align="right"|220,8 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rioveggio]]|| align="right"|222,7 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Cà Nova"<ref name="Solo carreggiata sud" group="N">Solo carreggiata sud.</ref> || align="right"|235,2 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Pian del Voglio]]|| align="right"|237,2 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Roncobilaccio]]|| align="right"|242,3 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Roncobilaccio" || align="right"|242,4 
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|[[File:Autostrada_A1var_Italia.svg|23x23px]] [[Autostrada A1 var|Variante di Valico]]<br />Bivio "Aglio"<ref group="N">Confluenza finale in direzione sud, in direzione nord inizia la chilometrica burocratica.</ref>|| align="right"|255,3 
+| rowspan="20" align="center" |[[Città metropolitana di Firenze|FI]]
+|-
+|[[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]
+|Area di servizio "Aglio" ''solo sulla variante nord''<ref group="N">Solo carreggiata nord esterna verso A1 var - Bologna.</ref><ref group="N">Aglio ovest (direzione Firenze) è stata dismessa il 5 dicembre 2015, giorno di apertura del nuovo tratto Aglio-Barberino dell'autostrada.</ref>
+|| 256
+|-
+| [[File:AB-AS-grün.svg]] ||[[Barberino di Mugello|Barberino]]<ref group="N">L’ingresso verso nord avviene solo sulla variante di valico.</ref>|| align="right"|261,5 
+|-
+|[[File:Italian traffic signs - strada europea 35.svg|20px]]<br/>[[File:Italian traffic signs - lavori.svg|18x18px]]
+|Raccordo A1-Variante di valico<ref group="N">Solo in direzione nord. La corsia destinata alla Direttissima viene chiamata ''Raccordo A1-variante di valico'' fino al bivio Aglio.</ref><br/>[[Galleria stradale Santa Lucia#Opere correlate|Area di servizio bidirezionale "Bellosguardo"]] ''in costruzione''
+|align="right"| 262,2<br/><br/>
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Corzano"|| align="right"|263,5 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Marinella"<ref name="Solo carreggiata sud" group="N"/>|| align="right"|273,9 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Calenzano]] - [[Sesto Fiorentino]]<ref group="N">Ex "[[Prato (Italia)|Prato]] - Calenzano".</ref>|| align="right"|278,1 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Bisenzio" || align="right"|279,8 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Firenze|Firenze nord]]<br />[[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]<small> Area di servizio "Firenze nord"</small>|| align="right"|279,9 
+|-
+| [[File:AB-Kreuz-grün.svg]]|| [[File:Italian traffic signs - strada europea 76.svg|27px|link=Strada europea E76]] {{simbolo|Autostrada A11 Italia.svg|23}} [[Autostrada A11 (Italia)|Firenze - Pisa]]<br/><small>{{simbolo|AB-AS-grün.svg|15}} [[Firenze]] ovest</small>|| align="right"|280,8 
+|-
+| [[File:AB-AS-grün.svg]] || [[Scandicci|Firenze Scandicci]]<ref group="N">Ex "Signa"</ref><br /><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg}} {{simbolo|Strada di Grande Comunicazione, Italia.svg|40}} [[Strada di grande comunicazione Firenze-Pisa-Livorno|Superstrada Firenze - Pisa - Livorno]]</small>
+| align="right"|286,9 
+|-
+| [[File:AB-AS-grün.svg]] || Villa Costanza 
+| align="right"|289,7 
+|-
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Vingone"|| align="right"|291,7 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Impruneta|Firenze Impruneta]]<ref group="N">Ex "Certosa". Verso nord, svincolo accessibile solo scegliendo la carreggiata esterna.</ref><br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 3.svg|31}} [[Raccordo autostradale 3|Firenze - Siena]]</small>
+| - align="right"|295,5 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Firenze|Firenze sud]]<br /><small>{{simbolo|Strada Statale 67 Italia.svg|40}} [[Strada statale 67 Tosco Romagnola|Pontassieve]]</small>|| align="right"|300,9 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio [[Ristoro a ponte|bidirezionale]] "Chianti"|| align="right"|305,0 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Rignano"|| align="right"|313,0 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Figline e Incisa Valdarno|Incisa - Reggello]]<ref>{{Cita web |url=http://www5.autostrade.it/press-wcm.nsf/vwDataInter/33ab007a92832016c12576030049fe8e?Open |titolo=Comunicato nuova denominazione di Autostrade per l'Italia |accesso=18 dicembre 2009 |dataarchivio=3 dicembre 2021 |urlarchivio=https://web.archive.org/web/20211203004322/http://www5.autostrade.it/press-wcm.nsf/vwDataInter/33ab007a92832016c12576030049fe8e?Open |urlmorto=sì }}</ref>|| align="right"|319,9 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "Arno Ovest"<ref group="N">Ex "Reggello Ovest" (solo carreggiata sud).</ref> || align="right"|321,0 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Vallombrosa"<ref group="N">Ex area di servizio "Reggello Est" (solo carreggiata nord).</ref>|| align="right"|--,- 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "Arno Est"<ref group="N">Ex Area di parcheggio "San Giovanni Est" (solo carreggiata nord).</ref>|| align="right"|--,- || rowspan="11" align="center" |[[Provincia di Arezzo|AR]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "San Giovanni"<ref name="Solo carreggiata sud" group="N"/>|| align="right"|332,0 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Valdarno]]|| align="right"|335,8 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "G. Romita"|| align="right"|345,0 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Laterina"<ref name="Solo carreggiata sud" group="N"/>|| align="right"|350,0 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Civitella"<ref name="Solo carreggiata nord" group="N"/>|| align="right"|--,- 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Crocina"<ref name="Solo carreggiata sud" group="N"/>|| align="right"|355,0 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Arezzo]]|| align="right"|358,5 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Badia al Pino" || align="right"|362,0 
+|-
+| [[File:AB-AS-grün.svg]]||[[Monte San Savino]]|| align="right"|371,6 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Lucignano" || align="right"|381,0 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Valdichiana]]<br/><small>[[Bettolle]] - [[Foiano della Chiana]] - [[Sinalunga]]</small><br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 6.svg|31}} [[Raccordo autostradale 6|Siena - Bettolle - Perugia]]</small>|| align="right"|385,4 || rowspan="4" align="center" |[[Provincia di Siena|SI]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]][[File:Italian traffic signs - icona chiesa.svg|20x20px]]||Area di servizio "Montepulciano"|| align="right" |395 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chiusi]] - [[Chianciano Terme]]|| align="right"|410 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Astrone"<ref name="Solo carreggiata sud" group="N"/>|| align="right"|413 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "Fabro"|| align="right"|428 || rowspan="4" align="center" |[[Provincia di Terni|TR]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Fabro]]|| align="right"|428 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Ritorto"<ref name="Solo carreggiata nord" group="N"/>|| align="right"|438,8 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Orvieto]]|| align="right"|451 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "Tevere"|| align="right"|465 || rowspan="1" align="center" |[[Provincia di Viterbo|VT]]
+|-
+| [[File:AB-AS-grün.svg]] ||[[Attigliano]]|| align="right"|479,5 || rowspan="2" align="center" |[[Provincia di Terni|TR]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "Giove"|| align="right"|481 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Orte]]<br /><small>{{simbolo|Strada Statale 675 Italia.svg|40}} [[Strada statale 675 Umbro-Laziale|Viterbo - Terni]]<br />[[File:Italian traffic signs - strada europea 45.svg|27px|link=Strada europea E45]] {{simbolo|Strada Statale 3bis Italia.svg|40}} [[Strada statale 3 bis Tiberina|Orte - Ravenna]]<br />ex {{simbolo|Strada Statale 204 Italia.svg|40}} [[Narni]] - [[Amelia (Italia)|Amelia]] </small>|| align="right"|491 || rowspan="1" align="center" |[[Provincia di Viterbo|VT]] ||align="center" rowspan=6|[[File:Italian traffic signs - strada europea 35.svg|30px|link=Strada europea E35]] [[File:Italian traffic signs - strada europea 45.svg|30px|link=Strada europea E45]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Sabina"|| align="right"|499 || rowspan="3" align="center" |[[Provincia di Rieti|RI]] 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Magliano Sabina]]<br /><small>ex {{simbolo|Strada Statale 3 Italia.svg|40}} [[Strada statale 3 Via Flaminia|Via Flaminia]]</small>|| align="right"|501 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Flaminia"|| align="right"|509 
+|-
+| [[File:AB-AS-grün.svg]]||[[Ponzano Romano]] - [[Soratte]]<br /><small>ex {{simbolo|Strada Statale 3 Italia.svg|40}} [[Strada statale 3 Via Flaminia|Via Flaminia]]<br />{{simbolo|Strada Statale 4 Italia.svg|40}} [[Torri in Sabina]] - [[Poggio Mirteto]]</small>|| align="right"|516 || rowspan="9" align="center" |[[Città metropolitana di Roma Capitale|RM]]
+|-
+| [[File:AB-AS-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A1dir Italia.svg|23}} [[#A1 Diramazione Roma Nord|Roma nord]]<br /><small>{{simbolo|Autostrada A90 Italia.svg}} [[Autostrada A90|Grande Raccordo Anulare di Roma]]</small>
+| align="right"|531 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Mascherone" || align="right"|536 || rowspan="34" align="center" |[[File:Italian traffic signs - strada europea 45.svg|50px|link=Strada europea E45]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Guidonia Montecelio]]|| align="right" |555 
+|-
+| [[File:AB-Kreuz-grün.svg|15x15px]]|| Roma est<br />[[Tangenziale Est di Roma|Tangenziale est]]<br />[[File:Italian traffic signs - strada europea 80.svg|27px|link=Strada europea E80]] {{simbolo|Autostrada A24 Italia.svg|23}} [[Autostrada A24 (Italia)|Roma - L'Aquila - Teramo]]<br /><small> {{simbolo|Autostrada A25 Italia.svg}} [[Autostrada A25 (Italia)|Torano - Pescara]]<br />{{simbolo|Autostrada A90 Italia.svg}} [[Autostrada A90|Grande Raccordo Anulare]] di [[Roma]]</small>
+| align="right"|562 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Prenestina" || align="right"|566 
+|-
+| [[File:AB-AS-grün.svg]]|| [[File:Italian traffic signs - strada europea 821.svg|29px|link=Strada europea E821]] {{simbolo|Autostrada A1dir Italia.svg|23}} [[#A1 Diramazione Roma Sud|Roma sud]]<br /><small>{{simbolo|Autostrada A90 Italia.svg}} [[Autostrada A90|Grande Raccordo Anulare di Roma]]</small>
+| align="right"|576 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Valmontone]]
+<small>''ex'' {{simbolo|Strada Statale 600 Italia.svg|40}} [[Velletri]]</small>
+| align="right" |587 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Colleferro]]|| align="right"|593 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Anagni]]<br />[[Fiuggi Terme]]|| align="right"|604 || rowspan="9" align="center" |[[Provincia di Frosinone|FR]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "La Macchia" || align="right"|613 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Ferentino]]<br /><small>ex {{simbolo|Strada Statale 214 Italia.svg|40}} [[Sora (Italia)|Sora]]</small>|| align="right"|618,5 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Frosinone]]<br /><small>ex {{simbolo|Strada Statale 156 Italia.svg|40}} [[Strada statale 156 dei Monti Lepini|Latina]]</small>|| align="right"|624 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Ceprano]]|| align="right"|641,8 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pontecorvo]] - [[Castrocielo]]|| align="right"|658,8 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Casilina"|| align="right"|659,5 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cassino]]<br /><small>[[Parco nazionale d'Abruzzo, Lazio e Molise]]<br />ex {{simbolo|Strada Statale 630 Italia.svg|40}} [[Formia]]</small>|| align="right"|669,7 
+|-81
+| [[File:AB-AS-grün.svg]]|| [[San Vittore del Lazio|San Vittore]]<br /><small>{{simbolo|Strada Statale 6dir Italia.svg|40}} [[Venafro]]</small>|| align="right"|678,8 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Caianello]]<br /><small>{{simbolo|Strada Statale 372 Italia.svg|40}} [[Strada statale 372 Telesina|Benevento]]</small>|| align="right"|700,9 || rowspan="9" align="center" |[[Provincia di Caserta|CE]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Teano" || align="right"|708,4 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Capua (città moderna)|Capua]]<br /><small>{{simbolo|Strada Statale 7quater Italia.svg|40}} [[Strada statale 7 quater Via Domitiana]]</small>||align="right"|720 
+|-
+| [[File:AB-AS-grün.svg]]||[[Santa Maria Capua Vetere]]<br /><small>{{simbolo|Strada Statale 700 Italia.svg|40}} [[Strada statale 700 della Reggia di Caserta]]</small>||align="right"|729 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Caserta|Caserta nord]]<br /><small>[[Reggia di Caserta]]</small>
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "San Nicola"|| align="right"|737 
+|-
+| [[File:AB-AS-grün.svg]]|| {{simbolo|Autostrada A30 Italia.svg|23}} [[Autostrada A30 (Italia)|Caserta - Salerno]]
+<small>{{simbolo|Autostrada A16 Italia.svg}} [[Canosa di Puglia|Canosa]]</small><br /><small>{{simbolo|Autostrada A2 Italia.svg}} [[Autostrada A2 (Italia)|Reggio Calabria]] </small>
+|align="right"|739 
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Napoli|Napoli nord]]|| align="right"|740 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Caserta|Caserta sud]] {{simbolo|Italian traffic signs - stazione.svg|15}}<ref group="N">Pedaggio {{M|1.70|u=€}} solo per e da [[Napoli]].</ref><br /><small>[[Marcianise]]</small><br />
+|-
+| [[File:AB-Kreuz-blaugrün.svg]] ||[[Pomigliano]]<br />[[Villa Literno]]<br /><small>[[File:Strada Statale 7bis Italia.svg|50px]] [[Asse di Supporto Nola-Villa Literno]] </small>|| align="right"|746|| rowspan="9" align="center" |[[città metropolitana di Napoli|NA]]
+|-
+| [[File:AB-Kreuz-blaugrün.svg]]|| [[Acerra]] <br/> [[Afragola]] {{simbolo|Italian traffic signs - icona stazione fs.svg|23}} [[Stazione di Napoli Afragola]]<br/>{{simbolo|Strada Statale 162NC Italia.svg|40}} [[Strada statale 162 NC Asse Mediano|Asse Mediano Lago Patria-Acerra]]|| align="right"|749 
+|-
+| [[File:AB-AS-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 842.svg|27}} {{simbolo|Autostrada A16 Italia.svg|23}} [[Autostrada A16 (Italia)|Napoli - Canosa]]
+|align="right"|753 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Casoria]]<br />{{simbolo|Strada Provinciale 1 Italia.svg|43}} [[Circumvallazione Esterna di Napoli]]|| align="right"|754 
+|-
+| [[File:AB-AS-grün.svg]]|| {{simbolo|Autostrada A1 Italia.svg|23}} [[#A1 Ramo Capodichino|Ramo Capodichino]]<br /><small>{{simbolo|Autostrada A56 Italia.svg}} [[Autostrada A56|Tangenziale di Napoli]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Napoli-Capodichino]]</small>|| align="right"| 755 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Masseria"<ref>Dismessa in direzione sud per chi arriva direttamente dall'A1</ref>
+| align="right" |- 
+|-
+| [[File:AB-Kreuz-blaugrün.svg]] ||[[Centro direzionale di Napoli|Napoli Centro Direzionale]]<br /><small>[[File:Strada Statale 162dir Italia.svg|50px]] ''[[Strada statale 162 dir del Centro Direzionale|del Centro Direzionale]]''<br /> Acerra -[[Pomigliano d'Arco]] - [[Cercola]]<br />[[File:Strada Statale 268 Italia.svg|50px]] ''[[Strada statale 268 del Vesuvio|del Vesuvio]]''<br /></small>|| align="right"|758 
+|-
+| {{simbolo|AB-AS-grün.svg|17}} ||[[Napoli]]<br/><small>{{simbolo|Autostrada A3 Italia.svg|23}} ''[[Autostrada A3 (Italia)|Napoli-Salerno]]''</small>
+|align="right"|759,8 
+|-
+| {{simbolo|AB-gerade-grün.svg|17}} ||{{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A3 Italia.svg|23}} ''[[Autostrada A3 (Italia)|Napoli-Salerno]]
+|align="right"|760,3
+|}
+{{clear}}
+
+== Diramazioni e raccordi ==
+=== Raccordo A1-A51 ===
+{{Strada
+|nome = Raccordo R6
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Raccordo A1-A51
+|simbolo = Autostrada A1 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-MI}} 
+|inizio = A51
+|fine = A1
+|lunghezza = 1,7
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia S.p.A.|Autostrade per l'Italia]]
+|pedaggio = Gratuito
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+Il tratto autostradale di {{m|1,7|u=km}}<ref>{{Cita web|url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2|titolo=TE - Trasporti Eccezionali - Mappe|sito=teonline.autostrade.it|accesso=6 dicembre 2020|dataarchivio=13 marzo 2013|urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2|urlmorto=sì}}</ref> che collega senza soluzione di continuità l’A1 alla tangenziale est è denominato raccordo R6. È stato costruito in seguito alla costruzione della tangenziale est.<ref name="Google Maps" />
+
+;;;; Tabella percorso
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="4" | {{simbolo|Autostrada A1 Italia.svg|30}} '''Raccordo R6'''<br />''Autostrada A1-Autostrada A51''
+|-
+!Tipo!!Indicazione!!km!!Provincia 
+|-
+| [[File:AB-gerade-grün.svg]]|| {{simbolo|Autostrada A51 Italia.svg|23}} ''[[Autostrada A51|Tangenziale est di Milano]]''|| align="right" |1,7 || align=center rowspan="4" |[[Provincia di Milano|MI]]
+|-
+| [[File:AB-AS-grün.svg]] || [[San Donato Milanese]]<br /><small>{{simbolo|Italian traffic signs - simbolo autostrada (figura II 161).svg|17}} [[#Raccordo A1-Piazzale Corvetto|Raccordo R5]]<br />[[Metanopoli]] - [[Chiaravalle (Milano)|Chiaravalle]] - [[Sesto Ulteriano]]</small> || align=right | 1,6
+|-
+| [[File:AB-AS-grün.svg]] || [[Milano]] {{simbolo|Italian traffic signs - centro città.svg}}<br /><small>[[Corvetto (Milano)|P.le Corvetto]]</small> || align=right | 0,8
+|-
+| [[File:AB-gerade-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} ''[[#Autostrada A1 (Italia)|del Sole]]'' || align="right" | 0,0
+|}
+{{clear}}
+
+=== Raccordo A1-Piazzale Corvetto ===
+{{Strada
+|nome = Raccordo R5
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Raccordo Piazzale Corvetto
+|simbolo = Autostrada A1 Italia.svg
+|nome precedente = Autostrada A1
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-MI}} 
+|inizio = [[Milano]] [[Corvetto (Milano)|Corvetto]]
+|fine = Innesto su A1, presso [[Milano]] [[Rogoredo (Milano)|Rogoredo]]
+|lunghezza = 2,4<ref>Google Maps</ref>
+|direzione = 
+|apertura = [[1958]]
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia S.p.A.|Autostrade per l'Italia]]
+|pedaggio = Gratuito
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+Il ''raccordo A1-Piazzale Corvetto'', numerato da [[Autostrade per l'Italia]] come R5<ref>{{Cita web|url=https://www.google.it/maps/@45.4229666,9.2502248,3a,41.2y,137.57h,82.07t/data=!3m6!1e1!3m4!1s_tXCdDRGwd4R9rp1ke-ffw!2e0!7i16384!8i8192?hl=it-it|titolo=Google maps}}</ref>, costituisce il tratto originario della A1 che iniziava a [[Milano]] presso piazzale Corvetto, declassato dopo la costruzione della variante che incanala il traffico da e per [[Bologna]] senza soluzione di continuità nella [[Autostrada A51|tangenziale Est]]. Si sviluppa parallelamente al nuovo tratto di A1, a nord di esso, per un paio di chilometri e alla fine si ricollega alla A1 a sud di [[San Donato Milanese]].
+
+;;;; Tabella percorso
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="4" | {{simbolo|Autostrada A1 Italia.svg|30}} '''Raccordo R5'''<br />''Autostrada A1-Piazzale Corvetto''
+|-
+!Tipo!!Indicazione!!km!!Provincia
+|-
+| [[File:Italian traffic signs - strada extraurbana principale.svg|30x30px]] || Raccordo Autostrada del Sole<br /><small>{{simbolo|Italian traffic signs - centro città.svg}} [[Milano]] - [[Corvetto (Milano)|Piazzale Corvetto]]</small>|| || align="center" rowspan=5 | [[Provincia di Milano|MI]]
+|-
+| [[File:AB-AS-grün.svg ]]|| {{simbolo|Autostrada A51 Italia.svg|23}} [[Autostrada A51|Tangenziale est di Milano]] || align="right"| 2,5
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "San Donato" || align="right"| 2,4
+|-
+| [[File:AB-AS-grün.svg]]||{{simbolo|Strada Statale 412 Italia.svg|40}} [[Strada statale 412 della Val Tidone|Poasco]] - {{simbolo|Strada Statale 9 Italia.svg|40}} ''[[Strada statale 9 Via Emilia|Via Emilia]]''<br /><small>{{simbolo|Italian traffic signs - simbolo autostrada (figura II 161).svg|17}} Raccordo R28 (complanare fino a km 0,9)<br><small>[[San Donato Milanese]]</small>||align="right"|2,0
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[#Autostrada A1 (Italia)|Milano-Napoli]]||align="right"| 0,0
+|}
+{{clear}}
+
+=== A1 Diramazione Roma Nord ===
+{{Strada
+|nome = Autostrada A1 dir Roma Nord
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Fiano Romano-Roma
+|simbolo = Autostrada A1dir Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LAZ}}
+|divisione amm 2 = {{IT-RM}} 
+|inizio = [[Fiano Romano]]
+|fine = [[Roma]]
+|lunghezza = 23,1<ref>[https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=1&ramo=2&code=D18&link=&tipo= TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente -->]</ref>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia S.p.A.|Autostrade per l'Italia]]
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|Sistema aperto]] nelle uscite di [[Castelnuovo di Porto]] e [[Fiano Romano]], rispettivamente con tariffe di {{M|1.00|u=€}} e {{M|1.60|u=€}}.<br />Gratuito nel tratto tra [[Settebagni]] e innesto [[Grande Raccordo Anulare]].
+|città servite = [[Roma]], [[Settebagni]], [[Monterotondo]], [[Castelnuovo di Porto]], [[Fiano Romano]]
+|intersezioni = 
+|europea1 = 35
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Mappa autostrada A1dir nord Italia.svg
+|tracciato = 
+}}
+
+L'A1 dir Roma Nord è una diramazione autostradale lunga {{M|23|u=km}} che collega l'autostrada A1 a [[Roma]], partendo da Fiano Romano e terminando con l'innesto nel [[Grande Raccordo Anulare|Grande raccordo anulare]] nei pressi della [[Via Salaria]].
+
+Fino al 1988 costituiva il tratto terminale dell'intera A1. È gestita da [[Autostrade per l'Italia]]<ref name=autogenerato1 /> e internamente a esse è contrassegnata come D18<ref name="Codici autostradali">{{cita web |url=https://teonline.autostrade.it/BVS/sito/ReteAutostrade/stradeRami.jsp?&link=&tipo= |titolo=Copia archiviata |accesso=3 settembre 2009 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20060508025519/https://teonline.autostrade.it/BVS/sito/ReteAutostrade/stradeRami.jsp?&link=&tipo= }}</ref>.
+
+Il 1º agosto 2011 è stata aperta la terza corsia tra Fiano Romano e Settebagni. La costruzione dei nuovi 16 chilometri ha richiesto 146 milioni di euro<ref>{{Cita web|url=http://www.borsaitaliana.it/borsa/notizie/mf-dow-jones/italia-dettaglio.html?newsId=884825&lang=it|titolo=Notizie Economia Finanza Mercati - Borsa Italiana|accesso=9 dicembre 2016}}</ref>.
+
+;;;; Tabella percorso
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="6" | {{simbolo|Autostrada A1 Italia.svg|30}} '''Diramazione Roma Nord'''<br/>''Fiano Romano-Roma''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+|{{simbolo|AB-Vzw-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[#Autostrada A1 (Italia)|Milano - Napoli]]
+| align="right"|0 ||align="right"| 23|| align="center" rowspan=8|[[Provincia di Roma|RM]]||align="center" rowspan=7|[[File:Italian traffic signs - strada europea 35.svg|60px|link=Strada europea E35]]
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera [[Roma|Roma nord]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''<br />''Direzione 5° Tronco Autostrade per l'Italia''</small>|| align="right" |3 ||align="right"|17
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]][[File:Italian traffic signs - icona chiesa.svg|20x20px]]|| Area di servizio bidirezionale "Feronia" || align="right" |4 ||align="right"| 16
+|-
+| [[File:AB-AS-grün.svg]]|| [[Fiano Romano]]<br /><small> {{simbolo|Strada Statale 4dir Italia.svg|40}} ''[[Strada statale 4 dir Via Salaria|Via Salaria]]''</small>|| align="right"|4 ||align="right"|16
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castelnuovo di Porto]] - [[Monterotondo]]<br /><small>{{simbolo|Strada Statale 730 Italia.svg|40}} [[Strada statale 730 del Nucleo Industriale di Monterotondo|del Nucleo Industriale di Monterotondo]]</small>|| align="right"|7 ||align="right"| 9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Settebagni]]<br /><small> {{simbolo|Strada Statale 4 Italia.svg|40}} ''[[Strada statale 4 Via Salaria|Via Salaria]]''</small>|| align="right"|19 ||align="right"| 4
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Salaria"|| align="right"|21 ||align="right"| 2
+|-
+| {{simbolo|AB-Vzw-grün.svg|17}}|| {{simbolo|Autostrada A90 Italia.svg|23}} [[Grande Raccordo Anulare di Roma]]<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Roma-Fiumicino]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Roma-Ciampino]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Roma-Urbe]]</small>|| align="right"|23 ||align="right"| 0||align="center" rowspan=1|
+|}
+{{clear}}
+
+=== A1 Diramazione Roma Sud ===
+{{Strada
+|nome = Autostrada A1 dir Sud
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = San Cesareo-Roma
+|simbolo = Autostrada A1dir Italia.svg
+|nome precedente = [[Autostrada A2 (Italia, 1962-1988)|Autostrada A2 Roma-Napoli]]
+|nome successivo = 
+|divisione amm 1 = {{IT-LAZ}}
+|divisione amm 2 = {{IT-RM}} 
+|inizio = [[San Cesareo]]
+|fine = [[Roma]]
+|lunghezza = 20,0
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]] (€1.20) (gratuito nella tratta ''Barriera Roma Sud''-innesto [[Autostrada A90 (Italia)|A90]])
+|città servite = [[Roma]], [[Monte Porzio Catone|Monteporzio Catone]], [[Frascati]], [[Monte Compatri]], [[San Cesareo]].
+|intersezioni = 
+|europea1 = 821
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Mappa autostrada A1dir sud Italia.svg
+|tracciato = 
+}}
+
+L'Autostrada A1 diramazione Roma Sud è una [[diramazione autostradale]] di {{m|20|u=km}}<ref>{{cita web|url=https://www2.autostrade.it/BVSPortal/#/home/(rete)|titolo= Portale Trasporti Eccezionali}}</ref> che collega l'Autostrada A1 del Sole a [[Roma]]. Nel [[Strade europee|sistema stradale europeo]] è una strada di classe B nota con la designazione [[Strada europea E821|E821]], e collega la [[Strada europea E80|E80]] con la [[Strada europea E45|E45]].
+
+Fino al 1988 costituiva il tratto iniziale dell'[[Autostrada A2 (Italia, 1962-1988)|Autostrada A2 Roma-Napoli]]. È gestita da [[Autostrade per l'Italia]]<ref name=autogenerato1 /> e internamente è contrassegnata come D19<ref name="Codici autostradali" />.
+
+Inizia con un innesto sulla A1, in corrispondenza dell'uscita Roma Sud-[[San Cesareo]] (km 576), e termina con un innesto sul [[Grande Raccordo Anulare]] (km 39) nei pressi de [[Romanina|La Romanina]]. 
+
+;;;; Tabella percorso
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="5" | {{simbolo|Autostrada A1dir Italia.svg|30}} '''Diramazione Roma Sud'''<br />''San Cesareo - Roma''
+|-
+!Tipo!!Indicazione!!↓km↓!!Provincia!!Strada europea
+|-
+| {{simbolo|AB-Vzw-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} ''[[#Autostrada A1 (Italia)|Milano - Napoli]]''
+| align="right"|0,0 || rowspan="8" align="center" |[[Provincia di Roma|RM]]|| align="center" rowspan=1|{{simbolo|Italian traffic signs - strada europea 45.svg|50|link=Strada europea E45}}
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Cesareo]]|| align="right"|5,0 || rowspan="6" align="center" |[[File:Italian traffic signs - strada europea 821.svg|50px|link=Strada europea E821]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Monte Porzio Catone]]|| align="right"|10,1
+|-
+| [[File:AB-Rast.svg]]|| Area di servizio "Frascati"|| align="right" |14,5
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera Roma sud||align="right"|14,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Torrenova (zona di Roma)|Torrenova]]<br/><small>{{simbolo|Italian traffic signs - icona università.svg}}[[Università degli Studi di Roma Tor Vergata|Università]]<br/>{{simbolo|Italian traffic signs - simbolo ospedale (figura II 104).svg}} [[Policlinico Tor Vergata|Policlinico]]|| align="right"|16,4
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Tuscolana"|| align="right"|19,1
+|-
+| {{simbolo|AB-Vzw-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A90 Italia.svg|23}} ''[[Grande Raccordo Anulare]] di Roma''||align="right"|20,0 || rowspan="1" align="center" |{{simbolo|Italian traffic signs - strada europea 80.svg|50px|link=strada europea E80}}
+|}
+{{clear}}
+
+=== A1 Raccordo di Capodichino ===
+{{Strada
+|nome = Autostrada A1
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Raccordo di Capodichino
+|simbolo = Autostrada A1 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-CAM}}
+|divisione amm 2 = {{IT-NA}}
+|inizio = A1
+|fine = [[Autostrada A56|A56]]
+|lunghezza = 3
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio =Gratuito 
+|città servite = 
+|intersezioni = [[Circumvallazione Esterna di Napoli|SP 1]]
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+[[File:A1 Ramo Capodichino.jpg|thumb|La carreggiata verso l'autostrada A1]]
+
+Il '''raccordo di Capodichino''' è un agglomerato di [[raccordo autostradale|ramificazioni autostradali]] di circa {{m|3|u=km}}<ref>{{cita web|url=https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=1&ramo=4&code=D02&link=&tipo= |titolo=Trasporti eccezionali on line|urlarchivio=https://web.archive.org/web/20060508022525/https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=1&ramo=4&code=D02&link=&tipo= }}</ref> che collega l'autostrada A1 alla [[Autostrada A56|tangenziale di Napoli]] (A56), oltre a consentire l'immissione del traffico proveniente dalla [[Circumvallazione Esterna di Napoli]] sulla A1 in direzione Napoli. Un tempo costituiva il tratto finale dell'intera autostrada A1. Internamente ad Autostrade per l'Italia, la tratta è contrassegnata come D02.<ref name="Codici autostradali" />
+
+Il raccordo è costituito da sette rami denominati: A, B, C, D, H39 e Capodichino, con quest'ultimo che copre la maggior parte della tratta.
+
+* il ramo A è un ramo d'ingresso e consente di immettersi sul ramo Capodichino provenedo dalla A1 in direzione Napoli;
+* il ramo B è un ramo d'uscita e consente di immettersi sulla A1 in direzione Milano provenendo dal ramo Capodichino;
+* il ramo C è un ramo d'uscita e consente di immettersi sulla A1 in direzione Napoli provenendo dal ramo Capodichino o H39;
+* il ramo D è un ramo d'ingresso e consente di immettersi sul ramo Capodichino provenendo dalla A1 in direzione Milano, oppure dal ramo H39;
+* il ramo H39 collega la [[Circumvallazione Esterna di Napoli]] (SP1) al resto del raccordo in entrambe le direzioni. Consente l'ingresso dal ramo Capodichino attraverso l'uscita [[Casoria]]-[[Avellino]], mentre consente l'uscita sui rami C e D. Transitivamente consente l'inversione di marcia al traffico proveniente dalla tangenziale.
+* il ramo Capodichino aggrega il traffico da e per la [[tangenziale di Napoli]], smistando il traffico da e per la A1 sugli altri rami;
+
+;;;; Tabella percorso
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="5" | {{simbolo|Autostrada A1 Italia.svg|30}} '''Raccordo di Capodichino'''<br />''Autostrada A1-A56''
+|-
+!Tipo!!Indicazione!!↓km↓!!Note!!Provincia 
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}} || {{simbolo|Autostrada A1 Italia.svg|23}} ''Milano-Napoli'' ||align="right"|0,0 ||<ref>Solo in direzione Napoli per il traffico proveniente dal ramo H39</ref>|| align="center" rowspan=5|[[Città metropolitana di Napoli|NA]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Cittadella"
+|align="right"|0,6 || <ref>Solo su carreggiata direzione A1-Napoli, tecnicamente ramo C</ref>
+|-
+| [[File:AB-AS-grün.svg]]|| [[Casoria]]-[[Avellino]]<br /><small>{{simbolo|Strada Provinciale 1 Italia.svg|25}} ''[[Circumvallazione Esterna di Napoli]]''<br/>{{simbolo|Strada Provinciale 527 Italia.svg|25}} ''Cantariello''<br/>{{simbolo|Italian_traffic_signs_-_icona_inversione_di_marcia.svg}} Inversione di marcia</small>
+|align="right"|1,0 ||<ref>Solo direzione A1</ref>
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "San Pietro"
+|align="right"|1,5 || <ref>Solo in direzione Tangenziale di Napoli, non disponibile provenendo dal ramo D e H39</ref>
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Autostrada A56 Italia.svg|23}} ''[[Autostrada A56|Tangenziale di Napoli]]''<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Napoli-Capodichino|Aeroporto civile]]</small>
+|align="right"|3,0 ||
+|}
+{{clear}}
+
+=== Raccordo Autostradale Sasso Marconi-SS64 Porrettana ===
+[[File:Panorama badolo.jpg|miniatura|left|Vista serale sul Raccordo Sasso Marconi - SS 64 dalla cima di [[Rocca di Badolo]] ]]
+
+{{Strada
+|nome = Raccordo Autostradale Sasso Marconi - SS64 Porrettana|tipo = [[Autostrada]]|stato = ITA|nome secondario =|simbolo = Italian traffic signs - autostrada.svg|nome precedente =|nome successivo = |divisione amm 1 = {{IT-EMR}}|divisione amm 2 = {{IT-BO}} |inizio = A1 casello Sasso Marconi|fine = SS64|lunghezza = 2,7<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |titolo=TE - Trasporti Eccezionali - Mappe<!-- Titolo generato automaticamente --> |accesso=12 novembre 2014 |dataarchivio=13 marzo 2013 |urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |urlmorto=sì }}</ref>|direzione = |apertura = |provvedimento istituzione = |gestore = [[Autostrade per l'Italia S.p.A.|Autostrade per l'Italia]] |pedaggio = gratuito|città servite = |intersezioni = |europea1 = |europea2 = |europea3 = |europea altro = |mappa = |tracciato = }}Il '''Raccordo Autostradale Sasso Marconi - SS64 Porrettana''' è un tratto della vecchia sede dell'autostrada del sole dismesso il 10 luglio 2006 con l'inaugurazione della 3ª corsia del lotto 0, della galleria Monte Mario e del nuovo casello di Sasso Marconi. La galleria attraversa la collina prospiciente l'abitato con una modifica del tracciato. Attualmente il vecchio tracciato viene in parte usato come raccordo tra lo svincolo di Sasso Marconi e il piazzale dell'ex-svincolo omonimo dismesso, ove confluisce nella [[Strada statale 64 Porrettana|SS 64 Porrettana]]. 
+La tratta presenta segnale di inizio autostrada, segnaletica verde, non è dotata di corsia d'emergenza e ha un limite di velocità di {{M|90|u=km/h}}.
+Sul sito di Autostrade per l'Italia nella sezione calcolo pedaggio risulta come "R43 Raccordo Sasso Marconi - SS 64" ed è a pagamento per chi poi imbocca la A1.
+All'ingresso di fronte al casello c'è anche la possibilità di imboccare la SP325 in direzione di Prato. In questo caso non vi sono caselli e l'uso del raccordo è gratuito.
+
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="5" | '''Raccordo Autostradale Sasso Marconi - SS64 Porrettana'''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia 
+|-
+| {{simbolo|AS-rondo-icon-grün.svg|17}} || {{simbolo|Autostrada A1 Italia.svg|23}} Milano-Napoli <br/> ex {{simbolo|Strada Statale 325 Italia.svg|43}} [[Strada statale 325 di Val di Setta e Val di Bisenzio]]
+| align="right" | 0,0|| align="right" |2,7 || rowspan="2" align="center" |[[Città metropolitana di Bologna|BO]]
+|-
+| {{simbolo|AS-rondo-icon-grün.svg|17}}|| {{simbolo|Strada Statale 64var Italia.svg|43}} [[Strada statale 64 Porrettana#Variante di Sasso Marconi|Variante di Sasso Marconi]] <br /> {{simbolo|Italian traffic signs - città.svg}} [[Sasso Marconi]]
+| align="right" |2,7 || align="right" | 0
+|}
+{{clear}}
+
+== Obblighi ==
+Dall'inizio dell'autostrada presso [[Milano]] sud (km 0) fino allo svincolo di [[Orte]] (km 491,3), sull'intera [[Autostrada A1 var|variante di Valico]] e sul ''Ramo d'Adduzione'' di Sasso Marconi sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile.<ref>{{Cita web|lingua=it|url=https://www.autostrade.it/it/obbligo-catene|titolo=Obbligo catene a bordo|sito=Autostrade per l'Italia|accesso=2025-05-22}}</ref>
+{{clear}}
+
+== Note ==
+=== Annotazioni ===
+<references group="N"/>
+
+=== Fonti ===
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'Autostrada del Sole |autore = Aimone F. Jelmoni |rivista = [[Le Strade]] |volume = anno XXXVI |numero = 6 |anno = 1956 |mese = giugno |pp = 241-247 |editore = [[Touring Club Italiano]] |città = Milano |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1548#page/424/mode/2up }}
+* {{Cita pubblicazione |titolo = Inaugurato il primo tronco della "Autostrada del Sole" |rivista = [[Le Strade]] |volume = anno XXXIX |numero = 1 |anno = 1959 |mese = gennaio |pp = 33-37 |editore = [[Touring Club Italiano]] |città = Milano |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1551#page/50/mode/2up }}
+* {{cita web|https://www.aising.eu/wp-content/uploads/2017/atti/I_Convegno2006.pdf|Tullia Iori, ''L'Autostrada del Sole'', in Storia dell'Ingegneria. Atti del 1º Convegno Nazionale. Napoli, 8-9 marzo 2006. Tomo II, pp. 1133-1142|formato=PDF}}
+* {{cita libro|autore=[[Enrico Menduni]]|titolo=L{{'}}Autostrada del Sole|città=Bologna|editore=Il Mulino|anno=1999|url=https://www.stagniweb.it/autosole.htm}}
+
+== Voci correlate ==
+* [[Viadotto San Giuliano]]
+* [[Autostrada A2 (Italia, 1962-1988)|Autostrada A2 (1962-1988)]] 
+* [[Chiesa di Sant'Angelo al Cantagallo]]
+* [[Chiesa dell'Autostrada del Sole]]
+* [[La strada dritta]]
+
+== Altri progetti ==
+{{interprogetto|commons_preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+* {{cita web|http://www.autostrade.it|Autostrade per l'Italia}}
+* [https://web.archive.org/web/20071028113005/http://www.lastoriasiamonoi.rai.it/puntata.aspx?id=387 Il boom dell'autostrada - Finalmente un'arteria tra Nord e Sud] La Storia siamo Noi - Rai Educational
+* {{cita web | 1 = http://www.lotsberg.net/data/italia/A01.html | 2 = Gallerie e viadotti della A1 | accesso = 3 agosto 2009 | dataarchivio = 25 giugno 2020 | urlarchivio = https://web.archive.org/web/20200625060255/http://www.lotsberg.net/data/italia/A01.html | urlmorto = sì }}
+* {{YouTube|autore=Autostrade per l'Italia|id=AaNR-MKGvic|titolo=10 anni di autostrade: 1956 - 1966|data=10 dicembre 2015|accesso=4 aprile 2022}}
+* {{Cita web|url=https://www.raiplaysound.it/audio/2017/05/LAutostrada-del-Sole----Wikiradio-del-19052017-5b15a42e-289b-4bfb-9202-73d72fa9e206.html|titolo=L'Autostrada del Sole - Wikiradio del 19/05/2017|data=2017-05-19|accesso=2026-07-28}}
+
+{{Autostrade italiane}}
+{{Portale|Italia|trasporti}}
+
+[[Categoria:Autostrada A1 (Italia)| ]]

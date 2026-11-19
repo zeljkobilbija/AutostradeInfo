@@ -1,0 +1,268 @@
+{{Strada
+|nome = Autostrada A19
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Palermo-Catania
+|simbolo = Autostrada A19 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 = {{IT-PA}}<br/>{{IT-CL}}<br/>{{IT-EN}}<br/>{{IT-CT}}
+|inizio = [[Villabate]] ([[provincia di Palermo|PA]])
+|fine = [[Catania]]
+|lunghezza = 191,6<ref name=m/>
+|direzione = est-ovest 
+|apertura = [[1970]]<ref name=a>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html }}</ref> (primo tratto)
+|provvedimento istituzione = 
+|gestore = [[Anas (azienda)|Anas]]
+|pedaggio = gratuito 
+|città servite = [[Palermo]], [[Caltanissetta]], [[Enna]], [[Catania]]
+|intersezioni = [[Autostrada A20 (Italia)|Autostrada A20]] a [[Buonfornello]] e [[Raccordo autostradale 15|RA15]] a [[Catania]] 
+|europea1 = 90
+|europea2 = 932
+|europea3 = 
+|europea altro = 
+|mappa = Italia - mappa autostrada A19.svg
+|tracciato = 
+}}
+L{{'}}'''autostrada A19''' è un'[[Autostrade in Italia|autostrada italiana]] che collega le città [[sicilia]]ne di [[Palermo]] e [[Catania]]. Attraversa la [[Sicilia centrale]] con un percorso di oltre {{M|191|u=km}} passando per [[Caltanissetta]] ed [[Enna]]. È gestita interamente dall'[[ANAS|Anas]] ed è gratuita.
+
+Il tratto di autostrada da [[Palermo]] a [[Buonfornello]] è parte della [[strada europea E90]], mentre il tratto da Buonfornello a [[Catania]] corrisponde alla [[strada europea E932]].
+
+== Storia ==
+[[File:L'uscita di Enna sull'autostrada A19, Italia.jpg|thumb|left|Lo svincolo di Enna nel 2005.]]
+Il tragitto, disegnato e costruito dall'[[ANAS|Anas]] è stato inaugurato completamente nel [[1975]], con gestione iniziale di competenza dello stesso ente statale. L'arteria ha di fatto sostituito la [[Strada statale 121 Catanese|SS 121 Catanese]], che fino all'apertura dell'autostrada serviva il collegamento tra [[Palermo]] e [[Catania]] attraverso i territori della [[Sicilia centrale]]. La realizzazione di questo tragitto ha notevolmente velocizzato gli spostamenti dal capoluogo palermitano a quello etneo, riducendo sensibilmente il tempo necessario, e ridotto l'isolamento dei comuni dell'entroterra siciliano, tra cui anche [[Caltanissetta]] ed [[Enna]].
+
+L'autostrada è stata aperta al [[traffico]] in due fasi: nel [[1970]] da Palermo a [[Buonfornello]] e da [[Motta Sant'Anastasia]] a Catania; nel 1975 si è arrivati al completamento dell'opera con l'apertura dell'intero percorso  centrale.
+
+L'autostrada, dall'inaugurazione, non ha sostanzialmente cambiato il suo volto originario, ma negli ultimi decenni è stata interessata da importanti lavori di ammodernamento e di messa in sicurezza. 
+* Nel [[2005]] è stato inaugurato il nuovo svincolo di [[Dittaino (valle)|Dittaino]], che permette un rapido accesso all'omonima zona industriale<ref>{{Cita web |url=http://www.vivienna.it/notizie/notizia.php?id_news=13540&11/12/2005&13:49:32&titolo=ASI:%20si%20apre%20lo%20svincolo%20autostradale%20A19%20di%20Dittaino |titolo=ASI: si apre lo svincolo autostradale A19 di Dittaino |sito=Vivi Enna |urlmorto=sì }}</ref> e che, dal novembre 2010, consente di raggiungere il centro commerciale [[outlet]] siciliano (Sicilia Outlet Village).
+* Nel [[2010]], in occasione dell'apertura al traffico dell'[[asse attrezzato di Catania]] (strada di penetrazione nei quartieri sud occidentali del [[Catania|capoluogo etneo]]), l'ultimo tratto di poco più di un chilometro dell'autostrada A19 è stato dismesso per consentire il collegamento senza soluzione di continuità tra il nuovo asse attrezzato e l'autostrada stessa. Sino ad allora l'autostrada terminava con un incrocio a raso sulla [[Strada statale 192 della Valle del Dittaino|SS 192]] in località ''Zia Lisa'', intersezione oggi sostituita dal primo svincolo dell'asse attrezzato.
+* Nel [[2014]] è stato aperto lo svincolo di Irosa, che collega all'autostrada alcuni paesi delle [[Madonie]], tra cui [[Blufi]], [[Bompietro]], [[Petralia Soprana]] e [[Petralia Sottana]], [[Geraci Siculo]] e [[Gangi]].<ref>{{Cita web |url=http://livesicilia.it/2014/01/08/nuovo-accesso-per-le-madonie-si-inaugura-lo-svincolo-irosa_426436/ |titolo=Nuovo accesso per le Madonie Si inaugura lo svincolo Irosa |sito=Live Sicilia |data=8 gennaio 2014 |urlarchivio=https://web.archive.org/web/20140111171555/http://livesicilia.it/2014/01/08/nuovo-accesso-per-le-madonie-si-inaugura-lo-svincolo-irosa_426436/}}</ref><ref>{{Cita web |autore=Ivan Mocciaro |url=http://palermo.repubblica.it/cronaca/2014/01/11/news/aperto_lo_svincolo_irosa_madonie_pi_vicine_all_a19-75654779/ |titolo=Aperto lo svincolo Irosa Madonie più vicine all'A19 |sito=La Repubblica |data=11 gennaio 2014}}</ref>.
+* Il 10 aprile 2015 un evento franoso causò lo spostamento di alcuni piloni del viadotto ''Himera'' (carreggiata in direzione Catania) che si inclinò lateralmente, rendendo necessaria la chiusura dell'autostrada in entrambe le direzioni tra le uscite di Scillato e Tremonzelli per circa sette mesi<ref name="articolo repubblica.it 1">{{Cita web |url=http://palermo.repubblica.it/cronaca/2015/04/10/news/frana_in_autostrada_chiuso_un_tratto_della_palermo-catania-111625093/ |titolo=Cede pilone di un viadotto in autostrada, chiuso tratto della Palermo-Catania |sito=La Repubblica |data=10 aprile 2015 |accesso=11 aprile 2015}}</ref>. Una bretella deviata, aperta il 16 novembre 2015, ha consentito la riapertura al traffico del tratto di autostrada chiuso da aprile<ref name=apertura-bretella-himera>{{Cita web |url=http://gds.it/2015/11/16/autostrada-palermo-catania-aperta-al-traffico-la-bretella-sul-viadotto-himera_437293/ |titolo=Autostrada Palermo-Catania: aperta al traffico la bretella sul viadotto Himera |sito=[[Giornale di Sicilia]] |data=16 novembre 2015 |accesso=16 ottobre 2015}}</ref>.
+
+* Il 27 luglio 2026 è stato riaperto al traffico il viadotto Alfio, lungo 882 metri (nei pressi di Catenanuova) che era stato chiuso a causa del degrado dei giunti di dilatazione e interamente demolito; è stato rifatto con una struttura mista in acciaio e calcestruzzo e adeguato ai moderni standard di sicurezza. Nello stesso giorno è stata consegnata e aperta la "canna" in direzione Catania della galleria Tremonzelli.<ref>{{cita web|url=https://palermo.gds.it/articoli/cronaca/2026/07/27/a19-palermo-catania-riapre-il-viadotto-alfio-nuova-infrastruttura-dopo-18-mesi-di-lavori-2aec14e5-99b9-4364-bec1-7f1de7378688/|titolo=A19 Palermo-Catania, riapre il viadotto Alfio: nuova infrastruttura dopo 18 mesi di lavori|data=27 luglio 2026|accesso=28 luglio 2026}}</ref>. 
+=== Cedimento del viadotto Himera ===
+{{e|Troppi dettagli, nomi di politici, inaugurazioni alla presenza di.. non descrivono l'autostrada ma fatti ad essa relativi ma qui inutili: Sintetizzare o eliminare|trasporti|luglio 2026}}
+
+==== Antefatti ====
+Una frana insisteva sull'area già da dieci anni. Fu la stessa frana che nel [[2005]] danneggiò irreparabilmente la strada provinciale 24, che collega [[Scillato]] e [[Caltavuturo]] passando proprio sotto il viadotto Imera.<ref>{{Cita web |autore=Domenico Giannopolo |url=https://terranovacaltavuturo.blogspot.it/2011/02/intervenire-subito-sulla-strada.html |titolo=Intervenire subito sulla strada Caltavuturo - Scillato |sito=TerraNovaCaltavuturo |data=2 febbraio 2011 |accesso=14 aprile 2014 |via=[[Blogspot]]}}</ref> I danni furono tali da preferire la realizzazione di un bypass su altra sede, piuttosto che ricostruire il tratto franato.<ref>{{Cita web |url=http://www.siciliaparchi.com/_newsArchivio.asp?voce=notizia&page=11&idNews=491&ad=2005&titolo=frana-sulle-madonie-percorso-alternativo|titolo=Frana sulle Madonie, percorso alternativo |sito=Sicilia Parchi |data=14 giugno 2005 |accesso=14 aprile 2015}}</ref> Il bypass è stato comunque interessato pesantemente dall'evento del 2015, che ha reso nuovamente impraticabile la SP24.
+
+==== La frana ====
+Intorno alle 16:20<ref name="articolo repubblica.it 1"/><ref>La [http://www.ansa.it/sito/notizie/cronaca/2015/04/10/cede-pilone-chiusa-a19-palermo-catania_a2c6b217-294d-4f9c-a836-f8dd3dfcc2dc.html notizia] è stata riportata dall'[[ANSA]] alle 16:25, mentre nel video pubblicato all'interno di [http://palermo.repubblica.it/cronaca/2015/04/10/news/frana_in_autostrada_chiuso_un_tratto_della_palermo-catania-111625093/ un articolo] su ''[[La Repubblica (quotidiano)|La Repubblica]]'', un testimone riferisce di aver chiamato la polizia «intorno alle quattro e mezza [del pomeriggio]».</ref> del 10 aprile [[2015]] la frana ha interessato il versante a monte della carreggiata, al km 57+500, a soli 500 metri dallo svincolo di Scillato: conseguenza dell'evento franoso è stato l'inclinarsi di uno dei piloni del viadotto Imera I nella carreggiata in direzione di [[Catania]]; ma sono stati coinvolti dallo smottamento almeno altri due piloni. In via precauzionale l'[[ANAS|Anas]] ha perciò disposto la chiusura dell'autostrada in entrambe le direzioni tra le uscite di Tremonzelli e Scillato.
+
+La situazione è stata aggravata dalla totale assenza di viabilità alternativa in zona. La strada provinciale 24, che avrebbe rappresentato una valida deviazione, era stata interessata da una frana su un altro versante due mesi prima (febbraio 2015) che l'aveva già resa impraticabile,<ref>{{cita web |autore=Domenico Giannopolo |url=http://www.madoniepress.it/mp-caltavuturo-addio-alla-sp-24-foto-5815.asp |titolo=Caltavuturo, addio alla S.P. 24. FOTO |sito=Madonie Press |data=4 aprile 2015 |accesso=15 aprile 2015 |urlarchivio=https://web.archive.org/web/20150416064510/http://www.madoniepress.it/mp-caltavuturo-addio-alla-sp-24-foto-5815.asp}}</ref> e anche la [[strada statale 643 di Polizzi]], su cui è stato deviato il traffico, era chiusa da marzo 2015 a seguito di una frana che l'aveva invasa,<ref>{{Cita web |url=http://www.palermotoday.it/cronaca/frana-polizzi-strada-chiusa.html |titolo=Una frana invade la strada, stop alle auto tra Scillato e Polizzi |sito=PalermoToday |data=11 marzo 2015 |accesso=15 aprile 2015}}</ref> e fu sgomberata per consentirne il passaggio dei veicoli provenienti dall'autostrada.<ref>{{Cita web |autore=Ivan Mocciaro |url=http://palermo.repubblica.it/cronaca/2015/04/11/news/frana_a19_tranciati_anche_i_cavi_in_fibra_ottica_black_out_telefonico_sulle_madonie-111675095/ |titolo=Frana sulla Palermo-Catania. I tecnici: "Campata andrà abbattuta". Autostrada riaperta sino a Scillato |sito=La Repubblica |data=11 aprile 2015 |accesso=15 aprile 2015}}</ref>
+
+La principale deviazione per il traffico leggero per tutti i sette mesi di chiusura dell'autostrada fu rappresentata proprio dalla SS&nbsp;643, la quale tuttavia si articola su una zona soggetta a continui smottamenti che rendono la sede stradale in pessime condizioni in molti punti. La velocità di percorrenza è molto bassa anche a causa del percorso tortuoso e dell'attraversamento del centro urbano di [[Polizzi Generosa]]. Questi fattori resero la deviazione non adatta alla mole di traffico tipica di un'autostrada. Per questo motivo l'accesso fu consentito solo ai mezzi leggeri e ai pullman per il trasporto pubblico,<ref>{{Cita web |autore=Salvo Catalano |url=http://meridionews.it/articolo/32886/palermo-catania-lodissea-sulle-alternative-alla19-una-follia-dirottare-il-traffico-dove-dice-lanas/ |titolo=Palermo-Catania, l'odissea sulle alternative all'A19. «Una follia dirottare il traffico dove dice l'Anas» |sito=MeridioNews |data=13 aprile 2015 |accesso=15 aprile 2015}}</ref> mentre il traffico pesante e di lunga percorrenza fu dirottato sull'[[autostrada A20 (Italia)|autostrada A20 Palermo-Messina]] e sull'[[Autostrada A18 Messina-Catania]]. Il collegamento delle zone interne fu invece affidato allo [[scorrimento veloce Palermo-Agrigento]] e allo [[Strada statale 640 Strada degli Scrittori|scorrimento veloce Agrigento-Caltanissetta]], entrambi interessati tuttavia da importanti lavori di ammodernamento che ne compromettevano la funzionalità.
+
+==== Conseguenze ====
+L'interruzione della A19 ha di fatto spaccato la [[Sicilia]] in due, poiché l'arteria, fondamentale nella rete stradale regionale, garantiva il collegamento della Sicilia sud-orientale (province di Catania, Enna, Caltanissetta, Ragusa e Siracusa) con la [[Sicilia occidentale]], e in particolare con il capoluogo [[Palermo]]: in generale, i tempi di percorrenza sugli itinerari Palermo-Catania e Palermo-Caltanissetta-Enna subirono un aumento di almeno un'ora,<ref>{{Cita web |autore=Giorgio Petta |url=http://www.lasicilia.it/articolo/i-percorsi-alternativi-fra-strade-strette-irte-e-tortuose |titolo=I percorsi alternativi fra strade strette, irte e tortuose |sito=[[La Sicilia]] |data=12 aprile 2015 |accesso=15 aprile 2015 |urlarchivio=https://web.archive.org/web/20150415003051/http://www.lasicilia.it/articolo/i-percorsi-alternativi-fra-strade-strette-irte-e-tortuose }}</ref> e si presentarono situazioni più difficili dal punto di vista viario nei piccoli centri dell'entroterra. Per venire incontro a lavoratori e studenti pendolari, [[Trenitalia]] incrementò le corse tra i due capoluoghi siciliani in seguito a un accordo con la Regione Sicilia.<ref>{{Cita web |autore=Salvatore Peri |url=http://livesicilia.it/2015/04/12/frana-palermo-catania-da-lunedi-due-nuovi-treni_615625/ |titolo=Frana Palermo-Catania. Da lunedì due nuovi treni |sito=Live Sicilia |data=12 aprile 2015 |accesso=15 aprile 2015 |urlarchivio=https://web.archive.org/web/20150416003849/http://livesicilia.it/2015/04/12/frana-palermo-catania-da-lunedi-due-nuovi-treni_615625/}}</ref>
+
+A seguito dell'evento, il presidente dell'[[ANAS|Anas]] [[Pietro Ciucci]] ha annunciato le sue dimissioni. Il cedimento dell'Imera era stato infatti l'ultimo di una lunga serie di crolli e cedimenti strutturali che avevano interessato l'intera rete stradale nazionale, non ultimo quello che ha interessato la rampa di accesso al viadotto "Scorciavacche", sulla strada statale 121, aperto al traffico solo qualche giorno prima.<ref>{{Cita web |autore=Maria Gabriella Giannice |url=http://www.ansa.it/sito/notizie/economia/2015/04/13/addio-di-ciucci-allanas-dimissioni-allassemblea-di-maggio_7a56dc93-ff8e-4143-ac7e-23baf8c835bc.html |titolo=Addio di Ciucci all'Anas, dimissioni all'assemblea di maggio |sito=ANSA.it |data=14 aprile 2015 |accesso=15 aprile 2015}}</ref>
+
+L'iniziale intenzione di demolire entrambe le carreggiate<ref name="articolo gds.it 1">{{Cita web |url=http://palermo.gds.it/2015/04/14/il-ministro-delrio-sul-viadotto-himera-saranno-demolite-entrambe-le-carreggiate_341905/ |titolo=Viadotto, Delrio: “Demoliremo entrambe le carreggiate, tre mesi per realizzare la bretella" |sito=Giornale di Sicilia |data=14 aprile 2015 |accesso=15 aprile 2015}}</ref> fu scongiurata dal [[Ministri delle infrastrutture e dei trasporti della Repubblica Italiana|Ministro delle infrastrutture e dei trasporti]] [[Graziano Delrio]] a seguito del sopralluogo del 29 settembre 2015, in cui venne accertato che la frana non aveva compromesso la stabilità della carreggiata in direzione Palermo,<ref>{{Cita web |url=http://palermo.repubblica.it/cronaca/2015/09/29/news/delrio_a_palermo_fa_il_punto_sulle_infrastrutture_per_l_aeroporto_piano_da_80_milioni_-123928238/ |titolo=Delrio a Palermo fa il punto sulle infrastrutture: "Possibile salvare una corsia del viadotto Himera" |sito=La Repubblica |data=29 settembre 2015 |accesso=2 maggio 2016}}</ref> la quale fu riaperta al traffico già il 30 aprile 2016, dopo ulteriori accertamenti.<ref>{{Cita web |url=http://www.stradeanas.it/sala_stampa/comunicati_stampa/dettaglio/arg/comunicati/id/16131 |titolo=Sicilia, Anas: sabato 30 aprile, alla presenza del Presidente del Consiglio Renzi, riapertura al traffico del Viadotto `Himera` sull`autostrada A19 `Palermo-Catania` |data=28 aprile 2016 |accesso=30 aprile 2016 |urlarchivio=https://web.archive.org/web/20160531113928/http://www.stradeanas.it/sala_stampa/comunicati_stampa/dettaglio/arg/comunicati/id/16131}}</ref> La viabilità sul tratto autostradale chiuso era comunque già stata ripristinata nel novembre 2015 grazie all'apertura di una bretella stradale di circa 1,5&nbsp;km costruita in tre mesi.<ref name=apertura-bretella-himera/>
+
+==== Bypass ====
+[[File:Bretella di collegamento viadotto Himera, Autostrada A19, Italia.jpg|thumb|Un pezzo di bypass che aggirava il viadotto Himera.]]
+[[File:Bretella di collegamento viadotto Himera, Autostrada A-19, Italia.jpg|thumb|Un altro pezzo di bypass che aggirava il viadotto Himera.]] 
+In attesa della sua ricostruzione, per aggirare il viadotto Himera è stata realizzata una bretella. I lavori sono iniziati il 7 agosto 2015<ref name=himera-anas>{{Cita web |url=http://www.stradeanas.it/index.php?/content/index/arg/emergenza_himera |titolo=A19, emergenza Viadotto Himera |accesso=6 ottobre 2015}}</ref> e sono terminati il 16 novembre 2015, data in cui è stato contestualmente riaperto al traffico il tratto di autostrada tra le uscite di Scillato e Tremonzelli.<ref name=apertura-bretella-himera/>
+
+Secondo il cronoprogramma degli interventi predisposto dal commissario straordinario [[Marco Guardabassi]], «il termine per ripristinare la funzionalità dell'autostrada A19 con il by-pass verrà a scadere dopo giorni 175 dal giorno successivo all'approvazione del presente Piano da parte del Capo Dipartimento della Protezione Civile».<ref>{{Cita web |url=http://www.mit.gov.it/mit/mop_all.php?p_id=23225 |titolo=Piano – Cronoprogramma degli interventi |formato=PDF |sito=[[Ministero delle infrastrutture e dei trasporti]] |data=22 giugno 2015 |accesso=6 ottobre 2015}}</ref> Il piano è stato approvato il 26 giugno,<ref name=himera-anas/> dunque il termine ultimo sarebbe dovuto corrispondere alla data del 18 dicembre 2015. Tuttavia la fine dei lavori sulla bretella e la contestuale apertura al traffico sono avvenuti con un mese di anticipo, il 16 novembre 2015,<ref name=apertura-bretella-himera/> come precedentemente annunciato dal presidente della Regione [[Rosario Crocetta]]<ref>{{Cita web |url=http://gds.it/2015/08/07/viadotto-himera-sulla-a19-crocetta-bretella-pronta-entro-90-giorni_392986/ |titolo=Viadotto Himera sulla A19, Crocetta: «Bretella sarà pronta in 90 giorni». Consegnati i lavori - Video |sito=Giornale di Sicilia |data=7 agosto 2015 |accesso=6 ottobre 2015}}</ref> e dal ministro [[Graziano Delrio]].<ref name=delrio-7nov>{{Cita web |autore=Giorgio Ruta |url=http://palermo.repubblica.it/cronaca/2015/10/06/news/la_promessa_di_delrio_842_milioni_di_euro_per_la_palermo-catania-124448002/ |titolo=La promessa di Delrio: 842 milioni di euro per la Palermo-Catania. "Bretella pronta entro il 7 novembre" |sito=La Repubblica |data=6 ottobre 2015 |accesso=6 ottobre 2015}}</ref>
+
+I lavori, finanziati con 9,33 milioni di euro di fondi Anas, sono stati appaltati a tre diverse ditte, che si sono occupate ciascuna di una delle tre fasi in cui sono stati suddivisi i lavori: l'abbattimento delle sezioni danneggiate del viadotto, la riqualificazione della sede stradale già esistente (la sottostante strada provinciale 24) per adeguarla al traffico autostradale, e la realizzazione di una rampa che permette di collegare il bypass all'autostrada.<ref name=himera-anas/>
+
+==== Ricostruzione e riapertura del viadotto ====
+Dopo il cedimento, il viadotto Himera è stato oggetto di un progressivo smantellamento che ha riguardato sei campate (250&nbsp;m) e i rispettivi piloni del viadotto lato Catania.
+
+La campata che sovrastava la SP 24 è stata demolita già il 13 ottobre 2015, prima dell'apertura della bretella,<ref>{{Cita web |url=http://palermo.repubblica.it/cronaca/2015/10/13/news/viadotto_himera_demolita_la_prima_campata_del_ponte_franato_sull_a19-124998945/ |titolo=Viadotto Himera: demolita la prima campata sull'A19 |sito=La Repubblica |data=13 ottobre 2015 |accesso=23 dicembre 2015}}</ref> mentre il 22 dicembre successivo è stato demolito con cariche esplosive il resto dell'impalcato e le pile, dopo una complessa operazione di tiraggio durata 48 ore necessaria a preservare l'integrità del viadotto lato Palermo.<ref name=nuovohimera-anas>{{Cita web |url=http://www.stradeanas.it/doc/sala_stampa/cartelle_stampa/comunicato_demolizione_himera.pdf |titolo=Comunicato stampa – Anas, A19: Viadotto Himera, demolita la carreggiata in direzione Catania |formato=PDF |data=22 dicembre 2015 |accesso=23 dicembre 2015 |urlarchivio=https://web.archive.org/web/20160304071455/http://www.stradeanas.it/doc/sala_stampa/cartelle_stampa/comunicato_demolizione_himera.pdf}}</ref>
+
+A causa di criticità legate all’iter autorizzativo, durato complessivamente 37 mesi,<ref name=riaperturaimera/> i lavori di ricostruzione sono stati aggiudicati nel febbraio 2018, e secondo quanto inizialmente dichiarato da Anas avrebbero previsto un investimento di quasi 11 milioni di euro e una durata dell'intervento di circa 18 mesi,<ref>{{cita web|url=http://www.stradeanas.it/it/sicilia-anas-aggiudicati-i-lavori-la-ricostruzione-del-viadotto-imera-direzione-catania|titolo=Sicilia, Anas: aggiudicati i lavori per la ricostruzione del viadotto Imera in direzione Catania|data=16 febbraio 2018|accesso=17 febbraio 2018}}</ref> ma dei ritardi dovuti alla crisi finanziaria delle aziende incaricate dei lavori, e successivamente alle [[Misure di confinamento nel mondo dovute alla pandemia di COVID-19 del 2019-2020|misure di confinamento]] imposte a causa della [[Pandemia di COVID-19 del 2020 in Italia|pandemia di COVID-19]], hanno fatto slittare la data prevista di completamento.<ref name=riaperturaimera/><ref>{{Cita news |url=https://qds.it/infrastrutture-viadotto-himera-fine-dei-lavori-entro-aprile-2020/ |titolo=Infrastrutture, Viadotto Himera, fine dei lavori entro aprile 2020 |sito=[[Quotidiano di Sicilia]] |data=7 novembre 2019 |accesso=10 dicembre 2019}}</ref> La riapertura è avvenuta il 31 luglio 2020, dopo oltre cinque anni dal cedimento, con una cerimonia a cui hanno presenziato il ministro delle infrastrutture [[Paola De Micheli]], il viceministro [[Giancarlo Cancelleri]] e l'amministratore delegato di Anas [[Massimo Simonini]],<ref name=riaperturaimera>{{Cita web |url=https://www.stradeanas.it/it/sicilia-anas-riapertura-al-traffico-viadotto-imera-su-a19 |titolo=Sicilia, ANAS: riapertura al traffico Viadotto Imera su A19 |data=31 luglio 2020 |accesso=3 agosto 2020}}</ref> ma senza rappresentanti del governo regionale siciliano, assente in segno di protesta.<ref>{{Cita news |autore=Claudio Reale |url=https://palermo.repubblica.it/cronaca/2020/07/31/news/riaperto_il_viadotto_imera_alla_cerimonia_assenti_i_rappresentanti_della_regione-263354845/ |titolo=Riaperto il viadotto Imera, alla cerimonia assenti i rappresentanti della Regione |sito=La Repubblica |data=31 luglio 2020 |accesso=3 agosto 2020}}</ref>
+
+Il segmento interessato dalla ricostruzione si sviluppa complessivamente per 270 metri, includendo tre campate in acciaio, di cui quella centrale è stata volutamente progettata con una luce di 130 metri per consentire di scavalcare la frana che interessa l’area, e ha avuto un costo complessivo di 12,5 milioni di euro.<ref name=riaperturaimera/>
+
+== Percorso autostrada A19 ==
+[[File:Area di servizio Scillato, autostrada A19, Italia.jpg|thumb|left|L'area di servizio "Scillato".]]
+L'autostrada A19 ha origine nello svincolo di [[Villabate]], dove un [[#A19 Diramazione per via Giafar|raccordo autostradale]] di pochi chilometri la congiunge senza soluzione di continuità al [[viale della Regione Siciliana]] (conosciuto comunemente come ''circonvallazione di [[Palermo]]''). Il primo tratto prosegue in direzione est lungo la [[Mar Tirreno|costa tirrenica]], con uscite per [[Bagheria]], [[Casteldaccia]], [[Altavilla Milicia]], [[Trabia]] e [[Termini Imerese]]. In località [[Buonfornello]] avviene l'allacciamento con l'[[Autostrada A20 (Italia)|autostrada Messina-Palermo]], che prosegue lungo la costa tirrenica, mentre il tracciato della A19 curva verso sud-est e penetra nell'entroterra, seguendo grosso modo l'alveo dell'[[Imera settentrionale]].
+
+Superata l'uscita di [[Scillato]], l'autostrada si inoltra sulle [[Madonie]]; il viadotto Fichera sull'[[Fichera (torrente)|omonimo torrente]] (opera dell'ingegnere [[Silvano Zorzi]]), con una pendenza media del 5% permette all'autostrada di superare un dislivello di circa 350 metri e raggiungere il punto più alto, a circa 700&nbsp;m&nbsp;s.l.m., presso la galleria Tremonzelli. Seguono gli svincoli di Tremonzelli, Irosa e [[Resuttano]]. Subito dopo lo svincolo di Resuttano, la carreggiata in direzione Catania del viadotto Cannatello (anche questo opera dell'ingegnere Zorzi) scavalca la carreggiata in direzione Palermo, dalla quale viene a sua volta scavalcata dopo circa un chilometro. Questo particolare intreccio, realizzato approfittando dell'ampia vallata, causa una momentanea inversione del [[Mano da tenere|senso di marcia]].
+
+[[File:Uscita Ponte Cinque Archi A19.jpg|thumb|Lo svincolo di Ponte Cinque Archi.]]
+L'autostrada raggiunge la quota minima di 300&nbsp;m&nbsp;s.l.m., tra l'uscita di Ponte Cinque Archi, che serve piccoli centri quali [[Villarosa (Sicilia)|Villarosa]] (EN) e [[Santa Caterina Villarmosa]] (CL), e l'uscita di [[Caltanissetta]], presso cui si innesta la [[strada statale 640 Strada degli Scrittori]], una fondamentale via di connessione alle province di [[Provincia di Caltanissetta|Caltanissetta]] e [[Provincia di Agrigento|Agrigento]]. Qui abbandona la valle dell'[[Imera meridionale]] curvando verso est e tramite alcune gallerie e viadotti, tra cui la galleria Fortolese e il viadotto Morello, giunge allo svincolo di [[Enna]], contraddistinto dal viadotto Euno, parallelo all'autostrada, e che termina sulla [[strada statale 117 bis Centrale Sicula]]; segue un ultimo tratto in discesa in cui si incontrano le aree di servizio "Sacchitello" e lo svincolo di Mulinello. Dopo lo svincolo per l'area industriale della [[valle del Dittaino]] (quest'ultimo di recente costruzione sebbene fosse prevista nell'ambito dei lavori di ristrutturazione dell'autostrada già all'inizio degli anni novanta) si trovano le uscite per [[Agira]], [[Catenanuova]], [[Sferro]] e [[Motta Sant'Anastasia]]. In questo tratto l'autostrada segue il corso del [[Dittaino (fiume)|Dittaino]] ed è costeggiata dalla [[strada statale 192 della Valle del Dittaino]] e dalla [[ferrovia Palermo-Catania]]. La valle del Dittaino confluisce quindi nella [[piana di Catania]], dove l'autostrada prosegue pianeggiante verso il [[Catania|capoluogo etneo]]; degno di nota è il viadotto sul [[Simeto]] progettato dall'architetto [[Giuseppe Perugini]].
+
+L'autostrada termina confluendo, senza soluzione di continuità, sull'[[asse attrezzato di Catania]], subito dopo l'intersezione con la [[Raccordo autostradale 15|tangenziale]].
+
+=== Viadotti e gallerie ===
+[[File:A20 - Ponte Cinque Archi (2).JPG|thumb|I piloni del viadotto ''Cinque Archi'' (1&nbsp;567&nbsp;m) sul letto del fiume [[Imera meridionale]].]]
+A causa dell'orografia del territorio che attraversa, l'autostrada si articola tra numerosi viadotti e gallerie.
+
+In particolare, in essa sono presenti tre dei dieci viadotti più lunghi d'Italia. Si tratta dei viadotti ''Fichera'' (7&nbsp;350&nbsp;m, nella [[città metropolitana di Palermo]]), ''Morello'' (5&nbsp;440&nbsp;m, in [[provincia di Enna]]) e ''Cannatello'' (4&nbsp;220&nbsp;m, a cavallo tra le province di Palermo e [[Provincia di Caltanissetta|Caltanissetta]]), rispettivamente al secondo, al quarto e all'ottavo posto. Al momento dell'apertura dell'autostrada, nel 1975, il ''Fichera'' e il ''Morello'' erano i due viadotti più lunghi d'Italia.<ref>{{cita web |url=http://www.lotsberg.net/data/italia/bru/bru.html |titolo=The World's longest Tunnel Page: Viaducts & Bridges in Italy |accesso=10 ottobre 2014}}</ref>
+
+Altri viadotti con lunghezza superiore ai 2&nbsp;km sono: ''Himera II'' (3&nbsp;370&nbsp;m), ''Michele Lomonaco Capocantoniere'' (2&nbsp;519&nbsp;m), ''Himera I'' (2&nbsp;360&nbsp;m) e ''Simeto'' (2&nbsp;250&nbsp;m). Inoltre, altri otto viadotti hanno lunghezza superiore ai mille metri. In totale, l'autostrada si estende per quasi sessanta chilometri in viadotto, ovvero circa il 30% del suo intero percorso.<ref name="strutture A19">{{Cita web |url=http://www.lotsberg.net/data/italia/A19.html |titolo=The World's longest Tunnel Page: Structures on A 19 in Italy |accesso=10 ottobre 2014}}</ref>
+
+Un'importanza minore ricoprono le gallerie. Sono degne di nota le tre gallerie principali dell'autostrada: ''Tremonzelli'' (1&nbsp;784&nbsp;m), ''Fortolese'' (1&nbsp;613&nbsp;m) e ''San Nicola'' (1&nbsp;487&nbsp;m). Le altre gallerie hanno lunghezza che non supera i 500 metri, i tratti in galleria si sviluppano soprattutto tra le uscite di Trabia e di Termini Imerese e tra le uscite di Caltanissetta e di Enna; sono invece totalmente assenti da Enna fino alla fine dell'autostrada.<ref name="strutture A19"/>
+
+==== Tabella percorso ====
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="6" | {{simbolo|Autostrada A19 Italia.svg|35}}<br />''Palermo - Catania''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}} || {{simbolo|Italian traffic signs - strada europea 90.svg|40}} {{simbolo|Autostrada A19dir Italia.svg|24}} Diramazione per via Giafar || rowspan=2 align="right"| 0,0 || rowspan=2 align="right"| 191,6 || rowspan=15 align="center"|[[Città metropolitana di Palermo|PA]] || rowspan=10 align="center"|[[File:Italian traffic signs - strada europea 90.svg|45px|link=Strada europea E90]]
+|-
+| [[File:AB-AS-grün.svg]] || [[Villabate]] <br/> {{simbolo|Strada Statale 121 Italia.svg|35}} <small>[[Strada statale 121 Catanese|Catanese]]</small> 
+|-
+| [[File:AB-AS-grün.svg]] || [[Bagheria]] || align="right"| 6,2 || align="right"| 185,4
+|-
+| [[File:AB-AS-grün.svg]] || [[Casteldaccia]] || align="right"| 9,1 || align="right"| 182,5
+|-
+| [[File:AB-AS-grün.svg]] || [[Altavilla Milicia]] || align="right"| 11,1 || align="right"| 180,5
+|-
+| [[File:AB-AS-grün.svg]] || [[Trabia]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 19,9 || align="right"| 171,7
+|-
+| [[File:AB-AS-grün.svg]] || [[Termini Imerese]] <br/> {{simbolo|Strada Statale 285 Italia.svg|35}} <small>[[Strada statale 285 di Caccamo|di Caccamo]]</small> || align="right"| 25,7 || align="right"| 165,9
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Caracoli" || align="right"| 29,4 || align="right"| 162,2
+|-
+| [[File:AB-AS-grün.svg]] || {{simbolo|RWB Industriegebiet.svg|17}} Agglomerato Industriale || align="right"| 36,9 || align="right"| 154,7
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 90.svg|40}} {{simbolo|Autostrada A20 Italia.svg|24}} [[Autostrada A20 (Italia)|Messina-Palermo]] || align="right"| 37,9 || align="right"| 153,7
+|-
+| [[File:AB-AS-grün.svg]] || [[Buonfornello]]-[[Campofelice di Roccella]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 39,2 || align="right"| 152,4|| rowspan="22" align="center" |[[File:Italian traffic signs - strada europea 932.svg|45px|link=Strada europea E932]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Scillato" || align="right"| 55,0 || align="right"| -
+|-
+| [[File:AB-AS-grün.svg]] || [[Scillato]] <br/> {{simbolo|Strada Statale 643 Italia.svg|35}} <small>[[Strada statale 643 di Polizzi|di Polizzi]]</small> || align="right"| 57,9 || align="right"| 133,7
+|-
+| [[File:AB-AS-grün.svg]] || Tre Monzelli <br/> {{simbolo|Strada Statale 120racc Italia.svg|35}} <small>[[Strada statale 120 racc di Tre Monzelli|di Tre Monzelli]]</small> || align="right"| 73,0 || align="right"| 118,6
+|-
+| [[File:AB-AS-grün.svg]] || Irosa || align="right"| 79,3 || align="right"| 112,3
+|-
+| [[File:AB-AS-grün.svg]] || [[Resuttano]] || align="right"| 83,4 || align="right"| 108,2|| rowspan="1" align="center" |[[Provincia di Caltanissetta|CL]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || <small>Area di parcheggio "Daino"</small> || align="right"| 93,3 || align="right"| - || rowspan=1 align="center"|[[Città metropolitana di Palermo|PA]]
+|-
+| [[File:AB-AS-grün.svg]] || Ponte Cinque Archi <br/> {{simbolo|Strada Statale 121 Italia.svg|35}} <small>[[Strada statale 121 Catanese|Catanese]]</small> || align="right"| 97,8 || align="right"| 93,8|| rowspan="1" align="center" |[[Provincia di Caltanissetta|CL]]
+|-
+| [[File:AB-AS-grün.svg]] || [[Caltanissetta]] <br/> {{simbolo|Strada Statale 640 Italia.svg|35}} <small>[[Strada statale 640 Strada degli Scrittori|Strada degli Scrittori]]</small> || align="right"| 103,5 || align="right"| 88,1|| rowspan="10" align="center" |[[Provincia di Enna|EN]]
+|- bgcolor="D0C9CF"
+| {{simbolo|AB-AS-grün geschlossen.svg|20}}{{simbolo|Italian traffic signs - lavori.svg|17}}|| Ferrarelle <small>''(in costruzione)''</small>|| align="right" | 112,5 || align="right"| 79,1
+|-
+| [[File:AB-AS-grün.svg]] || [[Enna]] <br/> {{simbolo|Strada Statale 117bis Italia.svg|35}} <small>[[Strada statale 117 bis Centrale Sicula|Centrale Sicula]]</small> || align="right"| 119,5 || align="right"| 72,1
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Sacchitello" || align="right"| 123,2 || align="right"| 68,4
+|-
+| [[File:AB-AS-grün.svg]] || Mulinello || align="right"| 129,2 || align="right"| 62,4
+|-
+| [[File:AB-AS-grün.svg]] || {{simbolo|RWB Industriegebiet.svg|17}} [[Agglomerato industriale di Dittaino|Zona industriale Dittaino]] || align="right"| 136,4 || align="right"| 55,2
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || <small>Area di parcheggio "Santa Barbara"</small> || align="right"| 141,0 || align="right"| - 
+|-
+| [[File:AB-AS-grün.svg]] || [[Agira]] || align="right"| 142,7 || align="right"| 48,9
+|-
+| [[File:AB-AS-grün.svg]] || [[Catenanuova]] <br/> {{simbolo|Strada Statale 192 Italia.svg|35}} <small>[[Strada statale 192 della Valle del Dittaino|della Valle del Dittaino]]</small> || align="right"| 156,8 || align="right"| 34,8
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || <small>Area di parcheggio "Muglia"</small> || align="right"| 162,6 || align="right"| -
+|-
+| [[File:AB-AS-grün.svg]] || Gerbini-[[Sferro]] <br/> {{simbolo|Strada Statale 192 Italia.svg|35}} <small>[[Strada statale 192 della Valle del Dittaino|della Valle del Dittaino]]</small> || align="right"| 171,4 || align="right"| 20,2|| rowspan="6" align="center" |[[Città metropolitana di Catania|CT]]
+|-
+| [[File:AB-AS-grün.svg]] || [[Motta Sant'Anastasia]] <br/> {{simbolo|Strada Statale 192 Italia.svg|35}} <small>[[Strada statale 192 della Valle del Dittaino|della Valle del Dittaino]]</small> || align="right"| 182,6 || align="right"| 9,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Gelso Bianco" || align="right"| 188,5 || align="right"| 3,1
+|-
+| {{simbolo|AB-Kreuz-grün.svg|22}} || {{simbolo|Italian traffic signs - strada europea 45.svg|40}} {{simbolo|Italian traffic signs - raccordo autostradale 15.svg|40}} [[Raccordo autostradale 15|Tangenziale di Catania]] || align="right"| 190,3 || align="right"|1,2
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Zia Lisa]]
+| align="right" |191,6
+| align="right" |0,1
+| align="center" |
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|18}} || [[Asse attrezzato di Catania]] || align="right" | 191,7 || align="right" | 0,0 || rowspan="1" align="center" | - 
+|}
+
+== Lavori in corso ==
+{{In corso|trasporti}}
+=== Bivio Ferrarelle ===
+Nel mese di maggio 2015 sono iniziati i lavori per adeguare a svincolo provvisorio l'area di parcheggio Ferrarelle.<ref>{{Cita web |url=http://www.vivienna.it/2015/06/04/villarosa-si-lavora-nello-svincolo-ferrarelle-per-superare-la-chiusura-del-ponte-cinque-archi/ |titolo=Villarosa. Si lavora nello svincolo Ferrarelle per superare la chiusura del Ponte Cinque Archi |sito=Vivi Enna |data=4 giugno 2015 |accesso=10 novembre 2015}}</ref> Tali lavori si sono resi necessari a seguito della chiusura al traffico del ponte Cinque Archi, sulla [[Strada statale 121 Catanese|SS 121]], che tramite l'omonimo svincolo consentiva di collegare il comune di [[Villarosa (Sicilia)|Villarosa]] con l'autostrada.<ref>{{Cita web |url=http://www.prefettura.it/enna/news/168918.htm |titolo=Criticità chiusura S.S. 121- Ponte Cinque Archi –Bivio Ferrarelle |sito=Prefettura - Ufficio Territoriale del Governo di Enna |data=21 maggio 2015 |accesso=10 novembre 2015 |urlarchivio=https://web.archive.org/web/20151208135349/http://www.prefettura.it/enna/news/168918.htm }}</ref> Il nuovo "svincolo Ferrarelle" collegherà l'autostrada alla SS 121 tramite la strada comunale 10 Ferrarelle, di competenza del comune di Enna, per la cui sistemazione sono stati chiesti 315&nbsp;000 euro.<ref>{{Cita web |url=http://www.lecodelsud.it/wp-content/uploads/2015/10/interventi_ordinanza_257.pdf |titolo=Regione siciliana - Piano degli interventi urgenti di protezione civile nel territorio regionale - Ordinanza del Capo del Dipartimento della Protezione civile n°257 del 30 maggio 2015 |formato=PDF |sito=L'Eco del Sud |data=30 maggio 2015 |accesso=10 novembre 2015}}</ref>
+
+== A19 Diramazione per via Giafar ==
+{{Strada
+|nome = Autostrada A19 dir
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione per via Giafar
+|simbolo = Autostrada A19dir Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 ={{IT-PA}} 
+|inizio = [[Villabate]]
+|fine = [[Palermo]]
+|lunghezza = 5,2<ref name=m>{{Cita web|url=http://www.stradeanas.it/index.php?/file/open/10558|titolo=Autostrada A19}}</ref>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = 
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 90
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+La '''diramazione per via Giafar'''<ref name=m/> costituisce il prolungamento, senza soluzione di continuità, dell'autostrada A19 dal km&nbsp;0, in corrispondenza dello svincolo a quadrifoglio di [[Villabate]], fino all'innesto con la [[Viale della Regione Siciliana|circonvallazione di Palermo]]. È costituita da un tratto di 5,2&nbsp;km, a due carreggiate e a due corsie per senso di marcia più corsia di emergenza, prevalentemente rettilineo e costituisce anche la principale direttrice di traffico tra la città di Palermo e la [[strada statale 121 Catanese]] per [[Agrigento]].
+
+Pur avendo denominazione e progressiva chilometrica indipendenti, la diramazione viene spesso erroneamente individuata come parte integrante della stessa autostrada A19, anche a causa della presenza, nella segnaletica, della sigla alfanumerica "A19" al posto della sigla "A19&nbsp;dir", ad eccezione della segnaletica in entrata in direzione Palermo dello svincolo “Villabate”.
+[[File:A19 uscita Palermo-Porto.jpg|thumb|Uscita ''Porto-Via Giafar'' prima della circonvallazione di Palermo.]]
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="6" | {{simbolo|Autostrada A19dir Italia.svg|35}}<br />''Diramazione per via Giafar''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}} || {{simbolo|Italian traffic signs - strada europea 90.svg|40}} {{simbolo|Autostrada A19 Italia.svg|24}} Palermo-Catania || rowspan=2 align="right"| 0,0 || rowspan=2 align="right"| 5,2 || rowspan=5 align="center"|[[Città metropolitana di Palermo|PA]] || rowspan=5 align="center"|[[File:Italian traffic signs - strada europea 90.svg|45px|link=Strada europea E90]]
+|-
+| [[File:AB-AS-grün.svg]] || [[Villabate]] <br/> {{simbolo|Strada Statale 121 Italia.svg|35}} <small>[[Strada statale 121 Catanese|Catanese]]</small> 
+|- color="white"
+| {{simbolo|AB-AS-grün.svg}}|| [[Roccella-Acqua dei Corsari|Roccella]] || align="right" | 3,0 || align="right"| 2,2
+|-
+| [[File:AB-AS-grün.svg]] || [[Palermo]]-via Giafar <br/>{{simbolo|Italian traffic signs - icona porto.svg|17}} <small>[[Porto di Palermo]]</small> || align="right"| 4,9 || align="right"| -
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|18}} || {{simbolo|Italian traffic signs - strada europea 90.svg|40}} [[Circonvallazione di Palermo]] || align="right"| 5,2 || align="right"| 0,0 
+|}
+
+== Raccordo autostradale di Caltanissetta ==
+{{vedi anche|Raccordo autostradale di Caltanissetta}}
+
+Il '''raccordo autostradale di Caltanissetta''' collegava la [[Strada statale 640 Strada degli Scrittori|strada statale 640 di Porto Empedocle]] (oggi detta "Strada degli Scrittori") con la A19 presso l'uscita di Caltanissetta. Era costituito da un'unica carreggiata, una corsia per senso di marcia, ed era privo di intersezioni a raso. È stato declassato nel 1989 e contestualmente unito alla SS 640. Una volta terminati i lavori che hanno interessato la statale 640, oggi si presenta come una superstrada con carreggiate indipendenti a doppia corsia per senso di marcia e corsia di emergenza.
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita libro |autore=Fabio Guarrera |capitolo=Learning from A19. Il paesaggio siciliano lungo l’autostrada Palermo-Catania |titolo=Paesaggi Rurali. Prospettive di ricerca |curatore=M. Balestrieri |curatore2=E. Cicalò |curatore3=A. Ganciu |editore=[[FrancoAngeli]] Urbanistica |anno=2018 |isbn=978-88-917-7891-8}}
+
+== Voci correlate ==
+* [[Viadotto Sicilia]]
+* [[Viadotto Fichera]]
+
+== Altri progetti ==
+{{Interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.lotsberg.net/data/italia/A19.html|titolo=Gallerie e viadotti della A19}}
+* {{cita web|url=http://corrieredelmezzogiorno.corriere.it/palermo/cronaca/15_dicembre_22/viadotto-himera-tiranti-micro-cariche-carreggiata-va-giu-a2f2cfbc-a8cb-11e5-bd58-3fd9abb92745.shtml|titolo=Video sulla demolizione del viadotto Himera}}
+
+{{Autostrade italiane}}
+{{Portale|Sicilia|trasporti}}
+
+[[Categoria:Autostrada A19 (Italia)| ]]
+[[Categoria:Autostrade in Sicilia]]
+[[Categoria:Autostrade gestite dall'ANAS]]

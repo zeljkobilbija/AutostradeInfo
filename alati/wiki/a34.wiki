@@ -1,0 +1,93 @@
+{{Strada
+|nome = Autostrada A34
+|tipo = [[Autostrada]]
+|stato = ITA
+|simbolo = Autostrada A34 Italia.svg
+|nome precedente = [[Raccordo autostradale 17]]<br />Nuova strada ANAS 15 Villesse (A4) - Gorizia-Sant'Andrea 
+|nome successivo = 
+|divisione amm 1 = {{IT-FVG}}
+|divisione amm 2 ={{IT-GO}} 
+|inizio = [[Autostrada A4 (Italia)|A4]] presso [[Villesse]]
+|fine = [[Gorizia]]
+|lunghezza = 17
+|apertura = [[2013]] 
+|provvedimento istituzione =Ministero delle infrastrutture e dei trasporti con nota MIT-STRA 003964 del 31 luglio 2012 
+|gestore = [[Società Autostrade Alto Adriatico]]
+|pedaggio =gratuito
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro = 
+|mappa = Italia - mappa autostrada A34.svg
+|tracciato = 
+|nome secondario=Villesse-Gorizia}}
+
+L''''autostrada A34''' si dirama dall'[[autostrada A4 (Italia)|autostrada A4]] presso lo [[svincolo]] di [[Villesse]] in direzione di [[Gorizia]], terminando dopo 17&nbsp;[[Chilometro|km]] a Sant'Andrea/[[Vertoiba]] dove poi prosegue come [[Superstrada H4|autostrada H4 slovena]] (a pagamento con la [[Vignetta autostradale|vignetta]]) che in ulteriori 99&nbsp;km porta a [[Lubiana]] passando per [[Resderta|Prevallo]] (''Razdrto'') e [[Postumia (comune)|Postumia]] (''Postojna''). L'A34 è gestita da [[Società Autostrade Alto Adriatico]].
+
+L'autostrada prima dei lavori di riqualificazione era classificata come ''[[raccordo autostradale]] 17 (RA 17)''<ref>{{cita testo|url=http://www.regione.fvg.it/rafvg/urbanistica/dettaglio.act?dir=/rafvg/cms/RAFVG/AT10/ARG2/FOGLIA1/|titolo=Dal sito della Regione}}</ref>, già ''nuova strada ANAS 15 Villesse (A4) - Gorizia-Sant'Andrea (NSA 15)''. La classificazione A34 è stata accordata dal [[Ministero delle infrastrutture e dei trasporti]] con nota MIT-STRA 003964 del 31 luglio 2012.
+
+Sono obbligatorie le dotazioni invernali dal [[15 novembre]] al [[15 aprile]] su tutta la tratta.<ref>{{cita web|url=http://www.infotraffico.autovie.it/code/14277/Viabilita-invernale|titolo=Dal sito di Autovie Venete}}</ref>
+
+==Storia==
+
+[[File:Svincolo Gradisca in A34.jpg|thumb|left|L'uscita per [[Gradisca d'Isonzo]] verso [[Gorizia]] dopo i lavori di riqualificazione]]
+Il raccordo è stato aperto nel [[1970]]<ref name=":1">{{Cita web|url=http://www.lotsberg.net/data/italia/autostrade.html|titolo=Cronologia delle aperture delle autostrade, per autostrada|sito=lotsberg.net|accesso=1º gennaio 2021|urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html|urlmorto=sì}}</ref><ref>{{Cita web|url=http://www.lotsberg.net/data/italia/autostra-2.html|titolo=Cronologia delle aperture dei raccordi autostradali, per raccordi autostradali|accesso=1º gennaio 2021|urlarchivio=https://web.archive.org/web/20160407033506/http://www.lotsberg.net/data/italia/autostra-2.html|urlmorto=sì}}</ref><ref>{{Cita web|url=https://ilpiccolo.gelocal.it/trieste/cronaca/2013/10/18/news/pedaggio-virtuale-dell-a34-autotrasportatori-in-rivolta-1.7941452|titolo=Pedaggio virtuale dell’A34, autotrasportatori in rivolta|sito=Il Piccolo|data=17 ottobre 2013|lingua=it|accesso=1º gennaio 2021}}</ref>, come raccordo autostradale e variante della [[Strada statale 351 di Cervignano|SS 351]] nel progetto di collegare tutti i [[capoluoghi di provincia]] del [[Friuli-Venezia Giulia]] alla [[Autostrada A4 (Italia)|Autostrada Venezia-Trieste]]. Mentre l'[[autostrada]] è stata inaugurata il [[27 novembre]] [[2013]].<ref>{{Cita web|url=https://ilpiccolo.gelocal.it/trieste/cronaca/2013/11/27/news/inaugurata-a-gorizia-la-nuova-a34-1.8192736|titolo=Inaugurata a Gorizia la nuova A34|sito=Il Piccolo|data=27 novembre 2013|lingua=it|accesso=1º gennaio 2021}}</ref>
+
+===I lavori di riqualificazione===
+[[File:RA17 GORIZIA.JPG|thumb|left|Il raccordo in direzione [[Autostrada A4 (Italia)|A4]] prima dei lavori di adeguamento]]
+
+Il RA 17 dall'apertura non era classificato come [[autostrada]], ma come [[strada extraurbana secondaria]]<ref>{{cita web|url=http://www.lestradedellinformazione.it/acm-on-line/Home/Rubriche/articolo4768.html|urlmorto=si|titolo=Friuli-Venezia Giulia: il 'miracolo' della Villesse-Gorizia|urlarchivio=https://web.archive.org/web/20190501042952/https://www.lestradedellinformazione.it/site/home/rubriche/articolo4768.html}}</ref> (seppur a [[carreggiate]] separate), e quindi libero da [[pedaggio]].
+Era una strada a quattro [[corsia di marcia|corsie]], due per senso di marcia, senza [[corsia d'emergenza]]. Le carreggiate, a partire dal [[2007]], erano separate da [[guard-rail]] in cemento tipo [[Barriera New Jersey|new-jersey]], mentre ancora prima solamente da una doppia linea continua, similmente alla [[Strada statale 354 di Lignano|strada regionale 354]] [[Latisana]]-[[Lignano Sabbiadoro|Lignano]]; la classificazione RA 17 non appariva in nessun segnale stradale, infatti nei pannelli di identificazione dei cavalcavia e nei pannelli delle progressive chilometriche il raccordo era indicato come ''raccordo [[Villesse]]-[[Gorizia]]''.
+
+Il raccordo è stato in seguito riqualificato per il raggiungimento degli [[autostrada|standard autostradali]]<ref name=autogenerato2>{{Cita news| titolo =Adeguamento raccordo Villesse - Gorizia| editore =Autovie.it| url =http://www.autovie.it/cms/data/pages/000126.aspx| data =| accesso =25 febbraio 2009| urlmorto =sì| urlarchivio =https://web.archive.org/web/20090316130924/http://www.autovie.it/cms/data/pages/000126.aspx}}</ref><ref name="autogenerato3">{{Cita web|url=http://www.presidente.regione.fvg.it/redazione/Reposit/RassegnaStampa/raccordoGoriziaVillesseProntoNle2013.pdf|titolo=Raccordo Gorizia-Villesse pronto nel 2013}}</ref>. I lavori sono iniziati il [[12 dicembre]] [[2009]], sono costati {{m|183747000|u=€}} (circa {{m|20000000|u=€}} riservati per gli espropri) e sono stati eseguiti dall'[[Associazione Temporanea d'Imprese|ATI]] formata dalle imprese: [[ICOP|I.CO.P. S.p.A.]] di Paolo Petrucco, Friulana Bitumi, SIOSS, Valle Costruzioni, Tomat. I lavori hanno previsto l'allargamento della carreggiata attuale da 14 metri a 25 metri con due [[corsia di marcia|corsie di marcia]] più quella [[corsia di emergenza|d'emergenza]], secondo le norme contenute nel D.M. 6792 del [[2001]] per le strade di tipo A (autostrade extraurbane). Sono state costruite due gallerie artificiali e un sottopasso ferroviario, oltre a [[Ponte|ponti]] e [[Viadotto|viadotti]]<ref>{{cita testo|url=http://www.ilgazzettino.it/articolo_app.php?id=20551&sez=NORDEST&npl=&desc_sez=|titolo=Altre cinque estati di disagi poi, forse, arriverà la terza corsia dell'A4 - Il Gazzettino}}</ref>; questi lavori hanno permesso di aumentarne la velocità massima ammessa a 130&nbsp;km/h rispetto ai precedenti 80&nbsp;km/h.<ref name=autogenerato1 /> Con ordinanza 97/13 della Società [[Autovie Venete]] (ora [[Società Autostrade Alto Adriatico]]) è stata disposta l'apertura del raccordo come [[autostrada]] il [[15 ottobre]] [[2013]]<ref name="autogenerato1">{{Cita web|url=http://www.infotraffico.autovie.it/ProxyVFS.axd/Ord-97_13.pdf?rnode=14971&stream=&ext=.pdf|titolo=}}</ref><ref>{{cita testo|url=http://www.regione.fvg.it/rafvg/ansa/dettaglio.act?ansa=20131014.008&dir=/rafvg/cms/RAFVG/ansa/|titolo=Regione Autonoma Friuli Venezia Giulia - ansa}}</ref><ref>{{cita testo|url=http://www.autovie.it/NotizieAnsa?id=346|titolo=ANSA su Autovie Venete|postscript=nessuno|urlarchivio=https://web.archive.org/web/20140117085709/http://www.autovie.it/NotizieAnsa?id=346 }}</ref>.
+
+==Gestore==
+L'autostrada è gestita dalla fine del [[2005]] (quando non era ancora stata riqualificata)<ref>{{cita testo|url=http://www.autovie.it/cms/data/pages/000126.aspx|titolo=Adeguamento raccordo Villesse-Gorizia|urlarchivio=https://web.archive.org/web/20090316130924/http://www.autovie.it/cms/data/pages/000126.aspx }}</ref> da [[Autovie Venete]]<ref>{{Cita web |url=http://www.buildup.it/portal/index.asp?location=News&section=Tecnologie%20stradali&objcode= |titolo=BuildUp - Il portale per le costruzioni - News - Tecnologie stradali |accesso=3 settembre 2009 |urlarchivio=https://web.archive.org/web/20160304054431/http://www.buildup.it/portal/index.asp?location=News&section=Tecnologie%20stradali&objcode= |urlmorto=sì }}</ref>, prima era gestita dall'[[ANAS]].
+
+== Percorso ==
+[[File:Allacciamento A4-A34.JPG|thumb|Segnaletica per l'A34 in [[Autostrada A4 (Italia)|A4]] verso [[Venezia]]]]
+
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="4" | '''{{simbolo|Autostrada A34 Italia.svg|30}} VILLESSE - GORIZIA'''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''km'''!!align="center"|'''Provincia'''
+|-
+| [[File:AB-Kreuz-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 70.svg|30}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Venezia - Trieste]]||align="center"| 0 || rowspan=8 align="center" |[[Provincia di Gorizia|GO]]
+|-
+| {{simbolo|italian traffic signs - stazione.svg|18}}|| Barriera [[Villesse]] - [[Gorizia]]||align="center"|0,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Villesse]]|| align="center"|1,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Gradisca d'Isonzo]]|| align="center"|6,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Farra d'Isonzo]]<ref>solo entrata in direzione Villesse</ref>|| align="center"|11,1 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Gorizia|Gorizia Autoporto]]<ref>solo uscita in direzione Gorizia</ref>|| align="center"|15,5 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Gorizia]] || align="center"|16,9
+|-
+| {{simbolo|Italian traffic signs - preavviso di confine di Stato tra paesi della Comunità Europea (Slovenia).svg|22}}|| Confine di Stato {{Bandiera|EUR}} {{Bandiera|SVN}} <small>[[Slovenia]]</small><br />{{simbolo|Hitra_cesta_4.svg|30}} ''[[Superstrada H4|Nova Gorica - Razdrto]]''|| align="center" |17,0
+|}
+
+== Note ==
+<references />
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.commissarioterzacorsia.it|titolo=Sito ufficiale dedicato ai lavori riguardanti la trasformazione del raccordo in autostrada}}
+* {{cita web|url=http://www.stradeeautostrade.it/online/articolo.php?id=1011001|titolo="Adeguamento del raccordo Villesse-Gorizia" - Strade & Autostrade online|urlmorto=sì}}
+* {{cita web |url=http://online.stradeeautostrade.it/notizia/100012052299002 |titolo="Il raccordo diventa autostrada" - Strade & Autostrade online |urlmorto=sì }}
+* {{cita web|url=http://www.lotsberg.net/data/italia/A34.html|titolo=Gallerie e viadotti della A34}}
+
+{{Autostrade italiane}}
+{{Strade statali italiane}}
+{{Portale|Friuli-Venezia Giulia|trasporti}}
+
+[[Categoria:Autostrade in Italia|A34]]
+[[Categoria:Autostrade in Friuli-Venezia Giulia]]

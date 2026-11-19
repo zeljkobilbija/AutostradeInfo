@@ -1,0 +1,149 @@
+{{Strada
+|nome = Autostrada A58
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale Est Esterna di Milano<br />TEEM<br />Tangenziale Esterna
+|simbolo = Autostrada A58 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-MI}}<br />{{IT-MB}}<br />{{IT-LO}}
+|inizio = [[Autostrada A4 (Italia)|A4]] presso [[Agrate Brianza]] ([[provincia di Monza e Brianza|MB]])
+|fine = Innesto su [[Autostrada A1 (Italia)|A1]] presso [[Cerro al Lambro]] ([[provincia di Milano|MI]])
+|lunghezza = 32 
+|apertura = 23 luglio [[2014]] 
+|provvedimento istituzione = 
+|gestore = Tangenziale Esterna SpA
+|pedaggio =sistema chiuso
+|città servite = 
+|intersezioni = 
+|mappa = Italia - mappa autostrada A58.svg
+|tracciato = Mappa autostrada A58.svg
+}}
+L''''autostrada A58''', nota anche come '''Tangenziale Est Esterna di Milano''', con l'acronimo '''TEEM''' o semplicemente come '''Tangenziale Esterna''', è un'[[autostrada]] italiana che si snoda interamente in [[Lombardia]] e collega, sul versante est di Milano, la [[Autostrada A4 (Italia)|A4]] con la [[Autostrada A1 (Italia)|A1]] passando per la [[Autostrada A35 (Italia)|A35]].
+
+La A58 si snoda tra i comuni di [[Cerro al Lambro]] e [[Agrate Brianza]]; come suggerisce il nome, ricopre il ruolo di seconda [[tangenziale]] est di Milano, mentre la prima è l'[[Autostrada A51|A51]]. La sua gestione è affidata alla società Tangenziale Esterna S.p.A.
+
+Insieme alla [[Autostrada A50|A50]] (tangenziale Ovest di Milano), alla [[Autostrada A51|A51]] (tangenziale Est di Milano) e alla [[Autostrada A52 (Italia)|A52]] (tangenziale Nord di Milano), la A58 compone il più esteso sistema italiano di tangenziali intorno a una città; è l'unica delle quattro tangenziali milanesi ad adottare il sistema di [[pedaggio]] chiuso e non aperto.
+
+== Gestazione del progetto ==
+Il progetto di una nuova tangenziale est, parallela alla [[Autostrada A51|A51]] (inaugurata nel 1973), nasce dalla necessità di alleggerire quest'ultima dalla mole di [[traffico]] che grava su di essa.
+
+La TEEM è stata inoltre concepita come autostrada di raccordo tra le diverse viabilità del territorio, asse viario di connessione tra la [[Autostrada A4 (Italia)|A4 (Milano-Venezia)]], la [[Autostrada A51|A51 (tangenziale Est)]], la A35 [[Autostrada A35 (Italia)|Brescia-Milano (BreBeMi)]] e la [[Autostrada A1 (Italia)|A1 (Milano-Bologna)]], nonché tra la SP 14 Rivoltana e la SP 103 Cassanese e la [[Strada statale 415 Paullese|ex SS 415 Paullese]].
+
+Il primo [[progetto preliminare]], corredato dagli studi sull'[[Valutazione di impatto ambientale|impatto ambientale]], è stato depositato presso la [[Lombardia|Regione Lombardia]] nel 2003. In seguito al parere favorevole dell'ente regionale, è passato all'esame delle [[Provincia di Milano|province di Milano]] e [[Provincia di Lodi|Lodi]] e dei comuni interessati.
+
+Nel frattempo si è provveduto a fondare una società dedicata (Società Tangenziali Esterne di Milano SpA)<ref>{{Cita web|https://www.brianzapopolare.it/sezioni/territorio/mobilita/tangenziale_est_prc_2002ott15.htm|Tangenziale Est-Esterna di Milano. Critiche e proposte alternative}}</ref> incaricata dell'amministrazione progettuale e della direzione nella fase operativa.
+
+Anche su richiesta del [[Ministero dell'ambiente e della tutela del territorio e del mare|Ministero dell’Ambiente]], la società ha modificato il progetto di base, trasmettendolo all'[[ANAS]] aggiornato e accompagnato da un nuovo piano economico e finanziario. Nonostante la provincia di Milano e gran parte dei comuni avessero inizialmente espresso parere negativo (2005), grazie a incontri, mediazioni e modifiche del progetto originale si è giunti a un'intesa, che si è concretizzata nella sottoscrizione dell'[[accordo di programma]] (2007) da parte degli [[ente locale|enti locali]] interessati. Persistono comunque molte perplessità da parte di diverse [[Comune|amministrazioni comunali]], organizzazioni [[ambientalismo|ambientaliste]] e [[Partito politico|partiti politici]].<ref>{{Cita web|titolo=Informazioni sulla “storia” della TEM|url=http://www.lombardiaineuropa.it/dossier.php?dossierID=18|accesso=6 settembre 2008|urlarchivio=https://web.archive.org/web/20080916233641/http://www.lombardiaineuropa.it/dossier.php?dossierID=18|urlmorto=sì}}</ref>
+
+=== Società coinvolte ===
+La Società Tangenziali Esterne di Milano SpA è stata costituita nel febbraio del 2002, con un [[Capitale sociale (economia)|capitale sociale]] di 7 milioni di euro, con lo scopo di promuovere la progettazione e la costruzione della TEEM e in generale delle tangenziali esterne del [[Milano|capoluogo lombardo]]. Gli azionisti di maggioranza risultano essere [[Milano Serravalle-Milano Tangenziali|Milano Serravalle – Milano Tangenziali SpA]] e Autostrade per l'Italia SpA (entrambe con il 32%), seguite da Asam (15%), [[Autostrade Lombarde|Autostrade Lombarde SpA]] (8%), [[SATAP|Autostrada Torino-Alessandria-Piacenza]] (8%) e [[Banca Intesa]] (5%)<ref>{{Cita web | url = http://www.temspa.it/link/index.html | titolo = Tangenziali Esterne di Milano | accesso = 17 ottobre 2010 | urlarchivio = https://web.archive.org/web/20101130001326/http://www.temspa.it/link/index.html | urlmorto = sì }}</ref>.
+
+La società Tangenziale Esterna SpA (Tangenziali Esterne di Milano 42,40%, Impregilo 17,77%, Pizzarotti 10,17%, Autostrade Lombarde 6,73%, Coopsette 4,19%, CMB 4,09%, CMC 3,24%, Intesa Sanpaolo 1,85%, Itinera 1,82%, Satap 1,02%, CTE 1%, Pavimental 1%, Milano Serravalle - Milano Tangenziali 0,39%, Autostrade per l'Italia 0,25%<ref>{{Cita web|http://tangenziale.esterna.it/societa/azionisti|Azionisti|editore=Tangenziale esterna milanese}}</ref><ref>{{Cita web|http://tangenziale.esterna.it/societa/soci/|Soci|editore=Tangenziale esterna milanese}}</ref>) è la società che ha per oggetto "la progettazione, la realizzazione e la gestione della nuova Tangenziale Est Esterna di Milano" ed è sotto la direzione e il coordinamento della Società Tangenziali Esterne di Milano SpA.<ref>{{Cita web|http://tangenziale.esterna.it/societa/|Tangenziale Est Esterna di Milano|editore=Tangenziale esterna milanese}}</ref>
+
+La società [[Concessioni Autostradali Lombarde]] (50% ANAS, 50% Infrastrutture Lombarde al 100% della Regione Lombardia) ha tra i compiti quelli legati alla "definizione dell'Accordo di Programma, al rilascio/diniego delle attestazioni di compatibilità tecnica di interventi urbanistici in fascia di salvaguardia e a gestire le attività tecniche connesse all'accordo di Programma".<ref>{{Cita web |url=http://www.calspa.it/Default.aspx |titolo=Concessioni Autostradali Lombarde |accesso=17 ottobre 2010 |urlarchivio=https://web.archive.org/web/20100526050003/http://www.calspa.it/Default.aspx |urlmorto=sì }}</ref>
+
+=== Costi ===
+Il progetto preliminare prevedeva un costo di 1,6 miliardi di euro per la realizzazione dell'infrastruttura. Nell'investimento è stato previsto un contributo pubblico di 330 milioni di euro (a fondo perduto) da parte di [[Cassa depositi e prestiti]] finalizzato alla costruzione dell'infrastruttura-sistema nei tempi fissati.<ref>{{Cita web|http://www.tangenziale.esterna.it/media/comunicati_stampa/unicredit-nel-pool-di-banche-finanziatrici-contributo-pubblico-di-330-milioni-di-euro-e-nuovo-aumento-di-capitale-maullu-luglio-di-decisivi-passi-in-avanti-verso-la-realizzazione-di-teem/|Comunicato Stampa 23 luglio 2013}}</ref>.
+
+Il costo di realizzazione ha superato la cifra di 1,7 miliardi di Euro (2,2 miliardi di Euro IVA e oneri inclusi<ref>{{Cita web|titolo=Finanziamento dell'opera|url=http://www.tangenziale.esterna.it/finanziamento-opera/}}</ref>), di cui 360 milioni di contributo pubblico<ref>{{Cita web|url=http://www.lombardiaineuropa.it/leggi.php?dossierID=18&artID=639552|titolo=Anche la Tem ottiene il via libera La nuova opera, 33 km, costerà 1.742 milioni di euro e collegherà Melegnano (A1) ad Agrate (A4)|urlmorto=sì}}</ref>. Altre fonti parlano di un costo di 1,5 miliardi di euro, in totale [[autofinanziamento]]<ref>{{Cita web|url=http://www.otinordovest.it/Pagine/Completo.asp?ID=35|titolo=Osservatorio Territoriale Infrastrutture NordOvest|urlmorto=sì|urlarchivio=https://web.archive.org/web/20090428135037/http://www.otinordovest.it/Pagine/Completo.asp?ID=35}}</ref>.
+
+=== Storia ===
+[[File:Vizzolo Predabissi - uscita autostradale.JPG|miniatura|destra|L'ingresso di [[Vizzolo Predabissi]], situato alla rotatoria sulla [[strada statale 9 Via Emilia|SS 9 ''Emilia'']]]]
+L'11 giugno 2012 apre il primo cantiere della tangenziale esterna.
+
+Il 23 luglio 2014 apre l'intera tratta della A35 o ''[[Autostrada A35 (Italia)|BRE.BE.MI]]'' e con essa entra in funzione anche il primo tratto completato della tangenziale esterna, denominato "Arco TEEM", che permette il raggiungimento del casello di [[Pozzuolo Martesana]] e della barriera di [[Liscate]].
+
+L'apertura dell'intero tracciato è avvenuta sabato 16 maggio [[2015]], mentre il [[2016]] è stato il termine ultimo per la realizzazione dell'insieme di opere connesse.<ref>{{Cita web|https://www.ilgiorno.it/sudmilano/cronaca/2012/06/11/727470-inaugurazione-cantiere-tem-palazzo-isimbardi-provincia-tangenziale-esterna-milano.shtml|"Tem, anti-traffico per Milano" Il ministro Passera all&#039;inaugurazione|editore=Il Giorno}}</ref>
+
+== Tracciato ==
+La TEEM si sviluppa da [[Agrate Brianza]] (interconnessione con la [[Autostrada A4 (Italia)|A4]]) a [[Cerro al Lambro]] (interconnessione con la [[Autostrada A1 (Italia)|A1]]), scorrendo all'esterno dell'area urbana di Milano, circa 15 km più a est della A51 (da ciò il nome di "Est Esterna") in direzione nord-sud. Insieme con la [[Autostrada A50|A50]] (tangenziale Ovest di Milano), la [[Autostrada A51|A51]] (Tangenziale Est di Milano) e la [[Autostrada A52 (Italia)|A52]] (tangenziale Nord di Milano), la A58 compone il più esteso sistema italiano di tangenziali intorno a una città, per una lunghezza complessiva di 106&nbsp;km. Aggiungendo alle quattro tangenziali il tratto urbano della [[Autostrada A4 (Italia)|A4]], che corre parallelo alla Tangenziale Nord collegando A50, A51 e A58, si ottiene un sistema di autostrade urbane che circonda totalmente la città.
+
+A [[nord]] la tangenziale Est Esterna origina dal nodo di [[Agrate Brianza]] e si dirige verso sud-est, lambendo gli abitati di [[Caponago]] e [[Pessano con Bornago]]; in quest'ultimo è ubicato il primo svincolo. In questo primo settore, che va dalla connessione con la [[Autostrada A4 (Italia)|A4]] di Agrate a [[Bellinzago Lombardo]], la TEEM corre in trincea, con cinque [[Galleria (ingegneria)|gallerie artificiali]] necessarie al valico del [[Canale Villoresi]] e del [[Naviglio della Martesana]], della [[Linea M2 (metropolitana di Milano)|linea M2 della metropolitana]] e della [[Strada statale 11 Padana Superiore|SS 11]]. Superati [[Gessate]] e Bellinzago l'autostrada devia in direzione sud, per andare a incontrare la [[Autostrada A35 (Italia)|BreBeMi]] nel territorio comunale di [[Pozzuolo Martesana]]. In questa seconda tratta, fino a [[Melzo]], la TEEM è in rilevato, fatta eccezione per il sottopasso funzionale al superamento della [[ferrovia Milano-Venezia|linea ferroviaria Milano-Venezia]] e della linea ad [[Ferrovia Milano-Verona (alta velocità)|alta velocità]]. Dopo Melzo, la tangenziale è realizzata a raso per la quasi totalità del suo sviluppo. Tocca marginalmente la [[provincia di Lodi]], nei comuni di [[Comazzo]] e [[Merlino (Italia)|Merlino]], per poi portarsi nuovamente in territorio milanese a [[Paullo]], dove sorge lo svincolo di connessione con la [[Strada statale 415 Paullese|statale 415 Paullese]]. La nuova configurazione del cosiddetto nodo di Paullo, svincolo di interconnessione tra Tangenziale Est Esterna, Paullese e casello autostradale, tiene in considerazione il progettato prolungamento della [[Linea M3 (metropolitana di Milano)|linea M3 della metropolitana]] fino a Paullo. In seguito si attesta sul confine tra le due province interessando i comuni di [[Tribiano]], [[Mulazzano]], [[Dresano]] e [[Casalmaiocco]] (dove è stata realizzata una galleria di 650 metri). Non sono mai state fornite informazioni ufficiali, da parte della società, circa l'idea precedentemente ventilata di costruire svincoli nel territorio di questi quattro comuni, per limitare l'impatto ambientale su un'area che conserva ancora intatti i tratti tipici della [[campagna]] lombarda. La TEEM vira poi verso sud-ovest e confluisce nell'[[Autostrada A1 (Italia)|Autostrada del Sole]] all'altezza di [[Cerro al Lambro]], a breve distanza anche da [[Melegnano]]. Un viadotto terminale oltrepassa la [[Strada statale 9 Via Emilia|Via Emilia]] e la ferrovia, infrastrutture che sono tutte allineate.<!--<ref>Informazioni sul progetto preliminare da: http://www.lombardiaineuropa.it/dossier.php?dossierID=18 e da: http://www.verdiregionelombardia.net/livello%202/livello3/vertenze/Tangenziale%20EE.htm
+</ref>-->
+
+== Tabella percorso ==
+{| class="wikitable"
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="8" | {{simbolo|Autostrada A58 Italia.svg|30}} ''' TEEM'''<br />''Tangenziale Est Esterna di Milano''
+|-
+!Tipo!!align="center"|Indicazione
+!↓km↓
+!align="center" |Area
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A4 Italia.svg|18}} {{simbolo|Italian traffic signs - strada europea 64.svg|30}} [[Autostrada A4 (Italia)|Autostrada A4]] <small>([[Torino]] - [[Venezia]])<br />{{simbolo|Italian traffic signs - icona aeroporto.svg|15}} [[Aeroporto di Milano-Malpensa|Aeroporto di Milano Malpensa]]</small> 
+|0,0
+| align="center" |[[Provincia di Monza e della Brianza|MB]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pessano con Bornago]]
+|1,7
+| rowspan="9" align="center" |[[Provincia di Milano|MI]]
+|-
+| [[File:AB-AS-grün.svg]]||[[Gessate]]<br /><small>{{simbolo|Strada Statale 11 Italia.svg|40}} [[Strada statale 11 Padana Superiore|Padana Superiore]] ([[Bellinzago Lombardo|Bellinzago]] - [[Gorgonzola (Italia)|Gorgonzola]] - [[Cernusco sul Naviglio|Cernusco Sul Naviglio]])<br />{{simbolo|Milano linea M2.svg}} [[Gessate (metropolitana di Milano)|Gessate]]</small>
+|4,1
+|- 
+| [[File:AB-AS-grün.svg]]||[[Pozzuolo Martesana]]<br /><small>[[File:Strada Provinciale 103 Italia.svg|40x40px]] Cassanese ([[Melzo]] - [[Vignate]] - [[Pioltello]] - [[Segrate]])<br />[[File:Autostrada A51 Italia.svg|20x20px]] [[Autostrada A51|Tangenziale Est di Milano]] (ingresso di Milano Lambrate a 14&nbsp;km)<br />[[File:Italian traffic signs - icona centro.svg|20x20px]] [[Milano Lambrate]]</small>
+|8,2
+|- 
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A35 Italia.svg|20}} [[Autostrada A35 (Italia)|A35 BreBeMi]] ([[Brescia]])
+|9,9
+|- 
+| [[File:AB-AS-grün.svg]]|| [[Liscate]]<br />[[File:330 Diaľnica.svg|19px]] <small>[[Autostrada A35 (Italia)|A35 VAR]] <br/>([[File:MA Route 5.svg|10px]] [[Melzo]]<br/>[[File:MA Route 4.svg|10px]] [[Vignate]]/[[Liscate]])<br/>[[File:Strada Provinciale 14 Italia.svg|40x40px]] Rivoltana ([[File:Italian traffic signs - icona aeroporto.svg|19px]] [[Aeroporto di Milano-Linate|Aeroporto di Linate]]  - [[Melzo]] - [[Tregarezzo]] - [[Segrate]])<br />[[File:Autostrada A51 Italia.svg|20x20px]] [[Autostrada A51|Tangenziale Est]] (ingresso di viale Forlanini a 14&nbsp;km)<br />[[File:Italian traffic signs - icona centro.svg|20x20px]] Milano [[viale Forlanini]]</small>
+|14,4
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Paullo]]<br /><small>[[File:Strada Provinciale exSS415 Italia.svg|40x40px]] [[Strada statale 415 Paullese|Paullese]] (Paullo - [[Crema (Italia)|Crema]] - [[Cremona]])<br />[[File:Autostrada A51 Italia.svg|20x20px]] [[Autostrada A51|Tangenziale Est di Milano]] (ingresso di Paullo a 14&nbsp;km)<br />{{simbolo|Milano linea M3.svg}} [[San Donato (metropolitana di Milano)|San Donato]]<br />[[File:Italian traffic signs - icona centro.svg|20x20px]] Milano [[Rogoredo (Milano)|Rogoredo]] - [[corso Lodi]]</small>
+|18,5
+|-
+|{{simbolo|AB-Tank.svg|16}}
+|Area di Servizio Muzza Est e Muzza Ovest<ref>{{Cita web|url=https://www.lombardianotizie.online/aree-servizio-tangenziale-milano/|titolo=In Tangenziale Est Esterna di Milano inaugurate due aree di servizio|accesso=24 Marzo 2026}}</ref>
+|19,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vizzolo Predabissi]]<br /><small>[[File:Strada Statale 9 Italia.svg|40x40px]] [[Strada statale 9 Via Emilia|Via Emilia]] ([[Melegnano]] - [[Lodi]] - [[Piacenza]])</small>
+|29,4
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A1 Italia.svg|18}} {{simbolo|Italian traffic signs - strada europea 35.svg|30}} [[Autostrada A1 (Italia)|Autostrada A1]] <small>(Milano [[Corvetto (Milano)|Corvetto]] - [[Bologna]] - [[Napoli]])<br />[[File:Autostrada A50 Italia.svg|18x18px]] [[Autostrada A50|Tangenziale Ovest di Milano]]<br />[[File:Autostrada A51 Italia.svg|18x18px]] [[Autostrada A51|Tangenziale Est di Milano]]</small>
+|32,0
+|-
+|}
+
+== Caratteristiche tecniche ==
+[[File:Tribiano - tangenziale est esterna.jpg|miniatura|destra|La tratta in prossimità dello svincolo di [[Paullo]]]]
+L'intero tracciato della tangenziale Est Esterna è realizzato in [[Carreggiata|carreggiate]] separate ed è interamente a tre [[Corsia di marcia|corsie]] più la [[corsia di emergenza]] per senso di marcia; il [[limite di velocità]] è di 130 km/h su tutta la tratta. Dei 32&nbsp;km lungo i quali si sviluppa l'autostrada:
+* 20,2 km sono a raso o in leggero rilevato
+* 8,7 km sono in trincea
+* 2,1 km in viadotto
+* 1 km in galleria<ref>{{Cita web|http://www.tangenziale.esterna.it/progetto/teem/i-numeri/|I numeri}}</ref>
+Il tracciato dell'autostrada è stato elaborato in modo da elevare il più possibile i limiti di velocità, obiettivo raggiunto attraverso particolari accorgimenti nel progettare curve ad ampio raggio.
+
+In totale gli svincoli sono dieci, di cui tre autostradali (allacciamenti A1, A4, A35) e sette di connessione con la viabilità locale.
+
+== Progetti ambientali ==
+Accanto alla realizzazione dell'opera autostradale, sono previsti interventi di carattere ambientale come [[Barriera antirumore|barriere antirumore]], piantumazione di alberi, opere idriche, [[Pista ciclabile|piste ciclabili]].<ref>{{Cita web|url=https://www.facebook.com/media/set/?set=a.537298033013621.1073741832.488202891256469&type=3|titolo=Pagina Facebook dei Progetti Speciali Ambientali}}</ref> Inevitabile è stato l'impatto sulle numerose [[Azienda agricola|aziende agricole]] presenti lungo il tracciato della A58 e delle opere secondarie, che in molti casi hanno diviso in aree separate i terreni di lavoro.
+
+L'iter seguito per i risarcimenti relativi all'[[Espropriazione per pubblica utilità|esproprio]] e ai danni da scorporo e intersecazione non è stato dei più lineari: inizialmente TEEM ha stabilito unilateralmente l'ammontare dell'indennizzo<ref>{{Cita web|url=https://lombardia.coldiretti.it/news/milano-cosi-la-teem-ci-sta-portando-via-le-nostre-vite-campi-spianati-dallasfalto-e-150-aziende-fatte-a-pezzi/|titolo="Così la TEEM ci sta portando via le nostre vite". Campi spianati dall'asfalto e 150 aziende fatte a pezzi.}}</ref>, iniziando comunque i lavori senza dare alcun risarcimento per la maggior parte dei coltivatori<ref>{{Cita web|url=https://lombardia.coldiretti.it/news/milano-il-lato-oscuro-della-nuova-teem-terreni-sventrati-e-nessun-risarcimento/|titolo=Il lato oscuro della nuova TEEM: terreni sventrati e nessun risarcimento}}</ref>. In seguito alle continue proteste<ref>{{cita web|url=https://lombardia.coldiretti.it/news/milano-venerdi-18-7-a-milano-blitz-agricoltori-contro-il-cemento-che-fa-strage-di-piante-e-animali/|titolo=A Milano blitz agricoltori contro il cemento che fa strage di piante e animali|data=venerdì 18 luglio 2014}}</ref>, finalmente la [[Coldiretti]] è riuscita a raggiungere un accordo<ref>{{cita web|url=https://lombardia.coldiretti.it/news/teem-pace-fatta-sulla-nuova-tangenziale-firmato-oggi-laccordo-con-gli-agricoltori/|titolo=TEEM, pace fatta sulla nuova tangenziale: oggi (7 agosto 2014) firmato l'accordo con gli agricoltori}}</ref> che – sebbene si tratti di una mediazione in cui entrambe le parti hanno ottenuto e ceduto qualcosa – dà finalmente respiro alle 150 aziende agricole che hanno subito espropri e danni derivati dalla realizzazione dell'opera.
+
+== Note ==
+<references/>
+
+== Voci correlate ==
+* [[Autostrada A36 (Italia)]]
+* [[Autostrada A35 (Italia)]]
+* [[Autostrada A21 racc]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|http://tangenziale.esterna.it/|Sito ufficiale}}
+* {{cita web |url=http://online.stradeeautostrade.it/m/slideshow/000210041011001 |titolo=Articolo di Strade & Autostrade online sulla Tangenziale Est Esterna |accesso=8 gennaio 2014 |urlarchivio=https://web.archive.org/web/20140108142227/http://online.stradeeautostrade.it/m/slideshow/000210041011001 |urlmorto=sì }}
+* {{cita web|url=http://www.stradeeautostrade.it/online/articolo.php?id=0911001|titolo="La responsabilità ambientale di Tangenziale Esterna di Milano" su S&A online n°9|urlmorto=sì}}
+* {{cita web|url=http://www.trasporti.regione.lombardia.it/cs/Satellite?c=Redazionale_P&childpagename=DG_Infrastrutture%2FDetail&cid=1213442157688&pagename=DG_INFWrapper|titolo=Scheda progetto TEEM in sito web di Regione Lombarda|urlmorto=sì}}
+* ''[https://www.lotsberg.net/data/italia/A58.html Gallerie e viadotti della A58], lotsberg.net.''
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}{{portale|Milano|trasporti}}
+
+[[Categoria:Trasporti a Milano]]
+[[Categoria:Autostrade in Italia|A58]]

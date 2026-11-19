@@ -1,0 +1,158 @@
+{{Strada
+|nome = Autostrada A16
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada dei Due Mari<br/>Napoli-Canosa
+|simbolo = Autostrada A16 Italia.svg
+|nome precedente = [[Autostrada A17 (Italia)|Autostrada A17]]<br /><small>(comprendente anche il tratto Canosa-Bari)</small>
+|nome successivo = 
+|divisione amm 1 = {{IT-CAM}}<br />{{IT-PUG}}
+|divisione amm 2 = {{IT-NA}}<br/>{{IT-AV}}<br/>{{IT-FG}}
+|inizio = Innesto in [[Autostrada A1 (Italia)|A1]] ad [[Afragola]]
+|fine = Innesto in [[Autostrada A14 (Italia)|A14]] presso [[Cerignola]]
+|lunghezza = 172,5<ref>{{Cita web|url=https://www2.autostrade.it/BVS/portale/rete/punti.jsp?strada=50&ramo=50&code=A16&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali}}</ref>
+|direzione = est-ovest
+|apertura = [[1969]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]<ref>Pedaggio a sistema aperto per il casello di Pomigliano D'Arco per chi proviene 
+dalla A1 (qualsiasi direzione) e per chi è diretto verso l'A1 direzione Napoli Sud</ref>
+|città servite = [[Napoli]], [[Avellino]], [[Cerignola]]
+|intersezioni = [[Autostrada A1 (Italia)|A1]] ad [[Afragola]], [[Autostrada A30 (Italia)|A30]] a [[Nola]], [[raccordo autostradale 9|RA9]] a [[Castel del Lago]] e [[Autostrada A14 (Italia)|A14]] a [[Cerignola]]
+|europea1 = 842
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A16.svg
+|tracciato = Autostrada A16.svg
+}}
+L{{'}}'''autostrada A16,''' detta '''Napoli-Canosa''' o anche '''Autostrada dei Due Mari''' (in quanto, attraversando l'[[Appennino campano]], collega il [[Mar Tirreno]] ed il [[Mare Adriatico]]) è un'[[autostrada italiana]] che si estende per 172,5 [[chilometro|km]] tra [[Campania]] e [[Puglia]] e interconnette l'[[Autostrada A1 (Italia)|autostrada A1]] (nei pressi di [[Afragola]]) con l'[[Autostrada A14 (Italia)|A14]] nei pressi di [[Cerignola]].
+
+È interamente gestita da [[Autostrade per l'Italia]].
+
+==Storia==
+=== Il progetto e le intenzioni iniziali ===
+Originariamente numerata '''[[Autostrada A17 (Italia)|A17]]''' (unitamente al tratto [[Canosa di Puglia|Canosa]]-[[Bari]], ora parte della [[Autostrada A14 (Italia)|A14]]), è stata rinumerata in '''A16''' in seguito al completamento dell'[[Autostrada A14 (Italia)|autostrada Adriatica A14]].<ref>{{Cita web|url=https://www.gazzettaufficiale.it/do/gazzetta/downloadPdf?dataPubblicazioneGazzetta=19840806&numeroGazzetta=215&tipoSerie=FO&tipoSupplemento=SO&numeroSupplemento=42&progressivo=0&estensione=pdf&edizione=0|titolo=Gu}}</ref> È stato suggerito che il cambiamento di numero sia stato dettato da motivi [[scaramanzia|scaramantici]]. Quando l'autostrada era numerata A17, la A16 era la Roma-Civitavecchia, adesso [[Autostrada A12 (Italia)|A12]]<ref>{{Cita web |url=http://www.teletransport.it/newweb/ita/pagine/Strade7.asp |titolo=Copia archiviata |accesso=11 maggio 2010 |dataarchivio=13 dicembre 2004 |urlarchivio=https://web.archive.org/web/20041213140106/http://www.teletransport.it/newweb/ita/pagine/Strade7.asp |urlmorto=sì }}</ref>.
+
+La costruzione del collegamento autostradale tra [[Napoli]] e [[Bari]] fu controversa. Il primo ostacolo per un collegamento tra i mari [[Mar Tirreno|Tirreno]] e [[Mare Adriatico|Adriatico]] fu quello naturale formato dagli [[Appennini]]. Nei progetti preliminari si parlava di un percorso simile al collegamento storico tra Napoli e Bari, cioè seguendo grossomodo la [[Strada statale 87 Sannitica]] verso [[Cancello]], per poi risalire la Valle Caudina e toccare [[Benevento]]. Da Benevento c'erano poi due soluzioni: passare per [[Foggia]], o tagliare più a sud gli Appennini arrivando sino a [[Canosa di Puglia|Canosa]]. Fu scelta la seconda, anche se con maggiore difficoltà nella progettazione in una zona altamente montuosa.
+
+=== Le modifiche al progetto e l'influenza di Fiorentino Sullo ===
+
+I motivi sono sostanzialmente due: Foggia era già collegata alla rete autostradale e, principalmente, tagliando a sud il percorso sarebbe stato più breve. Nei progetti successivi, invece, il [[Ministero dei lavori pubblici|Ministro del Lavori Pubblici]] [[Fiorentino Sullo]] impose ai progettisti che l'autostrada passasse per [[Avellino]], per collegare finalmente l'[[Irpinia]] a Napoli con un collegamento veloce. [[Caserta]], [[Benevento]] e [[Salerno]] avevano già il collegamento ferroviario con Napoli, da Avellino invece per raggiungere Napoli alla fine degli [[anni 1950]] ci volevano ancora diverse ore in macchina e quasi mezza giornata in treno, per via delle coincidenze obbligatorie a Benevento o [[Codola]], così il progetto fu completamente rivisto nel primo tratto.
+
+Si partì con l'allacciamento all'autostrada del Sole poche centinaia di metri prima del vecchio piazzale di ''Napoli Stazione'', l'antico casello terminale dell'[[Autostrada A1 (Italia)|A1]], nel territorio di [[Casoria]]. L'autostrada poi avrebbe dovuto proseguire ad est, verso [[Nola]] e poi da lì inerpicarsi fino ai 649&nbsp;m [[s.l.m.]] del valico di [[Monteforte Irpino]].
+
+Il tratto da [[Baiano]] ad Avellino ovest fu una vera sfida per i progettisti. Si superarono le pendenze limite per le autostrade secondo le norme del tempo, ma l'[[ANAS|Anas]] e il [[Ministero dei trasporti]] concessero prontamente una deroga. La principale opera fu un viadotto di circa 700 metri quasi totalmente in curva, per metà nel comune di [[Visciano]] e per metà nel comune di [[Monteforte Irpino]]. Se questo tratto fu difficile, quello immediatamente successivo, dal valico di Monteforte ad Avellino, fu anche peggio. Bisognava scendere un dislivello di 250&nbsp;m in poco meno di 5&nbsp;km. Il percorso è interamente costruito "a mezza costa" sulla parete della montagna. Ci sono numerosi, anche se corti, viadotti, e le numerose curve presenti sono di raggio stretto.
+
+La storia di questa autostrada ad Avellino non si limita allo spostamento del tracciato. Fu imposto ai progettisti di prevedere addirittura due caselli nella città. La richiesta sembrò quasi ridicola alla Società Autostrade, per una città di appena {{formatnum:40000}} abitanti (si tenga conto che all'epoca due caselli c'erano solo a [[Roma]], a [[Bologna]] e a [[Firenze]]). Alla fine, oltre all'uscita a Ovest della città (comoda per raggiungere velocemente Napoli) fu deciso il secondo casello a Est, vicino al nucleo industriale, al [[Raccordo autostradale 2|raccordo autostradale per Salerno]] e alla statale Ofantina. Più avanti c'erano altre sfide per superare gli Appennini, i valichi intermedi della Serra e di Mirabella e quello finale presso [[Scampitella]], da dove poi si scende sul [[Tavoliere delle Puglie|Tavoliere]], dove l'autostrada diventa pressoché rettilinea e pianeggiante fino tra [[Cerignola]] e [[Canosa di Puglia]] dove confluiva l'[[Autostrada A14 (Italia)|autostrada Adriatica]]. Infatti allora c'era la Bologna-Canosa e la Napoli-Bari, e questo è chiaro dalla conformazione dello svincolo, dove ancora oggi è lampante che i progettisti all'epoca davano priorità al traffico da Napoli a Bari e viceversa. Col tempo poi la situazione è cambiata, e oggi il traffico della Napoli-Canosa dà precedenza a quello più importante e numeroso della corrente Bologna-Taranto. Così si è creata un'insolita e pericolosa immissione da sinistra della carreggiata del traffico che da Napoli va verso [[Bologna]].
+
+=== L'apertura progressiva ===
+Il primo tratto dell'autostrada, dall'allacciamento con l'[[Autostrada A1 (Italia)|Autostrada del Sole]] presso [[Napoli]] e [[Baiano]], venne aperto al traffico il 2 gennaio [[1966]]; esso misurava {{M|26.889|ul=km}} e comprendeva le uscite intermedie di [[Pomigliano d'Arco|Pomigliano]] e [[Nola]].<ref>{{cita|''Aperto al traffico...'' (1966)|p. 3}}.</ref> Il 22 dicembre successivo venne aperto il tratto seguente, da Baiano ad [[Avellino]] Sud.<ref>{{Cita pubblicazione |titolo = La rete autostradale IRI - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno IX |numero = 2 |editore = |città = Roma |anno = 1967 |mese = febbraio|p = 52 |ISSN = 0005-1756 }}</ref>
+
+Ancora dopo con la costruzione della [[Autostrada A30 (Italia)|A30]] tutta l'area napoletana subì qualche modifica. Oltre allo spostamento del casello di Nola dall'A16 all'A30 (dove si trova attualmente) vennero costruite le intersezioni dell'allacciamento A16-A30 e venne costruita la nuova Barriera di Napoli Est nel territorio di [[San Vitaliano (Italia)|San Vitaliano]], che insieme a quella di Napoli Nord sull'A1 nel territorio di [[Marcianise]], soppiantarono la vecchia barriera terminale di Napoli Stazione, dove oggi troviamo un posto di [[Polizia stradale|Polizia Stradale]] e un Free To X point.
+
+== Descrizione ==
+[[File:Segnaletica orizzontale telepass.JPG|thumb|L'autostrada A16 all'altezza della barriera di Napoli.]]
+
+L'autostrada è formata da due corsie per carreggiata per quasi tutto il tracciato, eccetto brevi tratti nell'[[Irpinia]] ove è presente la terza corsia per agevolare la marcia in salita dei mezzi pesanti. Nel suo taglio da [[ovest]] a [[est]] della penisola, attraversa la [[Campania]] con il territorio dell'[[Irpinia]], interseca l'[[Autostrada A30 (Italia)|Autostrada A30]] nei pressi di [[Nola]], supera [[Avellino]], da dove si può raggiungere [[Salerno]] (collegata tramite il [[raccordo autostradale 2]]), e [[Benevento]] (collegata tramite il [[raccordo autostradale 9]]). Oltrepassato l'[[Appennino campano]] e il [[Subappennino dauno]], entra in territorio [[Puglia|pugliese]] passando [[Candela (Italia)|Candela]] e [[Cerignola]] e termina presso [[Canosa di Puglia|Canosa]] innestandosi in [[Autostrada A14 (Italia)|A14]] in direzione [[Bologna]] e [[Taranto]].
+
+A causa della conformazione del territorio, l'intero tratto pugliese dell'autostrada è spesso soggetta a forti [[vento|venti]] che ostacolano la circolazione, in particolare quella dei [[autocarro|mezzi pesanti]]. Nei tratti in salita con maggior pendenza, è stata rimossa la corsia d'emergenza per creare una terza corsia facilitando la circolazione dei mezzi pesanti. Nel tratto appenninico talvolta la neve cade improvvisa e copiosa, bloccando gli automobilisti in corrispondenza dei valichi. In condizioni critiche viene imposta l'uscita obbligatoria a [[Baiano]], per il traffico proveniente da Napoli. Questa condizione non è poi così rara, infatti i segnali di uscita obbligatoria sono installati in maniera fissa, anche se normalmente coperti o girati, nei pressi del casello di Baiano.
+
+La gestione dell'autostrada è di competenza di ''[[Autostrade per l'Italia S.p.A.|Autostrade per l'Italia]]''. L'autostrada viene chiamata "''dei Due Mari''" poiché connette l'estremità ovest ([[mar Tirreno]]) all'estremità est ([[mare Adriatico]]) a partire dagli assi autostradali fondamentali d'Italia ([[Autostrada A1 (Italia)|A1]] ad ovest, [[Autostrada A14 (Italia)|A14]] ad est).
+[[File:Termine Autostrada A16.JPG|thumb|upright|Termine dell'autostrada A16. Rampa di immissione in A1 direzione Napoli]]
+[[File:A16 - A14 (2).JPG|thumb|upright|Fine della A16 mediante l'intersezione con la A14 Adriatica]]
+[[File:A16 Baiano.jpg|thumb|Tratto della A16 tra Baiano e Avellino Ovest]]
+
+Il 7 marzo 2005 l'autostrada subì seri danni strutturali a seguito di intense precipitazioni; in particolare il tratto compreso tra Grottaminarda a Candela rimase chiuso al traffico a causa di una frana e del conseguente spostamento di un pilone di sostegno di un viadotto situato al km 122,5 circa, in località Alveo Vecchio tra i comuni di Sant'Agata di Puglia e Rocchetta Sant'Antonio. In quei giorni il traffico veniva deviato dal casello di Grottaminarda sulla [[strada statale 90 delle Puglie|S.S. 90]], via [[Ariano Irpino]], [[Bovino (Italia)|Bovino]], [[strada statale 161 di Ortanova|ex S.S. 161]] e S.S. 650 fino a [[Candela (Italia)|Candela]]. A causa della difficoltà nel ripristinare il viadotto interessato il tratto è stato ricostruito ex novo con una variante a doppia curva. Tuttora vicino al tracciato attuale sussiste il precedente tracciato, col viadotto ormai ceduto.
+
+Al km 103, subito dopo l'uscita della galleria ''Vallesaccarda,'' poco prima del casello di [[Vallata (Italia)|Vallata]], l'autostrada raggiunge il valico più alto di tutto il percorso, alto 673 m s.l.m.,
+
+== Obblighi ==
+Dallo svincolo di [[Baiano]] (km 26) fino allo svincolo di [[Candela (Italia)|Candela]] (km 127) sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile.<ref>{{Cita web|lingua=it-IT|url=https://www.autostrade.it/it/obbligo-catene|titolo=Obbligo catene a bordo|sito=Autostrade per l'Italia|accesso=2025-05-22}}</ref>
+
+==Tabella percorso==
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A16 Italia.svg|30}} NAPOLI - CANOSA'''<br />Autostrada dei due mari
+|-
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|AB-Vzw-grün.svg|17}}|| [[File:Italian traffic signs - strada europea 45.svg|27px|link=Strada europea E45]] {{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano - Napoli]]|| align="right"|0|| align="right"|172,5 || align="center" rowspan=6|[[città metropolitana di Napoli|NA]] ||align="center" rowspan=20|[[File:Italian traffic signs - strada europea 842.svg|50px|link=Strada europea E842]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Vesuvio"|| align="right"|4|| align="right"|168
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Pomigliano d'Arco]]|| align="right"|7|| align="right"|165
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera Napoli est||align="right"|13,1|| align="right" |158,9
+|-
+| {{simbolo|AB-Kreuz-grün.svg}}|| <small>{{simbolo|Autostrada A30 Italia.svg|20}}</small> [[Autostrada A30 (Italia)|Caserta - Salerno]]<br /><small>{{simbolo|Autostrada A1 Italia.svg|20}} [[Autostrada A1 (Italia)|Roma]]</small><br /><small>{{simbolo|Autostrada A2 Italia.svg|20}} [[Autostrada A2 (Italia)|Reggio Calabria]]</small>
+| align="right"|16|| align="right"|156
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Tufino]]|| align="right"|22,5 ||align="right"|149,5
+|-
+|{{simbolo|AB-AS-grün.svg}}|| [[Baiano]]|| align="right"|26|| align="right"|146 || align="center" rowspan=10|[[Provincia di Avellino|AV]]
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Avellino|Avellino ovest]]||align="right"|41|| align="right"|131
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Irpinia"|| align="right"|44|| align="right"|128
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Avellino|Avellino est]]<br /><small>{{simbolo|Strada Statale 7 Italia.svg|40}} ''[[Strada statale 7 Via Appia|Via Appia]]''<br/>[[File:Italian traffic signs - strada europea 841.svg|27px|link=Strada europea E841]] {{simbolo|Italian traffic signs - raccordo autostradale 2.svg|31}} [[Raccordo autostradale 2|Salerno]]</small><br /><small>{{simbolo|Autostrada A2 Italia.svg|20}} [[Autostrada A2 (Italia)|Reggio Calabria]]</small>
+| align="right"|49,5|| align="right"|125,3
+|-
+| {{simbolo|AB-Kreuz-grün.svg}}|| {{simbolo|Italian traffic signs - raccordo autostradale 9.svg|31}} [[Raccordo autostradale 9|Benevento]]|| align="right"|68,6|| align="right"|103,9
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Mirabella"|| align="right"|77|| align="right"|95
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Grottaminarda]]<br /><small>{{simbolo|Strada Statale 90 Italia.svg|40}} ''[[Strada statale 90 delle Puglie|delle Puglie]]'' - [[Ariano Irpino]]</small>|| align="right"|81|| align="right"|91
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Vallata (Italia)|Vallata]]|| align="right"|104|| align="right"|68
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Calaggio"|| align="right"|106|| align="right"|66
+|-
+| {{simbolo|AB-AS-grün.svg}} ||[[Lacedonia]]|| align="right"|111|| align="right"|61
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Candela (Italia)|Candela]]<br /><small>{{simbolo|Strada Statale 655 Italia.svg|40}} ''[[Strada statale 655 Bradanica|Bradanica]]'' - [[Foggia]] - [[Matera]]</small>||align="right"|128|| align="right"|44 || align="center" rowspan=5|[[Provincia di Foggia|FG]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Torre Alemanna"<ref>Dismessa nel corso del 2015 a causa di fatturati bassi in direzione Napoli</ref>
+|| 137|| align="right"|-
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Ofanto"|| align="right"|153|| align="right"|19
+|-
+| {{simbolo|AB-AS-grün.svg}} ||[[Cerignola|Cerignola ovest]]<ref>Svincolo riservato unicamente al pagamento con [[Carta di credito|carte di credito]] e con apparati di [[Telepedaggio]] ([[Telepass]], [[UnipolMove]], [[MooneyGo]] e dei principali creditori di telepedaggio europei) a partire da settembre 2026, a causa delle continue rapine di contanti effettuate presso il casello</ref><ref>{{Cita web|url=https://www.autostrade.it/it/comunicazione-e-media/comunicati-stampa-corporate/-/bulletin/view/70342cc3-4cc9-4e1e-bcc1-b9990dd9f798|titolo=AUTOSTRADE PER L’ITALIA: NELLE STAZIONI DI CERIGNOLA EST E CERIGNOLA OVEST, IN VIA TEMPORANEA PAGAMENTI DISPONIBILI ESCLUSIVAMENTE TRAMITE SISTEMI DI TELEPEDAGGIO E CARTE BANCARIE|accesso=2026-11-13|lingua=it-IT|sito=Autostrade per l'Italia}}</ref>|| align="right" |160|| align="right"|12
+|-
+| {{simbolo|AB-Vzw-grün.svg|17}}||[[File:Italian traffic signs - strada europea 55.svg|27px|link=Strada europea E55]] {{simbolo|Autostrada A14 Italia.svg|23}} [[Autostrada A14 (Italia)|Bologna - Taranto]]
+| align="right"|172,5|| align="right"|0||
+|-
+|}
+
+==Incidenti==
+La sera del 5 febbraio 1981 si verificò un incidente stradale nei pressi di [[Bisaccia (Italia)|Bisaccia]], che coinvolse l'attore e comico [[Gino Bramieri]] e l'attrice [[Liana Trouché]] (moglie dell'attore [[Aldo Giuffré]]). L'automobile con a bordo i due, una [[Alfa Romeo Alfa 6]] automatica, uscì dalla carreggiata in seguito a una collisione. L'incidente fu fatale alla Trouché, che fu sbalzata fuori dall'abitacolo poiché non indossava la cintura di sicurezza.<ref>{{cita web|url=http://www.alfa6.net/incidente%20Gino%20Bramieri.htm|titolo=L'Alfa 6 automatica di Gino Bramieri|editore=alfa6.net|accesso=7 aprile 2014|urlarchivio=https://web.archive.org/web/20170810025757/http://www.alfa6.net/incidente%20Gino%20Bramieri.htm|urlmorto=sì}}</ref>
+
+Il 28 luglio [[2013]] l'A16 fu teatro del più grave incidente stradale mai avvenuto ad oggi in Italia e uno tra i primi in Europa<ref>{{Cita web|lingua=it|autore=AGI-Agenzia Italia|url=https://www.agi.it/cronaca/news/2019-01-11/strage_bus_autostrade-4823856/|titolo=Il più grave incidente stradale della storia d&#39;Italia|sito=www.agi.it|data=2019-01-11|accesso=2024-12-17}}</ref><ref>{{Cita web|lingua=it|autore=Redazione di Rainews|url=https://www.rainews.it/articoli/2023/10/tragedia-di-mestre-ecco-gli-incidenti-di-pullman-piu-disastrosi-il-piu-grave-nel-2013-con-40-morti-1ee8afe4-d56d-4f27-af72-1d545c8cc757.html|titolo=Tutti i precedenti. Il disastro più grave nel 2013, con 40 morti|sito=RaiNews|data=2023-10-04|accesso=2024-12-17}}</ref><ref>{{Cita web|lingua=it-IT|autore=italoBlogger|url=https://italoblogger.com/il-piu-grave-incidente-stradale-in-italia/|titolo=Il più grave incidente stradale in Italia!|sito=ItaloBlogger|data=2019-01-11|accesso=2024-12-17}}</ref><ref>{{Cita web|lingua=it|url=https://www.repubblica.it/esteri/2015/10/23/news/gli_incidenti_stradali_piu_gravi_in_europa-125740804/|titolo=Dal 1990 a oggi gli incidenti stradali più gravi in Europa|sito=la Repubblica|data=2015-10-23|accesso=2024-12-17}}</ref>, ovvero l'[[Incidente stradale del viadotto Acqualonga|incidente del viadotto Acqualonga]]: un pullman turistico precipitò da un viadotto nei pressi di Monteforte Irpino a seguito della rottura di un giunto dell'albero di trasmissione che a sua volta rese inservibile l'impianto frenante, causando la morte di 40 persone e ferendone 8<ref>{{Cita web |url=http://www.lettera43.it/cronaca/bus-in-scarpata-lupi-accertare-responsabilita_43675103778.htm |titolo=Bus in scarpata, Lupi: accertare responsabilità - CRONACA |accesso=1º agosto 2013 |urlarchivio=https://web.archive.org/web/20160304190406/http://www.lettera43.it/cronaca/bus-in-scarpata-lupi-accertare-responsabilita_43675103778.htm |urlmorto=sì }}</ref><ref>{{Cita web|url=https://www.ilfattoquotidiano.it/2013/07/29/campania-precipita-autobus-da-viadotto-alto-30-metri/669903/|titolo=Incidente Avellino, 38 morti e 10 feriti. Inchiesta della Procura: "Ci sono indagati"|sito=Il Fatto Quotidiano|data=2013-07-29|lingua=it-IT|accesso=2022-02-18}}</ref><ref>{{Cita web|url=https://napoli.repubblica.it/cronaca/2013/07/29/news/strage_bus_reazioni-63906126/|titolo=Strage A16, Napolitano: "Sciagura inaccettabile"Cantelmo: "Valutiamo posizione Autostrade"|sito=la Repubblica|data=2013-07-29|lingua=it|accesso=2022-02-18}}</ref>.
+L'autobus, un [[Volvo B12|Volvo B12 Echo I ed.]], piuttosto anziano con 18 anni di servizio e circa 800.000 chilometri percorsi, a seguito di accertamenti sullo stesso, è stato appurato che non era stato sottoposto alle revisioni regolamentari.
+
+==Note==
+<references />
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Napoli - Bari |autore = Luigi Tocchetti |rivista = [[Le Strade]] |volume = anno XLIV |numero = 1 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1964 |mese = gennaio |pp = 32-35 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1556#page/54/mode/2up }}
+* {{Cita pubblicazione |titolo = Aperto al traffico il primo tratto della Napoli - Bari |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno VIII |numero = 1 |editore = |città = Roma |anno = 1966 |mese = gennaio |pp = 3-8 |ISSN = 0005-1756 |cid = ''Aperto al traffico...'' (1966) }}
+
+== Voci correlate ==
+* [[Autostrade per l'Italia]]
+* [[Rete autostradale italiana]]
+
+==Altri progetti==
+{{Interprogetto|preposizione=sull'}}
+
+==Collegamenti esterni==
+*{{cita web|http://www.autostrade.it|Autostrade per l'Italia}}
+*{{cita web|https://www.lotsberg.net/data/italia/A16.html|Gallerie e viadotti della A16}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A16]]
+[[Categoria:Trasporti in Campania]]

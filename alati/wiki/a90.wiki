@@ -1,0 +1,1109 @@
+{{nd|il raccordo anulare di [[Padova]]|Raccordo Anulare di Padova|Grande Raccordo Anulare}}
+{{Strada
+|nome = Autostrada A90
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Grande Raccordo Anulare<br/>G.R.A.
+|simbolo = Autostrada A90 Italia.svg
+|nome precedente = Strada statale G.R.A.<br/>A GRA (Autostrada Grande Raccordo Anulare)
+|nome successivo = 
+|divisione amm 1 = {{IT-LAZ}}
+|divisione amm 2 = {{IT-RM}}
+|inizio = Trattandosi di un anello continuo l'inizio (il km 0) è posto convenzionalmente all'incrocio con [[strada statale 1 Via Aurelia|SS 1 ''Aurelia'']] (uscita 1) e le progressive sono incrementate in senso orario (nella voce le tratte indicate si intendono nel medesimo senso, salvo se diversamente specificato)
+|fine =Trattandosi di un anello continuo, la fine (il km 68,223) coincide con l'inizio, ossia l'incrocio con [[strada statale 1 Via Aurelia|SS 1 ''Aurelia'']] (uscita 1)
+|lunghezza = 68,223<ref name="anas-com1248" />
+|direzione = ovest-est / nord-sud
+|apertura = [[1951]]<ref name="anas-com1248" /> (primo tratto aperto, Appia-Aurelia)
+|provvedimento istituzione = 
+|gestore = [[Anas (azienda)|Anas]]
+|pedaggio = Gratuito
+|città servite = [[Roma]]
+|intersezioni = [[Strada statale 1 Via Aurelia|SS1]], [[Strada statale 2 Via Cassia|SS2]], [[Strada statale 2 bis Via Cassia Veientana|SS2 bis]], [[Strada statale 3 Via Flaminia|SS3]], [[Strada statale 4 Via Salaria|SS4]], [[Autostrada A1 (Italia)#A1 Diramazione Roma Nord|A1 dir ''Diramazione Roma Nord'']], [[Via Nomentana]], [[Strada statale 5 Via Tiburtina Valeria|SS5]], [[Autostrada A24 (Italia)|A24]], [[Via Prenestina]], [[Strada statale 6 Via Casilina|SS6]], [[Autostrada A1 (Italia)#A1 Diramazione Roma Sud|A1 dir ''Diramazione Roma Sud'']], [[Strada statale 215 Tuscolana|SS215]], [[Strada statale 511 Anagnina|SS511]], [[Strada statale 7 Via Appia|SS7]], [[Via Ardeatina]], [[Via Laurentina]], [[Strada statale 148 Pontina|SS148]], [[Strada statale 8 Via del Mare|SP8]], [[Autostrada A91 (Italia)|A91]]
+|europea1 = 80
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A90.svg
+|tracciato = Svincoli GRA Roma.svg
+}}
+[[File:Autostrada GRA Italia.svg|miniatura|Indicazione alternativa della A90 in formato lettere]]
+L{{'}}'''autostrada A90''',<ref>{{Cita web |url=http://www.stradeanas.it/index.php?/file/open/10482 |titolo=Adeguamento dei canoni dei corrispettivi dovuti per l'anno 2009 per la pubblicità stradale, le concessioni e le autorizzazioni diverse |formato=PDF |accesso=23 agosto 2015 |urlarchivio=https://web.archive.org/web/20110913060217/http://www.stradeanas.it/index.php?%2Ffile%2Fopen%2F10482 |urlmorto=no}}</ref> più nota come '''Grande Raccordo Anulare''' (abbreviato in '''GRA'''), è l'[[autostrada]] [[tangenziale]] che circonda la città di [[Roma]]. È interamente gestita dall'[[Anas (azienda)|Anas]] ed è gratuita.<ref>{{Cita web |url=http://www.stradeanas.it/content/index/arg/grande_raccordo_anulare |titolo=Anas S.p.A. - Grande Raccordo Anulare di Roma |cognome=Informativi |nome=Anas S.p.A. - Sistemi |accesso=15 aprile 2016 |urlarchivio=https://web.archive.org/web/20160427224240/http://www.stradeanas.it/content/index/arg/grande_raccordo_anulare |urlmorto=sì}}</ref>
+
+Ideato nel [[Secondo dopoguerra in Italia|Secondo dopoguerra]] dall'ingegnere [[Eugenio Gra]] e realizzato tra il 1946 e il 1970, nacque come infrastruttura a due corsie per deviare il traffico di attraversamento dal centro cittadino, divenendo progressivamente un'opera cruciale per la viabilità romana. Successivamente ampliato con raddoppi e terze corsie, il GRA è una delle strade più trafficate d'Italia, con oltre 150.000 veicoli giornalieri, e rappresenta un nodo fondamentale di collegamento tra le principali vie consolari e autostrade nazionali.
+
+Nonostante la sua importanza strategica, soffre di congestione cronica, elevata incidentalità e problematiche legate alla numerazione e gestione degli svincoli. Nel corso dei decenni è stato oggetto di numerosi lavori di ammodernamento (tra cui il raddoppio delle carreggiate, la costruzione di gallerie e viadotti, e l’introduzione della terza corsia completata nel 2011), oltre a interventi straordinari in occasione del [[Giubileo del 2000]]. Sono state discusse varie ipotesi di pedaggio, mai concretizzate per motivi tecnici e politici, e progetti di potenziamento con complanari e nuove uscite.
+
+È considerato una delle infrastrutture più emblematiche della Roma contemporanea, simbolo al tempo stesso della modernizzazione post-bellica e delle difficoltà della mobilità metropolitana. Tra i progetti futuri si discute di un nuovo GRA esterno, volto ad alleggerire la pressione sull’anello principale e a servire le aree industriali e residenziali sviluppatesi ben oltre i confini originari della città.
+
+== Descrizione ==
+Il GRA è caratterizzato da un tracciato circolare chiuso e senza discontinuità, interamente a tre corsie per [[carreggiata]], con un diametro medio di circa 21&nbsp;km<ref group="N">Rispetto al centro cittadino, posto convenzionalmente sul [[Miliario aureo]] dell'Urbe.</ref> e una lunghezza di 68&nbsp;km,<ref name="anas-com1248">{{Cita web|url=http://www.stradeanas.it/Documenti/comunicati_stampa/comunicati/1248.pdf|titolo=ANAS, il Grande Raccordo Anulare|autore=ANAS|formato=pdf|accesso=8 aprile 2008|urlarchivio=https://web.archive.org/web/20070927174050/http://www.stradeanas.it/Documenti/comunicati_stampa/comunicati/1248.pdf|urlmorto=sì|anno=2007}}</ref><ref>{{Cita web|url=http://www.stradeanas.it/index.php?/strade/consistenza/index|titolo=Tratte autostradali in gestione diretta Anas|accesso=6 dicembre 2008|urlarchivio=https://web.archive.org/web/20110719085042/http://www.stradeanas.it/index.php?%2Fstrade%2Fconsistenza%2Findex|urlmorto=no}}</ref><ref group="N">L'ultima misurazione ufficiale risale a fine anni novanta ed è destinata a una revisione, in virtù dei lavori di ampliamento in variante di tracciato.</ref> percorso giornalmente nel 2016 tra 150&nbsp;000 e 170&nbsp;000 veicoli,<ref name=":3">{{Cita web|url=https://www.stradeanas.it/it/le-strade/la-rete-anas/i-grandi-itinerari-anas/grande-raccordo-anulare-di-roma-e-autostrada-roma-%E2%80%93|titolo=GRANDE RACCORDO ANULARE DI ROMA E AUTOSTRADA ROMA – AEROPORTO DI FIUMICINO|curatore=ANAS|accesso=17 ottobre 2020|urlarchivio=https://web.archive.org/web/20200811001612/https://www.stradeanas.it/it/le-strade/la-rete-anas/i-grandi-itinerari-anas/grande-raccordo-anulare-di-roma-e-autostrada-roma-%E2%80%93|urlmorto=no}}</ref><ref name=":5">{{Cita web|url=https://roma.repubblica.it/cronaca/2016/02/12/news/gra-133305606/|titolo=L'arteria più trafficata d'Italia? È il Gra di Roma|sito=la Repubblica|data=12 febbraio 2016|lingua=it|accesso=24 agosto 2021}}</ref> risultava la strada più trafficata tra quelle a gestione Anas<ref name=":5" /> e tra le [[Autostrade in Italia|autostrade italiane]] con il più alto volume di traffico di quell'anno.<ref name=":5" /><ref name=":2">{{Cita news|lingua=it|url=http://roma.repubblica.it/cronaca/2017/04/11/news/roma_e_il_raccordo_la_strada_piu_trafficata_d_italia-162765703/|titolo=Roma, è il Grande raccordo anulare la strada più trafficata d'Italia|pubblicazione=Repubblica.it|data=11 aprile 2017|accesso=20 aprile 2017|urlarchivio=https://web.archive.org/web/20170421000514/http://roma.repubblica.it/cronaca/2017/04/11/news/roma_e_il_raccordo_la_strada_piu_trafficata_d_italia-162765703/|urlmorto=no}}</ref>
+
+Si tratta di un'arteria di importanza cruciale per la viabilità cittadina di Roma e il [[traffico]] si mantiene molto sostenuto durante la maggior parte della giornata con frequenti rallentamenti e ingorghi. Le cause di ciò sono molteplici: il gran numero di veicoli, fino a 170&nbsp;000 attraversamenti giornalieri;<ref name=":3" /> l'insufficiente capacità di afflusso e deflusso di alcuni svincoli molto utilizzati; la presenza di entrate (e delle relative corsie di accelerazione per l'immissione) a brevissima distanza dalle uscite: in questo modo, gli automobilisti che devono lasciare il GRA sono costretti a condividere le stesse corsie (quelle più a destra) con gli automobilisti che vi si immettono, con importanti ripercussioni sulla scorrevolezza del traffico.
+
+Il tratto più critico è quello del quadrante sud ed est, corrispondente alla zona a più alta densità abitativa e di svincoli della città. Secondo una statistica del 2007 il GRA è al quinto posto delle autostrade con il più elevato rapporto tra [[Incidente stradale|incidenti stradali]] e numero di chilometri, con 18 morti e oltre 1000 feriti ogni anno.<ref>{{Cita news |autore=Barcariol, Andrea |url=http://www.iltempo.it/roma/2007/04/20/130266-raccordo_appia_flacca_pontina_nella_lista_nera.shtml |titolo=Raccordo, Appia, Flacca e Pontina nella lista nera |pubblicazione=Il Tempo |accesso=8 aprile 2008 |urlmorto=sì |giorno=20 |mese=04 |anno=2007}}</ref> Uno studio compiuto dall'[[Automobile Club d'Italia|ACI]] ha evidenziato come, nel 2009, il tratto del GRA tra il km 65 e il km 20 risulti al primo posto tra le autostrade e tangenziali italiane per tasso di incidenti.<ref>{{Cita news |url=http://www.tgcom.mediaset.it/cronaca/articoli/articolo496069.shtml |titolo=Incidenti,Roma capitale del rischio |pubblicazione=TGCOM |accesso=17 novembre 2010 |urlarchivio=https://web.archive.org/web/20101118221843/http://www.tgcom.mediaset.it/cronaca/articoli/articolo496069.shtml |urlmorto=sì |giorno=17 |mese=11 |anno=2010}}</ref> I costi di [[manutenzione]] e gestione del GRA ammontano a circa 11 milioni di [[euro]] nel report ANAS del 2007.<ref name="anas-com1248" />
+
+=== Denominazioni ufficiali e alternative ===
+[[File:Gra cartello 1.jpg|thumb|Un'indicazione di accesso al GRA (uscita Cassia, febbraio 2007)]]
+È noto come il nome dell'autostrada sia in realtà un [[eponimo]] ufficioso<ref>{{Cita news |lingua=it |url=http://www.stradeanas.it/it/grande-raccordo-anulare-di-roma-e-autostrada-roma-%E2%80%93-aeroporto-di-fiumicino |titolo=Grande Raccordo Anulare di Roma e autostrada Roma – Aeroporto di Fiumicino |pubblicazione=Anas S.p.A. |data=6 dicembre 2016 |accesso=6 gennaio 2018 |urlarchivio=https://web.archive.org/web/20180106175112/http://www.stradeanas.it/it/grande-raccordo-anulare-di-roma-e-autostrada-roma-%E2%80%93-aeroporto-di-fiumicino |urlmorto=no}}</ref><ref group="N">L'intitolazione del Raccordo Anulare a Eugenio Gra, suo principale fautore, non fu mai ufficializzata, sebbene sia unanimemente nota e riconosciuta come tale. Molti anni più tardi all'ingegner Gra fu ufficialmente dedicata {{Cita web |url=https://maps.google.it/mapsf=q&hl=it&q=via+eugenio+gra+roma&sll=41.895888,12.489052&sspn=14.122571,40.869141&layer=&ie=UTF8&z=15&ll=41.874067,12.397814&spn=0.013805,0.039911&om=1 |titolo=un'altra strada di Roma |urlmorto=sì }} nel [[Gianicolense (suburbio di Roma)|suburbio Gianicolense]].</ref> dell'[[ingegnere|ingegner]] [[Eugenio Gra]],<ref>{{Treccani|giulio-gra_(Dizionario-Biografico)|Giulio Gra}}</ref> il principale ideatore e sostenitore dell'opera, nonché [[direttore generale]] dell'[[ANAS]] all'epoca della realizzazione.<ref name=":3" /> L'apporto di Gra fu di tale rilevanza da divenire consuetudine che tutti coloro coinvolti nel progetto si riferissero alla strada, nelle fasi di progettazione e costruzione, con la denominazione informale ''«Il Gra»''.<ref group="N">In diverse fonti, soprattutto online, l'opera è erroneamente attribuita al fratello, [[Giulio Gra]], anch'egli ingegnere (ad esempio {{Cita web |url=http://archiviostorico.corriere.it/2004/giugno/08/ingegner_Gra_suo_raccordo_co_10_040608034.shtml |titolo=L'ingegner Gra e il «suo» raccordo |accesso=1º giugno 2014 |urlarchivio=https://web.archive.org/web/20150503154750/http://archiviostorico.corriere.it/2004/giugno/08/ingegner_Gra_suo_raccordo_co_10_040608034.shtml |urlmorto=no}}). Si veda anche {{Treccani|giulio-gra_(Dizionario-Biografico)|Giulio Gra}}</ref>
+Per mantenere tale nomenclatura<ref group="N">L'attuale [[Legge ordinaria|legislazione]] italiana (legge nº 1188 del 23 giugno 1927) non consente l'intitolazione di strade a persone che non siano decedute da almeno 10 anni.</ref> fu quindi studiato ad arte il nome '''G'''rande '''R'''accordo '''A'''nulare in modo che l'[[acronimo inverso]] corrispondesse al cognome dell'ingegnere.
+
+Il GRA è conosciuto con diversi altri appellativi, fra cui:
+* A90: è la sigla di classificazione ufficiale tra le [[Autostrade in Italia|autostrade italiane]], largamente utilizzata in risorse online come [[Google Maps]] e [[Bing Maps Platform|Bing Maps]]. Tuttavia questa denominazione, assegnata nel [[1999]], è sconosciuta ai più e, al 2020, non ancora sistematicamente utilizzata nella [[segnale stradale|segnaletica stradale]], ove sono prevalenti le denominazioni estese o abbreviate. Queste non seguono una particolare convenzione, comparendo alternativamente nelle seguenti forme: ''A GRA'', ''A G.R.A.'', ''G.R.A.'' o ''GRA'', ''Grande Raccordo Anulare'', o ''autostrada del Grande Raccordo Anulare''.
+[[File:Gra cartello 2.jpg|thumb|Un segnale direzionale verso il GRA (zona Roma Nord, febbraio 2007)]]
+* ''circonvallazione Settentrionale'' (da via Aurelia a via Nomentana),<ref name=":0">{{Cita web |url=http://laromanatoponomastica.weebly.com/il-grande-raccordo-anulare.html |titolo=il Grande Raccordo Anulare |sito=la romana toponomastica |accesso=21 settembre 2016 |urlarchivio=https://web.archive.org/web/20160822041712/http://laromanatoponomastica.weebly.com/il-grande-raccordo-anulare.html |urlmorto=no}}</ref> ''circonvallazione Orientale'' (da via Nomentana a via Appia Nuova),<ref name=":0" /> ''circonvallazione Meridionale'' (da via Appia Nuova al ponte di [[Spinaceto]])<ref name=":0" /> e ''circonvallazione Occidentale'' (dal ponte di Spinaceto a via Aurelia, rispettivamente dal km 61,2 al km 71,85);<ref name=":0" /> queste sono le denominazioni ufficiali nella [[odonimia di Roma]], adottate con delibera 201 del Consiglio Comunale del 22 febbraio 1952<ref>{{Cita web |url=https://www.comune.roma.it/servizi/SITOWPS/dettaglioAreaCircolazione.do?codiceVia=7851 |titolo=Sistema Informativo Toponomastica |editore=Comune di Roma |accesso=17 gennaio 2013 |urlarchivio=https://web.archive.org/web/20150207105014/https://www.comune.roma.it/servizi/SITOWPS/dettaglioAreaCircolazione.do?codiceVia=7851 |urlmorto=no}}</ref> quando il GRA non era ancora un'autostrada, e tuttora utilizzate in alcune mappe stradali (ad esempio nell'inserto delle [[Pagine gialle#PagineGialle Seat|Pagine Gialle]] ''Tuttocittà)''<ref>{{Cita |Tuttocittà |op. cit.}}</ref> e nelle targhe [[odonomastica|odonomastiche]] della città.
+* [[Strada europea E80|E80]]: è il percorso dorsale ovest-est [[Lisbona]]-[[Gürbulak]] ([[confine tra Iran e Turchia|confine di stato]] tra [[Turchia]] e [[Iran]]), secondo la classificazione della [[Strade europee|rete stradale internazionale europea]] che, per quanto riguarda il GRA, comprende il tratto tra l'[[Autostrada A24 (Italia)|A24 Roma-L'Aquila-Teramo]] e l'[[Autostrada A91|A91 Roma-Fiumicino]].
+* ''il Raccordo'': così è comunemente chiamato dagli abitanti di Roma, oltre a essere un'abbreviazione colloquiale frequentemente utilizzata dai media, specie nei notiziari sul traffico.
+
+=== Caratteristiche ===
+L'inizio del GRA è posto convenzionalmente all'intersezione con la [[via Aurelia]],<ref group="N">Ovvero approssimativamente a "ore 9".</ref> cui corrisponde l'uscita 1. Le progressive chilometriche si susseguono da qui in senso orario (la carreggiata interna).
+Sono presenti 44 svincoli<ref group="N">Somma di tutti gli svincoli di entrata e/o uscita, inclusi quelli non numerati, esclusi gli svincoli di inversione di marcia.</ref> (in [[Media (statistica)#Media aritmetica semplice|media]] uno ogni circa 1,55&nbsp;km), di cui 33 numerati a fine [[anni 1990|anni novanta]]. È comunque tuttora prevalente la consuetudine, specie fra i romani, di riferirsi alle uscite con il nome della strada incrociata (es. "uscita Salaria" in luogo di "uscita 8").
+
+Altra caratteristica significativa, assente nelle autostrade a pedaggio, è la presenza di alcuni svincoli di inversione di marcia.
+
+=== Limiti di velocità ===
+Contrariamente alla maggior parte delle [[Autostrade in Italia#Autostrade tangenziali e a carattere suburbano|autostrade tangenziali italiane]], dove gli alti livelli di traffico hanno richiesto l'adozione di [[Limite di velocità|limiti di velocità]] particolari (110 o anche 90&nbsp;km/h; 80&nbsp;km/h sulla [[Tangenziale di Napoli]]), sul GRA sono applicati i [[Limite di velocità#Italia|limiti standard]] previsti dal vigente [[Codice della strada]], ovvero (salvo eccezioni o diverse indicazioni):<ref group="N">I pareri e alcune fonti non ufficiali sono discordi sulla velocità massima consentita sul Grande Raccordo Anulare. Il GRA è classificato come autostrada pertanto, {{Cita web |url=http://www.patente.it/codice/142.htm |titolo=secondo l'articolo 142 del vigente Codice della Strada |accesso=21 aprile 2007 |urlarchivio=https://web.archive.org/web/20070428023102/http://www.patente.it/codice/142.htm |urlmorto=no }}, non vi è alcun dubbio che il limite di velocità, in condizioni meteorologiche favorevoli e fatte salve le eccezioni previste dal medesimo, sia di {{M|130|ul=kmh}}.
+
+A ulteriore conferma il {{Cita web|url=http://www.stradeanas.it|titolo=sito web dell'ANAS|accesso=11 novembre 2006|urlarchivio=https://web.archive.org/web/20161207082814/http://www.stradeanas.it/|urlmorto=sì}}, concessionaria del GRA, sezione ''relazioni con il pubblico/domande frequenti'' riporta testualmente:
+
+«[…] Il limite di velocità sulle autostrade gestite da Anas tra cui G.R.A e Roma-Fiumicino secondo il Codice della strada è di 130&nbsp;km/h, la velocità dovrà adeguarsi alle condizioni meteorologiche, ai limiti imposti per lavori in corso e a quant'altro possa limitare la velocità massima consentita. I limiti di velocità lungo le strade statali sono determinati da un'ordinanza emessa del Capo Compartimento della sede regionale, che gestisce quel tratto di strada […]».
+
+A ulteriore conferma di quanto affermato, si può notare che:
+* Vi sono dei tratti del GRA in cui la velocità è limitata a 110 km/h e ciò è esplicitamente segnalato.
+* Riguardo all'eccezione sollevata da alcune fonti che "non vi sarebbero sul GRA cartelli che indicano che il limite di velocità sia 130 km/h" si deve notare che, secondo il Codice della Strada, in mancanza di segnaletica apposita il limite è quello standard previsto per la categoria per cui la strada in oggetto è classificata.</ref>
+* 130&nbsp;km/h sulla maggior parte del tracciato principale (110&nbsp;km/h in caso di condizioni atmosferiche avverse) con l'ulteriore indicazione, in alcuni tratti, di velocità minima consentita di 90 e 60&nbsp;km/h rispettivamente nella [[corsia di marcia]] centrale e di destra;
+* 110&nbsp;km/h in alcune gallerie e tratti adiacenti (ad esempio: Cassia, Appia Antica, Parco di Veio I e II);
+* 70&nbsp;km/h (60 in alcuni tratti) sulle complanari a 2 corsie;
+* 50&nbsp;km/h nei tratti di complanare a 1 corsia;
+* 40&nbsp;km/h sulle [[rampa|rampe]] degli [[svincolo|svincoli]].
+
+=== Svincoli: caratteristiche ===
+Sulla maggior parte degli svincoli sono presenti due ingressi e due uscite, una coppia da e verso il centro cittadino, l'altra da e verso destinazioni esterne all'anello. Vi sono alcune eccezioni, dovute a limitazioni territoriali o scelte progettuali. Ad esempio:
+* ''Via di Boccea'' è accessibile direttamente in uscita solamente dalla carreggiata interna; l'uscita in carreggiata esterna è accessibile solamente utilizzando gli svincoli ''Via di Casal del Marmo'' o ''Via della Maglianella''.<br />In entrata è accessibile solamente utilizzando gli svincoli ''Via di Casal del Marmo'' o ''Via della Maglianella''.
+* ''[[Via Cristoforo Colombo (Roma)|Via Cristoforo Colombo]]'' ha un ingresso solo sulla carreggiata esterna del GRA (per accedervi dalla carreggiata interna occorre invertire la marcia allo svincolo ''Pontina'' in direzione [[Europa (Roma)|EUR]]).
+* ''Uffici finanziari'' presenta una sola uscita (dalla carreggiata interna; in corsia esterna è in comune con lo svincolo ''La Rustica''), e un solo ingresso (in carreggiata esterna).
+
+Per ottimizzare i flussi di traffico alcuni svincoli sono raggruppati in bretelle autostradali (complanari e separate rispetto al tracciato principale), cosicché può capitare di imbattersi in cartelli che ne indicano più di uno contemporaneamente; grazie a queste corsie supplementari, in alcuni tratti il GRA arriva ad avere fino a sei corsie per senso di marcia, oltre a quelle di [[Corsia di emergenza|emergenza]].
+La viabilità complanare è presente:
+
+* All'uscita di ''[[Via Aurelia]]''.
+* Tra la ''[[Strada statale 2 bis Via Cassia Veientana|Cassia Veientana]]'' e ''Via della Bufalotta'' (con una breve discontinuità, in carreggiata interna, tra gli svincoli della ''Via Flaminia'' e ''Via Salaria'').
+* All'uscita di ''[[Via Nomentana]]''.
+* Tra ''[[Via Prenestina]]'' e ''Via Prenestina bis'' (in carreggiata interna tra ''Via Prenestina'' e ''Via di Tor Bella Monaca).''
+* All'uscita per la [[Autostrada A1 (Italia)#A1 Diramazione Roma Sud|A1dir Roma sud]].
+* Tra la ''[[Autostrada A91|A91 Roma-Fiumicino]]'' e ''Casal Lumbroso'', la più lunga (circa 7&nbsp;km) quasi tutta a 2 corsie per senso di marcia, ove sono attestate le uscite dalla 30 alla 33.
+
+=== Svincoli: numerazione e incongruenze ===
+Gli svincoli del Grande Raccordo Anulare furono per lungo tempo privi di una numerazione progressiva, introdotta solo alla fine degli anni novanta, contestualmente ai lavori di ampliamento in occasione del [[Giubileo del 2000]].
+
+A ottobre 2020, pur con i lavori di costruzione della terza corsia conclusi da tempo, la numerazione sulla segnaletica presenta alcune omissioni o incoerenze. Ciò è dovuto principalmente alla mancata numerazione degli svincoli costruiti dopo tale data o ritenuti secondari.
+
+Sono privi di numerazione, totalmente o parzialmente, i seguenti svincoli:
+
+* ''Montespaccato''
+* ''Via della Maglianella/Via di Boccea''
+* ''Trionfale'' (numerata uscita 4 su parte della segnaletica)
+* ''Cassia'' (già uscita 3)
+* ''Ospedale Sant'Andrea''
+* ''Flaminia'' (già uscita 6)
+* ''Labaro''
+* ''Castel Giubileo''
+* ''A1/Dir Roma Nord-Firenze''
+* ''Bufalotta-Via delle Vigne Nuove''
+* ''Uffici Finanziari''
+* ''Via Prenestina bis''
+* ''Gregna Sant'Andrea-Ciampino''
+* ''Via Marchetti/Centro Direzionale Alitalia''
+
+Le incoerenze sono particolarmente evidenti nel quadrante nord-ovest, oggetto di profondi lavori di ampliamento, ove sono presenti numerosi svincoli non numerati, oltre a incongruenze nella successione numerica. Ad esempio, l'uscita ''Cassia'' (precedentemente uscita 3, numerazione riassegnata dal 2006 alla nuova uscita ''Casal del Marmo'') e l'uscita ''Ospedale Sant'Andrea'' (2006) non sono numerate e si trovano tra l'uscita ''Trionfale'' (aperta dal 2007, cui è stato assegnato il numero 4)<ref group="N">L'apertura dello svincolo di via Trionfale è stato annunciato dai principali organi di informazione come "Aperto il 36º svincolo del GRA", quando solo 33 sono numerati. Comunque, l'assegnazione del numero 4 allo svincolo Trionfale lascia supporre una revisione completa della numerazione.</ref> e ''Cassia Veientana'' (numero 5).
+
+Non è chiaro allo stato attuale se l'intera numerazione sarà mantenuta tale, sottoposta a un riordinamento totale o piuttosto a una parziale revisione (utilizzando ad esempio suffissi quali ''bis'', ''ter'' oppure ''a'', ''b'' come in altre strade).
+La numerazione, inoltre, non segue distinzioni negli svincoli con uscite multiple, non consentendo pertanto di identificare univocamente, in un'indicazione stradale, la corretta rampa di uscita.
+
+È stato anche proposto di procedere ad una rinumerazione che possa consentire di distinguere, in corrispondenza di una specifica uscita, quale sia la rampa diretta verso il centro della città e quale, invece, verso l'esterno: similmente a quanto accade con i numeri civici, dove i dispari sono attribuiti ad un lato della strada ed i pari all'altro, così potrebbe essere fatto per gli svincoli del GRA, ovvero le uscite dispari verso il centro e quelle pari in direzione opposta (o viceversa).
+
+Va inoltre sottolineato che la numerazione degli svincoli non è normata dal [[codice della strada]].
+
+== Percorso ==
+{| class="wikitable"
+|- align="center" style="color:white; font-size:100%; background-color:#08842c"
+| colspan="8" | {{simbolo|Autostrada A90 Italia.svg|35}}<br />''Grande Raccordo Anulare''<br />''Autostrada A90''
+|- style="color:white"
+! Tipo !! Numero !! Nome svincolo !! Destinazioni<br />(verso Roma) !! Destinazioni<br />(fuori Roma) !! ↓km↓ !! ↑km↑ !! Note
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 1.svg}}
+|{{simbolo|Strada Statale 1 Italia.svg|45}} '''[[Strada statale 1 Via Aurelia|Via Aurelia]]'''
+|[[Aurelio (Roma)|Aurelio]] [[File:Metropolitana di Roma - logo linea A.svg|25px|link=Linea A (metropolitana di Roma)]]<br />[[Città del Vaticano]] [[File:Metropolitana di Roma - logo linea A.svg|25px|link=Linea A (metropolitana di Roma)]]
+|[[Ladispoli]]<br />{{simbolo|Autostrada A12 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 80.svg|25}} [[Civitavecchia]] {{simbolo|Italian traffic signs - icona porto.svg}}
+| style="text-align:center"| 0,0
+| style="text-align:center"| 68,2
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''[[Montespaccato]]'''
+|Montespaccato
+|<small>''Solo interna''</small>
+| style="text-align:center"| 2,3
+| style="text-align:center"| ***
+|<small>Accessibile solo dalla corsia interna.<br />Numerazione svincolo non definita.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''Via della Maglianella<br />Via di Boccea'''
+|Montespaccato
+|Via della Maglianella
+| style="text-align:center"| 2,6
+| style="text-align:center"| 65,6
+|<small>Numerazione svincolo non definita.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 2.svg}}
+|'''[[Boccea|Via di Boccea]]'''
+|[[Primavalle]]
+|[[Casalotti]]
+| style="text-align:center"| 3,4
+| style="text-align:center"| ***
+|<small>Accessibile solo dalla corsia interna.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 3.svg}}
+|'''Via di Casal del Marmo<br /><small>Via di Selva Candida</small>'''
+|Palmarola<br />Primavalle
+|Casalotti<br />[[Selva Candida]]
+| style="text-align:center"| 4,4
+| style="text-align:center"| 60,6
+|
+|-
+|{{simbolo|AB-Tank.svg}}
+[[File:AB-Autobahnkiosk.svg]]
+| -
+|''Area di servizio''
+|''Selva Candida Interna''
+|''Selva Candida Esterna''
+| style="text-align:center"| 8,6
+| style="text-align:center"| 59,6
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 4.svg}}
+|'''[[Via Trionfale]]'''
+|[[Stazione di Ipogeo degli Ottavi|Ipogeo degli Ottavi]] [[File:Ferrovia regionale laziale FL3 (gray background).svg|25px|link=Linea FL3]]<br />[[Ottavia (zona di Roma)|Ottavia]] [[File:Ferrovia regionale laziale FL3 (gray background).svg|25px|link=Linea FL3]]<br />[[Primavalle]]<br />{{simbolo|Italian traffic signs - icona ospedale.svg}} [[Ospedale San Filippo Neri]]
+|[[La Giustiniana]] [[File:Ferrovia regionale laziale FL3 (gray background).svg|25px|link=Linea FL3]]<br />[[Lago di Bracciano]]<br />[[Viterbo]] [[File:Ferrovia regionale laziale FL3 (gray background).svg|25px|link=Linea FL3]] [[File:Ferrovia Roma-Viterbo.svg|25px|link=Ferrovia Roma-Civita Castellana-Viterbo]]
+| style="text-align:center"| 10,0
+| style="text-align:center"| 58,2
+|
+|-
+|[[File:AB-AS-grün.svg]]
+| ?
+|'''{{simbolo|Strada Statale 2 Italia.svg|45}} [[Strada statale 2 Via Cassia|Via Cassia]]'''
+|[[Tomba di Nerone]]<br />[[Corso di Francia|Corso Francia]]
+|[[La Giustiniana]] [[File:Ferrovia regionale laziale FL3 (gray background).svg|25px|link=Linea FL3]]<br />[[Lago di Bracciano]]<br />[[Viterbo]] [[File:Ferrovia regionale laziale FL3 (gray background).svg|25px|link=Linea FL3]]
+| style="text-align:center"| 12,2
+| style="text-align:center"| 56,0
+|<small>Numerazione svincolo non definita.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''{{simbolo|Italian traffic signs - icona ospedale.svg}} [[Azienda ospedaliera Sant'Andrea|Ospedale Sant'Andrea]]'''
+|[[Grottarossa|Via di Grottarossa]]
+|<small>''Solo interna''</small>
+| style="text-align:center"| 17,3
+| style="text-align:center"| 50,7
+||<small>Numerazione svincolo non definita.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 5.svg}}
+|'''{{simbolo|Strada Statale 2bis Italia.svg|45}} [[Strada statale 2 bis Via Cassia Veientana|Via Cassia Veientana]]'''
+|<small>''Solo esterna''</small>
+|[[Viterbo]]
+| style="text-align:center"| 17,0
+| style="text-align:center"| 51,2
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''[[Labaro (Roma)|Labaro]]'''
+|<small>''Solo esterna''</small>
+|Labaro [[File:Ferrovia Roma-Viterbo.svg|25px|link=Ferrovia Roma-Civita Castellana-Viterbo]]
+| style="text-align:center"| 17,8
+| style="text-align:center"| ***
+|<small>Uscita dedicata presente solo in carreggiata interna (complanare).<br />In carreggiata esterna uscita in comune con lo svincolo di [[Castel Giubileo]].<br />Numerazione svincolo non definita.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''{{simbolo|Strada Statale 3 Italia.svg|45}} [[Strada statale 3 Via Flaminia|Via Flaminia]]'''
+|[[Saxa Rubra]] [[File:Ferrovia Roma-Viterbo.svg|25px|link=Ferrovia Roma-Civita Castellana-Viterbo]]<br />[[Centro radiotelevisivo Biagio Agnes|Centro di produzione RAI]]<br />{{simbolo|Italian traffic signs - icona stadio.svg}} [[Stadio Olimpico (Roma)|Stadio Olimpico]]<br />[[Flaminio (Roma)|Flaminio]] [[File:Ferrovia Roma-Viterbo.svg|25px|link=Ferrovia Roma-Civita Castellana-Viterbo]]
+|{{simbolo|Italian traffic signs - icona cimitero.svg}} [[Cimitero Flaminio]]<br />[[Prima Porta]]<br />[[Terni]]<br />[[Fano]] [[Perugia]]
+| style="text-align:center"| 18,1
+| style="text-align:center"| 50,1
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 7.svg}}
+|'''[[Castel Giubileo]]'''
+|[[Castel Giubileo|Via di Castel Giubileo]]
+|Labaro
+| style="text-align:center"| 18,8
+| style="text-align:center"| 49,4
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 8.svg}}
+|'''{{simbolo|Strada Statale 4 Italia.svg|45}} [[Strada statale 4 Via Salaria|Via Salaria]]'''
+|[[Salario]] [[File:Ferrovia regionale laziale FL1.svg|25px|link=Linea FL1]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Roma-Urbe|Aeroporto dell'Urbe]]
+|[[Rieti]]<br />[[Monte Terminillo|Terminillo]]<br />[[Ascoli Piceno]]
+| style="text-align:center"| 20,0
+| style="text-align:center"| 48,2
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 9.svg}}
+|'''[[Settebagni|Via di Settebagni]]'''
+|[[Colle Salario]]<br />[[Fidene]] [[File:Ferrovia regionale laziale FL1.svg|25px|link=Linea FL1]]
+|[[Settebagni]] [[File:Ferrovia regionale laziale FL1.svg|25px|link=Linea FL1]]<br />Bel Poggio
+| style="text-align:center"| 20,7
+| style="text-align:center"| 47,5
+|
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|{{simbolo|MA Route 10.svg}}
+|'''{{simbolo|Autostrada A1 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 35.svg|25}}{{simbolo|Italian traffic signs - strada europea 45.svg|25}} [[Autostrada A1 (Italia)#A1dir Diramazione Nord|GRA-Fiano Romano]]'''
+|<small>''Solo esterna''</small>
+|{{simbolo|Autostrada A1 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 45.svg|25}} [[Firenze]]
+| style="text-align:center"| 21,0
+| style="text-align:center"| 47,2
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''[[Bufalotta|Via della Bufalotta]]'''
+|[[Tufello|Via delle Vigne Nuove]]<br />[[Monte Sacro Alto|Via della Bufalotta]]
+|Via della Bufalotta
+| style="text-align:center"| 22,3
+| style="text-align:center"| 45,9
+|
+|-
+|{{simbolo|AB-Tank.svg}}
+[[File:AB-Autobahnkiosk.svg]]
+| -
+|''Area di servizio''
+|''Settebagni Interna''
+|<small>''Solo interna''</small>
+| style="text-align:center"| 23,3
+| style="text-align:center"| ***
+|
+|-
+|[[File:AB-U-grün.svg]]
+| -
+|''Inversione di marcia''
+|
+|
+| style="text-align:center"| 25,4
+| style="text-align:center"| ***
+|<small>Inversione possibile solo da corsia interna a esterna.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 11.svg}}
+|'''{{simbolo|Strada Provinciale 22a Italia.svg|45}} [[Via Nomentana]]'''
+|[[Monte Sacro Alto|Talenti]]<br />[[Monte Sacro]]
+|[[Mentana]]<br />[[Monterotondo]]<br />[[Palombara Sabina]]<br />[[Fonte Nuova]]
+| style="text-align:center"| 26,6
+| style="text-align:center"| 41,6
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 12.svg}}
+|'''[[Centrale del Latte di Roma|Centrale del Latte]]'''
+|[[Torraccia (Roma)|Torraccia]]<br />[[San Basilio (Roma)|San Basilio]]
+|Via di Sant'Alessandro<br />[[Casal Monastero]]
+| style="text-align:center"| 28,3
+| style="text-align:center"| 39,9
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 13.svg}}
+|'''{{simbolo|Strada Statale 5 Italia.svg|45}} [[Strada statale 5 Via Tiburtina Valeria|Via Tiburtina]]'''
+|[[Ponte Mammolo]] [[File:Metropolitana di Roma B.svg|25px|link=Linea B (metropolitana di Roma)]]<br />{{simbolo|Italian traffic signs - icona ospedale.svg}} [[Policlinico Umberto I]]
+|[[Settecamini]]<br />[[Tivoli]]
+| style="text-align:center"| 29,9
+| style="text-align:center"| 38,3
+|
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|{{simbolo|MA Route 14.svg}}
+|'''{{simbolo|Autostrada A24 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 80.svg|25}} [[Autostrada A24 (Italia)|L'Aquila - Teramo]]'''
+|[[Tangenziale Est di Roma|Tangenziale Est]]
+|{{simbolo|Autostrada A1 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 45.svg|25}} [[Autostrada A1 (Italia)|Firenze/Napoli]]<br /><br />{{simbolo|Autostrada A25 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 80.svg|25}} [[Pescara]]
+| style="text-align:center"| 31,5
+| style="text-align:center"| 36,7
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 15.svg}}
+|'''[[La Rustica]]'''
+|[[La Rustica]] [[File:Ferrovia regionale laziale FL2.svg|25px|link=Linea FL2]]<br />[[Tor Sapienza]] [[File:Ferrovia regionale laziale FL2.svg|25px|link=Linea FL2]]
+|[[La Rustica]] [[File:Ferrovia regionale laziale FL2.svg|25px|link=Linea FL2]]
+| style="text-align:center"| 32,8
+| style="text-align:center"| 35,4
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''[[Agenzia delle entrate|Uffici Finanziari]]'''
+|Via Capranesi<br />Via Boglione
+|<small>''Solo interna''</small>
+| style="text-align:center"| 34,0
+| style="text-align:center"| ***
+|<small>Numerazione svincolo non definita.<br />Uscita solo da carreggiata interna.<br />Ingresso solo in carreggiata esterna.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 16.svg}}
+|'''{{simbolo|Strada Provinciale 49a Italia.svg|45}} [[Via Prenestina]]'''
+|[[Prenestino-Centocelle|Centocelle]]<br />[[Prenestino-Labicano|Prenestino]]
+|[[Villaggio Falcone]]<br />[[Palestrina]]
+| style="text-align:center"| 34,6
+| style="text-align:center"| 33,6
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 17.svg}}
+|'''[[Tor Bella Monaca]]'''
+|<small>''Solo esterna''</small>
+|[[Torre Angela]]
+| style="text-align:center"| 35,0
+| style="text-align:center"| 31,2
+|
+|-
+|[[File:AB-U-grün.svg]]
+| -
+|'''Via Prenestina bis'''
+|[[Prenestino-Centocelle|Centocelle]]<br />[[Prenestino-Labicano|Prenestino]]
+|<small>''Solo interna''</small>
+| style="text-align:center"| 36,0
+| style="text-align:center"| 30,2
+|<small>Numerazione svincolo non definita.</small>
+|-
+|{{simbolo|AB-Tank.svg}}
+[[File:AB-Autobahnkiosk.svg]]
+| -
+|''Area di servizio''
+|''Casilina Interna''
+|''Casilina Esterna''
+| style="text-align:center"| 37,5
+| style="text-align:center"| 30,3
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 18.svg}}
+|'''{{simbolo|Strada Statale 6 Italia.svg|45}} [[Strada statale 6 Via Casilina|Via Casilina]]'''
+|[[Giardinetti (Roma)|Giardinetti]] [[File:Metropolitana di Roma C.svg|25px|link=Linea C (metropolitana di Roma)]]<br />[[Torre Maura]] [[File:Metropolitana di Roma C.svg|25px|link=Linea C (metropolitana di Roma)]]<br />[[Casilino]]
+|[[Torre Angela]]<br />[[Frosinone]]<br />[[Cassino]]
+| style="text-align:center"| 38,0
+| style="text-align:center"| 30,2
+|
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|{{simbolo|MA Route 19.svg}}
+|'''{{simbolo|Autostrada A1 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 821.svg|25}} [[Autostrada A1 (Italia)#A1dir Diramazione Sud|GRA-San Cesareo]]'''
+|<small>''Solo esterna''</small>
+|{{simbolo|Autostrada A1 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 45.svg|25}} [[Napoli]]
+| style="text-align:center"| 39,3
+| style="text-align:center"| 28,9
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 20.svg}}
+|'''[[Romanina|La Romanina]]'''
+|<small>''Solo esterna''</small>
+|{{simbolo|Italian traffic signs - icona università.svg}} [[Università degli Studi di Roma Tor Vergata|2ª Università (Tor Vergata)]]<br />[[Torrenova (zona di Roma)|Torrenova]]
+| style="text-align:center"| 39,9
+| style="text-align:center"| 28,3
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 21.svg}}
+|'''{{simbolo|Strada Statale 215 Italia.svg|45}} [[Strada statale 215 Tuscolana|Via Tuscolana]]'''
+|[[Cinecittà]] {{simbolo|Metropolitana di Roma A.svg|25}}
+[[Tuscolano]] {{simbolo|Metropolitana di Roma A.svg|25}}
+|[[Frascati]]
+| style="text-align:center"| 40,9
+| style="text-align:center"| 27,3
+|<small>In corsia esterna l'uscita è denominata ''Uscita 21-22'' corrispondendo con l'uscita Anagnina.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 22.svg}}
+|'''{{simbolo|Strada Statale 511 Italia.svg|45}} [[Strada statale 511 Anagnina|Via Anagnina]]'''
+| <small>Corsia esterna:</small><br />
+[[Cinecittà]] {{simbolo|Metropolitana di Roma A.svg|25}}<br />
+[[Tuscolano]] {{simbolo|Metropolitana di Roma A.svg|25}}<br />
+<small>Corsia interna:</small><br />
+[[Osteria del Curato (zona di Roma)|Osteria del Curato]]<br />
+complanare [[Gregna|Gregna Sant'Andrea]]
+|[[Casal Morena]]<br />[[Grottaferrata]]
+| style="text-align:center"| 41,6
+| style="text-align:center"| 26,6
+|<small>In corsia esterna l'uscita è denominata ''Uscita 21-22'' corrispondendo con l'uscita Tuscolana.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''[[Gregna|Gregna Sant'Andrea]]'''
+|<small>''Solo esterna''</small>
+|[[Ciampino]] [[File:Ferrovia regionale laziale FL4.svg|25x25px]]
+| style="text-align:center"| 43,2
+| style="text-align:center"| 25,0
+|<small>Corsia esterna: accesso diretto. Corsia interna: accesso<br />via complanare dalla uscita 22 ''Anagnina''.<br />Numerazione svincolo non definita.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 23.svg}}
+|'''{{simbolo|Strada Statale 7 Italia.svg|45}} [[Strada statale 7 Via Appia|Via Appia]]'''
+|[[Appio-Latino|Appio]] {{simbolo|Metropolitana di Roma A.svg|25}}<br />[[San Giovanni (metropolitana di Roma)|San Giovanni]] {{simbolo|Metropolitana di Roma A.svg|25}} {{simbolo|Metropolitana di Roma C.svg|25}}
+|{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Roma-Ciampino|Aeroporto di Ciampino]]<br />[[Velletri]] [[File:Ferrovia regionale laziale FL4.svg|25x25px]] [[Cisterna di Latina]] [[File:Ferrovia regionale laziale FL7.svg|25x25px]]
+| style="text-align:center"| 44,4
+| style="text-align:center"| 23,8
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 24.svg}}
+|'''{{simbolo|Strada Provinciale 3e Italia.svg|45}} [[Via Ardeatina]]'''
+|[[Ardeatino]]<br />[[Europa (Roma)|EUR]] {{simbolo|Metropolitana di Roma B.svg|25}}
+|[[Santuario della Madonna del Divino Amore|Divino Amore]]<br />[[Pomezia|Santa Palomba]]<br />[[Ardea]]
+| style="text-align:center"| 48,0
+| style="text-align:center"| 20,2
+|
+|-
+||{{simbolo|AB-Tank.svg}}
+[[File:AB-Autobahnkiosk.svg]]
+| -
+|''Area di servizio''
+|<small>''Solo esterna''</small>
+|''Ardeatina Esterna''
+| style="text-align:center"| ***
+| style="text-align:center"| 17,2
+|
+|-
+|[[File:AB-U-grün.svg]]
+| -
+|''Inversione di marcia''
+|
+|
+| style="text-align:center"| 50,0
+| style="text-align:center"| 18,2
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 25.svg}}
+|'''{{simbolo|Strada Provinciale 95b Italia.svg|45}} [[Via Laurentina]]'''
+|[[Laurentina (metropolitana di Roma)|Laurentina]] {{simbolo|Metropolitana di Roma B.svg|25}}
+|{{simbolo|Italian traffic signs - icona università.svg}} [[Università Campus Bio-Medico|Campus Bio-Medico]]<br />[[Trigoria]]<br />[[Ardea]]
+| style="text-align:center"| 52,6
+| style="text-align:center"| 15,6
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 26.svg}}
+|'''{{simbolo|Strada Statale 148 Italia.svg|45}} [[Strada statale 148 Pontina|Via Pontina]]'''
+|[[Europa (Roma)|EUR]] [[File:Metropolitana di Roma B.svg|25px|link=Linea B (metropolitana di Roma)]]<br />{{simbolo|Italian traffic signs - icona ospedale.svg}} [[Ospedale Sant'Eugenio]]<br>{{simbolo|Italian traffic signs - icona centro sportivo.svg}} [[PalaLottomatica|Palazzo dello sport]] [[File:Metropolitana di Roma B.svg|25px|link=Linea B (metropolitana di Roma)]]
+|[[Pomezia]] [[File:Ferrovia regionale laziale FL7.svg|25x25px]] [[File:Ferrovia regionale laziale FL8.svg|25x25px]]<br />[[Aprilia (Italia)|Aprilia]] [[File:Ferrovia regionale laziale FL8.svg|25x25px]]<br />[[Anzio]] [[File:Ferrovia regionale laziale FL8.svg|25x25px]]<br />[[Latina]] [[File:Ferrovia regionale laziale FL7.svg|25x25px]]
+[[Terracina]]
+| style="text-align:center"| 54,8
+| style="text-align:center"| 13,4
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 27.svg}}
+|'''[[Via Cristoforo Colombo (Roma)|Via Cristoforo Colombo]]'''
+|<small>''Solo esterna''</small>
+|[[Casal Palocco]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]<br />{{simbolo|Italian traffic signs - icona pineta + mare.svg}} [[Ostia (Roma)|Lido di Ostia]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]
+| style="text-align:center"| 55,3
+| style="text-align:center"| 12,9
+|<small>Accessibile solo dalla corsia esterna.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 28.svg}}
+|'''|'''{{simbolo|Strada Statale 8 Italia.svg|45}} [[Strada statale 8 Via del Mare|Via del Mare]]<br />{{simbolo|Strada Statale 8bis Italia.svg|45}} [[Via Ostiense]]'''
+|[[Ostiense]] [[File:Metropolitana di Roma B.svg|25px|link=Linea B (metropolitana di Roma)]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]<br />{{simbolo|Italian traffic signs - icona chiesa.svg}} [[Basilica di San Paolo fuori le mura|San Paolo]] [[File:Metropolitana di Roma B.svg|25px|link=Linea B (metropolitana di Roma)]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]
+|[[Acilia]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]<br />[[Ostia Antica]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]<br />{{simbolo|Italian traffic signs - icona pineta + mare.svg}} [[Ostia (Roma)|Lido di Ostia]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]
+| style="text-align:center"| 57,8
+| style="text-align:center"| 10,4
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 29.svg}}
+|'''[[Parco de' Medici]]'''
+|Viale Parco de' Medici
+|<small>''Solo interna''</small>
+| style="text-align:center"| 59,9
+| style="text-align:center"| 8,3
+|
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|{{simbolo|MA Route 30.svg}}
+|'''{{simbolo|Autostrada A91 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 80.svg|25}} [[Autostrada A91|Fiumicino]]'''
+|[[Europa (Roma)|EUR]] [[File:Metropolitana di Roma B.svg|25px|link=Linea B (metropolitana di Roma)]]<br />[[Magliana]] [[File:Metropolitana di Roma B.svg|25px|link=Linea B (metropolitana di Roma)]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]
+|{{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Fiera di Roma|Nuova Fiera di Roma]] [[File:Ferrovia regionale laziale FL1.svg|25x25px]]<br />{{simbolo|Autostrada A12 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 80.svg|25}} [[Autostrada A12 (Italia)|Civitavecchia]] {{simbolo|Italian traffic signs - icona porto.svg}}<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Roma-Fiumicino|Aeroporto L. Da Vinci]] [[File:Ferrovia regionale laziale FL1.svg|25x25px]] [[Leonardo Express|{{BoxArrotondato|LE|Yellow|#002050|#002050}}]]
+| style="text-align:center"| 60,6
+| style="text-align:center"| 7,6
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 31.svg}}
+|'''{{simbolo|Strada Provinciale 1-a Italia.svg|45}} [[Magliana|Via della Magliana]]'''
+|[[Trullo (Roma)|Trullo]]<br />[[Magliana]] [[File:Metropolitana di Roma B.svg|25px|link=Linea B (metropolitana di Roma)]] [[File:Ferrovia Roma-Lido.svg|25px|link=Ferrovia Roma-Lido]]
+|[[Via Portuense]]<br />[[Fiumicino]] {{simbolo|Autostrada A12 Italia.svg|25}}{{simbolo|Italian traffic signs - strada europea 80.svg|25}} {{simbolo|Italian traffic signs - icona porto.svg}} {{simbolo|Italian traffic signs - icona aeroporto.svg}}
+[[File:Ferrovia regionale laziale FL1.svg|25x25px]] [[Leonardo Express|{{BoxArrotondato|LE|Yellow|#002050|#002050}}]]
+| style="text-align:center"| 61,1
+| style="text-align:center"| 7,1
+|
+|-
+|[[File:AB-U-grün.svg]]
+| -
+|''Inversione di marcia''
+|
+|
+| style="text-align:center"| 61,9
+| style="text-align:center"| 6,3
+|<small>Inversione da complanare interna a esterna.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|?
+|'''[[Alitalia|Centro direzionale Alitalia]]'''
+|Via Marchetti
+|<small>''Solo interna''</small>
+| style="text-align:center"| 62,1
+| style="text-align:center"| 6,1
+|<small>Accessibile solo da complanare interna.<br />Numerazione svincolo non definita.</small>
+|-
+|[[File:AB-U-grün.svg]]
+| -
+|''Inversione di marcia''
+|
+|
+| style="text-align:center"| 62,5
+| style="text-align:center"| 5,7
+|<small>Inversione da complanare esterna a interna.</small>
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 32.svg}}
+|'''[[La Pisana|Via della Pisana]]'''
+|[[Gianicolense (suburbio di Roma)|Gianicolense]]<br />[[Portuense]]
+|[[Ponte Galeria]] [[File:Ferrovia regionale laziale FL1.svg|25x25px]]
+| style="text-align:center"| 64,5
+| style="text-align:center"| 3,7
+|
+|-
+|{{simbolo|AB-Tank.svg}}
+[[File:AB-Autobahnkiosk.svg]]
+| -
+|''Area di servizio''
+|''Pisana Interna''
+|''Pisana Esterna''
+| style="text-align:center"| 66,1
+| style="text-align:center"| 2,1
+|
+|-
+|[[File:AB-AS-grün.svg]]
+|{{simbolo|MA Route 33.svg}}
+|'''[[Massimina|Via di Casal Lumbroso]]'''
+|Via del Pescaccio
+|[[Massimina|Casal Lumbroso]]
+| style="text-align:center"| 66,5
+| style="text-align:center"| 1,7
+|
+|}
+
+=== Tabella delle gallerie ===
+{|class="wikitable"
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="9" | '''Autostrada A90 - Grande Raccordo Anulare - Tabella delle gallerie'''<ref name="notagallerie" group="N">La lunghezza è quella rilevata sulla segnaletica presente ad inizio galleria.</ref>
+|- style="color:white"
+! Nome !! Foto !! Tipo !! Lunghezza (int.)<ref name="notagallerie" group="N"/> !! Lunghezza (est.)<ref name="notagallerie" group="N"/> !! ↓km↓ !! ↑km↑ !! Anno apertura !! Note
+|-
+|'''Aurelia'''
+|[[File:GRA-Galleria-Aurelia.jpg|100px]]
+|artificiale
+|150 m
+|99 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2005
+|
+|-
+|<small>'''Montespaccato'''</small>
+|[[File:GRA-Galleria-Montespaccato.jpg|100px]]
+|artificiale
+|150 m
+|
+|<small>''n.d.''</small>
+|
+|<small>2005</small>
+|<small>galleria di svincolo in corsia interna</small>
+|-
+|'''Selva Candida'''
+|
+|artificiale
+|975 m
+|1001 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2006
+|
+|-
+|'''Villa Romana'''
+|[[File:GRA-Galleria-VillaRomana.jpg|100px]]
+|mista
+|168 m
+|168 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2007
+|<small>il nome deriva dai ruderi di un'abitazione di [[Storia di Roma|epoca romana]] rinvenuti durante lo scavo della galleria</small>
+|-
+|<small>'''Villa Romana Ovest'''</small>
+|
+|mista
+|185 m
+|
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|<small>2007</small>
+|<small>galleria di svincolo (Trionfale) in corsia interna</small>
+|-
+|<small>'''Insugherata'''</small>
+|
+|mista
+|
+|
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|<small>2008</small>
+|<small>galleria di svincolo (Trionfale) in corsia esterna</small>
+|-
+|'''Trionfale'''
+|[[File:GRA-Galleria-Trionfale.jpg|100px]]
+|naturale
+|464 m
+|464 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2007
+|
+|-
+|'''Acqua Traversa'''
+|[[File:Gra galleria trionfale 1.jpg|100px]]
+|artificiale
+|160 m
+|160 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2007
+|
+|-
+|'''Cassia (vecchia)'''
+|[[File:Gall Cassia.jpg|100px]]
+|naturale
+|66 m
+|66 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|1970
+|<small>vecchio tracciato, riutilizzate sulle rampe del nuovo svincolo Cassia</small>
+|-
+|'''Cassia (nuova)'''
+|[[File:GRA Cassia Nuova.jpg|100px]]
+|mista
+|700 m
+|695 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2008-2011
+|<small>galleria in corsia esterna inaugurata a novembre 2008<br />galleria in corsia interna inaugurata a giugno 2011</small>
+|-
+|<small>'''?'''</small>
+|
+|mista
+|?
+|?
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2012
+|<small>galleria di svincolo (Cassia) in corsia esterna</small>
+|-
+|'''Volusia'''
+|[[File:GRA-Galleria-Volusia.jpg|100px]]
+|artificiale
+|450 m
+|437 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2007
+|
+|-
+|'''Parco di Veio I'''
+|[[File:GRA-Galleria-ParcoDiVeio-I.jpg|100px]]
+|artificiale
+|357 m
+|357 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2006
+|
+|-
+|'''Parco di Veio II'''
+|[[File:GRA-Galleria-ParcoDiVeio-II.jpg|100px]]
+|artificiale
+|70 m
+|92 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2006
+|
+|-
+|'''Appia Antica'''
+|
+|mista
+|1150 m
+|1130 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|1999
+|
+|}
+
+=== Tabella ponti e viadotti ===
+{| class="wikitable"
+|- align="center" style="color:white; font-size:100%; background-color:#08842c"
+| colspan="7" | '''Autostrada A90 - Grande Raccordo Anulare - Tabella ponti e viadotti'''
+|- style="color:white"
+! Nome !! Foto !! Lunghezza (int.) !! ↓km↓ !! ↑km↑ !! Anno apertura !! Note
+|-
+|'''Boccea'''
+|
+|355 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2005
+|Viadotto
+|-
+|'''Crescenza'''
+|
+|150 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2005
+|Viadotto
+|-
+|'''Castel Giubileo'''
+|
+|700 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|1979
+|Ponte della complanare esterna
+|-
+|'''Castel Giubileo'''
+|
+|700 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|2007
+|Ponte delle carreggiate principali
+|-
+|'''Mezzocammino'''
+|
+|372 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|1983
+|Corsia immissione da Via del Mare
+|-
+|'''Mezzocammino'''
+|
+|372 m
+|<small>''n.d.''</small>
+|<small>''n.d.''</small>
+|1999
+|Carreggiate principali
+|}
+
+== Storia ==
+{{Approfondimento|titolo=Cronologia fondamentale del GRA
+|contenuto=1946: Inizio della costruzione<br />
+1951: Aperto il tratto Appia-Aurelia<br />
+1952: Aperto il tratto Flaminia-Tiburtina<br />
+1955: Aperto il tratto Tiburtina-Appia<br />
+1960: Il GRA è parte del tracciato nella maratona della XVII Olimpiade<br />
+1962: Raddoppio di carreggiata tra Salaria e Tuscolana<br />
+1970: Aperto il tratto Cassia-Flaminia. Il tracciato è completo<br />
+1979: Completamento raddoppio di carreggiata (2º ponte di Castel Giubileo)<br />
+1979: Il GRA è classificato come autostrada<br />
+1983: Iniziano i lavori di costruzione della terza corsia<br />
+1997: Il 50% del tracciato è ampliato a 3 corsie<br />
+2000: Il 75% del tracciato è ampliato a 3 corsie<br />
+2002: Iniziano i lavori sul quadrante Nord-Ovest<br />
+2006: Aprono i primi tratti ampliati del quadrante Nord-Ovest<br />
+2007: Il 97% del tracciato è ampliato a 3 corsie<br />
+2011: Termine dei lavori di ampliamento a 3 corsie
+}}
+=== Le origini (1946-1948) ===
+La genesi del GRA si colloca nel periodo dell'immediato [[Dopoguerra#L'inizio del secondo dopoguerra per l'Italia|dopoguerra]], all'indomani della nascita della [[Italia|Repubblica Italiana]].
+Con un [[Decreto del presidente della Repubblica|decreto]] del [[ministro]] [[Giuseppe Romita]], il 27 giugno [[1946]] venne istituita l'ANAS,<ref>{{Cita web |url=http://legislature.camera.it/_dati/leg03/lavori/stenografici/sed0122/sed0122.pdf |titolo=Trascrizione della seduta CXXII |autore=Camera dei Deputati |data=23 aprile 1959 |formato=pdf |accesso=29 aprile 2008 |urlarchivio=https://web.archive.org/web/20130928014225/http://legislature.camera.it/_dati/leg03/lavori/stenografici/sed0122/sed0122.pdf |urlmorto=no}}</ref> Azienda Nazionale Autonoma delle Strade Statali (oggi ANAS [[Società per azioni|S.p.A.]]), nata sulle ceneri dell'[[Azienda Autonoma Statale della Strada|AASS]] (Azienda Autonoma Statale della Strada)<ref name="ANAS-StradeInformazione1-2006-crono" />.
+Il compito della nuova azienda era duplice: da un lato si doveva procedere con la riparazione di oltre {{TA|20 000 km}} di strade e opere viarie distrutte o danneggiate dagli [[seconda guerra mondiale|eventi bellici]], dall'altro era necessario un sostanziale piano di sviluppo dei trasporti per dare uno slancio alla ripresa economica.
+
+In questo periodo di ferventi attività di ricostruzione post-bellica un numero consistente di progetti di [[Boom edilizio|sviluppo edilizio]] e dei trasporti furono realizzati con evidente risolutezza. Tra questi vi era lo ''schema progettuale'' dello stesso Gra,<ref name="ANAS-StradeInformazione1-2006-crono">{{Cita pubblicazione|autore=Stefano Baietti|anno=2006|mese=marzo|titolo=Strade dell'informazione (periodico a diffusione interna)|editore=ANAS|numero=1}}</ref> approvato dal Consiglio superiore dei lavori pubblici del [[Ministero delle infrastrutture e dei trasporti]] e dal nuovo [[Consiglio di amministrazione]] dell'ANAS<ref name="ANAS-StradeInformazione1-2006-crono" /> il quale prevedeva, fra l'altro, una ''Nuova strada di circonvallazione della città di Roma'' che avrebbe collegato tutte le [[vie consolari]] della capitale con un tracciato a scorrimento veloce, privo ove possibile di [[Intersezione a raso|intersezioni a raso]] (ma nel primo tracciato a due corsie la gran parte lo furono), e quanto più possibile equidistante dal centro cittadino.<ref name="gomorra" />
+
+Il progetto riprendeva ed espandeva la metodologia della [[tangenziale|viabilità tangenziale]], introdotta a Roma dal [[Piano regolatore generale comunale|Piano regolatore]] del 1909 di [[Edmondo Sanjust di Teulada]],<ref name="ANAS-StradeInformazione1-2006-crono" /><ref>{{Cita web |url=http://notes9.senato.it/web/senregno.NSF/d973a7c868618f05c125711400382868/2334abf23cafab6e4125646f00604b9b?OpenDocument |titolo=Senato della Repubblica: Edmondo Sanjust di Teulada |accesso=17 aprile 2008 |urlarchivio=https://web.archive.org/web/20080117050024/http://notes9.senato.it/web/senregno.NSF/d973a7c868618f05c125711400382868/2334abf23cafab6e4125646f00604b9b?OpenDocument |urlmorto=no}}</ref> il quale per primo regolamentò l'espansione della città fuori dalle [[Mura aureliane]], prevedendo una strada di circonvallazione<ref name="ANAS-StradeInformazione1-2006-crono" /> larga 60 metri e lunga circa 25 km che oggi corrisponde pressappoco al tracciato della [[tangenziale Est di Roma|tangenziale Est]], di [[Foro Italico|Viale del Foro Italico]] (nota ai romani anche come ''L'Olimpica'') e della [[Circonvallazione Gianicolense]].<ref name="ANAS-StradeInformazione1-2006-crono" /> La razionalizzazione dei flussi di traffico al di fuori del [[centro storico]] si dimostrò particolarmente necessaria per Roma,<ref name="gomorra" /> la cui conformazione radiale delle vie consolari provoca frequenti [[Congestione stradale|congestioni stradali]],<ref name="gomorra" /> aggravate da una rete viaria inadeguata ad accogliere alti flussi di traffico e difficilmente ampliabile.<ref name="gomorra" />
+
+[[File:gra old trionfale 2.jpg|thumb|left|Cavalcavia di Via Trionfale sul vecchio tracciato del GRA (febbraio 2007)]]
+Il GRA fu un'opera che fece parlare molto di sé, fin da prima dell'inizio dei lavori,<ref name="ANAS-StradeInformazione1-2006-crono" /> trattandosi, fra l'altro, di una tra le prime applicazioni pratiche della [[Pianificazione territoriale|Legge Urbanistica]] numero 1150 del 17 agosto 1942,<ref name="ANAS-StradeInformazione1-2006-crono" /> che regolamentava l'attuazione di opere sistemiche di interesse cittadino nel territorio del [[Comune]].<ref name="ANAS-StradeInformazione1-2006-crono" /> Se la circonvallazione di Sanjust si prefiggeva di integrarsi nel tessuto urbano, costituendone non solo il supporto alla circolazione stradale ma anche il vero e proprio confine cittadino, il GRA si spingeva ben oltre, con un tracciato stradale, per l'epoca, decisamente lontano dalla città e lungo quasi il triplo.<ref name="gomorra" />
+
+Sul progetto e sui suoi fautori giunsero forti critiche, da parte di [[Urbanistica|urbanisti]], [[politico|politici]] e di buona parte dell'[[opinione pubblica]],<ref name="ANAS-StradeInformazione1-2006-crono" /> ulteriormente inasprite dalla particolare situazione sociale ed economica che la città stava vivendo: Roma era appena uscita da un [[Seconda guerra mondiale|conflitto estenuante]] che aveva lasciato segni profondi. La [[popolazione]] pensava soprattutto a soddisfare i suoi bisogni primari, c'era penuria di alloggi, di [[Servizio pubblico|servizi]], di lavoro; la [[Piano Marshall|ricostruzione]], sebbene avviata, procedeva lenta e faticosa.
+Da più parti ci si interrogò sulla reale necessità di quest'opera e furono sollevate numerose obiezioni: si diceva fosse lunga, troppo costosa, che non rispecchiasse i reali bisogni della città, che fosse troppo lontana dalla città per risultare in qualche modo utile, che non avrebbe migliorato sostanzialmente il problema della [[disoccupazione]] nonostante le maestranze impiegate per la costruzione (circa 4500 operai),<ref name=":1">{{Cita libro |autore=Marco Pietrolucci |titolo=La città del Grande Raccordo Anulare |anno=2012 |editore=Gangemi Editore |città=Roma |p=320 |ISBN=9788849220766}}</ref> che era oltremodo sproporzionata per il traffico stradale dell'epoca. Qualcuno ipotizzò addirittura che il GRA fosse la "chiave di volta" di un piano di [[Lottizzazione (urbanistica)|lottizzazione]] da parte di gruppi di potere, con la complicità dei governi dell'epoca.
+
+=== La costruzione (1946-1951) ===
+[[File:GRA tratto Aurelia-Appia nel 1951.jpg|thumb|left|Il GRA come si presentava nel 1951 (tratto tra Via Pontina e Via Laurentina)|316x316px]]
+
+Alla fine degli [[Anni 1940|anni quaranta]] le aree attraversate dal raccordo erano ben oltre il limite della città edificata, in pieno [[Agro Romano]], totalmente sgombre né destinate ad altri scopi.<ref name="gomorra" /> Ciò spiega la ragione per cui fu possibile, grazie all'ampia discrezionalità, oltre che all'[[orografia]] favorevole, disegnare un percorso quasi perfettamente circolare, che coincideva ampiamente con la circonferenza delimitante i terreni da sottoporre a bonifica, identificati dalla legge del [[1878]] nota come ''della [[Bonifica agraria|bonifica]] dell'Agro Romano''.<ref>{{Cita web |url=http://www.vejo.it/storia-borgate-roma-nord-xx-municipio-prima-porta-giustiniana-cassia-grottarossa-saxa-rubra-tomba-nerone-santa-cornelia/2008/10/03/ |titolo=La bonifica dell'Agro Romano e la nascita delle borgate rurali (prima fase) |data=2008 |accesso=8 ottobre 2008 |urlarchivio=https://web.archive.org/web/20081004195545/http://www.vejo.it/storia-borgate-roma-nord-xx-municipio-prima-porta-giustiniana-cassia-grottarossa-saxa-rubra-tomba-nerone-santa-cornelia/2008/10/03/ |urlmorto=no}}</ref>
+
+[[File:rca1962.jpg|thumb|Il Grande Raccordo Anulare a due corsie poco prima del raddoppio e lo svincolo, a raso, di Via Tiburtina (marzo 1962)]]
+Il centro dell'anello fu posto sul [[Miliario aureo]] dell'[[Roma|Urbe]] antica,<ref group="N">Alcune fonti ritengono che anche tutte le vie consolari dell'antica Roma partissero da questo punto, e da qui fossero anche calcolate le progressive miliarie. Tale ricostruzione, sebbene ritenuta da molti attendibile, è tuttavia priva di riferimenti storici puntuali.</ref> nei pressi del [[Foro Romano]], a distanza di poco più di 11&nbsp;km<ref name="gomorra" /> (il ''settimo miglio'') dalla circonferenza del tracciato. I lavori ebbero inizio il 25 ottobre 1946.<ref name=":1" />
+
+Nelle intenzioni originali, considerate le dimensioni contenute di Roma, il Raccordo Anulare aveva la funzione primaria di evitare l'attraversamento del centro cittadino al traffico di passaggio, più che di fornire una viabilità di circonvallazione per raggiungere le sue diverse zone in tempi più rapidi, tant'è che fu originariamente progettato e realizzato a due corsie su singola carreggiata, privo delle [[Autostrada#Caratteristiche di costruzione|caratteristiche peculiari di un'autostrada]]. Ciò è evidente, ad esempio, dalla diversa architettura e altimetria dei ponti dell'attraversamento nord del [[Tevere]]. Il primo, il ponte storico della [[Castel Giubileo#La centrale idroelettrica|diga della centrale idroelettrica di Castel Giubileo]], fu aperto nel [[1951]],<ref>{{Cita web |url=http://www.marevivo.it/teveredamare/01_giubileo.php |titolo=Il ponte di Castel Giubileo |data=2004 |accesso=14 aprile 2008 |urlarchivio=https://web.archive.org/web/20071017202551/http://marevivo.it/teveredamare/01_giubileo.php |urlmorto=sì}}</ref> il successivo fu costruito negli [[anni 1970|anni settanta]]. Differenze analoghe sono riscontrabili anche sui ponti dell'attraversamento meridionale del fiume.
+
+Ci vollero diversi anni dalla sua inaugurazione (quando il [[miracolo economico italiano|boom economico]] e l'enorme espansione urbanistica della città determinarono un aumento esponenziale del traffico automobilistico) perché si evidenziasse l'utilità di un'opera altrimenti molto criticata. L'incremento del trasporto su gomma trasformò il Raccordo in una struttura fondamentale non solo per la viabilità, ma anche (nel bene e nel male) per i futuri piani di espansione della città, costituendo da questo momento in avanti il protagonista dei successivi Piani Regolatori.<ref name="ANAS-StradeInformazione1-2006-crono" />
+
+=== L'esercizio (1951-1982) ===
+[[File:Gall Cassia.jpg|thumb|Vecchia galleria Cassia, corsia esterna. La variante di tracciato a 3 corsie è stata costruita a una quota inferiore (febbraio 2007)]]
+Il primo tratto (Via Appia - Via Aurelia) fu inaugurato il 7 agosto 1951,<ref>{{Cita web |url=http://www.novecentoitaliano.it/Portale/Cronologia.aspx?a=1951 |titolo=Novecento Italiano, cronologia anno 1951 |accesso=14 aprile 2008 |urlarchivio=https://web.archive.org/web/20071025150002/http://www.novecentoitaliano.it/Portale/Cronologia.aspx?a=1951 |urlmorto=sì}}</ref> a cui seguirono:
+* 24 luglio 1952:<ref>{{Cita web |url=http://www.novecentoitaliano.it/Portale/Cronologia.aspx?a=1952 |titolo=Novecento Italiano, cronologia anno 1952 |accesso=14 aprile 2008 |urlarchivio=https://web.archive.org/web/20071025150018/http://www.novecentoitaliano.it/Portale/Cronologia.aspx?a=1952 |urlmorto=sì}}</ref> tratto Via Flaminia - Via Tiburtina
+* 1955: tratto Via Tiburtina - Via Appia.<ref name="gomorra">{{Cita pubblicazione |nome=Umberto |cognome=Cao |anno=2005 |mese=10 |titolo=Territori e culture della metropoli contemporanea |rivista=Gomorra |numero=9 |accesso=14 aprile 2008 |id=ISBN 88-8353-438-7 |url=http://meltemieditore.it/PDFfiles/N040.pdf |urlarchivio=https://web.archive.org/web/20070927081754/http://meltemieditore.it/PDFfiles/N040.pdf |urlmorto=sì |p=132}}</ref>
+In cinque anni fu quindi completato circa il 75% del tracciato; fu l'inizio di un costante numero di avvenimenti che lo riguardarono, sia su scala nazionale che locale, a partire dall'inizio del decennio successivo: il 10 settembre 1960<ref name="olimpiadi">{{Cita pubblicazione |cognome=the Organizing Committee of the Games of the XVII Olympiad |anno=1962 |titolo=THE GAMES OF THE XVII OLYMPIAD ROME 1960 - The Official Report of the Organizing Committee part 2 |rivista=Carlo Colombo Publisher |accesso=7 febbraio 2011 |url=http://www.la84foundation.org/6oic/OfficialReports/1960/OR1960v2pt1.pdf |urlarchivio=https://web.archive.org/web/20080527211502/http://www.la84foundation.org/6oic/OfficialReports/1960/OR1960v2pt1.pdf |urlmorto=sì |p=118}}</ref> si corse la [[Maratona (atletica leggera)|maratona]] delle [[Giochi della XVII Olimpiade|XVII Olimpiadi di Roma]] e il tratto del GRA tra Via Cristoforo Colombo<ref name="olimpiadi" /> (km 20,300 della corsa) e Via Appia Antica<ref name="olimpiadi" /> (km 30,750) fu incluso nel tracciato; gli atleti lo percorsero in senso antiorario, sulla costruenda corsia esterna,<ref>{{Cita video |titolo=La Maratona di Roma, 1960 |url=https://www.youtube.com/watch?v=vca1QGVAshM |accesso=4 febbraio 2011) |data=10 settembre 1960 |editore=Istituto Luce |posizione=da 2:48 a 3:50}}</ref> per un totale di 10,450&nbsp;km.<ref name="olimpiadi" />
+
+Nel decennio in corso le attività di ricostruzione e di sviluppo procedettero sempre più serrate. Si evidenziò chiaramente nelle scelte politiche la volontà di privilegiare il trasporto su gomma. La premessa fu costituita dal programma emanato nel 1952 dall'allora [[Ministero dei lavori pubblici|ministro dei lavori pubblici]] [[Salvatore Aldisio]], in cui si ravvisava la necessità di costruire nuove autostrade e ampliare quelle esistenti, concretizzatosi, pochi anni dopo, nella [[legge]] nº 463 del 21 maggio 1955 (più nota come "[[Giuseppe Romita|Legge Romita]]")<ref>{{Cita legge italiana |tipo = legge |anno = 1955 |mese = 05 |giorno = 21 |numero = 463 |titolo = Provvedimenti per la costruzione di autostrade e strade e modifiche alle tasse automobilistiche. |originale = sì }}</ref> e nell'annesso ''Piano Autostradale Nazionale''. Le autostrade previste per Roma erano quattro, le cui più importanti e prioritarie furono la [[Autostrada A1 (Italia)|A1 Roma-Milano]] e la [[Autostrada A2 (Italia, 1962-1988)|A2 Roma-Napoli]], per le quali fu deciso che i rispettivi tracciati iniziassero e terminassero sul GRA, evitando al traffico autostradale l'attraversamento del centro cittadino.<ref name="ANAS-StradeInformazione1-2006-crono" /><ref name="gomorra" />
+
+Fu evidente che il tracciato a singola carreggiata del GRA non poteva bastare ad accogliere l'intenso traffico previsto,<ref name="gomorra" /> e vari raddoppi di carreggiata furono messi in cantiere a stretto giro. Pochi anni dopo l'entrata in esercizio, nel 1962, stesso anno dell'inaugurazione della A2, fu inaugurato il primo tratto a 4 corsie con standard autostradali, tra Via Salaria e Via Tuscolana.<ref name="ANAS-StradeInformazione1-2006-crono" /><ref name="gomorra" />
+
+Nello stesso anno venne promulgato il ''Piano Regolatore Generale'',<ref name="gomorra" /> il primo grande tentativo di riassetto urbanistico post-bellico di Roma.<ref name="ANAS-StradeInformazione1-2006-crono" />
+Il principale obiettivo del piano era un ambizioso progetto noto come ''[[Sistema Direzionale Orientale]]'' o SDO<ref name="gomorra" /> (mai realizzato) di riorganizzazione e ricollocazione delle infrastrutture direzionali della città fuori dal centro storico.<ref name="ANAS-StradeInformazione1-2006-crono" /> Fu individuata una vasta area a est del centro, destinata a ospitare [[Ministero (Italia)|ministeri]] e uffici. La zona avrebbe dovuto essere servita da una [[superstrada]], chiamata ''[[Tangenziale Est dello Sdo di Roma|Asse Attrezzato]]'',<ref name="ANAS-StradeInformazione1-2006-crono" /> che si originava come prolungamento da nord dell'A1 Roma-Firenze e, tramite una penetrazione urbana, si sviluppava attraverso un tracciato [[Secante (geometria)|secante]] al GRA, fino a innestarsi su Via Cristoforo Colombo.
+Il GRA avrebbe dovuto costituire una struttura di viabilità essenziale al progetto e, per questa ragione, il P.R.G. ne prevedeva il potenziamento, nel quadrante orientale.<ref name="ANAS-StradeInformazione1-2006-crono" />
+Il settore occidentale, invece, non sembrava costituire una priorità, tant'è che richiese quasi 20 anni per essere costruito. Il piano regolatore ne prevedeva comunque il completamento, con una carreggiata ridotta<ref name="ANAS-StradeInformazione1-2006-crono" /> (dall'autostrada Roma-Fiumicino in poi) e soprattutto la costruzione di una superstrada (mai realizzata) che doveva costituire il prolungamento del GRA, partendo dalla Via Cassia per terminare sulla Via Aurelia, all'altezza di [[Passoscuro]].<ref name="ANAS-StradeInformazione1-2006-crono" /> Il GRA avrebbe assunto in questo modo una singolare conformazione a ferro di cavallo.<ref name="ANAS-StradeInformazione1-2006-crono" /> Ma, contrariamente a quanto previsto, questi progetti rimasero solo sulla carta e si concretizzò, invece, l'ultimazione del tratto finale, quello tra Via Aurelia e Via Flaminia (quadrante nord-ovest), realizzato direttamente con standard autostradali (la classificazione del GRA in autostrada ebbe inizio nel 1969<ref>{{Cita web |url=http://www.stradeanas.it/index.php?/news/download/file/491 |titolo=A pag. 5 |editore=ANAS |accesso=29 giugno 2021 |urlarchivio=https://web.archive.org/web/20160303171759/http://www.stradeanas.it/index.php?%2Fnews%2Fdownload%2Ffile%2F491 |urlmorto=no}}</ref>). Gli ultimi 6 chilometri di tracciato, tra Via Cassia e Via Flaminia furono inaugurati il 16 settembre 1970 da Ennio Chiatante, presidente dell'ANAS.<ref name="ANAS-StradeInformazione1-2006-crono" /><ref name="gomorra" /><ref>{{Cita video |titolo=Cinegiornale "Sette G S0226": inaugurazione di un tratto del Grande Raccordo Anulare |url=http://www.archivioluce.com/archivio/users/toAFriend.jsp?archivio=cinematograficoCINEGIORNALI&numdoc=IL5000042649&tipologia=video |accesso=14 aprile 2008 |data=16 settembre 1970 |editore=Istituto Luce}}</ref> Dopo 19 anni, i lavori erano finalmente completati e l'anello chiuso e pienamente operativo. Fino alla costruzione del [[Galleria (ingegneria)|tunnel]] dell'[[Via Appia|Appia Antica]] questo è stato l'unico tratto del GRA a contemplare una brevissima [[Galleria (ingegneria)|galleria]] naturale (66 metri, a doppia canna), che sottopassa Via Cassia.
+
+Negli anni settanta proseguirono i lavori per il raddoppio di carreggiata e l'adeguamento agli standard autostradali nel quadrante occidentale. Il termine dei lavori, con il raddoppio del Ponte di Castel Giubileo, e la riclassificazione dell'intero tracciato in autostrada avvennero nel 1979.<ref name="ANAS-StradeInformazione1-2006-crono" /><ref name="gomorra" />
+
+=== I primi lavori per la terza corsia (1983-1995) ===
+[[File:gra old trionfale 1.jpg|thumb|La costruzione del nuovo svincolo di ''Via Trionfale'' ha richiesto una variante di tracciato del raccordo, che si sviluppa ad una altimetria notevolmente inferiore della precedente con un tratto in galleria naturale. Il tracciato del 1970 è stato dismesso nel gennaio 2007 e il sedime riutilizzato per gli svincoli di via Trionfale (foto: febbraio 2007, vecchio tracciato demolito, prima della costruzione dello svincolo).|288x288px]]
+
+Il GRA fu sottoposto negli anni a varie opere di ammodernamento e ampliamento per rispondere al costante aumento del traffico. I lavori per la terza corsia ebbero inizio nel 1983<ref name="gomorra" /> sul tratto tra gli svincoli dell'A91 Roma-Fiumicino e Casal Lumbroso (quadrante ovest, sud-ovest). Fu inoltre costruita una viabilità complanare, consistente in due carreggiate esterne di due corsie ognuna, allo scopo di snellire il traffico in corrispondenza degli svincoli. Gli altri lavori furono:
+* 21 luglio [[1988]]: apertura della bretella autostradale [[Fiano Romano|Fiano]]-[[San Cesareo]]. Pur non direttamente correlata con la viabilità del GRA, quest'opera ebbe un'importanza strategica poiché fu costruita per rispondere alla doppia esigenza di abbreviare la distanza tra Firenze e Napoli e dirottare l'intenso traffico stradale non diretto a Roma (stimato all'epoca in circa {{formatnum:30000}} attraversamenti giornalieri)<ref>Sergio Lenci, ''op. cit.''</ref> che, in precedenza, si riversava sul tratto orientale del raccordo.
+* [[Anni 1990|anni novanta]]: costruzione della terza corsia fra gli svincoli di Via Nomentana e Via Prenestina (quadrante nord-est, est).
+* anni novanta: terza corsia fra gli svincoli di Via Ardeatina e Via Pontina (quadrante sud).
+
+Al termine di questo primo blocco di lavori, nel [[1997]],<ref name="ANAS-StradeInformazione1-2006-crono" /> la terza corsia era presente su circa 33&nbsp;km<ref name="anaslibrobianco2005">{{Cita pubblicazione |nome=Vincenzo |cognome=Pozzi |coautori=ANAS |anno=2005 |titolo=Gare, contratti, lavori |rivista=Il libro bianco delle strade |numero=5 |accesso=21 aprile 2008 |url=http://www.stradeanas.it/Documenti/comunicati_stampa/pubblicazioni/librobianco2005/garecontrattilavori.pdf |urlarchivio=https://web.archive.org/web/20070927174142/http://www.stradeanas.it/Documenti/comunicati_stampa/pubblicazioni/librobianco2005/garecontrattilavori.pdf |urlmorto=sì |pp=99-107}}</ref> (poco meno del 50% della sua estensione), pur con delle importanti discontinuità, soprattutto nel quadrante orientale.
+
+La costruzione della terza corsia fu inoltre l'occasione per colmare una carenza significativa: il raccordo anulare era stato, fino a quel momento, del tutto sprovvisto di aree di servizio e distributori di carburante.<ref>{{Cita web |url=http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=/archivio/uni_1989_11/19891112_0023.pdf&query=%22grande%20raccordo%20anulare%22 |titolo=L'Unità, archivio storico, 12/11/1989 |accesso=5 luglio 2012 |urlmorto=sì}}</ref> Durante gli ampliamenti fu prevista quindi l'area di servizio ''Pisana'', la prima a essere inaugurata, tra gli svincoli Pisana e Casal Lumbroso.
+
+=== I lavori del Giubileo (1996-2000) ===
+
+[[File:Ponte Monumentale di Mezzocammino ROMA.jpg|thumb|Il ponte monumentale di Mezzocammino (fino al 2000 corsia interna del GRA, dallo stesso anno divenuta corsia di immissione dalla Via del Mare)|288x288px]]
+
+In occasione del [[Giubileo del 2000]] fu realizzata una serie di ampliamenti rilevanti, al termine della quale circa 50&nbsp;km continui del tracciato presentavano almeno 3 [[Corsia di marcia|corsie]]. I tratti interessati furono:
+* fra Casal Lumbroso e Via Aurelia (quadrante ovest).
+* fra Via Prenestina e Via Tuscolana (quadrante est, sud-est).
+* fra Castel Giubileo e Via Nomentana (quadrante nord). I lavori relativi a questo tronco inclusero la ricostruzione dello svincolo di immissione della [[Autostrada A1 (Italia)|A1 Diramazione Nord]], che fu predisposto per la costruzione di un tronco di penetrazione urbana della A1 fino al Viadotto [[Giuseppe Saragat]] ma mai realizzato (che avrebbe dovuto costituire il terminale nord dell'Asse Attrezzato).
+* fra gli svincoli di Via Tuscolana e Via Laurentina (uno dei tratti notoriamente più trafficati), con la realizzazione del doppio tunnel dell'[[Via Appia|Appia Antica]] sottopassante l'omonima monumentale strada consolare e le zone limitrofe, adibite a [[Parchi regionali d'Italia#Lazio|parco regionale]] nel 1988.<ref>{{Cita web |url=http://www.parcoappiaantica.it/it/testi.asp?l1=2&l2=1&l3=0&l4=0 |titolo=Il Parco regionale dell'Appia Antica |accesso=28 aprile 2008 |urlarchivio=https://web.archive.org/web/20071104005219/http://parcoappiaantica.it/it/testi.asp?l1=2&l2=1&l3=0&l4=0 |urlmorto=sì}}</ref> In precedenza l'Appia Antica veniva separata in due tronconi, senza possibilità di attraversamento, dal tracciato del Raccordo. Per questo tratto si rese inoltre necessaria la costruzione di una variante della corsia interna tra le uscite di Via Tuscolana e Via Appia, poiché la presenza di diversi fabbricati commerciali (principalmente rivendite di materiali da illuminazione) costruiti a ridosso della carreggiata rese impossibile l'allargamento in loco. Questo tratto fu ironicamente soprannominato "la variante lampadari"<ref>{{Cita web |url=http://www.comune.roma.it/repository/ContentManagement/node/N1173603860/mun10.rtf |titolo=Documento sul nuovo piano regolatore per la parte riguardante il 10º municipio |autore=Comune di Roma |formato=rtf |accesso=28 aprile 2008 |urlarchivio=https://web.archive.org/web/20210629132018/https://sso.comune.roma.it/oamsso-bin/loginSPID.pl?contextType=external&username=string&OverrideRetryLimit=0&password=secure_string&challenge_url=https%3A%2F%2Fsso.comune.roma.it%2Foamsso-bin%2FloginSPID.pl&DCCCtxCookieMaxLength=8192&creds=userid+password&request_id=-252225833136851097&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fwww.comune.roma.it%252Frepository%252FContentManagement%252Fnode%252FN1173603860%252Fmun10.rtf |urlmorto=no}}</ref> ed è privo della corsia di emergenza, nonostante non vi fossero impedimenti di spazio per la sua costruzione. I piani originari, approvati dopo lunghe discussioni, prevedevano che la variante fosse provvisoria (onde garantire la terza corsia per l'inizio del Giubileo), per poi demolire gli esercizi abusivi e ricostruire la corsia definitiva sulla stessa sede stradale (e declassando la variante provvisoria a viabilità locale)<ref>{{Cita web |url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/1997/07/17/gra-lampadari-passa-la-variante.html |titolo=GRA e lampadari passa la variante |autore=n.n. |accesso=28 gennaio 2014 |urlarchivio=https://web.archive.org/web/20140219022701/http://ricerca.repubblica.it/repubblica/archivio/repubblica/1997/07/17/gra-lampadari-passa-la-variante.html |urlmorto=no}}</ref>. Tale piano, previsto entro 5 anni dalla conclusione del Giubileo, non ha mai trovato attuazione.
+* fra Via Laurentina e l'A91 Roma-Fiumicino. Per questo tratto di raccordo fu costruito un nuovo ponte sul Tevere, utilizzato per la corsia esterna. Il più vecchio degli altri due preesistenti, il [[ponte di Mezzocammino]] è una delle poche opere sopravvissute al succedersi dei lavori di ampliamento. Inizialmente unico attraversamento sul Tevere della carreggiata singola, poi corsia interna, dopo una ristrutturazione conclusasi nel 2003,<ref>{{Cita news |url=http://www.edilio.it/news/edilionews.asp?tab=Notizie&cod=6639 |titolo=Roma: risanato il Ponte monumentale sul Gra |pubblicazione=edilio.it |accesso=14 aprile 2008 |urlarchivio=https://web.archive.org/web/20030911134802/http://www.edilio.it/news/edilionews.asp?tab=Notizie&cod=6639 |urlmorto=sì |giorno=04 |mese=09 |anno=2003}}</ref> è utilizzato come corsia di immissione dallo svincolo della Via del Mare verso la nuova corsia interna; inoltre è dichiarato monumento e vi è stata apposta una targa commemorativa. Il ponte più recente fu allargato e riutilizzato come corsia interna. L'estensione ha richiesto l'utilizzo di ampi giunti longitudinali metallici per tutta la sua lunghezza; il rischio dovuto alla ridotta aderenza sul bagnato ha richiesto l'adozione di limiti di velocità particolari, in caso di pioggia, segnalati da un apposito cartello: 50&nbsp;km/h sulla corsia di marcia laterale, 70&nbsp;km/h sulla corsia centrale, 90&nbsp;km/h sulla corsia di sorpasso.
+
+=== Il quadrante nord-ovest (2002-2011) ===
+[[File:Gra lavori cassia.jpg|thumb|Lavori nel quadrante nord-ovest, zona Cassia. È visibile la futura corsia esterna del nuovo tracciato (utilizzato provvisoriamente per entrambi i sensi di marcia), il vecchio tracciato del 1970 (a quota più alta, in demolizione) e le gallerie Acqua Traversa e Trionfale. Sulla destra, l'imbocco di una rampa in galleria dello svincolo Cassia, in ristrutturazione (febbraio 2007).|444x444px]]
+
+Nel 2002 ebbero inizio i lavori per la costruzione della terza corsia nel quadrante nord-ovest,<ref name="anaslibrobianco2005" /> fra gli svincoli ''Aurelia'' e ''Castel Giubileo''.
+Le opere in cantiere furono fra le più complesse nell'ambito delle attività di ammodernamento del GRA,<ref name="gazzetta">{{Cita web |url=http://gazzette.comune.jesi.an.it/2001/172/3.htm |titolo=Gazzetta Ufficiale: pronuncia di compatibilità ambientale decreto V.I.A. n. 6231 del 2 luglio 2001 (..) |data=2 luglio 2001 |accesso=14 aprile 2008 |urlarchivio=https://web.archive.org/web/20070927200721/http://gazzette.comune.jesi.an.it/2001/172/3.htm |urlmorto=no}}</ref> con circa 3 chilometri su 18,5 realizzati in variante di tracciato, numerose varianti altimetriche, tratti in galleria artificiale o naturale e viadotti.<ref name="ANAS-StradeInformazione1-2006-QNO">{{Cita pubblicazione |wkautore=ANAS |anno=2006 |mese=02 |titolo=GRA: aperti 14 dei 18,5 km del quadrante nord-occidentale |rivista=Strade dell'Informazione (periodico ANAS a diffusione interna) |numero=1 |accesso=18 aprile 2008 |url=http://www.stradeanas.it/Documenti/comunicati_stampa/house_organ/2006/house_1.pdf |urlmorto=sì |p=10}}</ref> Tra le opere più rilevanti sono da menzionare:
+
+* Nuova galleria di ''[[Selva Candida]]'' (circa 1&nbsp;km), realizzata allo scopo di ricostruire la continuità urbanistica dei quartieri di Selva Candida e Palmarola, precedentemente separati dal vecchio tracciato di superficie.<ref name="gazzetta" />
+* Variante di tracciato più settentrionale e a quota più bassa di circa 20&nbsp;m tra la galleria Volusia e lo svincolo Trionfale,<ref name="ANAS-StradeInformazione5-2006">{{Cita pubblicazione |wkautore=ANAS |anno=2006 |mese=06 |titolo=Abbattimento del viadotto "Quarto degli Ebrei" sul GRA |rivista=Strade dell'Informazione (periodico ANAS a diffusione interna) |numero=5 |accesso=15 aprile 2008 |url=http://www.stradeanas.it/Documenti/comunicati_stampa/house_organ/2006/house_5.pdf |urlmorto=sì |p=9}}</ref> realizzata allo scopo di recuperare la continuità paesaggistica della [[Riserva naturale dell'Insugherata]]<ref name="gazzetta" /> e di eliminare un tratto di strada reso insidioso da una brusca variazione altimetrica in curva. Tra i nuovi manufatti vi furono galleria ''Cassia'' (la cui sezione stradale di 18,50&nbsp;m è la più larga tra i tunnel italiani)<ref name="velino" /> e il viadotto ''Quarto degli Ebrei''.<ref name="ANAS-StradeInformazione5-2006" />
+* Svincolo di ''Via Trionfale'', che comprende delle rampe in galleria naturale.<ref name="gazzetta" />
+* Nuovo ponte sul Tevere, costruito con struttura mista acciaio-calcestruzzo, strutturalmente continuo su tre luci, la centrale di 102 metri, le laterali di 67 metri ciascuna.
+* Nuove gallerie ''Parco di Veio I'' e ''II'', ''Villa Romana'', ''Acqua Traversa'', ''Trionfale'' e ''Volusia''.
+
+Il completamento delle opere, non senza ritardi e contrattempi, si svolse progressivamente in un arco di 9 anni:
+[[File:Gra cassia 2.JPG|thumb|upright=1.2|Lavori per la terza corsia, cavalcavia di Via Cassia, direzione Flaminia. La stretta curva a sinistra immetteva su una variante provvisoria. In origine il tracciato proseguiva in discesa su 2 viadotti ora demoliti (febbraio 2007)]]
+* 9 febbraio 2006: inaugurazione di 14&nbsp;km tra lo svincolo con la Via Aurelia e Selva Candida e tra la [[Marrana|Valle della Crescenza]] e la [[Cremera|Valle del Crèmera]].<ref name="ANAS-StradeInformazione1-2006-QNO" /> In questo tratto furono aperti i nuovi svincoli ''Ospedale Sant'Andrea'',<ref name="anaslibrobianco2005" /> ''Casal del Marmo'' e ''Montespaccato'' e sono stati ristrutturati quelli della ''SS2 Bis Cassia Veientana''<ref name="anaslibrobianco2005" /> e di ''Boccea''.
+* dicembre 2006: parziale apertura al transito del nuovo ponte nord sul Tevere (carreggiata esterna).
+* 23 gennaio 2007: inaugurazione di due delle quattro rampe dello svincolo ''Trionfale'' (nella zona [[Ottavia (zona di Roma)|Ottavia]]),<ref>{{Cita news |url=http://www.adnkronos.com/Speciali/Anas/Anas_Informa/02_230107.html |titolo=Anas, Grande Raccordo Anulare di Roma: aperto al traffico il nuovo svincolo di via Trionfale |pubblicazione=Adnkronos |accesso=15 aprile 2008 |urlarchivio=https://web.archive.org/web/20100704141638/http://www.adnkronos.com/Speciali/Anas/Anas_Informa/02_230107.html |urlmorto=sì |giorno=23 |mese=01 |anno=2007}}</ref> con una cerimonia tenuta al km 10 all'altezza della galleria ''Quarto degli Ebrei'', alla presenza delle autorità in carica all'epoca: il Ministro delle infrastrutture [[Antonio Di Pietro]], il [[Sindaco]] di Roma [[Walter Veltroni]], il presidente ANAS Pietro Ciucci e altri. Lo svincolo fu accessibile, fino al 27 novembre 2008, solo in carreggiata esterna in entrata, e in carreggiata interna in uscita.
+* giugno 2007: aperto completamente al transito il nuovo ponte nord sul Tevere e dismissione dello storico [[Ponte di Castel Giubileo]].
+* 9 agosto 2007: apertura di un tratto in corrispondenza di via Trionfale per 1,5&nbsp;km e uno di 1,2&nbsp;km compreso tra la Cassia e la Valle della Crescenza, entrambi in carreggiata interna.<ref name="anas-com1248" /> Ultimate la galleria ''Trionfale'' in carreggiata interna, le gallerie ''Villa Romana'' e ''Volusia''.
+* 15 ottobre 2007: apertura di una nuova carreggiata per corsia tra il km 17,400 e il km 19,000, all'altezza dello svincolo Flaminia. Il termine dei lavori in questa porzione di tracciato permise la rimozione di un notevole restringimento della carreggiata esterna che provocò intensi rallentamenti per tutta la durata della ricostruzione.<ref>{{Cita web |url=http://www.vejo.it/gra-disponibili-le-carreggiate-tra-salaria-e-flaminia/2007/10/15/ |titolo=GRA: disponibili le carreggiate tra Salaria e Flaminia |data=15 ottobre 2007 |accesso=11 aprile 2008 |urlarchivio=https://web.archive.org/web/20210629131841/https://fonts.googleapis.com/css?family=Poppins:300 |urlmorto=no}}</ref>
+* 17 giugno 2008: completamento della ristrutturazione dello svincolo di Via Flaminia<ref name="velino" /> e completamento dello scavo della nuova galleria Cassia in carreggiata esterna.<ref name="velino" />
+* 27 novembre 2008: apertura al traffico delle restanti rampe dello svincolo Trionfale e inaugurazione della nuova galleria Cassia esterna.<ref>{{Cita web |url=http://www.06blog.it/post/4323/apre-la-galleria-cassia-sul-gra-tre-corsie-su-tutto-lanello-esterno-da-alemanno-stop-al-secondo-raccordo |titolo=Apre la galleria Cassia sul Gra - Tre corsie su tutto l'anello esterno |data=15 ottobre 2007 |accesso=11 aprile 2008 |urlarchivio=https://web.archive.org/web/20090218062052/http://www.06blog.it/post/4323/apre-la-galleria-cassia-sul-gra-tre-corsie-su-tutto-lanello-esterno-da-alemanno-stop-al-secondo-raccordo |urlmorto=no}}</ref> Con quest'opera, l'intero anello esterno del GRA fu dotato di almeno 3 corsie.
+
+La conclusione dei lavori, inizialmente fissata per la fine del 2006, fu posticipata più volte.<ref name="anaslibrobianco2005" /> Lo slittamento fu motivato dall'ANAS dal ritardo nell'inizio dei lavori dovuti ai ricorsi al [[Tribunale amministrativo regionale|TAR]] presentati da ditte concorrenti all'appalto.<ref name="anaslibrobianco2005" /> In particolare per quanto riguarda la nuova galleria ''Cassia'', degli importanti ritrovamenti archeologici e la morfologia particolarmente instabile dei terreni interessati determinarono ulteriori ritardi.<ref name="anaslibrobianco2005" /><ref name="velino">{{Cita web |url=http://www.ilvelino.it/articolo.php?Id=570425 |titolo=Abbattuto il diaframma del tunnel Gra-Cassia, apertura a settembre |data=17 giugno 2008 |accesso=17 giugno 2008 |urlarchivio=https://web.archive.org/web/20090218060426/http://www.ilvelino.it/articolo.php?Id=570425 |urlmorto=sì}}</ref> Il diaframma della galleria nella corsia interna fu abbattuto il 25 novembre [[2009]]; secondo le dichiarazioni rese dal Presidente dell'ANAS nell'occasione, la completa conclusione dei lavori sul GRA, con l'apertura della nuova galleria Cassia in corsia interna, sarebbe dovuta avvenire nel maggio del [[2010]].<ref>{{Cita web |url=http://www.stradeanas.it/index.php?/news/dettaglio/id/643 |titolo=Abbattuto l'ultimo diaframma della Galleria Cassia sul Grande Raccordo Anulare di Roma |data=25 novembre 2009 |accesso=27 novembre 2009 |urlarchivio=https://web.archive.org/web/20140222061331/http://www.stradeanas.it/index.php?%2Fnews%2Fdettaglio%2Fid%2F643 |urlmorto=no}}</ref> La Galleria Cassia in carreggiata interna fu inaugurata il 30 giugno 2011,<ref>{{Cita web |url=http://www.imagoxx.it/gra-cassia-fine-dei-lavori-anas-da-giovedi-30-giugno-apre-la-galleria-in-carreggiata-interna/ |titolo=Gra-Cassia, fine dei lavori. ANAS: “da giovedì 30 giugno apre la galleria in carreggiata interna” |data=29 giugno 2011 |accesso=27 luglio 2011 |urlarchivio=https://web.archive.org/web/20110706131503/http://www.imagoxx.it/gra-cassia-fine-dei-lavori-anas-da-giovedi-30-giugno-apre-la-galleria-in-carreggiata-interna/ |urlmorto=sì}}</ref> dopo che il cantiere di quest'ultimo tratto fu sequestrato per un anno a causa di una denuncia da parte di alcuni abitanti degli edifici adiacenti.<ref>{{Cita web |url=http://www.vignaclarablog.it/2011032814113/gra-nella-galleria-cassia-attivita-parzialmente-riprese/ |titolo=GRA: Nella galleria Cassia attività parzialmente riprese |data=28 marzo 2011 |accesso=12 maggio 2011 |urlarchivio=https://web.archive.org/web/20110602115036/http://www.vignaclarablog.it/2011032814113/gra-nella-galleria-cassia-attivita-parzialmente-riprese/ |urlmorto=no}}</ref>
+
+Con l'apertura di quest'ultima galleria furono completati i lavori per la terza corsia sull'intero anello del GRA.
+
+=== Altri lavori ===
+Oltre al quadrante nord-ovest, il GRA è stato interessato da altri lavori, nel corso degli ultimi anni:
+* luglio 2005: apertura del nuovo svincolo di ''Via della Bufalotta (Porta di Roma)'', localizzato nel quadrante nord, in corrispondenza di una zona in corso di forte espansione residenziale e commerciale.
+* 6 maggio 2010: termine lavori di ristrutturazione e ampliamento dello svincolo GRA/autostrada Roma-Fiumicino (durati circa 3 anni), funzionali all'allacciamento sulla nuova viabilità complanare della [[Fiera di Roma|nuova Fiera di Roma]].<ref>{{Cita web |url=http://roma.repubblica.it/cronaca/2010/05/06/news/gra_apre_svincolo_per_la_fiera_e_l_aeroporto-3864696/ |titolo=Gra, apre nuovo svincolo per aeroporto e Fiera |data=6 maggio 2010 |accesso=21 maggio 2010 |urlarchivio=https://web.archive.org/web/20100512031234/http://roma.repubblica.it/cronaca/2010/05/06/news/gra_apre_svincolo_per_la_fiera_e_l_aeroporto-3864696/ |urlmorto=no}}</ref>
+* Ristrutturazione dello svincolo GRA/A24, contestualmente alla costruzione delle nuove complanari sull'autostrada A24.<ref>{{Cita web |url=http://www.regione.lazio.it/rl_infrastrutture/?vw=newsdettaglio&id=407 |titolo=Infrastrutture. Al via cantiere per le complanari dell'A24 |data=24 maggio 2011 |accesso=22 agosto 2012 |urlarchivio=https://web.archive.org/web/20110611015517/http://www.regione.lazio.it/rl_infrastrutture/?vw=newsdettaglio&id=407 |urlmorto=no}}</ref> Lo [[svincolo]], originariamente ''a quadrifoglio'', fu riprogettato, oltre che per consentire l'allacciamento delle complanari, per permettere un afflusso e deflusso più rapido e omogeneo dei veicoli tramite l'eliminazione di alcune interferenze nelle rampe di immissione ed emissione.<ref>{{Cita web |url=http://www.quattroruote.it/news/roma/2014/03/07/inaugurato_il_collegamento_dall_a24_al_raccordo.html |titolo=Inaugurato Il Collegamento Dall'A24 Al Raccordo |editore=Quattroruote |accesso=22 maggio 2014 |urlarchivio=https://web.archive.org/web/20140522111456/http://www.quattroruote.it/news/roma/2014/03/07/inaugurato_il_collegamento_dall_a24_al_raccordo.html |urlmorto=no}}</ref> La prima rampa fu aperta il 6 marzo 2014,<ref>{{Cita web |url=http://www.stradadeiparchi.it/articoli/1416/a24-lavori-complanari-apertura-al-traffico-nuova-rampa-a-con-il-gra.html |titolo=A24 lavori complanari – Apertura al traffico nuova rampa A con il GRA |accesso=22 maggio 2014 |urlarchivio=https://web.archive.org/web/20140522122938/http://www.stradadeiparchi.it/articoli/1416/a24-lavori-complanari-apertura-al-traffico-nuova-rampa-a-con-il-gra.html |urlmorto=sì}}</ref> seguita dalle successive, contestualmente all'inaugurazione delle complanari della A24 il 25 aprile 2014.<ref>{{Cita web |url=http://www.stradadeiparchi.it/articoli/1457/strada-dei-parchi-apertura-anticipata-per-le-complanari-dell-a24.html |titolo=Strada dei Parchi: apertura anticipata per le Complanari dell'A24 |accesso=22 maggio 2014 |urlarchivio=https://web.archive.org/web/20140522122412/http://www.stradadeiparchi.it/articoli/1457/strada-dei-parchi-apertura-anticipata-per-le-complanari-dell-a24.html |urlmorto=no}}</ref>
+* 5 dicembre 2015: apertura del nuovo svincolo per [[via Prenestina bis]] ottenuto trasformando un vecchio svincolo per l'inversione di marcia tra via Casilina e via Prenestina.<ref>{{Cita web |url=http://centocelle.romatoday.it/tor-tre-teste/inaugurazione-prenestina-bis-secondo-tratto-5-dicembre.html |titolo=La Prenestina bis è completata: inaugura il secondo tratto da via Longoni al Raccordo |sito=RomaToday |accesso=5 aprile 2016 |urlarchivio=https://web.archive.org/web/20160420055704/http://centocelle.romatoday.it/tor-tre-teste/inaugurazione-prenestina-bis-secondo-tratto-5-dicembre.html |urlmorto=no}}</ref>
+* novembre 2019: per la sicurezza preventiva antincendio nelle 2 canne della galleria monodirezionale Appia Antica (GRA - Roma) è stato installato sistema antincendio a DILUVIO ACQUA-ADDITIVO totalmente automatizzato, che attraverso due linee di ugelli installati sulle pareti laterali, eroga su sezioni di lunghezza predefinita, un liquido estinguente particolarmente efficace sulle tipologie di focolai di classe A (solidi) e/o B (liquidi) possibili in galleria.
+
+== Scenari futuri ==
+Si discute su quale potrà essere il futuro di questa opera così fondamentale per la città.
+
+Tra i progetti in corso, previsti o possibili sono da segnalare:
+
+=== Nuove opere ===
+*La costruzione di un nuovo svincolo per la [[Via Portuense]], secondo quanto riportato dal più recente [[Piano Regolatore di Roma]].<ref>{{Cita web |url=http://www.urbanistica.comune.roma.it/urbaroma/pages/it/citta_nuova/regole_generali/nuovo_piano_regolatore/consultazione_piano_municipi/municipio_xv/mun_xv_elaborati_gestionali/ |titolo=Municipio XV - Elaborati Gestionali |autore=Assessorato all'Urbanistica |accesso=8 aprile 2008 |urlarchivio=https://web.archive.org/web/20090331094005/http://www.urbanistica.comune.roma.it/urbaroma/pages/it/citta_nuova/regole_generali/nuovo_piano_regolatore/consultazione_piano_municipi/municipio_xv/mun_xv_elaborati_gestionali |urlmorto=sì |anno=2006}}</ref> Non vi sono tuttavia previsioni sulla possibile data di inizio lavori.
+*L'estensione delle [[complanari]] esterne all'intero tracciato dell'anello, dedicandole alla viabilità locale, con lo scopo di fluidificare il traffico in corrispondenza di alcuni svincoli molto utilizzati.<ref>{{Cita web |url=http://iltempo.ilsole24ore.com/roma/cronaca_locale/roma/2010/05/20/1160906-citta_degli_anelli.shtml |titolo=La città degli anelli |autore=Novelli, Susanna |accesso=21 maggio 2010 |urlmorto=sì |anno=2010}}</ref> Nel 2020 è stato completato dall'ANAS uno studio di fattibilità del prolungamento delle complanari monodirezionali dallo svincolo di Parco De' Medici allo svincolo Laurentina,<ref name=":4">{{Cita web |url=https://www.lestradedellinformazione.it/site/home/rubriche/le-strade-della-mobilita/articolo20988.html |titolo=Migliorare il nodo urbano di Roma |accesso=18 ottobre 2020 |urlarchivio=https://web.archive.org/web/20201022011705/https://www.lestradedellinformazione.it/site/home/rubriche/le-strade-della-mobilita/articolo20988.html |urlmorto=no}}</ref> la costruzione della quarta corsia fino alla galleria Appia<ref name=":4" /> e il potenziamento degli svincoli tra Via Appia e Via Prenestina.<ref name=":4" />
+*Il rifacimento dello svincolo Ardeatina (uscita numero 24), contestualmente ai lavori di potenziamento della viabilità di questa strada.<ref>{{Cita web |url=http://urlo.sc101.info/municipio/municipio-xii/2692-ardeatina-dopo-i-rinvii-il-progetto-definitivo-e-in-fase-indizione-gara-.html |titolo=Ardeatina dopo i rinvii il progetto definitivo è in fase indizione gara |accesso=16 dicembre 2010 |urlmorto=sì |anno=2010 |urlarchivio=https://web.archive.org/web/20210821092652/http://urlo.sc101.info/municipio/municipio-xii/2692-ardeatina-dopo-i-rinvii-il-progetto-definitivo-e-in-fase-indizione-gara-.html }}</ref>
+
+=== Pedaggio ===
+In numerose circostanze si è ipotizzato di introdurre un [[pedaggio]] sul GRA; tuttavia, una serie di fattori ne hanno impedito la concretizzazione; innanzitutto, la difficoltà di implementazione delle [[infrastruttura|infrastrutture]] per la riscossione che impatterebbero negativamente sulla già critica situazione del traffico, il fatto che si tratti di una strada progettata all'interno di un solo comune, e non ultima, l'impopolarità di questa proposta presso la cittadinanza e parte dell'amministrazione pubblica.
+
+==== Proposta di pedaggio del 2005 ====
+A fine [[2005]], il Presidente dell'ANAS di allora, Vincenzo Pozzi, rese nota una proposta di pedaggio<ref>{{Cita web |url=http://www.stradeanas.it/Documenti/comunicati_stampa/pubblicazioni/autostrade/capitolo3.pdf |titolo=La rete autostradale in gestione diretta |autore=Pozzi,Vincenzo |formato=pdf |accesso=7 aprile 2008 |urlarchivio=https://web.archive.org/web/20070927174125/http://www.stradeanas.it/Documenti/comunicati_stampa/pubblicazioni/autostrade/capitolo3.pdf |urlmorto=sì |p=84}}</ref> di 30 centesimi (o 50, secondo altre fonti) che avrebbe riguardato solo il traffico extraurbano proveniente dalle autostrade; l'esazione sarebbe avvenuta ai caselli già esistenti, con esclusione quindi del traffico dei pendolari.<ref>{{Cita news |url=http://www.asaps.it/showpage.php?id=4038 |titolo=Anas, Pozzi: mai parlato di pedaggio per traffico urbano GRA |pubblicazione=ASAPS |accesso=7 aprile 2008 |urlarchivio=https://web.archive.org/web/20070928121347/http://www.asaps.it/showpage.php?id=4038 |urlmorto=no}}</ref>
+Tuttavia, le dichiarazioni del Ministro delle Infrastrutture [[Antonio Di Pietro|Di Pietro]], rese nel gennaio 2007,<ref>{{Cita news |url=http://www.06blog.it/post/1012/grande-raccordo-anulare-apre-nuovo-svincolo-su-via-trionfale |titolo=Grande Raccordo Anulare, apre nuovo svincolo su via Trionfale |pubblicazione=06blog.it |accesso=7 aprile 2008 |urlarchivio=https://web.archive.org/web/20070912181241/http://www.06blog.it/post/1012/grande-raccordo-anulare-apre-nuovo-svincolo-su-via-trionfale |urlmorto=no |giorno=24 |mese=01 |anno=2007}}</ref> e confermate dal Presidente dell'ANAS Pietro Ciucci nell'agosto 2007<ref>{{Cita news |url=http://www.ansa.it/infrastrutturetrasporti/notizie/rubriche/regioni/20070810184434400531.html |titolo=GRA: al via ultima fase dei lavori |pubblicazione=ANSA |accesso=7 aprile 2008 |urlarchivio=https://web.archive.org/web/20070930045731/http://www.ansa.it/infrastrutturetrasporti/notizie/rubriche/regioni/20070810184434400531.html |urlmorto=no |giorno=10 |mese=08 |anno=2007}}</ref> e nel marzo 2008<ref>{{Cita news |url=http://www.provincialatina.tv/news/dett.aspx?id=19257 |titolo=GRA Roma: pedaggio non è all'ordine del giorno |pubblicazione=Provincialatina.tv |accesso=7 aprile 2008 |urlarchivio=https://web.archive.org/web/20090216201320/http://www.provincialatina.tv/news/dett.aspx?id=19257 |urlmorto=sì |giorno=04 |mese=03 |anno=2008}}</ref> smentirono in parte questa ipotesi, perlomeno nel breve termine.
+
+==== Ipotesi di pedaggio del 2008 ====
+Nel marzo 2008 fu resa nota un'ulteriore ipotesi di transito a pedaggio allo studio da parte del [[Ministero delle infrastrutture e dei trasporti|Ministero delle infrastrutture]]. Il pagamento avrebbe riguardato esclusivamente i [[Autoarticolato|veicoli industriali]], con una differenziazione di prezzo basata sulla [[Standard europei sulle emissioni inquinanti|categoria di emissioni del motore]] e riscossione anticipata [[Forfaiting|forfettaria]] tramite un [[Vignetta autostradale|contrassegno adesivo (vignetta)]].<ref>{{Cita web |url=http://www.trasportoeuropa.it/modules.php?name=News&file=article&sid=1852 |titolo=Pedaggio per camion sulle statali? |data=27 marzo 2008 |accesso=4 aprile 2008 |urlarchivio=https://web.archive.org/web/20210629131845/https://www.trasportoeuropa.it/newsletter/?file=article&sid=1852 |urlmorto=no}}</ref>
+
+==== Pedaggio forfettario del 2010 (legge finanziaria), poi abolito ====
+Nessuna delle precedenti proposte trovò realizzazione fino a maggio 2010, quando la possibilità di tassazione sul GRA fu reintrodotta attraverso un articolo della [[legge finanziaria]] di quell'anno, ove si prevedeva l'introduzione di un pedaggio diretto sui [[raccordo autostradale|raccordi autostradali]] e sulle autostrade in gestione diretta all'ANAS,<ref>{{Cita web |url=http://www.ilmessaggero.it/articolo.php?id=104007&sez=HOME_ECONOMIA |titolo=Pedaggi autostrade, 1-2 euro sul GraSalerno-Reggio, tra due anni 3-5 euro |data=27 maggio 2010 |accesso=31 maggio 2010 |urlarchivio=https://web.archive.org/web/20111225040515/http://www.ilmessaggero.it/articolo.php?id=104007&sez=HOME_ECONOMIA |urlmorto=sì}}</ref> suscitando anche in questo caso opinioni contrastanti nell'opinione pubblica e nei diversi schieramenti politici.<ref>{{Cita web |url=http://www.ilmessaggero.it/articolo_app.php?id=29469&sez=HOME_ECONOMIA&npl=&desc_sez= |titolo=Pedaggio Gra, no da Comune e Provincia. Polverini: speriamo di no |data=23 maggio 2010 |accesso=24 maggio 2010 |urlarchivio=https://web.archive.org/web/20100523172857/http://www.ilmessaggero.it/articolo_app.php?id=29469&sez=HOME_ECONOMIA&npl=&desc_sez= |urlmorto=sì}}</ref>
+Il decreto legge<ref>DECRETO-LEGGE 31 maggio 2010, n. 78. Misure urgenti in materia di stabilizzazione finanziaria e di competitività economica.</ref> (così come modificato dal comma 4 dell'articolo 1, del decreto legge n. 125/2010) prevedeva l'introduzione del nuovo sistema di pedaggio, al più tardi, entro il 30 aprile [[2011]]<ref>{{Cita web |url=http://www.ilmessaggero.it/articolo_app.php?id=30637&sez=HOME_ROMA&npl=&desc_sez= |titolo=Da domani autostrade più care: pedaggio da 1-2 euro per entrare in città |data=30 giugno 2010 |accesso=30 giugno 2010 |urlarchivio=https://web.archive.org/web/20150609050651/http://www.ilmessaggero.it/articolo_app.php?id=30637&sez=HOME_ROMA&npl=&desc_sez= |urlmorto=sì}}</ref> (scadenza poi rinviata per la mancanza dei decreti attuativi);<ref name="stradeanas.it">{{Cita web |url=http://www.stradeanas.it/index.php?/news/dettaglio/id/1340 |titolo=Archivio notizie |editore=Anas S.p.A |accesso=29 giugno 2021 |urlarchivio=https://web.archive.org/web/20150924110946/http://www.stradeanas.it/index.php?%2Fnews%2Fdettaglio%2Fid%2F1340 |urlmorto=no}}</ref> secondo la relazione tecnica allegata avrebbe dovuto trattarsi di un sistema di riscossione tipo ''free flow'' (a flusso libero) in luogo dei tradizionali caselli; in attesa della realizzazione delle infrastrutture connesse (telecamere, sala di controllo, ecc.), in via transitoria, a partire dal 1º luglio 2010<ref name="anas-pedaggio" /> fu aumentato il pedaggio (fino a un massimo di 1 [[euro]] per le autovetture, 2 euro per i mezzi pesanti, a seconda della stazione di ingresso) alle seguenti stazioni e barriere di pedaggio:<ref>{{Cita web |url=http://www.stradeanas.it/index.php?/news/dettaglio/id/810 |titolo=Manovra finanziaria, il Testo pubblicato dalla Gazzetta Ufficiale |accesso=6 giugno 2010 |urlarchivio=https://web.archive.org/web/20150924111004/http://www.stradeanas.it/index.php?%2Fnews%2Fdettaglio%2Fid%2F810 |urlmorto=no}}</ref>
+* autostrada A1 e diramazioni nord e sud: barriera di Roma Nord, barriera di Roma Sud, Fiano Romano<ref name="anas-pedaggio">{{Cita web |url=http://www.stradeanas.it/index.php?/news/dettaglio/id/832 |titolo=Anas: pedaggi, dal 1º luglio maggiorazione tariffaria forfettaria |accesso=30 giugno 2010 |urlarchivio=https://web.archive.org/web/20110511111326/http://www.stradeanas.it/index.php?%2Fnews%2Fdettaglio%2Fid%2F832 |urlmorto=no}}</ref>;
+* autostrada A24: barriera di Roma Est, Lunghezza, Settecamini, [[Ponte di Nona]]<ref name="anas-pedaggio" />.
+
+In seguito a ricorsi presentati al [[Tribunale amministrativo regionale|TAR]] del [[Lazio]]<ref>{{Cita web |url=http://www.ansa.it/web/notizie/rubriche/cronaca/2010/07/29/visualizza_new.html_1876282621.html |titolo=Pedaggi: Tar Lazio, stop aumenti autostrade e Gra |accesso=12 agosto 2010 |urlarchivio=https://web.archive.org/web/20100801134124/http://www.ansa.it/web/notizie/rubriche/cronaca/2010/07/29/visualizza_new.html_1876282621.html |urlmorto=no}}</ref> e del [[Piemonte]]<ref>{{Cita web |url=http://www.ansa.it/web/notizie/regioni/piemonte/2010/07/30/visualizza_new.html_1877035988.html |titolo=Pedaggi,Tar Piemonte li boccia. Saitta:"È nostra battaglia" |accesso=12 agosto 2010 |urlarchivio=https://web.archive.org/web/20120121222139/http://www.ansa.it/web/notizie/regioni/piemonte/2010/07/30/visualizza_new.html_1877035988.html |urlmorto=no}}</ref> da parte di enti locali, e in seguito a un decreto del [[Consiglio di Stato]],<ref>{{Cita web |url=http://www.ilmessaggero.it/articolo.php?id=113329&sez=HOME_INITALIA |titolo=Pedaggi, Consiglio di Stato: stop aumentiBocciati i ricorsi dell'Anas e del governo |accesso=12 agosto 2010 |urlarchivio=https://web.archive.org/web/20100805232139/http://www.ilmessaggero.it/articolo.php?id=113329&sez=HOME_INITALIA |urlmorto=sì}}</ref> gli aumenti forfettari provvisori furono eliminati dal 4 agosto 2010 perché secondo la sentenza: ''"il pedaggio non può essere una tassa ma è il pagamento di un servizio specifico"'' (l'utilizzo di una strada). Infatti nelle barriere e/o negli svincoli dove era previsto il pagamento del pedaggio forfettario un utente che non proseguiva per il GRA avrebbe comunque pagato per il suo utilizzo.<ref>{{Cita web |url=http://www.ansa.it/web/notizie/rubriche/cronaca/2010/07/29/visualizza_new.html_1876282621.html |titolo=Pedaggi: Tar Lazio, stop aumenti autostrade e Gra |sito=ANSA.it |accesso=24 gennaio 2012 |urlarchivio=https://web.archive.org/web/20100801134124/http://www.ansa.it/web/notizie/rubriche/cronaca/2010/07/29/visualizza_new.html_1876282621.html |urlmorto=no}}</ref>
+
+Nella Gazzetta Ufficiale del 13 settembre 2010 fu pubblicato il bando di gara per la fornitura di tutte le infrastrutture e le apparecchiature di gestione del pedaggiamento.<ref>{{Cita web |url=http://www.stradeanas.it/index.php?/news/dettaglio/id/909 |titolo=Archivio notizie |editore=Anas S.p.A |accesso=29 giugno 2021 |urlarchivio=https://web.archive.org/web/20160304063154/http://www.stradeanas.it/index.php?%2Fnews%2Fdettaglio%2Fid%2F909 |urlmorto=no}}</ref> La gara fu aggiudicata al gruppo [[Atlantia]].<ref>{{Cita web |url=http://www.stradeanas.it/index.php?/sala_stampa/comunicati_stampa/dettaglio/arg/comunicati_agenzie/id/252 |titolo=Agenzie di stampa su Anas |editore=Anas S.p.A |accesso=29 giugno 2021 |urlarchivio=https://web.archive.org/web/20151117063613/http://www.stradeanas.it/index.php?%2Fsala_stampa%2Fcomunicati_stampa%2Fdettaglio%2Farg%2Fcomunicati_agenzie%2Fid%2F252 |urlmorto=no}}</ref> Tuttavia, mentre per i pedaggi provvisori forfettari erano state scelte con decreti le tratte da pedaggiare, fu rimandata varie volte, e infine accantonata l'emissione del decreto contenente le tratte ANAS da sottoporre a pedaggio definitivo.<ref name="stradeanas.it" />
+
+==== Ipotesi di pedaggio del 2016 ====
+Un ennesimo tentativo di discutere l'introduzione di un pedaggio, su iniziativa di alcune formazioni politiche nel 2016,<ref>{{Cita news |url=http://www.iltempo.it/politica/2016/05/25/news/salvini-sbanda-sul-pedaggio-del-gra-1011014/ |titolo=Salvini sbanda sul pedaggio del Gra |accesso=12 novembre 2016 |urlarchivio=https://web.archive.org/web/20161112215217/http://www.iltempo.it/politica/2016/05/25/news/salvini-sbanda-sul-pedaggio-del-gra-1011014/ |urlmorto=sì}}</ref> si concluse con un nulla di fatto; a tale proposito il presidente dell'ANAS Gianni Vittorio Armani ribadì come, dopo il fallito tentativo della Legge Finanziaria del 2010, fosse fuori discussione ogni ulteriore proposta di pedaggio nel breve e lungo termine.<ref>{{Cita news |nome=Simone |cognome=Ricci |url=http://newsgo.it/2016/05/anas-non-ci-sara-pedaggio-grande-raccordo-anulare/ |titolo=Anas: "Non ci sarà pedaggio per il Grande Raccordo Anulare" - newsgo |pubblicazione=newsgo |data=28 maggio 2016 |accesso=12 novembre 2016 |urlarchivio=https://web.archive.org/web/20161112211029/http://newsgo.it/2016/05/anas-non-ci-sara-pedaggio-grande-raccordo-anulare/ |urlmorto=no}}</ref>
+
+=== Nuovo GRA ===
+Si è ipotizzata da tempo la costruzione di nuove infrastrutture di circonvallazione di Roma (assimilabili a un secondo GRA più esterno), nel tentativo di ovviare alla cronica congestione del raccordo anulare e per offrire una viabilità tangenziale adeguata alle oramai numerosissime zone industriali, commerciali e residenziali sorte al suo esterno (oltre al popoloso [[Hinterland|retroterra]] di Roma), nonostante la difficile situazione [[ecologia|ecologica]] dell'[[Agro Romano]].
+
+Di questo progetto si parlò per la prima volta in occasione di un convegno organizzato dall'Unione degli Industriali di Roma il 4 marzo del 2003.<ref>{{Cita news |url=http://redazione.romaone.it/4Daction/Web_RubricaNuova?ID=70731&doc=si |titolo=Roma, il grande raccordo si fa in due |pubblicazione=RomaOne |accesso=4 aprile 2008 |urlarchivio=https://web.archive.org/web/20070928121406/http://redazione.romaone.it/4Daction/Web_RubricaNuova?ID=70731&doc=si |urlmorto=sì |giorno=07 |mese=12 |anno=2005}}</ref> In quell'occasione l'ANAS dichiarò che per quest'opera, denominata ''Nuova Infrastruttura Anulare (N.I.A.)'' esisteva anche uno studio di fattibilità. La proposta fu rilanciata nel febbraio 2006, per voce del Presidente in carica all'epoca, Vincenzo Pozzi,<ref>{{Cita news |url=http://www.roma18.it/roma18/articoli.php?aid=27&type=canale&id=5 |titolo=L'ANAS vuole un secondo Raccordo Anulare |pubblicazione=roma18.it |accesso=4 aprile 2008 |urlarchivio=https://web.archive.org/web/20070928040333/http://www.roma18.it/roma18/articoli.php?aid=27&type=canale&id=5&PHPSESSID=6179f97fc4b6c6719a2437731bce48d8 |urlmorto=sì}}</ref> il quale dichiarò che la ''NIA'' di Roma era stata inserita nel ''Piano Decennale'' dell'Anas 2003-2012.
+
+Il progetto di massima prevedeva una nuova tangenziale esterna al vecchio GRA di circa 120&nbsp;km, dal tracciato più irregolare, con un diametro di 40 chilometri, 20 svincoli e 7 interconnessioni con il sistema autostradale esistente.<ref name="nuovogra-giornale">{{Cita news|autore=Omar Sherif H. Rida|url=https://www.ilgiornale.it/news/ci-vorranno-8-anni-120-km.html|titolo=Ci vorranno 8 anni per 120 km|pubblicazione=Il Giornale|accesso=4 aprile 2008|giorno=02|mese=04|anno=2008}}</ref> Il costo dei lavori fu stimato in oltre 5 miliardi di euro;<ref name="nuovogra-giornale" /> L'opera avrebbe dovuto essere realizzata in diverse fasi, ad iniziare dal tratto tra Via Salaria e Via Appia, e finanziata attraverso investitori privati ([[finanza di progetto]]).
+
+L'opera è stata fortemente osteggiata dalle associazioni ambientaliste<ref name="wwf">{{Cita news |url=http://www.wwfroma11.it/attivita/nuovo%20gra%20mar%2006.htm |titolo=L'ANAS vuole un secondo Raccordo Anulare |pubblicazione=WWF, gruppo attivo Roma XI |accesso=4 aprile 2008 |urlarchivio=https://web.archive.org/web/20070927173504/http://www.wwfroma11.it/attivita/nuovo%20gra%20mar%2006.htm |urlmorto=no |giorno=20 |mese=03 |anno=2006}}</ref> in virtù della sua presunta inutilità e per il fatto che l'autostrada avrebbe previsto l'attraversamento di 5 [[Area naturale protetta|aree naturali protette]]:<ref name="wwf" /> la [[Riserva naturale di Decima-Malafede|Riserva di Decima Malafede]], la [[Riserva naturale della Marcigliana]], il [[Veio|Parco Regionale di Veio]], la [[Riserva naturale di Nomentum]] e la [[Riserva naturale Litorale romano|Riserva naturale del Litorale romano]].
+
+Per il tracciato furono fatte diverse ipotesi: nella zona nord-est la strada avrebbe attraversato la Riserva della Marcigliana fino ad incrociare Via Nomentana appena prima di [[Poggio Fiorito]]. Nella seconda invece avrebbe lambito [[Mentana]], giungendo alla Riserva Naturale di Nomentum, sfiorando la A1 a partire dall'incrocio con via Palombarese.<ref name="wwf" />
+
+Altre due le varianti previste dal progetto.<ref name="wwf" /> La prima, che incrocia l'A24, si sarebbe manutenuta sotto [[Villaggio Falcone|via Ponte di Nona]] e [[Borghesiana|via Borghesiana]] raggiungendo la diramazione dell'autostrada del Sole alla barriera di Roma Sud, passando all'esterno per [[Lunghezza (zona di Roma)|Lunghezza]] e la barriera di Roma Est. L'ultima variante sarebbe transitata appena sotto Frascati e, sfiorando Ciampino, avrebbe attraversato via Anagnina, incrociando l'Appia Nuova.
+
+A un iniziale entusiasmo seguì un lungo periodo di silenzio sull'argomento, interrotto dal presidente dell'ANAS Ciucci che nell'agosto 2007 confermò l'esistenza di un progetto di fattibilità per il quale, tuttavia, non erano previsti i tempi di realizzazione.<ref>{{Cita news |url=http://www.ansa.it/infrastrutturetrasporti/notizie/rubriche/regioni/20070810184434400532.html |titolo=GRA: Ciucci, abbiamo in progetto un secondo anello |pubblicazione=ANSA |accesso=4 aprile 2008 |urlarchivio=https://web.archive.org/web/20070927194424/http://www.ansa.it/infrastrutturetrasporti/notizie/rubriche/regioni/20070810184434400532.html |urlmorto=no |giorno=10 |mese=08 |anno=2007}}</ref> La realizzazione della NIA fu inoltre inserita nel [[Elezioni politiche in Italia del 2008#Programmi elettorali|programma elettorale]] di diverse [[Partiti politici italiani|formazioni politiche]] per le [[Elezioni politiche in Italia del 2008|elezioni italiane del 2008]] e per le elezioni amministrative [[comune|comunali]] e [[provincia]]li. A novembre 2009 Ciucci riferì nuovamente in merito alla possibile opera, ritenendo necessari circa 1,5 miliardi di euro di investimenti privati per la realizzazione.<ref>[[Il Messaggero]], cronaca di Roma, 26 novembre 2009, p. 21.</ref>
+
+== Nei media ==
+* Nel film ''[[I vitelloni]]'' (1953) di [[Federico Fellini]] la scena dove Alberto ([[Alberto Sordi]]) sbeffeggia gli operai al lavoro fu girata su uno dei primi tratti del Grande Raccordo Anulare aperti al traffico.
+* La vita intorno al Grande Raccordo Anulare è il soggetto di un [[film]]-[[documentario]] del [[2013]], [[Produzione cinematografica|coprodotto]] da Italia e Francia, con la regia di [[Gianfranco Rosi (regista)|Gianfranco Rosi]]<ref>{{Cita web |url=http://www.ansa.it/web/notizie/rubriche/cultura/2010/09/13/visualizza_new.html_1783421332.html |titolo=Gianfranco Rosi, nuovo film su Gra Roma |autore=Camera dei Deputati |data=13 settembre 2010 |formato=pdf |accesso=13 settembre 2010 |urlarchivio=https://web.archive.org/web/20100914072409/http://ansa.it/web/notizie/rubriche/cultura/2010/09/13/visualizza_new.html_1783421332.html |urlmorto=no}}</ref> dal titolo ''[[Sacro GRA]]'';<ref>{{Cita web |url=http://www.cinemaitaliano.info/sacrogra |titolo=Sacro G.R.A. |data=7 dicembre 2010 |accesso=7 dicembre 2010 |urlarchivio=https://web.archive.org/web/20101117035316/http://www.cinemaitaliano.info/sacrogra |urlmorto=no}}</ref> la pellicola vinse il [[Leone d'oro al miglior film|Leone d'oro per il miglior film]] alla [[70ª Mostra internazionale d'arte cinematografica di Venezia|70ª edizione della Mostra Internazionale d'Arte Cinematografica della Biennale di Venezia]].
+* Nel film ''[[Roma (film 1972)|Roma]]'' (1972) di Fellini viene inscenato un gigantesco ingorgo sul Raccordo Anulare, sebbene ricostruito negli [[studi di Cinecittà]].<ref>{{Cita web|url=http://archivio.federicofellini.it/node/532|titolo=Roma {{!}} Comune di Rimini - Cineteca comunale|sito=archivio.federicofellini.it|accesso=31 agosto 2021}}</ref>
+* Il comico [[Corrado Guzzanti]] dedicò al GRA una canzone, ''Grande Raccordo Anulare'', parodiando il cantante romano [[Antonello Venditti]] e impersonandolo al programma TV ''[[L'ottavo nano]]'' su [[Rai 2]]<ref>{{Cita web|url=https://www.teche.rai.it/2001/01/lottavo-nano-2001/|titolo=L'ottavo nano, 2001 -|sito=Rai Teche|data=16 gennaio 2001|lingua=it|accesso=31 agosto 2021}}</ref>. Guzzanti ripropose il brano a sorpresa durante il concerto di Venditti per il terzo scudetto della [[Associazione Sportiva Roma|Roma]] nel [[2001]], registrato nell'album ''[[Circo Massimo 2001]]''.
+* Il cantante [[Max Pezzali]] ha sottolineato la criticità del traffico sul GRA nella sua canzone ''Chiuso in una scatola''.<ref>{{Cita web|url=https://www.flashlyrics.com/lyrics/max-pezzali/chiuso-in-una-scatola-72|titolo=Chiuso in una scatola Lyrics - Max Pezzali|sito=FlashLyrics|lingua=en|accesso=31 agosto 2021}}</ref>
+* ''Grande raccordo'' è il titolo di una raccolta di racconti di [[Marco Lodoli]] ([[Bompiani]], 1989).
+*Il collettivo di rapper romani noto col nome di [[Tiger Fregna]] vi ha dedicato un intero pezzo intitolato ''GRA''<ref>{{Cita pubblicazione|titolo=Tiger Fregna – GRA|accesso=31 agosto 2021|url=https://genius.com/Tiger-fregna-gra-lyrics}}</ref>
+*È citato nel testo della canzone L''<nowiki/>'agnello di Dio'' di [[Francesco De Gregori]].<ref>{{Cita web |url=http://testicanzoni.mtv.it/testi-Francesco-De-Gregori_7674/testo-L%27agnello-di-Dio-989456 |titolo=L'agnello di Dio (Testo) - Francesco De Gregori |sito=MTV Testi e Canzoni |lingua=it |accesso=5 settembre 2019 |urlarchivio=https://web.archive.org/web/20190905210138/http://testicanzoni.mtv.it/testi-Francesco-De-Gregori_7674/testo-L%27agnello-di-Dio-989456 |urlmorto=no}}</ref>
+*Il gruppo [[Radici nel Cemento]] cita il raccordo nella canzone ''Er Traffico de Roma'' tratta dall'album ''Occhio!'' del 2004.<ref>{{Cita web |url=http://testicanzoni.mtv.it/testi-Radici-Nel-Cemento_171106/testo-Er-traffico-de-Roma-7945514 |titolo=Er Traffico de Roma (Testo) - Radici nel Cemento |sito=MTV Testi e Canzoni |lingua=it |accesso=19 settembre 2019 |urlarchivio=https://web.archive.org/web/20210629131848/https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js |urlmorto=no}}</ref>
+*L’uscita 33 del Grande Raccordo Anulare (Casal Lumbroso) è citata nel singolo di [[Fulminacci]] ''[[Borghese in borghese]]'', pubblicato nel 2019 e tratto dall’album ''[[La vita veramente]]''.
+
+== Note ==
+=== Esplicative ===
+<references group="N"/>
+
+=== Bibliografiche ===
+<references/>
+
+== Bibliografia ==
+* {{Cita libro |nome=Organizing Committee of the Games of the XVII Olympiad |titolo=The games of the XVII Olympiad, The Official Report |anno=1962 |editore=Carlo Colombo Publisher |lingua=en |volume=2 }}
+* {{Cita libro |curatore=ANAS |titolo=Libro bianco |anno=2005 |editore=ANAS}}
+* {{Cita pubblicazione |data=febbraio-marzo 2006 |titolo=Strade dell'informazione (periodico a diffusione interna) |editore=ANAS |numero=1 |curatore=ANAS | autore=Stefano Baietti}}
+* {{Cita pubblicazione |anno=2006 |mese=agosto |titolo=Strade dell'informazione (periodico a diffusione interna |editore=ANAS |numero=5 |curatore=ANAS}}
+* {{Cita libro |curatore=Seat |titolo=Tuttocittà (della città di Roma, inserto di ''[[Pagine gialle#PagineGialle Seat|Pagine Gialle]]'') |anno=2007 |editore=Seat Pagine Gialle |cid=Tuttocittà}}
+* {{Cita libro |curatore=TCI |titolo=Atlante stradale d'Italia – Centro 1:200&nbsp;000 |anno=2004 |editore=Touring Club Italiano |ISBN=88-365-2756-6}}
+* {{Cita libro |nome=Nicolò |cognome=Bassetti |nome2=Sapo |cognome2=Matteucci |titolo=Sacro romano GRA – Persone, luoghi, paesaggi lungo il Grande Raccordo Anulare |anno=2013 |editore=Humboldt Editore |ISBN=978-88-7462-557-4 }}
+* {{Cita libro |nome=Umberto |cognome=Cao |titolo=Gomorra nº 9 – Grande Raccordo Anulare, territori e culture della metropoli contemporanea |anno=2005 |editore=Meltemi Editore |ISBN=978-88-8353-438-6}}
+* {{Cita libro |nome=Alessandra |cognome=Cazzola |titolo=I paesaggi nelle campagne di Roma |anno=2005 |editore=Firenze University Press |ISBN=88-8453-399-6 }}
+* {{Cita libro |nome=Mario |cognome=De Quarto |titolo=Grande Raccordo Anulare – alla ricerca dei confini di Roma |anno=2005 |editore=Mario Avagliano editore|ISBN=88-8309-177-9}}
+* {{Cita pubblicazione |autore=[[Sergio Lenci]] |anno=1997 |titolo=Il Grande Raccordo Anulare di Roma |rivista=Ricerca e Progetto |numero=9-10}}
+* {{Cita libro |nome=Piero Maria |cognome=Lugli |titolo=Urbanistica di Roma. Trenta planimetrie per trenta secoli di storia |anno=1998 |editore=Bardi editore |ISBN=88-85699-48-0 }}
+* {{Cita libro |nome=Umberto |cognome=Mariotti Bianchi |titolo=I trasporti di Roma, dal tram a cavalli al metrò |anno=1995 |editore=[[Newton Compton Editori]] |ISBN=88-8183-217-8 }}
+* {{Cita libro |nome=Marco |cognome=Pietrolucci |titolo=La città del Grande Raccordo Anulare |anno=2012 |editore=Gangemi Editore |ISBN=88-492-2076-6 }}
+* {{Cita libro |autore=Piero Ostilio Rossi |titolo=Roma. Guida all'architettura moderna 1909-2000: grandi opere |editore=Laterza editore |ISBN=88-420-6072-0}}
+* {{Cita libro |nome=Valter |cognome=Vannelli |titolo=Roma, architettura. Da città dei Papi a capitale d'Italia |anno=2001 |editore=Kappa Edizioni |ISBN=88-7890-409-0 }}
+
+== Voci correlate ==
+* [[Sacro GRA]]
+* [[Suddivisioni di Roma]]
+* [[Odonimia di Roma]]
+* [[Urbanistica a Roma tra il 1870 e il 2000]]
+
+=== Strade simili in Italia ===
+* [[Tangenziale di Lecce]]
+* [[Strada Poligonale di Bitonto]]
+
+=== Strade simili nel mondo ===
+* [[Bundesautobahn 10]] di [[Berlino]]
+* [[Motorway M25]] di [[Londra]]
+* [[Autopista M-30]] di [[Madrid]]
+* [[MKAD]] di [[Mosca (Russia)|Mosca]]
+* [[Boulevard périphérique di Parigi]]
+
+== Altri progetti ==
+{{Interprogetto|commons_preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+* {{Cita web |url=http://www.wwfroma11.it/attivita/nuovo%20GRA%20mar%2006.htm |titolo=(WWF): ipotesi di tracciato della N.I.A. |accesso=1º settembre 2021}}
+* {{Cita web |url=https://www.openstreetmap.org/#map=12/41.8954/12.4458 |titolo=(OpenStreetMap): tracciato del GRA |accesso=1º settembre 2021}}
+* {{Cita web |url=https://maps.google.com/maps?f=q&hl=it&geocode=&q=via+aurelia+roma&sll=37.0625,-95.677068&sspn=47.483365,92.285156&ie=UTF8&ll=41.88386,12.381216&spn=0.005487,0.011265&t=k&z=17 |titolo=(Google Maps): vista satellitare dell'uscita 1 Aurelia (km 0 del GRA) |accesso=1º settembre 2021}}
+* {{Cita web |url=https://it.youtube.com/watch?v=LoCTjKRpd7U |titolo=(YouTube) «Il GRA in 8 minuti». Filmato a velocità accelerata che riprende l'intero tracciato |accesso=7 aprile 2008}}
+* {{Cita web |url=http://laromanatoponomastica.weebly.com/il-grande-raccordo-anulare.html |titolo=(la romana toponomastica): descrizione toponomastica e storica |accesso=1º settembre 2021 }}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}{{Controllo di autorità}}
+{{Portale|Roma|trasporti}}
+{{Voce di qualità|valutazione=Wikipedia:Riconoscimenti di qualità/Segnalazioni/Autostrada A90|arg=architettura|giorno=22|mese=dicembre|anno=2025}}
+
+[[Categoria:Grande Raccordo Anulare| ]]
+[[Categoria:Autostrade gestite dall'ANAS]]
+[[Categoria:Tangenziali in Italia|Roma]]
+[[Categoria:Trasporti a Roma]]
+[[Categoria:Strade di Roma]]
+[[Categoria:Roma Q. XXX San Basilio]]
+[[Categoria:Roma Q. XXXI Giuliano-Dalmata]]
+[[Categoria:Roma S. VIII Gianicolense]]
+[[Categoria:Roma S. IX Aurelio]]
+[[Categoria:Roma S. X Trionfale]]
+[[Categoria:Roma Z. II Castel Giubileo]]
+[[Categoria:Roma Z. III Marcigliana]]
+[[Categoria:Roma Z. IV Casal Boccone]]
+[[Categoria:Roma Z. V Tor San Giovanni]]
+[[Categoria:Roma Z. VI Settecamini]]
+[[Categoria:Roma Z. VII Tor Cervara]]
+[[Categoria:Roma Z. VIII Tor Sapienza]]
+[[Categoria:Roma Z. IX Acqua Vergine]]
+[[Categoria:Roma Z. XII Torre Spaccata]]
+[[Categoria:Roma Z. XIII Torre Angela]]
+[[Categoria:Roma Z. XV Torre Maura]]
+[[Categoria:Roma Z. XVI Torrenova]]
+[[Categoria:Roma Z. XVIII Capannelle]]
+[[Categoria:Roma Z. XIX Casal Morena]]
+[[Categoria:Roma Z. XX Aeroporto di Ciampino]]
+[[Categoria:Roma Z. XXI Torricola]]
+[[Categoria:Roma Z. XXII Cecchignola]]
+[[Categoria:Roma Z. XXIII Castel di Leva]]
+[[Categoria:Roma Z. XXIV Fonte Ostiense]]
+[[Categoria:Roma Z. XXV Vallerano]]
+[[Categoria:Roma Z. XXVII Torrino]]
+[[Categoria:Roma Z. XXVIII Tor de' Cenci]]
+[[Categoria:Roma Z. XXXI Mezzocammino]]
+[[Categoria:Roma Z. XXXIX Tor di Valle]]
+[[Categoria:Roma Z. XL Magliana Vecchia]]
+[[Categoria:Roma Z. XLI Ponte Galeria]]
+[[Categoria:Roma Z. XLIV La Pisana]]
+[[Categoria:Roma Z. XLV Castel di Guido]]
+[[Categoria:Roma Z. XLVIII Casalotti]]
+[[Categoria:Roma Z. LIII Tomba di Nerone]]
+[[Categoria:Roma Z. LVI Grottarossa]]
+[[Categoria:Roma Z. LVII Labaro]]

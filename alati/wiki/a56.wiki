@@ -1,0 +1,281 @@
+{{Nd|la società che la gestisce|Tangenziale di Napoli (azienda)|Tangenziale di Napoli}}
+{{Strada
+|nome = Autostrada A56
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale di Napoli
+|simbolo = Autostrada A56 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-CAM}}
+|divisione amm 2 ={{IT-NA}} 
+|inizio = Innesto da [[Autostrada A1 (Italia)#A1 Ramo Capodichino|A1 Ramo Capodichino]] presso [[Capodichino]]
+|fine = Innesto su [[Strada statale 7 quater Via Domitiana|SS7 quater]] presso [[Arco Felice]] ([[Pozzuoli]])
+|lunghezza = 20,2<ref>{{cita testo|url=http://www.tangenzialedinapoli.it/opencms/tangenziale/it/servizi/uscite.html|titolo=Tangenziale di Napoli SpA - Uscite e siti rilevanti<!-- Titolo generato automaticamente -->|urlarchivio=https://web.archive.org/web/20090714012131/http://www.tangenzialedinapoli.it/opencms/tangenziale/it/servizi/uscite.html }}</ref>
+|direzione = est-ovest
+|apertura = [[1972]]<ref>{{cita testo|url=http://www.tangenzialedinapoli.it/opencms/tangenziale/it/Chi_siamo/storia.html|titolo=Tangenziale di Napoli SpA - La storia<!-- Titolo generato automaticamente -->|urlarchivio=https://web.archive.org/web/20090504120600/http://www.tangenzialedinapoli.it/opencms/tangenziale/it/Chi_siamo/storia.html }}</ref> (primo tratto aperto)
+|provvedimento istituzione = 
+|gestore = [[Tangenziale di Napoli (azienda)|Tangenziale di Napoli S.p.A]]
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|sistema aperto]] [[Pedaggio#Eccezioni|*]]
+|città servite = [[Napoli]] e [[Pozzuoli]]
+|intersezioni = [[Autostrada A1 (Italia)#A1 Ramo Capodichino|A1 Ramo Capodichino]] a [[Capodichino]] e [[Strada statale 7 quater Via Domitiana|SS7 quater]] ad [[Arco Felice]]
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A56.svg
+|tracciato = 
+}}
+L''''autostrada A56''', detta anche '''Tangenziale di Napoli'''<ref>{{cita testo|url=http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf|titolo=A pag. 8|urlarchivio=https://web.archive.org/web/20131016102523/http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf }}</ref><ref>{{cita web |url=http://www.tangenzialedinapoli.it/export/sites/default/tangenziale/it/gare/Gara_153/Disciplinare_di_gara.pdf |titolo=Copia archiviata |accesso=18 aprile 2010 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20140102191648/http://www.tangenzialedinapoli.it/export/sites/default/tangenziale/it/gare/Gara_153/Disciplinare_di_gara.pdf }} e {{cita web |url=http://www.tangenzialedinapoli.it/export/sites/default/tangenziale/it/gare/Gara_153/Bando_di_gara.pdf |titolo=Copia archiviata |accesso=18 aprile 2010 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20140102191643/http://www.tangenzialedinapoli.it/export/sites/default/tangenziale/it/gare/Gara_153/Bando_di_gara.pdf }}</ref> costituisce l'asse di attraversamento principale della [[Napoli|suddetta città]]. Lunga 20&nbsp;km, è un'autostrada interamente gestita da [[Tangenziale di Napoli (azienda)|Tangenziale di Napoli S.p.A.]] del gruppo [[Autostrade per l'Italia]].
+
+Il suo tracciato inizia a [[Capodichino]], al termine del [[Autostrada A1 (Italia)#A1 Ramo Capodichino|ramo Capodichino dell'autostrada A1]], e attraversa l'intera città di [[Napoli]] da [[est|oriente]] a [[ovest|occidente]], sino a raggiungere l'[[Campi flegrei|area flegrea]] di [[Pozzuoli]].
+
+==Storia==
+Il progetto dell'[[infrastruttura]] prende vita il 31 gennaio [[1968]], quando venne firmata una convenzione tra l'[[Anas (azienda)|Anas]] e [[Tangenziale di Napoli (azienda)|Infrasud]], del gruppo [[IRI]]-[[Italstat]], per la costruzione e il successivo affidamento della gestione per 33 anni del percorso viario. L'intera arteria fu costruita con capitali al 70% Iri, 15% Sme, 15% Banco di Napoli. Progettata da [[SPEA - Ingegneria Europea|Spea]] e realizzata da [[Italstrade]],<ref>{{cita testo|url=https://docs.google.com/viewer?a=v&q=cache:VMwqjJ4b6IYJ:www.stradeanas.it/index.php%3F/news/download/file/491+tangenziale+di+napoli+infrasud+italstrade&hl=it&gl=it&pid=bl&srcid=ADGEESh1DkeegxZaDuMKwUmwidYFtVll9Hy9-114UVoqOaJ7S9aGKaE0X67AZV59FOfIySoFDSKNBaeWDzwgC-EBqmXV5VLi9k6y-0ukDiRjHq0KyLYvGa7SCFqsxT6RFMX2gX_732ML&sig=AHIEtbSMion0UFpR1QbLwH0wYveQ9InLNw|titolo=Anas.it powered by Google Docs}}</ref> il costo dell'opera venne stimato in 46 miliardi di [[lire]] (circa 535 milioni di [[euro]] calcolata l'inflazione).
+
+Il primo tratto venne inaugurato l'8 luglio [[1972]] tra la Domitiana e Fuorigrotta,<ref>{{Cita pubblicazione |titolo = Via libera sulla tangenziale di Napoli |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XIV |numero = 6 |editore = |città = Roma |anno = 1972 |mese = giugno |p = 36 |ISSN = 0005-1756 }}</ref> seguito dall'inaugurazione negli anni successivi degli ulteriori tratti sino a Capodichino, raggiungibile dal 16 novembre [[1975]]. Ulteriori aperture del [[1976]] e del [[1977]] furono gli svincoli di Corso Malta e di Capodimonte. Nel [[1992]] l'ultimo svincolo aperto, quello della Zona Ospedaliera (l'unico esistente solo in uscita, ma esiste un progetto per realizzarne anche l'entrata).
+
+==L'autostrada oggi==
+[[File:Vomero.jpg|thumb|Tratto di tangenziale, si nota il viadotto Arena Sant'Antonio con gli svincoli]]
+La tangenziale è costituita da tre corsie per senso di marcia e termina a [[Capodichino]], dove si immette sull'[[Autostrada A1 (Italia)|autostrada del Sole]] tramite il [[Autostrada A1 (Italia)#A1 Ramo Capodichino|Ramo Capodichino]].<br />Le opere ingegneristiche più evidenti sono il viadotto Capodichino (1360 metri e altezza massima 60 metri), il viadotto Arena Sant'Antonio (812 metri), il viadotto Fontanelle (230 metri) e le gallerie Vomero (1035 metri) e Capodimonte (1060 metri).
+
+È l'unico asse urbano interamente a [[pedaggio]], a forfait, indipendente quindi dalla distanza percorsa, di 1,05€ (alla sua apertura, nel 1972, era di 300 lire) e si paga sempre in uscita: le [[tangenziale|tangenziali]] di [[Milano]] e [[Torino]], al contrario, si pagano solo per l'attraversamento, solo in alcuni punti.
+
+In origine, il pedaggio sarebbe dovuto servire a ripagare le spese di costruzione dell'opera, realizzata con capitale interamente privato, e rimanere, in seguito a un accordo con l'Anas, fino al 2001. Il pedaggio, nonostante l'accordo fosse scaduto, è rimasto, senza motivazioni ufficiali, per sette anni, dal 2001 al 2008. Nel 2008 è stato firmato un nuovo accordo e, pertanto, ora il pedaggio rimane ufficialmente per finanziare interventi, concordati dalla società di gestione della tangenziale, in zona ospedaliera.<ref name=autogenerato1>{{cita web|url=http://www.napoli.com/viewarticolo.php?articolo=27461|titolo=Tangenziale di Napoli: Il pedaggio più discusso d'Italia}}</ref>
+
+Gli introiti, derivanti dal pedaggio, ammontano a circa 6 milioni di euro al mese.
+
+Lungo tutta la tangenziale sono presenti sessantacinque telecamere (trentaquattro nelle gallerie), barriere fonoassorbenti e display informativi gestiti da una complessa sala monitoraggio. Nel complesso tra casellanti e funzionari gli addetti sono circa trecentocinquanta.
+
+A causa dell'elevato numero di incidenti stradali, la velocità massima consentita lungo l'intero asse è limitata a 80&nbsp;km/h e controllata 24 ore su 24 mediante postazioni [[Tutor (dispositivo)|Tutor]].
+
+Il flusso di traffico che interessa questo tratto autostradale è di circa 270.000 attraversamenti al giorno.<ref>{{cita testo|url=http://www.tangenzialedinapoli.it/opencms/tangenziale/it/comunicazione/impegno_citta.html#|titolo=Dati sito Tangenziale di Napoli s.p.a|urlarchivio=https://web.archive.org/web/20080917165621/http://www.tangenzialedinapoli.it/opencms/tangenziale/it/comunicazione/impegno_citta.html }}</ref>
+
+La gestione della tangenziale è di competenza di [[Tangenziale di Napoli S.p.A.]], società del gruppo [[Atlantia|Autostrade per l'Italia]].
+
+==Tariffe==
+{| class="wikitable"
+|- align="center" bgcolor="08842C" style="color: white"
+| colspan="9" | '''Tangenziale di Napoli - Storico tariffe (Classe A)'''
+|-
+! Anno
+! Tariffa
+|-
+|'''1972'''
+|300&nbsp;Lire
+|-
+|'''1974'''
+|400&nbsp;Lire
+|-
+|'''1977'''
+|500&nbsp;Lire
+|-
+|'''1990'''
+|600&nbsp;Lire
+|-
+|'''1991'''
+|700&nbsp;Lire
+|-
+|'''1994'''
+|800&nbsp;Lire
+|-
+|'''1995'''
+|1000&nbsp;Lire
+|-
+|'''1997'''
+|1100&nbsp;Lire
+|-
+|'''1999'''
+|1200&nbsp;Lire
+|-
+|'''2002'''
+|0,65&nbsp;€
+|-
+|'''2008'''
+|0,70&nbsp;€
+|-
+|'''2009'''
+|0,75&nbsp;€
+|-
+|'''2010'''
+|0,80&nbsp;€
+|-
+|'''2011'''
+|0,85&nbsp;€
+|-
+|'''2012'''
+|0,90&nbsp;€
+|-
+|'''2014'''
+|0,95&nbsp;€
+|-
+|'''2018'''
+|1&nbsp;€
+|-
+|'''2026'''
+|1,05&nbsp;€
+|-
+|}<references group="a" />
+
+==Opere d'ingegneria==
+[[File:Viadotto Arena Sant'Antonio, passaggio sopra piazza Ottocalli..jpg|alt=Viadotto Arena Sant'Antonio, passaggio sopra piazza Ottocalli|miniatura|Viadotto di Capodichino, passaggio sopra piazza Ottocalli.]]
+
+===Viadotti===
+Lungo il percorso vi sono 3,191&nbsp;km di viadotti che rappresentano il 15,8% dello sviluppo del tracciato, se ne contano otto. Qui sono elencati per di lunghezza crescente:
+{| class="wikitable"
+|- align="center" bgcolor="08842C" style="color: white"
+| colspan="9" | '''Tangenziale di Napoli - Tabella viadotti'''<ref group="a">La lunghezza è quella rilevata sulla segnaletica presente a inizio viadotto</ref>
+|- align="center"
+! Nome
+! Lunghezza
+! Note
+|-
+|'''Domitiana'''
+|56&nbsp;m
+|
+|-
+|'''Calata San Domenico'''
+|160&nbsp;m
+|
+|-
+|'''Via Campana'''
+|190&nbsp;m
+|
+|-
+|'''Miano-Agnano'''
+|190&nbsp;m
+|
+|-
+|'''Cassiodoro'''
+|193&nbsp;m
+|
+|-
+|'''Fontanelle'''
+|230&nbsp;m
+|
+|-
+|'''Arena Sant'Antonio'''
+|812&nbsp;m
+|
+|-
+|'''Capodichino'''
+|1360&nbsp;m
+|L'altezza massima è 60 metri
+|-
+|}<references group="a" />
+
+===Gallerie===
+Le gallerie sono pari a 3,775&nbsp;m e rappresentano il 19,7% dello sviluppo del tracciato; vi sono in tutto quattro gallerie naturali (tutte a doppia canna, una per senso di marcia). Qui sono elencate in ordine di lunghezza crescente:
+{| class="wikitable"
+|- align="center" bgcolor="08842C" style="color: white"
+| colspan="8" | '''Tangenziale di Napoli - Tabella delle gallerie'''<ref group="b">La lunghezza è quella rilevata sulla segnaletica presente a inizio galleria</ref>
+|- align="center"
+! Nome
+! Tipo
+! Lunghezza
+|-
+|'''Solfatara'''
+|naturale
+|820&nbsp;m/890 m
+|-
+|'''Sant'Angelo'''
+|naturale
+|860&nbsp;m
+|-
+|'''Vomero'''
+|mista
+|1035&nbsp;m
+|-
+|'''Capodimonte'''
+|naturale
+|1060&nbsp;m
+|-
+|}<references group="b" />
+
+==Percorso==
+{| class="wikitable"
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="7" | '''{{simbolo|Autostrada A56 Italia.svg|30}}<br /> TANGENZIALE DI NAPOLI'''
+|-
+!align="center"|n°!!align="center"|'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Città metropolitana'''
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg|17}}|| [[File:AB-Vzw-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 45.svg|24}} {{simbolo|Autostrada A1 Italia.svg|18}} [[Autostrada A1 (Italia)#A1 Ramo Capodichino|Ramo Capodichino]] <br/> <small>SP527 Casoria-Afragola</small><br />{{simbolo|Strada Statale 162NC Italia.svg|40}}<small> [[Strada statale 162 NC Asse Mediano|Asse Mediano]]</small><br />{{simbolo|Italian traffic signs - strada europea 842.svg|24}} {{simbolo|Autostrada A16 Italia.svg|18}} <small>[[Autostrada A16 (Italia)|Bari-Avellino-Benevento]]</small><br />{{simbolo|Italian traffic signs - strada europea 45.svg|24}} {{simbolo|Autostrada A3 Italia.svg|18}} <small>[[Autostrada A3 (Italia)|Salerno]]</small>{{simbolo|Italian traffic signs - strada europea 45.svg|24}}[[File:Autostrada A2 Italia.svg|18x18px]] <small>[[Autostrada A2 (Italia)|Reggio Calabria]]</small>
+
+| align="right" | - ||align="right"|-|| rowspan="22" align="center" |[[Città metropolitana di Napoli|Napoli]]
+|-
+|{{simbolo|MA Route 1.svg}}|| [[File:AB-AS-grün.svg]]||{{simbolo|RWBA Flughafen(R).svg|16}} '''[[Aeroporto di Napoli-Capodichino|Aeroporto Internazionale<br />di Napoli]]'''<br /><small>{{simbolo|Strada Provinciale 1 Italia.svg|45}} [[Circumvallazione Esterna di Napoli]]</small>|| align="right" | 0,0 || align="right" |20,0
+|-
+|{{simbolo|MA Route 2.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Capodichino]] - [[Secondigliano]]'''|| align="right" | - ||align="right"|-
+|-
+|{{simbolo|MA Route 3.svg}}||[[File:AB-AS-grün.svg]]|| '''[[Doganella]]'''|| align="right" | 0,4 || align="right" |19,6
+|-
+| || {{simbolo|AB-Tank.svg}}|| Area servizio ''Doganella ovest''|| align="right" | 0,6 || align="right" |19,4
+|-
+|
+|{{simbolo|Italian traffic signs - stazione.svg}}
+|Barriera Doganella<ref>Solo in direzione [[Autostrada A1 (Italia)|A1]]</ref>
+|0,7
+|19,3
+|-
+|{{simbolo|MA Route 4.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Il Vasto|Corso Malta]]'''<br /><small>[[Poggioreale (Napoli)|Poggioreale]]<br>[[Il Vasto|Vasto]]<br>[[Arenaccia]] <br /> {{simbolo|Italian traffic signs - icona stazione fs.svg|16}} [[Stazione di Napoli Centrale]] <br />[[Porto di Napoli|Porto]] </small><br />{{simbolo|Strada Statale 162dir Italia.svg|48}}<small> [[Strada statale 162 dir del Centro Direzionale|del Centro Direzionale]] </small><br /><small>[[Ponticelli (Napoli)|Ponticelli]] - [[Barra (Napoli)|Barra]]<br />[[Cercola]] <br /> {{simbolo|Strada Statale 268 Italia.svg|40}} [[Strada statale 268 del Vesuvio|del Vesuvio]]<br />[[Pomigliano d'Arco|Pomigliano]]<br />[[Acerra]]</small>|| align="right" | 1,1 || align="right" |18,9
+|-
+| || {{simbolo|AB-Tank.svg}}|| Area servizio ''Scudillo''||align="right"| - ||align="right"|-
+|-
+|{{simbolo|MA Route 5.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Capodimonte (Napoli)|Capodimonte]]'''<br /><small>[[Rione Sanità ]]<br />[[Ospedale di San Gennaro dei Poveri|Ospedale San Gennaro]]</small>
+| align="right" | 3,9 || align="right" |16,1
+|-
+|{{simbolo|MA Route 6.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Arenella (Napoli)|Arenella]]'''<br /><small>{{simbolo|Italian traffic signs - icona ospedale.svg|16}} Ospedale Santobono <br/> [[Quartieri Spagnoli]]</small> ||align="right"| 4,7 || align="right" |15,3
+|-
+|{{simbolo|MA Route 7.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Zona Ospedaliera di Napoli|Zona Ospedaliera]]''' {{simbolo|Italian traffic signs - icona ospedale.svg|16}} <br /><small>[[Colli Aminei (metropolitana di Napoli)|Stazione Colli Aminei]] metro Linea 1</small>||align="right"| 4,8 || align="right" |15,2
+|-
+|{{simbolo|MA Route 8.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Camaldoli (Napoli)|Camaldoli]]'''||align="right"| -
+|-
+|{{simbolo|MA Route 9.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Vomero]]'''<br /><small>[[Posillipo]]<br /></small><small> [[Asse Viario Pigna-Soccavo-Pianura|''Asse Viario''<br />via Pigna<br />Soccavo<br />Pianura]]</small>||align="right"| - ||align="right"|-
+|-
+|{{simbolo|MA Route 10.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Fuorigrotta]]'''<br /><small> {{simbolo|RWB Stadion.svg}} [[Stadio Diego Armando Maradona (Napoli)|Stadio Diego Armando Maradona]]</small><br /><small>{{simbolo|RWB Stadion.svg}} [[Piscina Felice Scandone|Piscina Scandone]]<br />{{simbolo|Italian traffic signs - icona parco giochi.svg|17}} [[Edenlandia]]</small><br /><small>[[Mergellina]]</small><br /><small>[[Bagnoli (Napoli)|Bagnoli]]</small><br /><small>[[Pianura]]</small>||align="right"| - ||align="right"|-
+|-
+| ||{{simbolo|AB-Tank.svg}}|| Area servizio ''Agnano agli Astroni''||align="right"| - ||align="right"|-
+|-
+|{{simbolo|MA Route 11.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Agnano Terme|Agnano]] - "Italia 90"'''<br /><small> {{simbolo|Italian traffic signs - icona terme.svg|17}} [[Terme]]<br />{{simbolo|Italian traffic signs - icona ippodromo.svg|17}} [[Ippodromo di Agnano|Ippodromo]]<br />{{simbolo|Italian traffic signs - icona parco giochi.svg|17}} [[Edenlandia]]<br />[[Riserva naturale Cratere degli Astroni]]<br/>[[Pianura]]</small>|| align="right" | - ||align="right"|-
+|-
+|
+|{{simbolo|Italian traffic signs - stazione.svg}}
+|Barriera Pozzuoli<ref>Solo direzione [[Pozzuoli]]</ref>
+|
+|
+|-
+| ||{{simbolo|AB-Tank.svg}}|| Area servizio Antica ''Campana''|| align="right" | - ||align="right"|-
+|-
+|{{simbolo|MA Route 12.svg}}|| [[File:AB-AS-grün.svg]]|| '''Via Campana'''<br />[[Pozzuoli]]||align="right"| - ||align="right"|-
+|-
+|{{simbolo|MA Route 13.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Cuma]]'''<br /><small> {{simbolo|Italian traffic signs - icona terme.svg|17}} [[Terme]] </small>|| align="right" | - ||align="right"|-
+|-
+|{{simbolo|MA Route 14.svg}}|| [[File:AB-AS-grün.svg]]|| '''[[Arco Felice|Arco Felice - Pozzuoli - Bacoli]]'''  || align="right" | 20,0 || align="right" |0,0
+|-
+| {{simbolo|Italian traffic signs - fine autostrada.svg|17}}|| {{simbolo|AB-Kreuz-blaugrün.svg|17}}||{{simbolo|Strada Statale 7quater Italia.svg|45}} [[Strada statale 7 quater Via Domitiana|Via Domitiana]]||align="right"| - ||align="right"|-
+|-
+|}
+
+== Note ==
+<references />
+
+==Bibliografia==
+* {{Cita libro |titolo=Napoli. L'autostrada della città |curatore=Ermanno Corsi |curatore2=Enzo Popoli |altri=con la collaborazione di Gianni Ambrosino ''et al.'' |editore=Sergio Civita |città=Napoli |anno=1992 |ISBN=no |sbn=CAM0211577 }}
+
+==Altri progetti==
+{{interprogetto}}
+
+==Collegamenti esterni==
+*{{cita web|url=http://www.tangenzialedinapoli.it/|titolo=Tangenziale di Napoli SpA}}
+*{{cita web | url = http://traffico.octotelematics.it/ | titolo = (Octotelematics): Monitoraggio in tempo reale del traffico sulla tangenziale di Napoli. | accesso = 10 aprile 2008 | urlarchivio = https://web.archive.org/web/20200427183531/http://traffico.octotelematics.it/ | urlmorto = sì }}
+*{{cita web |url=http://www.radio.rai.it/cpu/archivio_2006/eventi/TangNapoli1ago06.pdf |titolo=Dossier sui problemi della Tangenziale |urlmorto=sì }}
+*{{cita web | url = http://www.lotsberg.net/data/italia/A56.html | titolo = Gallerie e viadotti della A56 | accesso = 3 agosto 2009 | urlarchivio = https://web.archive.org/web/20140413222434/http://www.lotsberg.net/data/italia/A56.html | urlmorto = sì }}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A56]]
+[[Categoria:Tangenziali in Italia|Napoli]]
+[[Categoria:Trasporti a Napoli]]
+[[Categoria:Campi Flegrei]]

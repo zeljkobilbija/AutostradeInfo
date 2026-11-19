@@ -1,0 +1,258 @@
+{{Strada
+|nome = Autostrada A31
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Rovigo-Piovene Rocchette<br/>Autostrada della Val d'Astico
+|simbolo = Autostrada A31 della Val D'Astico - Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-VEN}}
+|divisione amm 2 = {{IT-RO}}<br/>{{IT-PD}}<br/>{{IT-VI}}
+|inizio = [[SS 434 Transpolesana]] presso [[Badia Polesine]]
+|fine = [[Piovene Rocchette]]
+|lunghezza = 88,7
+|direzione = 
+|apertura = [[1976]]<ref>Tratto da [[Piovene Rocchette]] alla [[Autostrada A4 (Italia)|A4]].</ref><ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrada Brescia Verona Vicenza Padova]]
+|pedaggio = gratuito tra innesto [[Strada statale 434 Transpolesana|SS434]] e [[Badia Polesine]]<br />[[Pedaggio#Sistema autostradale chiuso|sistema chiuso]] tra [[Badia Polesine]] e [[Piovene Rocchette]] 
+|città servite =
+|intersezioni = [[Autostrada A4 (Italia)|Autostrada A4]], [[Pedemontana Veneta]] e [[SS 434 Transpolesana]]
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A31.svg
+|tracciato = Tracciato A31.svg
+}}
+L{{'}}'''autostrada A31 Rovigo-Piovene Rocchette''' (detta "della [[Val d'Astico]]") attraversa da sud a nord la [[provincia di Rovigo]], la [[provincia di Padova]] e la [[provincia di Vicenza]], partendo dalla [[SS 434 Transpolesana]], nei pressi di [[Badia Polesine]], e terminando a [[Piovene Rocchette]]. Il suo percorso di 88,7&nbsp;km è gestito interamente dalla società "[[Autostrada Brescia-Verona-Vicenza-Padova S.p.A.]]"<ref>{{cita web|url=http://www.autobspd.it/percorso.do|titolo=Percorsi della società Autostrada Brescia-Verona-Vicenza-Padova|urlmorto=sì|accesso=1º ottobre 2014|urlarchivio=https://web.archive.org/web/20141006081400/http://www.autobspd.it/percorso.do}}</ref>.
+
+== Storia ==
+I lavori di costruzione del tratto a nord dell'A4 sono durati 4 anni, dal 1972 al 1976, e all'inizio venne definita scherzosamente "''Pi-Ru-Bi''", dalle lettere iniziali dei cognomi dei tre politici [[Democrazia Cristiana|democristiani]] [[Flaminio Piccoli]], [[Mariano Rumor]] e [[Antonio Bisaglia]] (originari, rispettivamente, delle tre città di [[Trento]], [[Vicenza]] e [[Rovigo]], che sarebbero state unite dall'autostrada), i quali vollero fortemente, tra la fine degli [[anni 1960|anni sessanta]] e i primi settanta, tale arteria.<ref name="progetto valdastico nord" />
+
+Il via libera del [[Consiglio dei ministri]] alla realizzazione della Valdastico sud è avvenuta nel dicembre [[2002]] mentre l'approvazione definitiva dell'[[ANAS]] è del 13 maggio [[2004]].
+
+Nel febbraio del [[2005]] si è trovato un accordo tra le tre province ([[Provincia di Vicenza|Vicenza]], [[Provincia di Padova|Padova]], [[Provincia di Rovigo|Rovigo]]) e 22 Comuni, per ultimare a sud quel troncone di 36&nbsp;km costruito negli [[anni 1970|anni settanta]].
+
+Nel maggio [[2005]] però il [[TAR]] del [[Veneto]] accolse un [[ricorso giurisdizionale amministrativo|ricorso]] degli {{chiarire|enti privati sopracitati|quali?}} e annullò l'ordine di avanzamento dei lavori. Toccò al [[Consiglio di Stato]] ribaltare tale sentenza, accogliendo le richieste delle autorità locali, sostenute da una petizione popolare. Nonostante ciò, nel settembre [[2005]] presero il via i lavori per il prolungamento dell'autostrada fino all'interconnessione con la [[superstrada]] "[[strada statale 434 Transpolesana|Transpolesana]]" a [[Badia Polesine]] in [[Provincia di Rovigo]], per un'estensione complessiva di 54&nbsp;km circa.<ref name="radici">{{Cita web|url=https://www.leradici.info/2011/04/17/al-via-i-lavori-per-la-realizzazione-della-valdastico-sud/|titolo=Al via i lavori per la realizzazione della Valdastico Sud – Le Radici|lingua=it|accesso=13 agosto 2022}}</ref><ref name="comunicato_anas">{{Cita web|url=https://www.stradeanas.it/it|titolo=Anas S.p.A.|sito=Anas S.p.A.|lingua=it|accesso=13 agosto 2022}}</ref><ref name="apertura_albettone">{{Cita web |url=http://www.ilgiornaledivicenza.it/stories/Cronaca/308962__valdastico_sud_apre_lultimo_cantiere |titolo=Valdastico Sud, apre l'ultimo cantiere |accesso=27 dicembre 2011 |urlarchivio=https://web.archive.org/web/20111125161427/http://www.ilgiornaledivicenza.it/stories/Cronaca/308962__valdastico_sud_apre_lultimo_cantiere/ |urlmorto=sì }}</ref>
+
+Dal 2005 al 2012 è stato costruito il tratto a sud A4-Longare Montegaldella (apertura 22 settembre 2012)<ref name=A31SudApre>{{cita web|url=http://www.ilgiornaledivicenza.it/stories/Home/395083_valdastico_viaggio_in_anteprima_fino_a_longare_in_4_minuti/?refresh_ce|editore=[[Il Giornale di Vicenza]]|autore=Cristina Giacomuzzo|titolo=Valdastico, viaggio in anteprima. Fino a Longare in 4 minuti|data=7 agosto 2012|accesso=8 agosto 2012|urlmorto=sì|urlarchivio=https://web.archive.org/web/20140221084424/http://www.ilgiornaledivicenza.it/stories/Home/395083_valdastico_viaggio_in_anteprima_fino_a_longare_in_4_minuti/?refresh_ce}}</ref>. Nel 2013 è stato aperto il tratto seguente a sud fino ad Albettone-Barbarano Vicentino<ref>{{Cita web|url=https://www.vicenzatoday.it/economia/valdastico-sud-longare-alebttone-apertura-casello.html|titolo=Valdastico Sud, si inaugura il secondo tratto con l'ombra dei rifiuti tossici|sito=VicenzaToday|lingua=it|accesso=13 agosto 2022}}</ref>. Il 30 giugno 2014 è stato aperto il tratto da Albettone ad Agugliaro<ref>{{Cita web|url=https://mattinopadova.gelocal.it/padova/cronaca/2014/06/30/news/la-valdastico-sud-avanza-verso-il-padovano-aperto-il-tratto-fino-a-agugliaro-1.9515078|titolo=La Valdastico Sud avanza verso il Padovano: aperto il tratto fino a Agugliaro|sito=Il Mattino di Padova|data=30 giugno 2014|lingua=it|accesso=13 agosto 2022}}</ref>. Il 15 dicembre 2014 è stato aperto il tratto sud dalla [[SS 434|Superstrada Transpolesana]] al casello di Santa Margherita d'Adige<ref>{{Cita web|url=https://www.padovaoggi.it/cronaca/valdastico-sud-aperto-santa-margherita-d-adige-badia-polesine.html|titolo=Valdastico Sud, aperto nuovo tratto S.Margherita Adige-Badia Polesine|sito=PadovaOggi|lingua=it|accesso=13 agosto 2022}}</ref>. Il tratto da Noventa Vicentina a Santa Margherita d'Adige è stato aperto lunedì 23 marzo 2015<ref>{{Cita web|url=https://mattinopadova.gelocal.it/padova/cronaca/2015/03/24/news/rinfresco-clandestino-per-la-a31-1.11107296|titolo=Inaugurato un altro tratto della Valdastico Sud: rinfresco clandestino|sito=Il Mattino di Padova|data=24 marzo 2015|lingua=it|accesso=13 agosto 2022}}</ref>.
+
+L'ultimo tratto inaugurato, tra Noventa Vicentina e Agugliaro, è stato aperto il 31 agosto 2015<ref>{{Cita web|url=https://www.tviweb.it/veneto-la-valdastico-sud-e-completa-apre-il-tratto-agugliaro-noventa-vicentina/|titolo=VENETO - La Valdastico Sud è completa. Apre il tratto Agugliaro-Noventa Vicentina|autore=REDAZIONE|sito=TViWeb|data=31 agosto 2015|lingua=it|accesso=13 agosto 2022}}</ref>. Quest'ultimo è stato costruito in trincea (sotto il piano di campagna) per tutelare la visuale di [[Villa Saraceno]] a seguito di un ricorso della fondazione [[The Landmark Trust]], il cui presidente è [[Carlo III del Regno Unito]]<ref>{{Cita web|url=https://mattinopadova.gelocal.it/padova/cronaca/2012/01/17/news/carlo-d-inghilterra-salva-il-paesaggio-di-villa-saraceno-1.3077192|titolo=Carlo d’Inghilterra salva il paesaggio di Villa Saraceno|sito=Il Mattino di Padova|data=18 gennaio 2012|lingua=it|accesso=13 agosto 2022|urlarchivio=https://web.archive.org/web/20180303234526/http://mattinopadova.gelocal.it/padova/cronaca/2012/01/17/news/carlo-d-inghilterra-salva-il-paesaggio-di-villa-saraceno-1.3077192|urlmorto=sì}}</ref>.
+[[File:Autostrada A31 Valdastico - barriera di Badia Polesine.jpg|miniatura|Barriera di Badia Polesine]]
+[[File:Autostrada SPV 6.jpg|miniatura|Svincolo per [[Pedemontana Veneta]]]]
+
+== L'autostrada oggi ==
+Esistono tre interconnessioni con altre importanti strade: l'[[Autostrada A4 (Italia)|autostrada A4]], la [[SS 434|SS 434 Transpolesana]] e la [[Pedemontana Veneta]]. Dal casello di [[Villamarzana]] dell'[[Autostrada A13 (Italia)|A13]], attraverso 17&nbsp;km della Transpolesana, è possibile raggiungere l'autostrada Valdastico.
+
+L'autostrada è a due corsie per senso di marcia più corsia d'emergenza e ha undici uscite autostradali: [[Badia Polesine]], [[Piacenza d'Adige]], [[Santa Margherita d'Adige]], [[Noventa Vicentina]], [[Agugliaro]], [[Albettone]]-[[Barbarano Vicentino]], [[Longare]] - [[Montegaldella]], [[Vicenza]] Nord, [[Dueville]], [[Thiene]]-[[Schio]] e [[Piovene Rocchette]], che coincide con il termine dell'autostrada.
+
+Il [[ponte strallato sul fiume Adige|ponte sul fiume Adige]] che attraversa il [[Adige|fiume]] tra i comuni di [[Badia Polesine]] e [[Piacenza d'Adige]], di lunghezza complessiva di 1087 metri, è un [[ponte strallato]] lungo 590 metri, la cui campata centrale è la più lunga in Italia<ref>{{cita pubblicazione|autore=Brunella Confortini|titolo=Un ponte verso il futuro|rivista=Quarry & Construction|editore=Edizioni PEI|città=Parma|anno=2011|mese=gennaio|pp=103-113|url=http://www.cimolai.com/cms/wp-content/uploads/2012/11/2012-07-30-Un-ponte-verso-il-futuro.pdf|accesso=8 luglio 2013|urlarchivio=https://web.archive.org/web/20141006071110/http://www.cimolai.com/cms/wp-content/uploads/2012/11/2012-07-30-Un-ponte-verso-il-futuro.pdf|urlmorto=sì}}</ref>.
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A31 Italia.svg|30}} ROVIGO SS 434 - PIOVENE ROCCHETTE'''<br />Autostrada della Valdastico
+|-
+!Tipo!!Indicazione!!↓km↓!!Provincia
+|-
+| [[File:AB-Kreuz-blaugrün.svg]]||{{simbolo|Strada Statale 434 Italia.svg|36}} [[Strada statale 434 Transpolesana]]
+''<small>[[Rovigo]] - [[Legnago]] - [[Verona]]</small>''
+| align="center" | 0 || align="center" rowspan=3 |[[Provincia di Rovigo|RO]]
+|-
+| [[File:AB-AS-grün.svg]]||[[Badia Polesine]] - [[Lendinara]]||align="center"| 4
+|-
+| {{simbolo|italian traffic signs - stazione.svg|17}}|| Barriera [[Badia Polesine]]||align="center"| 5
+|-
+| [[File:AB-AS-grün.svg]]||[[Piacenza d'Adige]]||align="center"| 8|| rowspan="2" align="center" |[[Provincia di Padova|PD]]
+|-
+| [[File:AB-AS-grün.svg]]||[[Santa Margherita d'Adige]]
+<small>[[Monselice]] - [[Este (Italia)|Este]] - [[Chioggia]]</small>
+| align="center" | 18 
+|- 
+| [[File:AB-AS-grün.svg]]||[[Noventa Vicentina]] || align="center" | 26,5|| rowspan="16" align="center" |[[Provincia di Vicenza|VI]]
+|- 
+|{{simbolo|Segnale stradale italiano 1983 - parcheggio in area di servizio autostradale.svg|15}} ||Area di parcheggio "Noventa" ||align="center"|28 
+|- 
+| [[File:AB-AS-grün.svg]]||[[Agugliaro]]||align="center"| 32 
+|-
+| [[File:AB-AS-grün.svg]]||[[Albettone]] - [[Barbarano Vicentino]]||align="center"| 38,5
+|-bgcolor="#ffe4e1"
+|[[File:AB-Tank.svg|16x16px]]||Area di servizio "Nanto"<ref name=":1">solo direzione Rovigo</ref><br />{{simbolo|Italian traffic signs - lavori.svg|17}} ''in costruzione''
+|align="center"|42,3
+|-bgcolor="#ffe4e1"
+|[[File:AB-Tank.svg|16x16px]]
+|Area di servizio "Castegnero"<ref name=":2">solo direzione Vicenza-Piovene Rocchette</ref><br />{{simbolo|Italian traffic signs - lavori.svg|17}} ''in costruzione''
+|align="center"|44,7
+|- 
+| [[File:AB-AS-grün.svg]] ||[[Montegaldella]] - [[Longare]]|| align="center" | 46,5
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|A4]] [[Torino]] - [[Trieste]]
+<small>[[Milano]] - [[Verona]] - [[Padova]] - [[Venezia]]</small>
+| align="center" |53
+|- 
+| {{simbolo|Segnale stradale italiano 1983 - parcheggio in area di servizio autostradale.svg|15}}|| Area di parcheggio "Villa Tacchi"||align="center"|60 
+|- 
+| [[File:AB-AS-grün.svg]]||[[Vicenza]] Nord
+<small>{{simbolo|Strada Statale 53 Italia.svg|35}} ''[[Strada statale 53 Postumia|Postumia]]'' - [[Treviso]] - [[Cittadella (Italia)|Cittadella]] - [[Castelfranco Veneto|Castelfranco V.]]</small>
+| align="center" |61,6
+|- 
+| {{simbolo|AB-Tank.svg|16}}|| Area di servizio "Postumia"||align="center"|63,4
+|- 
+| [[File:AB-AS-grün.svg]]||[[Dueville]]
+<small>{{simbolo|Strada Statale 248 Italia.svg|35}} [[Strada statale 248 Schiavonesca-Marosticana|''Schiavonesca-Marosticana'']] - [[Sandrigo]]</small>
+
+<small>''{{simbolo|Strada Statale 349 Italia.svg|35}} [[Strada statale 349 di Val d'Assa e Pedemontana Costo|di Val d'Assa e Pedemontana Costo]]'' - [[Villaverla]] - [[Caldogno]]</small>
+| align="center" |69,6
+|- 
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Superstrada_Pedemontana_Veneta_SPV.svg|23}} [[Pedemontana Veneta]]
+<small>[[Montecchio Maggiore]] -</small> <small>[[Bassano del Grappa]] - [[Montebelluna]] - [[Treviso]]</small>
+| align="center" |76,5
+|- 
+| {{simbolo|Segnale stradale italiano 1983 - parcheggio in area di servizio autostradale.svg|15}}|| Area di parcheggio "Pasubio"||align="center"|77 
+|- 
+| [[File:AB-AS-grün.svg]]||[[Thiene]] - [[Schio]]
+<small>{{simbolo|Strada Statale 46 Italia.svg|35}} [[Strada statale 46 del Pasubio|''del Pasubio'']] - [[Marano Vicentino]] - [[Malo (Italia)|Malo]] - [[Rovereto]]</small>
+
+<small>''{{simbolo|Strada Statale 246 Italia.svg|35}} [[Strada statale 246 di Recoaro|di Recoaro]]'' - [[Recoaro Terme]] - [[Valdagno]]</small>
+
+<small>''{{simbolo|Strada Provinciale 111 Italia.svg|35}}'' ''[[Strada provinciale 111 Nuova Gasparona|Nuova Gasparona]]'' - [[Marostica]] - [[Bassano del Grappa]]</small>
+| align="center" |79,5
+|- 
+| [[File:AB-AS-grün.svg]]||[[Piovene Rocchette]] - [[Chiuppano]]
+<small>''{{simbolo|Strada Statale 350 Italia.svg|35}}''</small> ''<small>[[Strada statale 350 di Folgaria e Val d'Astico|di Folgaria e Val d'Astico]]</small>'' <small>- [[Arsiero]] - [[Tonezza del Cimone|Tonezza]] - [[Trento]]</small>
+
+''<small>{{simbolo|Strada Statale 349 Italia.svg|35}} [[Strada statale 349 di Val d'Assa e Pedemontana Costo|di Val d'Assa e Pedemontana Costo]]</small>'' <small>- [[Asiago (comune)|Asiago]]</small>
+
+<small>[[Altopiano di Folgaria]] - [[Altopiano di Lavarone]] - [[Altopiano di Asiago]]</small>
+| align="center" |88,7
+|-
+|}
+
+== Sviluppi futuri ==
+{{In futuro|infrastruttura}}
+
+=== Valdastico nord ===
+[[File:Valdastico 2020 nord sud.svg|thumb|Progetto originario dello sviluppo futuro della Valdastico, evidenziato in verde scuro il prolungamento verso Trento]]
+Il progetto prevedeva il prolungamento dell'autostrada verso nord per [[Trento]]. Diversi fattori concorsero al fallimento dell'iniziativa.<ref>{{cita testo|url=http://www.fondazionenordest.net/Valdastico_Sud.290.0.html|titolo=Fondazione Nord Est - Valdastico Sud|urlarchivio=https://web.archive.org/web/20070923010804/http://www.fondazionenordest.net/Valdastico_Sud.290.0.html }}</ref>
+
+Tra essi, gli ostacoli più significativi furono posti dall'opposizione delle amministrazioni locali del Trentino, che impedirono la continuazione dell'autostrada verso Trento, e dalla mobilitazione di associazioni culturali e ambientaliste (tra cui [[Italia Nostra]], [[WWF]], e la Fondazione britannica "The Landmark Trust").
+
+Il 12 febbraio [[2010]] [[Attilio Schneck]], presidente della [[Provincia di Vicenza]], nonché dell'autostrada Brescia-Padova annuncia di aver dato corso a un bando europeo per la progettazione del tronco nord dell'autostrada da [[Piovene Rocchette]] all'[[Autobrennero]]<ref name="progetto valdastico nord">{{Cita web|url=https://corrieredelveneto.corriere.it/veneto/notizie/cronaca/2010/13-febbraio-2010/valdastico-nord-bando-il-progetto-1602457417877.shtml|titolo=Valdastico nord, bando per il progetto - Corriere del Veneto|sito=corrieredelveneto.corriere.it|accesso=13 agosto 2022}}</ref>. L'innesto della Valdastico è previsto presso il comune di [[Besenello]]<ref name="Cinque ipotesi di Tracciato della Valdastico Nord - L'Adige">{{cita testo|url=http://www.ladige.it/articoli/2011/05/16/valdastico-nord-5-ipotesi|titolo=Valdastico Nord, 5 ipotesi | L'Adige<!-- Titolo generato automaticamente -->|urlarchivio=https://web.archive.org/web/20120416082705/http://www.ladige.it/articoli/2011/05/16/valdastico-nord-5-ipotesi }}</ref>, a nord di [[Rovereto]] e sud di [[Trento]].
+
+La [[provincia autonoma di Trento]] si è opposta all'intera opera sostenendo che il completamento porterebbe all'aggravamento dei problemi di traffico dell'[[autostrada A22 (Italia)|autostrada A22]] e della viabilità esterna senza risolvere i problemi della [[Strada statale 47 della Valsugana|SS47 della Valsugana]]<ref name="Pacher: no Valdastico">{{cita testo|url=http://www.ladige.it/news-2008_lay_notizia_01-4-115735|titolo=Pacher: no Valdastico | L'Adige<!-- Titolo generato automaticamente -->|urlarchivio=https://web.archive.org/web/20120611091814/http://www.ladige.it/news-2008_lay_notizia_01-4-115735 }}</ref>. Ulteriori motivi che la [[provincia autonoma di Trento]] adduce al suo no all'intera opera è la politica seguita dall'[[Euregio Tirolo-Alto Adige-Trentino]] per il trasferimento delle merci su rotaia<ref name="Traffico attraverso le Alpi: verso una strategia congiunta">{{cita testo|url=http://www.europaregion.info/it/664.asp|titolo=Euregio Tirolo-Alto Adige-Trentino|3=|urlmorto=sì}}</ref>, che oltre sull'investimento nella [[galleria di base del Brennero]]<ref>{{cita testo|url=http://www.europaregion.info/it/569.asp|titolo=Euregio Tirolo-Alto Adige-Trentino|3=|urlmorto=sì}}</ref> e sull'ammodernamento della tratta di accesso, si fonda sul lavoro dell'interporto di [[Verona]] che verrebbe bypassato dal traffico pesante diretto a nord proveniente dalle aree di [[Padova]]-[[Ferrara]] e [[Venezia]]-[[Udine]]<ref name="Pacher: no Valdastico" />.
+
+Con la sentenza della [[Corte Costituzionale]] del 21 febbraio 2011 si è ribadito che qualsiasi opera, atto o progetto dell'arteria non possa essere realizzato senza la preventiva intesa con la provincia autonoma di Trento. Ciò in rispetto dovuto allo Statuto Regionale del [[Trentino-Alto Adige]] e alle sue norme di attuazione.<ref name="sentenza 62/2011 corte costituzionale">{{Cita web|url=https://www.giurcost.org/decisioni/2011/0062s-11.html|titolo=Sentenza n. 62 del 2011|lingua=it|accesso=13 agosto 2022}}</ref> C'era quindi la sensazione che il progetto definitivo della Valdastico nord non avrebbe potuto essere approvato prima del dicembre 2013.<ref>{{cita web|url=http://www.ilgiornaledivicenza.it/stories/Regione/316047__privati_in_bs-pd_valdastico_nord__giunta_lora/|titolo=Valdastico nord è giunta l'ora|accesso=17 dicembre 2011|urlarchivio=https://web.archive.org/web/20150402140948/http://www.ilgiornaledivicenza.it/stories/Regione/316047__privati_in_bs-pd_valdastico_nord__giunta_lora/|urlmorto=sì}}</ref> Il presidente della [[provincia autonoma di Trento]] ha dichiarato che non è sua intenzione bloccare il rinnovo della concessione autostradale all'[[Autostrada Brescia - Verona - Vicenza - Padova|Autostrada BS-PD]] fino al 2026 e che collaborerà in tale direzione, senza però dare il via libera all'inizio dei lavori in territorio trentino. In tale prospettiva il presidente dell'[[Autostrada Brescia - Verona - Vicenza - Padova|Autostrada Brescia-Padova]], [[Attilio Schneck]] ha dichiarato che, entro il 2013, sarà approvato il progetto definitivo dell'intera Valdastico nord, ma i lavori cominceranno solo nel tratto veneto, fino al casello di [[Lastebasse]], e in un secondo momento si deciderà di proseguire verso l'[[Autostrada A22 (Italia)|Autostrada del Brennero]] come da progetto o se interconnettersi alla [[Strada statale 47 della Valsugana|Statale Valsugana]] presso [[Levico]].
+
+L'8 agosto [[2012]] la Regione Veneto approva in via definitiva i lavori sulla Valdastico Nord, incurante dei ricorsi di Trento<ref>{{cita web|url=http://www.ilgiornaledivicenza.it/stories/dalla_home/395892_valdastico_nord_s_dalla_regione/?refresh_ce|editore=[[Il Giornale di Vicenza]]|autore=Cristina Giacomuzzo|titolo=Valdastico Nord, "sì" dalla Regione|data=9 agosto 2012|accesso=9 agosto 2012|urlmorto=sì}}</ref>; il 18 marzo [[2013]] il [[Comitato Interministeriale per la Programmazione Economica]] approva l'avvio dei lavori di prosecuzione da Piovene Rocchette sino ai confini col [[Trentino]] (comune di [[Valdastico]])<ref>{{cita web|url=http://www.ilgiornaledivicenza.it/stories/dalla_home/485182_cipe_ok_al_prolungamento_in_a31da_piovene_alla_valle_dellastico|titolo=Cipe, ok al prolungamento in A31 da Piovene alla Valle dell'Astico|editore=[[Il Giornale di Vicenza]]|data=18 marzo 2013|urlmorto=sì}}</ref>, segno di un importante avanzamento dell'opera.
+
+Il 16 maggio [[2016]], il ministro delle infrastrutture [[Graziano Delrio]] in visita a Vicenza ha dichiarato: «Sulla Valdastico Nord abbiamo trovato l'accordo, si farà, non è detto che sia un'opera enorme perché noi contiamo molto sul trasporto su ferro più che su gomma per le merci. Si apriranno molti cantieri una volta depositata la convenzione. Si tratta di giorni e non di mesi».
+
+Dopo le decisioni assunte dal CIPE in data 10 agosto 2016<ref>{{Cita news|lingua=it|url=http://www.governo.it/articolo/comunicato-stampa-del-cipe-del-10-agosto/5567|titolo=Il comunicato stampa del CIPE del 10 agosto|data=10 agosto 2016|accesso=1º agosto 2018}}</ref>, la Società Autostrada Brescia Verona Vicenza Padova ha deliberato di dare avvio alla progettazione definitiva del 1º lotto funzionale dell'opera tra Piovene Rocchette - Valle d'Astico della lunghezza di 18,9&nbsp;km, interamente in territorio veneto.
+
+In data 21 gennaio [[2019]], con la sentenza 00499/2019 il Consiglio di Stato<ref>{{Cita web|url=https://www.giustizia-amministrativa.it/cdsintra/cdsintra/AmministrazionePortale/DocumentViewer/index.html?ddocname=S5C442CGRXJLQSJKWAXYV7EIHU&q=Besenello|titolo=Sito Istituzionale della Giustizia amministrativa - Document Viewer|data=|accesso=13 agosto 2022|urlarchivio=https://web.archive.org/web/20190123010350/https://www.giustizia-amministrativa.it/cdsintra/cdsintra/AmministrazionePortale/DocumentViewer/index.html?ddocname=S5C442CGRXJLQSJKWAXYV7EIHU&q=Besenello|urlmorto=sì}}</ref>, in ultimo grado di appello, ha annullato la delibera del CIPE del 10 agosto 2016 su ricorso promosso dal Comune di [[Besenello]] (Trento), interessato in sede di progetto preliminare all'uscita e raccordo della Valdastico Nord con l'autostrada del Brennero A22.
+
+Dopo la sentenza e conseguente cancellazione del progetto originario che collegava A31-[[Autostrada A22 (Italia)|A22]] nei pressi di [[Besenello]], la provincia di [[Provincia autonoma di Trento|Trento]] e [[Veneto|Regione Veneto]], spinte dalla richiesta del ministero di formalizzare una proposta unitaria<ref>{{Cita web|url=https://www.venetoeconomia.it/2019/01/valdastico-nord-ministero-trasporti/|titolo=Valdastico Nord, il ministero dei Trasporti: «Veneto e Trentino presentino proposta unitaria»|autore=Redazione|sito=VenetoEconomia|data=24 gennaio 2019|lingua=it|accesso=1º settembre 2024}}</ref> e dal bisogno di creare un'arteria di importanza internazionale che collegasse le stesse (anche dovuto all'aumento del traffico sulla [[Strada statale 47 della Valsugana|SS 47 della Valsugana]] dopo il completamento della [[Superstrada Pedemontana Veneta]]), hanno continuato ad elaborare diversi progetti fattibilità<ref>{{Cita web|url=https://www.a31valdastico.it/l-infrastrattura|titolo=L'infrastruttura|sito=A31 Valdastico|lingua=it|accesso=1º settembre 2024}}</ref>, dopo anche l’elezione di [[Maurizio Fugatti]] alla presidenza della [[Provincia autonoma di Trento]].<ref>{{Cita web|url=https://www.lidentita.it/la-valdastico-nord-si-fara-il-ministro-salvini-e-deciso/|titolo=La Valdastico Nord si farà, il ministro Salvini è deciso|autore=Ivano Tolettini|sito=L'Identità|data=21 marzo 2024|lingua=it|accesso=1º settembre 2024}}</ref>[[File:ValdasticoNordProgetto2024.svg|miniatura|Progetto dello sviluppo futuro della Valdastico nel 2024, evidenziato in verde scuro il prolungamento verso Rovereto]]Attualmente l'unico collegamento desiderato e non scartato dal presidente della [[Provincia autonoma di Trento|provincia di Trento]] [[Maurizio Fugatti]], nonostante diverse critiche da parte di enti ambientalisti per il l'impatto ambientale e possibile danneggiamento idrogeologico<ref>{{Cita web|url=https://www.venetoeconomia.it/2019/03/valdastico-nord-rovereto-sud/|titolo=Valdastico Nord, il Trentino ora ci sta: tracciato Piovene-Rovereto al vaglio del Mit|autore=Redazione|sito=VenetoEconomia|data=28 marzo 2019|lingua=it|accesso=1º settembre 2024}}</ref><ref name="ilnordestquotidiano.it">{{Cita web|url=https://www.ilnordestquotidiano.it/2020/02/27/valdastico-nord-ipotesi-uscita-rovereto-costa-3-miliardi-di-euro/|titolo=Valdastico Nord: ipotesi uscita Rovereto costa 3 miliardi di euro|autore=Redazione|sito=Il NordEst Quotidiano|data=27 febbraio 2020|lingua=it|accesso=1º settembre 2024}}</ref>, è l’ipotesi di tracciato che da [[Pedemonte]] arriva a [[Rovereto]] Sud (progetto fattibilità 2019).<ref name="ilnordestquotidiano.it"/>
+Il tracciato avrebbe inizio alla fine del lotto 1 in corrispondenza dello svincolo di [[Pedemonte]], che subirà una leggera modifica per consentire all’autostrada di svoltare ad ovest in direzione [[Rovereto]]. Dopo l’attraversamento del [[Astico|fiume Astico]] tramite il viadotto Posta, l’asse principale imboccherà la galleria "Pedemonte-Terragnolo" della lunghezza di 16,8 chilometri che terminerà nella [[Val Terragnolo]] in località Fontanelle dove è stato previsto uno svincolo alla [[Strada provinciale 2 Rovereto - Folgaria|SP2 Rovereto – Folgaria]]. Infine proseguirà con molteplici viadotti e gallerie che porteranno a [[Rovereto]] dove è prevista l’interconnessione con la [[Autostrada A22 (Italia)|A22]] a sud del casello Rovereto Sud.<ref>{{Cita web|url=https://www.a31valdastico.it/documents/134436/0/DocumentoTecnicoA31.pdf/bfd81bf7-9d21-6079-b4ee-0b1a52068391?t=1615808289599|titolo=Documento Tecnico Tracciato Progett}}</ref>
+
+Il progetto ha suscitato non poche preoccupazioni agli abitanti locali delle frazioni dei comuni di [[Cogollo del Cengio]] (Vicenza) e [[Terragnolo]] (Trento) fin da subito contrari al progetto, portando a vistose proteste ancora tutt'oggi presenti sulla [[Strada statale 350 di Folgaria e Val d'Astico|strada statale 350 Valdastico]] e su tutta la [[Strada provinciale 2 Rovereto - Folgaria|strada provinciale 2]] e la [[strada provinciale 138 della Borcola]] che percorrono interamente la [[Val Terragnolo]].<ref>{{Cita web|url=https://www.ladige.it/territori/vallagarina/2022/10/14/stop-alla-valdastico-a-terragnolo-la-campagna-si-fa-anche-sulle-panchine-1.3333290|titolo=Stop alla Valdastico: a Terragnolo la campagna si fa anche sulle panchine - Vallagarina {{!}} l'Adige.it|sito=l'Adige|data=14 ottobre 2022|lingua=it|accesso=1º settembre 2024}}</ref><ref>{{Cita web|url=https://www.ilgazzettino.it/vicenza_bassano/sale_la_protesta_contrari_a31_valdastico_nord-2256368.html|titolo=“No A31”, sale la protesta dei contrari alla Valdastico Nord: tutti in consiglio|sito=www.ilgazzettino.it|data=13 febbraio 2017|lingua=it|accesso=1º settembre 2024}}</ref>
+
+Per quanto riguarda la [[Veneto|Regione Veneto]], il progetto dell’autostrada fino a [[Pedemonte]] ha già fatto il suo iter regionale in Regione, mostrandosi subito favorevole anche con il [[presidente della regione]] veneto [[Luca Zaia]] e l'assessora regionale ai Trasporti, Elisa De Berti: ''«Il corridoio del Brennero resta saturo e la terza corsia in programma sarà comunque dinamica e non fisica, il prolungamento della Valdastico serve eccome soprattutto per il collegamento da Nord a Est. Sulla Valsugana c’è stato un incremento del traffico dopo l’apertura della Pedemontana e c’è bisogno di fare qualcosa» -Elisa De Berti''.<ref name=":0" /><ref>{{Cita web|url=https://www.giornaletrentino.it/cronaca/la-valdastico-nord-%C3%A8-tema-nazionale-zaia-il-veneto-ha-deciso-da-anni-il-suo-tracciato-1.3759686|titolo=La Valdastico Nord è tema nazionale, Zaia: «Il Veneto ha deciso da anni il suo tracciato» - Cronaca|sito=Trentino|data=17 aprile 2024|lingua=it|accesso=1º settembre 2024}}</ref>
+
+Nel [[2024]] la [[Giunta provinciale|giunta]] della [[Provincia autonoma di Trento]] ha dato il via libera, in adozione preliminare, alla “''variante al Piano urbanistico provinciale relativa all’ambito di connessione Corridoio Est''”, il quale permette di realizzare il tratto autostradale con la possibilità di uscita a [[Rovereto]] Sud, come desiderata del governatore [[Maurizio Fugatti]]<ref name=":0">{{Cita web|url=https://nordesteconomia.gelocal.it/infrastrutture/2024/07/02/news/riparte_la_valdastico_nord_il_trentino_da_il_via_libera-14440792/|titolo=Riparte la Valdastico Nord, il Trentino dà il via libera|sito=Nord Est Economia|data=2 luglio 2024|lingua=it|accesso=1º settembre 2024}}</ref><ref>{{Cita web|url=https://reteveneta.medianordest.it/81085/trento-valdastico-nord-dopo-30-anni-realizzazione-sempre-piu-vicina/|titolo=TRENTO {{!}} VALDASTICO NORD, DOPO 30 ANNI REALIZZAZIONE SEMPRE PIU' VICINA|autore=Medianordest|sito=RETE VENETA {{!}} Medianordest|data=15 luglio 2024|lingua=it|accesso=1º settembre 2024}}</ref>, ma si dovrà attendere il parere del [[Consiglio delle autonomie locali]] (dove molti comuni sono contrari) e la commissione del Consiglio. Solo allora si andrà in aula con l’obiettivo di far programmare il [[disegno di legge]] nella tornata consigliare, per concludere l’iter.<ref name=":0" />
+
+Il 9 settembre [[2024]] la Terza Commissione della [[provincia autonoma di Trento]], al termine di un lungo percorso di audizioni, ha approvato il disegno di legge della variante relativa alla connessione corridoio est, con 4 voti a favore e 2 contrari, dopo aver sentito i pareri del [[Consiglio delle autonomie locali]], della [[Comunità Valsugana e Tesino|Comunità Bassa Valsugana e Tesino]], della [[Comunità Alta Valsugana e Bersntol]], della [[Comunità della Vallagarina]], della [[Magnifica Comunità degli Altipiani cimbri|Magnifica Comunità degli Altipiani Cimbri]] e del [[Trento|Comune di Trento]].<ref>{{Cita web|url=https://www.consiglio.provincia.tn.it/news/giornale-online/Pages/articolo.aspx?uid=183150|titolo=Variante al Pup per il corridoio est: sì al ddl 37 della Terza commissione|autore=Alpinformatica|sito=Consiglio della Provincia Autonoma di Trento|lingua=it|accesso=12 settembre 2024}}</ref><ref>{{Cita web|url=https://www.ladige.it/cronaca/2024/09/09/valdastico-la-provincia-va-avanti-approvata-la-variante-pup-in-commissione-nonostante-i-dubbi-1.3874417|titolo=Valdastico, la Provincia va avanti: approvata la variante Pup in Commissione (nonostante i dubbi) - Cronaca {{!}} l'Adige.it|sito=l'Adige|data=9 settembre 2024|lingua=it|accesso=12 settembre 2024}}</ref><ref>{{Cita web|url=https://www.lavocedelnordest.eu/consiglio-trento-via-libera-terza-commissione-al-ddl-valdastico/|titolo=Consiglio Trento, via libera Terza commissione al ddl Valdastico – LaVocedelNordEst|data=9 settembre 2024|lingua=it|accesso=12 settembre 2024}}</ref>
+
+Ora la proposta dovrà essere discussa in Aula per l’approvazione definitiva, dove le comunità hanno chiesto un confronto con i territori per approfondire l'opera dal punto di vista ambientale e dagli aspetti geologici ed idrogeologici.<ref>{{Cita web|url=https://www.iltquotidiano.it/articoli/valdastico-primo-si-trentino-in-commissione-sindaci-contrari/|titolo=Valdastico, primo sì trentino in commissione. Sindaci contrari|sito=Il T Quotidiano|lingua=it|accesso=12 settembre 2024}}</ref> Si attendono ulteriori decisioni in merito.
+{| class="wikitable" 
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A31 Italia.svg|30}} VICENZA - TRENTO'''<br />Valdastico nord
+|-
+!Tipo!!Indicazione!!↓km↓!!Provincia
+|-
+| [[File:AB-AS-grün.svg|20x20px]]||[[Piovene Rocchette]]
+| align="center" | 88,7 || align="center" |[[Provincia di Vicenza|VI]]
+|- bgcolor="#ffe4e1"
+|[[File:AB-AS-grün.svg|20x20px]]||[[Velo d'Astico]]
+''<small>{{simbolo|Strada Statale 350 Italia.svg|35}}</small>'' <small>''[[Strada statale 350 di Folgaria e Val d'Astico|di Folgaria e Val d'Astico]]'' - [[Arsiero]] - [[Tonezza del Cimone|Tonezza]]</small>
+| align="center" |96,9
+| rowspan="3" align="center" |[[Provincia di Vicenza|VI]]
+|- bgcolor="#ffe4e1"
+|[[File:AB-AS-grün.svg|20x20px]]||[[Pedemonte]] - [[San Pietro (Valdastico)|San Pietro Valdastico]]
+''<small>{{simbolo|Strada Statale 350 Italia.svg|35}}</small>'' <small>''[[Strada statale 350 di Folgaria e Val d'Astico|di Folgaria e Val d'Astico]]'' - [[Lastebasse]]</small>
+| align="center" |109,8
+|- bgcolor="#ffe4e1"
+|{{simbolo|Italian traffic signs - ponte.svg|16}}||Viadotto Posta sull'[[Astico]]
+| align="center" |116,0
+|- bgcolor="#ffe4e1"
+|{{simbolo|Italian traffic signs - galleria.svg|16}}||Galleria Pedemonte-Terragnolo
+| align="center" |120,5
+| align="center" |[[Provincia di Vicenza|VI]] / [[Provincia autonoma di Trento|TN]]
+|- bgcolor="#ffe4e1"
+|[[File:AB-AS-grün.svg|20x20px]]||[[Terragnolo]]
+''<small>{{simbolo|Strada Provinciale 2 Italia.svg|35}}</small>'' <small>''[[Strada provinciale 2 Rovereto - Folgaria|Rovereto-Folgaria]] -'' [[Folgaria]]</small>
+| align="center" |128,8
+| rowspan="8" align="center" |[[Provincia autonoma di Trento|TN]]
+|- bgcolor="#ffe4e1"
+|{{simbolo|Italian traffic signs - ponte.svg|16}}||Viadotto Fontanelle sul [[Leno (torrente)|Leno]]
+| align="center" |130,9
+|- bgcolor="#ffe4e1"
+|{{simbolo|Italian traffic signs - galleria.svg|16}}||Galleria Terragnolo
+| align="center" |132,8
+|- bgcolor="#ffe4e1"
+|{{simbolo|Italian traffic signs - ponte.svg|16}}||Viadotto sul [[Leno (torrente)|Leno]]
+| align="center" |133,6
+|- bgcolor="#ffe4e1"
+|{{simbolo|Italian traffic signs - galleria.svg|16}}||Galleria Moscheri
+| align="center" |135,7
+|- bgcolor="#ffe4e1"
+|{{simbolo|Italian traffic signs - ponte.svg|16}}||Viadotto Lago San Colombano
+| align="center" |136,9
+|- bgcolor="#ffe4e1"
+|{{simbolo|Italian traffic signs - galleria.svg|16}}||Galleria [[Rovereto]]
+| align="center" |137,7
+|- bgcolor="#ffe4e1"
+|[[File:AB-Kreuz-grün.svg|20x20px]]||{{simbolo|Autostrada A22 Italia.svg|23}} [[Autostrada A22 (Italia)|A22]] [[Passo del Brennero|Brennero]] - [[Modena]]
+<small>[[Bolzano]] - [[Trento]] - [[Rovereto]] - [[Ala (Italia)|Ala]] - [[Verona]]</small>
+| align="center" |138,9
+|}
+
+== Inquinamento da rifiuti speciali industriali ==
+I lavori sono stati rallentati anche per effetto di alcune indagini portate avanti dalla [[procura antimafia|Direzione nazionale antimafia]] di [[Venezia]]. Secondo le recenti indagini, sembra che nell'area attorno all'[[autostrada]] le ruspe abbiano spianato scarti di lavorazione industriale in mezzo alle coltivazioni, con il [[cromo]] che si è riversato nei canali di irrigazione del granoturco<ref name="articolo">{{Cita web |url=http://www.orgiano.org/articolo/valdastico-sud-autostrada-tossico-rifiuti |titolo=Valdastico Sud nell'occhio della ricicloneria tossica - Comitato Tutela Territorio Orgiano e Asigliano Veneto |accesso=1º agosto 2012 |urlarchivio=https://web.archive.org/web/20121020011716/http://www.orgiano.org/articolo/valdastico-sud-autostrada-tossico-rifiuti |urlmorto=sì }}</ref>. I sospetti sono partiti dopo che un cane (di due anni) è morto per aver bevuto acqua da un fosso vicino al letto dell'autostrada. Il cane è morto di [[intossicazione]], tanto forte da provocarne la perforazione dell'intestino. Alcune foto scattate nel [[2010]] al terreno immediatamente adiacente all'autostrada mostrano come in alcuni punti affiorino dei presunti scarti di [[fonderia]]. Il rischio è che ci siano sostanze tossiche venute a contatto con l'acqua (probabilmente per effetto della pioggia) che l'abbiano avvelenata. Dalle analisi realizzate è emerso che i [[cianuri]], l'[[arsenico]] e il [[piombo]] presenti nel terreno siano ben superiori ai limiti consentiti dalla legge: rispettivamente 20, 35 e 30 microgrammi per litro (µg/l) oltre il limite. In misura minore sforano anche altri metalli nocivi: il [[nichel]] (di 2&nbsp;µg/l), il [[cobalto]] (di 4,70&nbsp;µg/l), il [[cadmio]] (di 2&nbsp;µg/l), il [[cromo]] totale (di 4,70&nbsp;µg/l), il [[selenio]] (di 8&nbsp;µg/l), il [[mercurio (elemento chimico)|mercurio]] (di 0,3&nbsp;µg/l) e l'[[amianto]] (di 5&nbsp;mg/l)<ref name="vicenzapiù_ritardi">{{Cita web |url=http://www.vicenzapiu.com/leggi/tiramolla-valdastico-sud |titolo=Tiramolla Valdastico sud - Vicenzapiu.com |accesso=23 giugno 2012 |urlarchivio=https://web.archive.org/web/20150121153429/http://www.vicenzapiu.com/leggi/tiramolla-valdastico-sud |urlmorto=sì }}</ref>.
+
+In data 31 luglio [[2012]] la [[commissione europea]] è stata informata del rischio rifiuti sotto la cosiddetta ''Valdastico Sud''. Sotto il [[manto stradale]] della Valdastico Sud tra [[Vicenza]] e [[Rovigo]] potrebbero esserci [[rifiuti tossici]] che metterebbero a rischio la salute di migliaia di persone. Alcune norme europee in materia ambientale e di salute pubblica sembrerebbero essere state raggirate, ad esempio non considerando come rifiuti i materiali di scavo contaminati<ref name="rifiuti.tossici">{{Cita web|url=https://www.ansa.it/europa/notizie/rubriche/altrenews/2012/07/31/Rifiuti-Zanoni-Idv-rifiuti-tossici-sotto-Valdastico-Sud_7268956.html|titolo=Rifiuti: Zanoni (Idv), rifiuti tossici sotto Valdastico Sud - Europa|sito=ANSA.it|data=31 luglio 2012|lingua=it|accesso=13 agosto 2022}}</ref>.
+
+Il 6 luglio 2013 è stata data notizia dell'iscrizione nel registro degli indagati di 27 persone per i reati di falso ideologico e traffico illegale di rifiuti in forma organizzata<ref>{{Cita web|url=https://corrieredelveneto.corriere.it/veneto/notizie/cronaca/2013/6-luglio-2013/rifiuti-sotto-valdastico-sud-27-indagati-coinvolto-anche-attilio-schneck-2222020563932.shtml|titolo=Rifiuti sotto la Valdastico Sud Tra i 27 indagati c'è anche Schneck|autore=Roberta Polese Benedetta Centin|sito=Corriere del Veneto|lingua=it|accesso=13 agosto 2022}}</ref>. Secondo la Direzione distrettuale antimafia di Venezia, nel tratto autostradale da Agugliaro a Longare sarebbero stati sversati illegalmente oltre 150.000&nbsp;m³ di rifiuti nocivi<ref>{{Cita web|url=https://corrieredelveneto.corriere.it/veneto/notizie/cronaca/2013/8-luglio-2013/oltre-60-piscine-rifiuti-nascosti-sotto-valdastico-sud-2222047170041.shtml|titolo=Oltre 60 «piscine» di rifiuti nascoste sotto la Valdastico sud|autore=Roberta Polese|sito=Corriere del Veneto|lingua=it|accesso=13 agosto 2022}}</ref>.
+
+<gallery>
+Viadotto A31 sul Bacchiglione.jpg|Viadotto sul [[Bacchiglione]] del tratto della ''Valdastico Sud'', vicino al casello di [[Longare]] 
+Autostrada A31, ponte sull'Adige (Piacenza d'Adige).JPG|Ponte strallato sull'[[Adige]], vista dal lato nord nel comune di [[Piacenza d'Adige]]
+Autostrada A31, dettaglio ponte sull'Adige (Piacenza d'Adige).JPG|Ponte strallato (particolare)
+</gallery>
+
+== Note ==
+<references/>
+
+==Voci correlate==
+*[[Ponte strallato sul fiume Adige]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.autobspd.it/|titolo=Autostrada Brescia-Verona-Vicenza-Padova}}
+* {{cita web | url = http://www.serenissimacostruzioni.it/index.php/attivita | titolo = Serenissima Costruzioni Spa | accesso =1º giugno 2013 | urlarchivio = https://web.archive.org/web/20130318212108/http://www.serenissimacostruzioni.it/index.php/attivita | urlmorto = sì }}
+* {{cita web |url=http://www.a31sud.it/ |titolo=Sito del monitoraggio ambientale Autostrada A31 Valdastico - Tronco Vicenza - Rovigo |urlmorto=sì |accesso=30 gennaio 2008 |urlarchivio=https://web.archive.org/web/20160315153257/http://www.a31sud.it/ }}
+* {{cita web | url = http://www.fondazionenordest.net/Valdastico_Sud.290.0.html | titolo = Fondazione Nord Est: Valdastico Sud | accesso = 27 settembre 2007 | urlarchivio = https://web.archive.org/web/20070923010804/http://www.fondazionenordest.net/Valdastico_Sud.290.0.html | urlmorto = sì }}
+* {{cita web | url = http://www.lotsberg.net/data/italia/A31.html | titolo = Gallerie e viadotti della A31 | accesso = 3 agosto 2009 | urlarchivio = https://web.archive.org/web/20110820234419/http://www.lotsberg.net/data/italia/A31.html | urlmorto = sì }}
+* {{cita web |url=http://online.stradeeautostrade.it/notizia/100012092699002 |titolo=Inaugurato il primo tratto della Valdastico Sud - S&A online |accesso=26 settembre 2012 |urlarchivio=https://web.archive.org/web/20121017054154/http://online.stradeeautostrade.it/notizia/100012092699002# |urlmorto=sì }}
+* {{cita web|url=https://www.gazzettino.it/NORDEST/ROVIGO/valdastico_badia_polesine_aperto_tratto_autostrada/notizie/1068434.shtml|titolo=Valdastico Sud, aperti altri 18 chilometri. Entro Maggio il completamento - Il Gazzettino}}
+
+{{Autostrade italiane}}{{Strade in Trentino-Alto Adige}}{{Portale|trasporti|Vicenza}}
+
+[[Categoria:Autostrada A31| ]]
+[[Categoria:Trasporti nella provincia di Vicenza]]
+[[Categoria:Trasporti in Veneto]]
+[[Categoria:Trasporti in Trentino-Alto Adige]]
+[[Categoria:Trasporti in provincia di Trento]]

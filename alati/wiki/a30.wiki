@@ -1,0 +1,124 @@
+{{Strada
+|nome = Autostrada A30
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Caserta-Salerno
+|simbolo = Autostrada A30 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-CAM}}
+|divisione amm 2 = {{IT-CE}}<br/>{{IT-NA}}<br/>{{IT-SA}} 
+|inizio =[[Autostrada A1 (Italia)|A1]] presso [[Caserta]]
+|fine =[[Autostrada A2 (Italia)|A2]] e [[Raccordo autostradale 2|RA2]] presso [[Fisciano]] ([[Provincia di Salerno|SA]])
+|lunghezza = 55
+|direzione = nord-sud
+|apertura = 1976<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy<!-- Titolo generato automaticamente --> |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]
+|città servite = [[Caserta]], [[Maddaloni]], [[Nola]], [[Palma Campania]], [[Sarno]], [[Nocera Inferiore]], [[Pagani (Italia)|Pagani]], [[Castel San Giorgio]], [[Mercato San Severino]]. 
+|intersezioni =[[Autostrada A1 (Italia)|A1]] a [[Caserta]], [[Autostrada A2 (Italia)|A2]] e [[Raccordo autostradale 2|RA2]] a [[Fisciano]], [[Autostrada A16 (Italia)|A16]] a [[Nola]]
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A30.svg
+|tracciato = 
+}}
+
+L{{'}}'''autostrada A30''' è un'[[autostrada]] che collega [[Caserta]] a [[Salerno]], distaccandosi dall'[[Autostrada A1 (Italia)|autostrada A1 del Sole]] presso Caserta e immettendosi senza soluzione di continuità nell'[[Autostrada A2 (Italia)|autostrada A2 del Mediterraneo]]  presso [[Fisciano]]. Lunga {{m|55|u=km}}, è interamente gestita da [[Autostrade per l'Italia]].<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=51&ramo=51&code=A30&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente --> |accesso=8 dicembre 2009 |dataarchivio=4 dicembre 2013 |urlarchivio=https://web.archive.org/web/20131204174523/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=51&ramo=51&code=A30&link=&tipo= |urlmorto=sì }}</ref>
+
+Permette di evitare l'[[autostrada A3 (Italia)|autostrada A3]] e il nodo di [[Napoli]], agevolando i collegamenti da e per il [[Mezzogiorno (Italia)|Meridione d'Italia]], rappresentando la prosecuzione naturale dell'itinerario che nasce con la [[Autostrada A1 (Italia)|A1]] a [[Milano]], e che prosegue per la [[Autostrada A2 (Italia)|A2]] fino allo svincolo di [[Villa San Giovanni]], fungente da porta d'accesso per la [[Sicilia]].
+
+== Storia ==
+Questa breve autostrada fu costruita per decongestionare il parallelo e insufficiente nodo dei comuni [[Napoli|napoletani]] e [[Salerno|salernitani]] fino a [[Vietri sul Mare]] per {{m|51,7|u=km}}. Si scelse di partire dall'A1 poco a sud dell'attuale ultima area di servizio, ovvero [[San Nicola la Strada|San Nicola Ovest]] e poco a nord della [[barriera autostradale|barriera]] Napoli Nord<ref>Masseria Ovest è stata dismessa nel 2016{{senza fonte}}</ref>. I primi {{m|20|u=km}} da Caserta a [[Nola]] vennero aperti al traffico il 1º luglio 1975.<ref>{{Cita pubblicazione |titolo = Nel Sud la più moderna autostrada d'Italia |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XVII |numero = 5 |editore = |città = Roma |anno = 1975 |mese = maggio |p = 43 |ISSN = 0005-1756 }}</ref>
+
+Il 5 maggio dell'anno successivo seguì la tratta successiva fino a Salerno, di {{M|35,4|u=km}} di lunghezza;<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XVIII |numero = 9 |editore = |città = Roma |anno = 1976 |mese = settembre |p = 74 |ISSN = 0005-1756 }}</ref> il [[viadotto Sarno]] fu inizialmente aperto a carreggiata unica, in attesa del completamento della carreggiata sinistra che fu aperta nel luglio del 1977.<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XIX |numero = 10 |editore = |città = Roma |anno = 1977 |mese = ottobre |p = 75 |ISSN = 0005-1756 }}</ref>
+
+Nei progetti iniziali originariamente doveva arrivare a [[Fratte (Salerno)|Fratte]] e collegarsi direttamente all'attuale A2 nel tratto Salerno-Reggio Calabria. L'[[Anas (azienda)|Anas]] però all'epoca non concesse gli ultimi {{m|8|u=km}}, di conseguenza per adattarsi ai volumi di traffico che viaggiavano dal nord verso il sud preferì migliorare il tratto stradale tra Fisciano e Salerno che all'epoca era [[superstrada]]. Si procedette all'ampliamento dalle due singole carreggiate prive di corsia di emergenza a due carreggiate più quella di emergenza trasformandola così in un [[raccordo autostradale]], il [[Raccordo autostradale 2|RA2 Salerno-Avellino]], insieme al tratto Fisciano-Avellino, rimasto a caratteristiche superstradali. Il tratto tra Fisciano e Salerno, il 13 giugno 2017, perse la denominazione di RA2, divenendo ufficialmente autostrada (come previsto inizialmente ma non concesso da subito, anche se con caratteristiche per divenire tale) conseguendo il nome, assieme alla restante parte da Salerno a [[Reggio Calabria]], della A2.
+
+A causa della fiorente [[Nola|zona industriale di Nola]], il casello fu spostato dalla [[Autostrada A16 (Italia)|A16]] alla A30 per essere più vicino alle industrie, ma anche molto decentrato rispetto al paese.
+
+Nel 2005 è stato completato il nuovo casello di [[Palma Campania]], che si collega alla [[Strada statale 268 del Vesuvio]] e serve un bacino d'utenza molto ampio formato dai grossi paesi vesuviani. 
+
+Il 4 marzo 2026 è stato inaugurato il casello di Maddaloni, che serve l'[[Maddaloni|omonima città]] e l'interporto Sud Europa.<ref>{{Cita web|lingua=it|url=https://www.ansa.it/campania/notizie/2026/03/04/nuovo-svincolo-a-maddaloni-sulla-a30-previsti-30mila-transiti-al-giorno_31e9fcad-d15e-498a-95b4-3b09d28fdf9a.html|titolo=Nuovo svincolo a Maddaloni sulla A30, previsti 30mila transiti al giorno - Notizie - Ansa.it|sito=Agenzia ANSA|data=2026-03-04|accesso=2026-03-04}}</ref> 
+
+== Descrizione ==
+È costituita da due [[carreggiata|carreggiate]] e tre [[corsia di marcia|corsie]] per senso di marcia, più [[corsia di emergenza]],  ha una lunghezza totale di 55&nbsp;[[chilometro|km]]. 
+
+L'autostrada sorge su un territorio piano, senza grossi problemi di [[orografia]]. Questo ne ha determinato una costruzione molto rettilinea, soprattutto nel primo tratto. Più a sud il tratto terminale dopo [[Castel San Giorgio]] presenta alcune gallerie prima del piazzale della Barriera Salerno-Mercato San Severino.
+
+Nel tratto tra [[Nola]] (km&nbsp;17,2) e [[Castel San Giorgio]] (km&nbsp;42,8) in direzione [[Salerno]] e tra [[Nocera Inferiore|Nocera]] (km&nbsp;41,0) e la [[Autostrada A1 (Italia)|A1]] (km&nbsp;1,3) in direzione [[Caserta]], la velocità è controllata elettronicamente attraverso il sistema [[Tutor (SICVE)|Tutor]].
+
+== Percorso ==
+L'A30 attraversa un territorio relativamente poco abitato e pianeggiante, ad ovest del [[Vesuvio]] e del [[Monte Somma]], a nord dei [[Monti Tifatini]] e a sud-ovest del [[Parco regionale del Partenio|Partenio]]. Sviluppatasi prettamente su un territorio pianeggiante e con lo scopo di decongestionare la trafficatissima [[Autostrada A3 (Italia)|autostrada A3]], per tali motivazioni è stata realizzata sin dalla sua costruzione a 3 corsie più corsia d'emergenza.
+
+In questa autostrada vi sono solo due [[Area di servizio|aree di servizio]]: Tre Ponti, in entrambi le direzioni, e Angioina, attiva solo in direzione di Salerno.
+
+Nei pressi di [[Nola]], dopo l'omonimo [[casello autostradale|casello]] che permette di raggiungere l'omonimo comune e i comuni dell'[[area nolana]], interseca l'[[Autostrada A16 (Italia)|A16 dei Due Mari]], asse di collegamento importante che collega [[Napoli]] e la [[Campania]] alla [[Puglia]] e alla [[Autostrada A14 (Italia)|A14 Adriatica]].
+
+Presso l'uscita di [[Palma Campania]] interseca la [[Strada statale 268 del Vesuvio|SS268 del Vesuvio]], dalla quale si raggiungono i [[Zona rossa del Vesuvio|comuni vesuviani]] e il [[Parco Nazionale del Vesuvio]]. Dopo quest'uscita, l'autostrada supera alcuni paesi posti ad est del [[Vesuvio]] e del [[Monte Somma]], a sud dei [[Monti Lattari]] e a sud-est dell'[[Appennino Campano]], con diversi viadotti e gallerie, per poi discendere la valle del fiume [[Sarno (fiume)|Sarno]].
+
+Dalle uscite di [[Sarno]], [[Nocera Inferiore|Nocera]]-[[Pagani (Italia)|Pagani]] e [[Castel San Giorgio]], oltre a raggiungere gli omonimi comuni, si possono raggiungere alcuni comuni tra cui [[Striano]], [[Poggiomarino]], [[Terzigno]], [[San Marzano sul Sarno|San Marzano]], [[San Valentino Torio]], [[Scafati]], [[Pompei (comune)|Pompei]] e i suoi [[Scavi archeologici di Pompei|Scavi]], [[Siano]], [[Nocera Superiore]] e [[Cava de' Tirreni]].
+
+A [[Mercato San Severino]] si incontra la [[barriera autostradale|barriera]] finale denominata ''Salerno - Mercato San Severino.'' Successivamente, dopo circa due chilometri, si trova l'uscita omonima che, oltre a servire l'omonimo comune, serve anche il vicino comune di [[Baronissi]].
+
+A [[Fisciano]], nei pressi dell'[[Università degli Studi di Salerno]], dapprima interseca il [[Raccordo autostradale 2|Raccordo Autostradale RA2 di Avellino]], successivamente, l'autostrada termina innestandosi senza soluzione di continuità nell'[[Autostrada A2 (Italia)|Autostrada A2 del Mediterraneo]] in direzione di [[Reggio Calabria]].
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="4" | {{simbolo|Autostrada A30 Italia.svg|30}} '''CASERTA - SALERNO'''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''km'''!!align="center"|'''Area'''
+|-
+| [[File:AB-Vzw-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} ''[[Autostrada A1 (Italia)|del Sole]]'' <br /> || align="right"| 0,0||align="center" rowspan=2|[[Provincia di Caserta|CE]]
+|-
+| [[File:AB-AS-grün.svg|16x16px]]|| [[Maddaloni]]<br />{{simbolo|Strada Provinciale 335 Italia.svg|43}} ''[[Strada statale 265 dei Ponti della Valle#Strada provinciale 335 ex SS 265 dei Ponti della Valle|dei Ponti della Valle]]''|| align="right" | 4,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di Servizio "Tre Ponti"|| align="right"|16,1 ||  align="center" rowspan=5|[[città metropolitana di Napoli|NA]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Nola]] <br />{{simbolo|Strada Statale 7bis Italia.svg|43}} [[Strada statale 7 bis di Terra di Lavoro|''di Terra di Lavoro'']]|| align="right"| 18,6
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 842.svg|27}} {{simbolo|Autostrada A16 Italia.svg|23}} ''[[Autostrada A16 (Italia)|dei Due Mari]]'' || align="right"| 19,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Palma Campania]] <br /> {{simbolo|Strada Statale 268racc Italia.svg|43}} [[Strada statale 268 del Vesuvio#Strada statale 268 racc del Vesuvio|''del Vesuvio'']] <br /> <small> [[San Gennaro Vesuviano]] - [[San Giuseppe Vesuviano]] </small>|| align="right"| 30,2
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di Servizio "Angioina"<ref>Dismessa in direzione Caserta nel corso del 2018 a seguito di fatturati bassi sia per il distributore sia per il locale Oil. [https://www.mimit.gov.it/images/stories/normativa/DM-aree-autostradali.pdf Fonte DM Aree Autostradali]</ref>|| align="right" | 33,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sarno]]<br  /><small>[[Striano]] - [[Poggiomarino]]</small>|| align="right"|35,9 || align="center" rowspan=7|[[Provincia di Salerno|SA]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Nocera Inferiore]] - [[Pagani (Italia)|Pagani]]|| align="right"|39,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castel San Giorgio]]|| align="right"|44,1
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera di Salerno-Mercato San Severino || align="right"|49,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Mercato San Severino]]|| align="right"|51,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Avellino]]<br><small>{{simbolo|Italian traffic signs - strada europea 841.svg|27}} {{simbolo|Italian traffic signs - raccordo autostradale 2.svg|35}} [[Raccordo autostradale 2|''di Avellino'']]<br>{{Simbolo|Italian_traffic_signs_-_icona_università.svg}} [[Università degli Studi di Salerno|Università - Campus di Fisciano]]</small>|| align="right"|54,9
+|-
+| [[File:AB-gerade-grün.svg|senza_cornice|15x15px]]|| {{simbolo|Italian traffic signs - strada europea 841.svg|27}} {{simbolo|Autostrada A2 Italia.svg|18}} ''[[Autostrada A2 (Italia)|del Mediterraneo]]'' || align="right"|55,0
+|-
+|}
+
+== Note ==
+<references />
+
+== Voci correlate ==
+* [[Autostrade per l'Italia]]
+* [[Rete autostradale italiana]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|http://www.autostrade.it|Autostrade per l'Italia}}
+* {{cita web|https://www.lotsberg.net/data/italia/A30.html|Gallerie e viadotti della A30}}
+
+{{Autostrade italiane}}
+{{Portale|Campania|trasporti}}
+
+[[Categoria:Autostrade in Italia|A30]]
+[[Categoria:Trasporti in Campania]]

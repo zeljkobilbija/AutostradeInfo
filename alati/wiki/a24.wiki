@@ -1,0 +1,237 @@
+{{Strada
+|nome = Autostrada A24
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Strada dei Parchi<br/>Roma-L'Aquila-Teramo
+|simbolo = Autostrada A24 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LAZ}}<br />{{IT-ABR}}
+|divisione amm 2 ={{IT-RM}}<br/>{{IT-RI}}<br/>{{IT-AQ}}<br/>{{IT-TE}} 
+|inizio = Allacciamento con [[Tangenziale Est di Roma]] a [[Roma]]
+|fine = Innesto su [[Strada statale 80 racc di Teramo|SS80]] presso [[Teramo]]
+|lunghezza = 159,2+7,3 (166,5)<ref name=stradadeiparchi/>
+|direzione =Ovest-est 
+|apertura = [[1969]]<ref name=stradadeiparchi/> primo lotto<br/>[[2009]] intera tratta
+|provvedimento istituzione = 
+|gestore = [[Strada dei Parchi (azienda)|Strada dei Parchi]] 
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]<br/>[[Pedaggio#Sistema autostradale aperto|sistema aperto]] tra [[Settecamini]] e [[Lunghezza (zona di Roma)|Lunghezza]], gratuita se percorsa per intera, tra [[Basciano]]-[[Villa Vomano]] e innesto [[Strada statale 80 racc di Teramo|SS80]] e tra Tor Cervara e bivio [[Tangenziale Est di Roma|Tangenziale Est]]
+|città servite = [[Roma]], [[L'Aquila]], [[Teramo]] 
+|intersezioni = [[Autostrada A90|A90]] e [[Autostrada A1 (Italia)|A1]] a Roma e [[Autostrada A25 (Italia)|A25]] a [[Torano (Borgorose)|Torano]]
+|europea1 = 80
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A24.svg
+|tracciato = Autostrada A24.png
+}}
+L{{'}}'''autostrada A24''' collega [[Roma]] a [[Teramo]], passando per [[L'Aquila]]. La sua gestione, unitamente a quella della [[Autostrada A25 (Italia)|A25]], è interamente di [[Strada dei Parchi (azienda)|Strada dei Parchi S.p.A.]].
+
+Nonostante la revoca anticipata da parte del [[Governo Italiano]] della concessione delle due autostrade a [[Strada dei Parchi (azienda)|Strada dei Parchi]]<ref>{{Cita web|url=http://www.ansa.it/abruzzo/notizie/2022/08/06/a24/a25-anas-ripresa-gestione-e-istituita-nuova-struttura_baa1e34e-712f-4f00-a13e-9b4b45e96246.html|titolo=A24/A25, Anas, ripresa gestione e istituita nuova struttura|sito=ANSA.it|data=6 agosto 2022|lingua=it|accesso=14 agosto 2022}}</ref><ref>{{Cita web|url=https://www.repubblica.it/economia/2022/07/07/news/autostrade_il_governo_revoca_la_concessione_a_toto_per_la_a24_e_la_a25-356984493/|titolo=Autostrade, il governo revoca la concessione a Toto per la A24 e la A25. "Grave inadempimento". La società: un sopruso|sito=la Repubblica|data=7 luglio 2022|lingua=it|accesso=7 luglio 2022}}</ref> nell'agosto del 2022 con successione pro-tempore ad [[Anas (azienda)|Anas]], a partire dal 1º gennaio 2024 la gestione è rientrata nuovamente a Strada dei Parchi a seguito dalle letture delle sentenze e dalle ipotesi infondate da parte del Governo.<ref>{{Cita web|url=https://www.ansa.it/abruzzo/notizie/2023/12/08/a24-a25-da-gennaio-strada-dei-parchi-di-nuovo-concessionaria_a72f9dfb-8186-4847-bf10-05e2b85a6f46.html|titolo=A24-A25, da gennaio Strada dei Parchi di nuovo concessionaria - Notizie - Ansa.it|sito=Agenzia ANSA|data=8 dicembre 2023|lingua=it|accesso=21 dicembre 2023}}</ref><ref>{{Cita web|url=https://www.lastampa.it/politica/2023/11/28/news/strada_dei_parchi_emendamento_a24_e_a25_gruppo_toto-13894745/|titolo=Strada dei parchi, ecco l’emendamento che riporta la gestione di A24 e A25 nelle mani del gruppo Toto: scontro nella maggioranza|sito=La Stampa|data=28 novembre 2023|lingua=it|accesso=21 dicembre 2023}}</ref><ref>{{Cita web|url=https://www.affaritaliani.it/economia/autostrada-dei-parchi-torna-a-toto-887536.html|titolo=Autostrada dei Parchi torna a Toto. La revoca di Draghi è costata 5 miliardi|sito=Affaritaliani.it|data=19 novembre 2023|lingua=it|accesso=21 dicembre 2023}}</ref>
+
+Il tracciato ha una lunghezza complessiva di {{M|166,5|ul=km}},<ref name="stradadeiparchi">{{cita web|url=http://www.stradadeiparchi.it|titolo=Strada dei Parchi|accesso=1º settembre 2011}}</ref> di cui 159,2 dall'[[autostrada A90]] a fine autostrada nei pressi di Teramo<ref name="stradadeiparchi" />, gli altri {{M|7,3|u=km}} dall'A90 fino all'immissione sulla [[tangenziale Est di Roma]]. Il chilometro 0 è posto all'intersezione con l'A90<ref>Tale suddivisione, apparentemente illogica, si deve al fatto che il tracciato inizialmente inaugurato terminava sul GRA. Il tronco di penetrazione urbana verso Roma fu aggiunto in seguito, dopo alcuni anni.</ref> e le progressive chilometriche sono da qui calcolate separatamente sui due tronchi verso Teramo e Roma.
+
+Si sviluppa su un territorio quasi completamente collinare e montano, dall'[[orografia]] complessa. Per questo motivo l'autostrada richiese l'adozione di ardite soluzioni di ingegneria civile, con estesi tratti a mezza costa o in viadotto e quarantadue gallerie (di cui quattro più lunghe di {{M|4|u=km}})<ref name="stradadeiparchi" /> tra le quali il duplice [[traforo del Gran Sasso]], la cui lunghezza ({{M|10,174|u=km}} il tunnel settentrionale, {{M|10,175|u=km}} quello meridionale)<ref>{{Cita web|autore = Strada dei Parchi|url = http://www.stradadeiparchi.it/dinamico/193/azienda/il-traforo-del-gran-sasso.html|titolo = Il traforo del Gran Sasso|accesso = 10 luglio 2014|editore = Strada dei Parchi|data = 10 luglio 1974}}</ref> gli è valsa, fino al 28 luglio 2025, giorno di apertura al traffico della seconda canna del traforo del Frejus, il primato di galleria stradale a doppia canna più lunga d'[[Europa]],<ref name="stradadeiparchi" /> oltre che galleria stradale più lunga d'Italia tra quelle interamente in territorio nazionale.<ref name="stradadeiparchi" />
+
+Assieme alla A25, rispose all'esigenza di fornire un collegamento veloce e affidabile tra la capitale e le regioni centro-orientali della penisola; fino ad allora, la naturale suddivisione imposta dalle più alte vette dell'[[Appennino]] aveva reso gli spostamenti tra i due mari difficoltosi, lenti e insidiosi. La A24 ridusse l'isolamento dell'[[Abruzzo]] dalle regioni tirreniche, e risulta essere insieme all'A25 il collegamento principale tra [[Mar Tirreno|Tirreno]] e [[Mare Adriatico|Adriatico]] nell'[[Italia centrale]]; fino al suo completamento, le comunicazioni avvenivano principalmente attraverso la [[strada statale 5 Via Tiburtina Valeria]], la [[strada statale 4 Via Salaria]] e la [[strada statale 3 Via Flaminia]].
+
+== Storia ==
+La storia della A24 ebbe inizio nel 1960, quando fu costituita la ''Società Autostrada Roma-Civitavecchia'' (S.A.R.C.).<ref name="stradadeiparchistoria">{{Cita web|autore = Strada dei Parchi|url = http://www.stradadeiparchi.it/dinamico/194/azienda/la-nostra-storia.html|titolo = Storia di Strada dei Parchi|accesso = 14 luglio 2014|editore = |data = 14 luglio 2014}}</ref> Nel 1961, il nome mutò in ''[[Società Autostrade Romane ed Abruzzesi|Società Autostrade Romane S.p.A]].'';<ref name=stradadeiparchistoria/> nel 1963 la S.A.R. ottenne dall'[[Anas (azienda)|Anas]] la delibera relativa alla costruzione di un'autostrada tra Roma e la costa adriatica, servendo anche come collegamento trasversale tra [[Autostrada A1 (Italia)|l'autostrada del Sole]] e quella [[Autostrada A14 (Italia)|Adriatica]]. Per la sua realizzazione, furono valutati vari percorsi. Nelle intenzioni originali, era previsto un singolo attraversamento degli Appennini per la via più agevole, ovvero via [[Torano (Borgorose)|Torano]], [[Avezzano]], [[Popoli Terme]] e la [[Val Pescara]] (quella che poi divenne la [[Autostrada A25 (Italia)|A25]]). Un'altra ipotesi propendeva sempre per un singolo tracciato via Torano, L'Aquila e infine Pescara, con una diramazione per Avezzano. Il collegamento con Teramo sarebbe stato realizzato con una superstrada che da L'Aquila avrebbe percorso un tracciato parallelo alla [[Strada statale 80 del Gran Sasso d'Italia|strada Statale 80]], con galleria di valico presso il [[Passo delle Capannelle]].<ref>{{Cita web|autore = Giancarlo De Risio|url = http://www.aquilatv.it/news/1684-non-fu-soltanto-oro-l-abruzzo-di-gaspari.html|titolo = Non fu soltanto oro l'Abruzzo di Gasparri|accesso = 22 luglio 2014|editore = Aquila TV|data = 20 luglio 2011|urlarchivio = https://web.archive.org/web/20140726170342/http://www.aquilatv.it/news/1684-non-fu-soltanto-oro-l-abruzzo-di-gaspari.html|urlmorto = sì}}</ref>
+
+Venne deciso infine di costruire due diramazioni, via Torano, che costituiscono gli attuali percorsi della A24 e A25.<ref name="stradadeiparchistoria" /> Da più parti giunsero forti critiche<ref>{{Cita web|autore = L'Unita'|url = http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=/archivio/uni_1973_08/19730823_0005.pdf&query=autostrada%20roma%20aquila|titolo = Traforo del Gran Sasso: un'opera superflua per I'autostrada nata in campagna elettorale|accesso = 13 luglio 2014|editore = |data = 23 agosto 1973|urlmorto = sì|urlarchivio = https://web.archive.org/web/20140714142500/http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=%2Farchivio%2Funi_1973_08%2F19730823_0005.pdf&query=autostrada%20roma%20aquila}}</ref> e ci si interrogò sulla reale necessità di costruire due rami sostanzialmente paralleli a una distanza in linea d'aria di circa {{M|35|-|40|u=km}}. La stampa dell'epoca<ref>{{Cita web|autore = Filiberto Dani|url = http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,9/articleid,1109_01_1975_0223_0009_21419331/|titolo = Gran Sasso: sotto il traforo passano aspre liti e miliardi|accesso = 21 luglio 2014|editore = La Stampa|data = 27 settembre 1975}}</ref> evidenziò come tale scelta si prospettasse avventata, sia per gli altissimi costi correlati, sia per il fatto che l'atteso volume di traffico non giustificava due tracciati di tale vicinanza, e motivò tale scelta come una sorta di "compromesso" da parte delle due correnti avverse della [[Democrazia Cristiana]] (capeggiate da [[Lorenzo Natali]] e [[Remo Gaspari]]).
+
+Il ramo settentrionale, in particolare, prevedeva un percorso più diretto di quello della statale 80 ma particolarmente complesso dal punto di vista infrastrutturale: per consentire l'attraversamento degli Appennini, furono infatti necessari numerosi viadotti e gallerie, in particolare il doppio [[traforo del Gran Sasso]], un'opera complessa, costosa e controversa. I lavori, approvati nel 1964<ref name=":0">{{Cita web|url=http://nuovacultura.it/catalogo/laquila-labruzzo-storia-ditalia/|titolo=L’Aquila e l’Abruzzo nella storia d’Italia {{!}} Edizioni Nuova Cultura|lingua=IT|accesso=26 luglio 2016|urlarchivio=https://web.archive.org/web/20160816131910/http://nuovacultura.it/catalogo/laquila-labruzzo-storia-ditalia/|urlmorto=sì}}</ref> e iniziati nel 1967,<ref name=":0" /> richiesero 16 anni per il primo traforo (più altri 9 per il secondo), costarono molto più delle stime originarie e furono funestati da numerosi imprevisti e incidenti fatali, con undici morti tra le maestranze.<ref>{{Cita web|url = http://assergiracconta.altervista.org/archivioNews.php?page=1&id=3747|titolo = Il "Cuore del Gran Sasso" per i caduti del traforo - Assergi Racconta|accesso=2 febbraio 2016|sito = assergiracconta.altervista.org}}</ref>
+
+La costruzione dellʾarteria ebbe inizio il 2 ottobre 1965 con una cerimonia tenutasi a Villagrande di [[Tornimparte]] alla presenza dell'allora ministro dei Lavori pubblici [[Giacomo Mancini|Mancini]].<ref>{{Cita pubblicazione |titolo = Iniziati i lavori per la trasversale Tirreno - Adriatico |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno VII |numero = 10 |editore = |città = Roma |anno = 1965 |mese = ottobre |pp = 32-33 |ISSN = 0005-1756 }}</ref> Le cerimonie inaugurali dell'inizio dei lavori della galleria del Gran Sasso (col brillamento della prima mina) e del tratto Popoli-Pescara dell'A25 si tennero il 15 maggio 1968 alla presenza del ministro, del presidente della S.A.R.A e degli onorevoli [[Natalino Di Giannantonio]], [[Lorenzo Natali]] e [[Nello Mariani]]. La denominazione della concessionaria cambiò nuovamente nel 1965 in ''Società Autostrade Romane ed Abruzzesi (S.A.R.A.)'',<ref name=stradadeiparchistoria/> mantenuta fino al 2000 quando assunse la denominazione corrente di Strada dei Parchi SpA che da tale anno la gestisce, unitamente alla A25.
+
+=== Cronologia dei lavori ===
+L'apertura al traffico dell'autostrada avvenne in diverse fasi, attraverso un arco temporale di circa 40 anni:
+
+* la tratta A90 (Grande Raccordo Anulare) - [[Castel Madama]] venne aperta al traffico il 10 luglio 1969;<ref name="lotsberg">{{Cita web|autore = Eugenio A. Merzagora|url = http://www.lotsberg.net/data/italia/autostrade.html|titolo = Autostrade in Italia|accesso = 14 luglio 2014|editore = |data = 14 luglio 2014|dataarchivio = 5 ottobre 2018|urlarchivio = https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html|urlmorto = sì}}</ref><ref>{{Cita pubblicazione |titolo = Inaugurato il tronco Roma-Castelmadama dell'autostrada Roma-L'Aquila-Avezzano |rivista = [[Le Strade]] |volume = anno XLIX |numero = 8-9 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1969 |mese = agosto-settembre |p = 565 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1561#page/762/mode/2up }}</ref>
+* la tratta [[Torano (Borgorose)|Torano]] - L'Aquila ovest venne aperta al traffico il 14 settembre 1969;<ref name="lotsberg" /><ref>{{Cita pubblicazione |titolo = Inaugurazione del tronco L'Aquila-Avezzano dell'autostrada Roma-L'Aquila-Adriatico |rivista = [[Le Strade]] |volume = anno XLIX |numero = 11 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1969 |mese = novembre |p = 692 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1561#page/936/mode/2up }}</ref>
+* la tratta Castel Madama - [[Vicovaro]] venne aperta al traffico il 18 luglio 1970,<ref>{{Cita web|url=http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1562#page/820/mode/2up|titolo=Le strade, mensile del TCI, agosto-settembre 1970, pag.594}}</ref> seguita dalla tratta Vicovaro - Torano, alcuni mesi più tardi
+* la tratta L'Aquila ovest - L'Aquila est (quest'ultima denominata in principio ''San Giacomo'') venne aperta al traffico il 31 dicembre 1975;<ref name="lotsberg" />
+* la tratta L'Aquila est - [[Assergi]] venne aperta al traffico il 17 ottobre 1979;<ref name="lotsberg" />
+* la tratta Assergi - [[Villa Vomano]] (a singola carreggiata), comprendente la prima canna del [[traforo del Gran Sasso]], venne aperta al traffico il 1º dicembre 1984.<ref name="lotsberg" /><ref name="Repubblica1">{{cita web|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/1984/12/01/gran-sasso-apre-il-traforo.html?ref=search|titolo=Gran Sasso, apre il traforo|accesso=1º settembre 2011}}</ref> In quel periodo l'uscita [[San Gabriele (santuario)|San Gabriele]] - [[Colledara]] era usufruibile solamente per chi proveniva dall'Aquila; il restringimento a una carreggiata avveniva nel breve tratto in salita tra l'uscita di Assergi e l'imbocco del traforo.[[File:Autostrada A24 Italia 2011-08-by-RaBoe-15.jpg|thumb|left|A24, viadotto di [[Pietrasecca]], tra le uscite di [[Carsoli]] e [[Tagliacozzo]]]]
+* nel 1986 venne aperto il tratto Villa Vomano - Val Vomano (a singola carreggiata), comprendente il viadotto sul [[Vomano|fiume Vomano]]; in questa zona, dove era inizialmente previsto un solo svincolo, ne vennero realizzati due per un migliore collegamento tra Teramo e i paesi della Val Vomano;
+* la tratta Val Vomano - Teramo venne aperta al traffico (a singola carreggiata) il 24 maggio 1989.<ref name="lotsberg" /> L'evento fu salutato positivamente dagli abitanti del capoluogo, i quali potevano ora recarsi nella [[valle del Vomano]] senza utilizzare il tracciato della [[Strada statale 81 Piceno Aprutina|strada Statale 81]] (collinare e poco agevole). In un secondo momento venne aperta la seconda carreggiata relativa solamente alla galleria ''Collurania'', sotto l'omonimo [[osservatorio di Collurania|osservatorio]], con una stretta curva al termine del viadotto ''Sant'Antonio'' che solo in un secondo momento venne resa più agevole;
+* la tratta Roma Casal Bertone - Roma Tangenziale Est fu aperta al traffico nel giugno 1990, in occasione del [[Campionato mondiale di calcio 1990|campionato mondiale di calcio]] disputato in Italia in quell'anno, con un tracciato sotterraneo (galleria ''Pittaluga'') diverso dal progetto originario di sviluppo in superficie;<ref>{{Cita web|autore = L'Unita'|url = http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=/archivio/uni_1990_05/19900528_0022.pdf&query=pittaluga%20a24%20tangenziale%20autostrada|titolo = L'autostrada entra in città, in marcia sul tronchetto della A24|accesso = 15 luglio 2014|editore = |data = 28 maggio 1990|urlmorto = sì|urlarchivio = https://web.archive.org/web/20140718143022/http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=%2Farchivio%2Funi_1990_05%2F19900528_0022.pdf&query=pittaluga%20a24%20tangenziale%20autostrada}}</ref> i lavori per questo breve tratto, iniziati nel 1986,<ref name="unita-1986-1">{{Cita web|autore = Valeria Parboni|url = http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=/archivio/uni_1986_10/19861018_0016.pdf&query=tangenziale%20a24|titolo = Un volo fino in centro - La Roma L'Aquila finirà sulla tangenziale|accesso = 19 luglio 2014|editore = L'Unita'|data = 18 ottobre 1986|urlmorto = sì|urlarchivio = https://web.archive.org/web/20140726191655/http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=%2Farchivio%2Funi_1986_10%2F19861018_0016.pdf&query=tangenziale%20a24}}</ref> si conclusero con un anno di ritardo rispetto a quanto preventivato;<ref name="unita-1986-1" />
+* la seconda galleria del traforo del Gran Sasso, con lo svincolo di accesso all'[[Istituto nazionale di fisica nucleare]], venne inaugurata il 29 luglio 1993;<ref>{{cita web|url=http://www.adnkronos.com/Archivio/AdnAgenzia/1993/07/27/Cronaca/TRAFORO-GRAN-SASSO-GIOVEDI-VIA-AL-RADDOPPIO_151600.php|titolo=Traforo Gran Sasso: giovedì via al raddoppio|accesso=7 luglio 2013}}</ref> l'apertura del secondo fornice permise il transito nel traforo dei mezzi pesanti oltre le 7,5 tonnellate, fino ad allora non consentito, per motivi di sicurezza.<ref>{{Cita web|url=http://www1.adnkronos.com/Archivio/AdnAgenzia/1993/07/27/Cronaca/TRAFORO-GRAN-SASSO-GIOVEDI-VIA-AL-RADDOPPIO_151600.php|titolo=Traforo Gran Sasso, via al raddoppio|autore=|editore=|data=|accesso=}}</ref> Nel periodo immediatamente precedente, dopo un avanzamento dei lavori molto lento per via delle complesse infrastrutture da realizzare, erano stati aperti vari tratti del raddoppio tra l'uscita del traforo e Villa Vomano e lo svincolo di San Gabriele divenne usufruibile anche da chi giungeva da Teramo;
+* il definitivo completamento del tracciato (raddoppio della tratta Villa Vomano - Teramo), dopo l'inizio dei lavori nel 2006, avvenne il 28 aprile 2009, con l'apertura della seconda galleria ''Carestia'' al km progressivo 151.<ref name=":1">{{cita web|url=http://www.trail.abruzzo.it/scheda_interventi.php?id_interventi=34|titolo=Osservatorio Regionale Trasporti Infrastrutture e Logistica|accesso=1º settembre 2011|dataarchivio=26 luglio 2014|urlarchivio=https://web.archive.org/web/20140726215629/http://www.trail.abruzzo.it/scheda_interventi.php?id_interventi=34|urlmorto=sì}}</ref>
+
+=== Tratti non realizzati ===
+[[File:Autostrada A24 Rom 04(RaBoe).jpg|left|thumb|A24, tracciato in direzione Roma tra [[Torano di Borgorose]] e [[Tagliacozzo]]]]
+{{Approfondimento|titolo=Cronologia fondamentale della A24
+|contenuto=1969: Aprono i primi tratti<br />
+1970: Completato il tracciato fino all'Aquila<br />
+1979: Completato il tracciato fino ad Assergi<br />
+1984: Aperto il primo tunnel del Gran Sasso<br />
+1984: Il tracciato giunge a Villa Vomano (singola carreggiata)<br />
+1986: Aperto il tratto fino a Val Vomano (singola carreggiata)<br />
+1989: Aperto il tratto fino a Teramo (singola carreggiata)<br />
+1990: Completato l'allacciamento con la Tangenziale Est di Roma<br />
+1993: Aperto il secondo tunnel del Gran Sasso<br />
+2009: Termine raddoppi di carreggiata<br />
+2014: Realizzate le complanari nel tratto tra Lunghezza e Palmiro Togliatti (penetrazione urbana di Roma)
+}}
+I piani originari dell'A24 prevedevano il congiungimento con la [[Autostrada A14 (Italia)|A14]] all'altezza di [[Alba Adriatica]]. Una volta giunto a Teramo, il tracciato avrebbe dovuto percorrere un piccolo tratto della valle del Tordino fino a [[San Nicolò a Tordino|San Nicolò]], quindi proseguire nella val Vibrata (dove era previsto il casello di [[Sant'Omero (Italia)|Sant'Omero]]) fino ad allacciarsi all'autostrada adriatica nel punto dove ora è lo svincolo [[Val Vibrata]]. La realizzazione di quest'ultimo tratto del progetto originario<ref name=":1" /> venne a lungo accantonato e il governo revocò la concessione a SARA nel 1976, che comunque continuò a gestire la A24 e la A25, fino a quando non le subentrò Strada dei Parchi SpA<ref>{{cita web|url=http://www.camera.it/_dati/leg13/lavori/stampati/sk0500/relazion/0208.htm|titolo=PROGETTO DI LEGGE - N. 208|accesso=1º settembre 2011}}</ref>
+
+Nel corso degli anni si sono susseguite proposte di ripristinare il progetto originario di prolungamento del tracciato fino Alba Adriatica, ma nessuna di queste ha finora trovato attuazione.<ref>{{Cita web|autore = Luca Zarroli|url = http://www.cityrumors.it/teramo/politica/31047-a-24-fino-ad-alba-adriatica-pompizi-sollecita-il-completamento.html|titolo = A24 fino ad Alba Adriatica: Pompizi sollecita il completamento|accesso = 19 luglio 2014|editore = Cityrumors.it|data = 7 aprile 2011|urlmorto = sì}}</ref>
+
+Tuttavia, la [[strada statale 80 racc di Teramo]], con caratteristiche di superstrada e libera da pedaggio, aperta nel 2006, permette un collegamento a scorrimento veloce fra l'A24 e l'A14, con un percorso simile a quello inizialmente ipotizzato per il prolungamento dell'A24.
+
+=== Altri lavori ===
+[[File:Autostrada A25 Ende 01(RaBoe).jpg|thumb|Fine della [[Autostrada A25 (Italia)|A25]] [[Torano (Borgorose)|Torano]] - [[Pescara]] e interconnessione con la A24 Roma - L'Aquila - Teramo (svincolo direzionale)]]
+
+Il 24 marzo 2011 fu aperto il nuovo svincolo Teramo ovest al km 157, direttamente collegato alla tangenziale della città, la [[strada statale 80 racc di Teramo]].<ref>{{Cita web|url=http://www.abruzzoweb.it/contenuti/teramo-inaugurazione-lotto-zero-presenti-letta-e-matteoli/21999-4/|titolo=Teramo: inaugurazione Lotto Zero, presenti Letta e Matteoli|sito=Abruzzo Web|data=23 marzo 2011|accesso=4 agosto 2015}}</ref>
+Nel 2014 furono invece terminati i lavori delle cosiddette ''complanari'' ovvero strade a scorrimento veloce che affiancano ai bordi l'autostrada A24 nel tratto compreso tra la barriera Roma est e l'uscita Palmiro Togliatti del tratto interno al Grande Raccordo Anulare, destinate ad accogliere il flusso giornaliero di pendolari entranti e uscenti dalla capitale alle zone limitrofe ([[Settecamini]]-[[Ponte di Nona]]-[[Castelverde (Roma)|Castelverde]]-[[Lunghezza (zona di Roma)|Lunghezza]]-[[Corcolle]]-[[Guidonia]]-[[Tivoli]]).
+Il 14 Settembre [[2021]] è stato finanziato un progetto per realizzazione di un casello a ridosso della SP491 e della [[Strada statale 150 della Valle del Vomano]] in modo da collegare direttamente il paese di [[Montorio al Vomano]] e proseguire per il [[Parco Nazionale del Gran Sasso e Monti della Laga]]<ref>{{Cita web|url=https://www.abr24.it/a24-finanziato-lo-svincolo-di-montorio-altitonante-opera-strategica-per-il-sistema-produttivo-teramano/|titolo=A24, FINANZIATO LO SVINCOLO DI MONTORIO|sito=ABR24.it|data=14 settembre 2021|accesso=4 dicembre 2022}}</ref>
+
+== L'autostrada oggi ==
+
+=== Tronco di penetrazione urbana ===
+[[File:A24-Aquila.jpg|thumb|left|A24, discesa da [[Tornimparte]] verso ''L'Aquila'', sullo sfondo; si nota il lungo viadotto che lambisce il capoluogo in direzione di [[Teramo]] (tra le uscite ''L'Aquila ovest'' e ''L'Aquila est'').]]
+Questo tratto di {{M|7,3|u=km}} si sviluppa a partire dalla [[tangenziale Est di Roma]] fino all'[[autostrada A90]], presentando svincoli verso varie arterie della capitale ([[Tor Sapienza]], ''Viale Palmiro Togliatti'', ''Via F.Fiorentini'' e ''Via di Portonaccio''). Anche se il gestore considera questo tratto parte integrante della A24, è dotato di una chilometrica separata ed è classificato con la denominazione interna ''D28''<ref>{{Cita web|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=48&ramo=49&code=D28&link=&tipo=|titolo=}}</ref> di Autostrade per l'Italia e considerato una autostrada a sé dal Ministero dei Trasporti.<ref>{{Cita web|url=https://www.mit.gov.it/comunicazione/news/autostrade-concessioni-autostradali-direzione-generale-vigilanza|titolo=elenco gestori autostradali del MIT|accesso=20 dicembre 2020|urlarchivio=https://web.archive.org/web/20210111162246/https://www.mit.gov.it/comunicazione/news/autostrade-concessioni-autostradali-direzione-generale-vigilanza|urlmorto=sì}}</ref> È anche noto come ''tronco di penetrazione urbana''<ref>{{cita web|url=https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=48&ramo=49&code=D28&link=&tipo=|titolo=Autostrade per l'Italia|accesso=1º settembre 2011|urlarchivio=https://web.archive.org/web/20060508023226/https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=48&ramo=49&code=D28&link=&tipo=|urlmorto=sì}}</ref> o ''A24 penetrazione urbana'', e con queste ultime denominazioni viene citata in diverse mappe stradali. 
+[[File:A24-Panoramic.jpg|upright=2.7|thumb|A24, Panoramica del tracciato in direzione est poco prima del [[traforo del Gran Sasso|tunnel del Gran Sasso]] (versante aquilano) con il [[Pizzo Cefalone]]]]
+Nei notiziari radiofonici sul traffico, viene spesso chiamato ''tratto urbano dell'A24'' ed è anche informalmente noto ai Romani come ''il tronchetto.''<ref>{{Cita news|lingua=it|url=http://www.stradadeiparchi.it/autostrade/nuove-complanari/|titolo=Nuove Complanari {{!}} Strada dei Parchi|pubblicazione=Strada dei Parchi|accesso=6 maggio 2017}}</ref> È dotato di complanari da Viale Palmiro Togliatti fino al casello di Roma Est sul ramo principale della A24 ed è percorribile senza pedaggio fino a tale casello.
+
+=== Tronco extraurbano ===
+Superato lo svincolo [[Lunghezza (zona di Roma)|Lunghezza]], il tracciato incrocia l'[[Autostrada A1 (Italia)|A1 Milano-Napoli]] e subito inizia la sua salita verso [[Tivoli]] e [[Castel Madama]], per proseguire in un susseguirsi di viadotti e gallerie fino agli svincoli di [[Vicovaro]]-[[Mandela (Italia)|Mandela]], [[Carsoli]]-[[Oricola]] e [[Tagliacozzo]], con la strada che taglia prima il [[subappennino laziale]] ([[Monti Tiburtini]], [[Monti Lucretili]], [[Monti Ruffi]]), seguendo il medio corso della [[Valle dell'Aniene]] e poi a seguire l'[[Appennino abruzzese]] ([[Monti Simbruini]] e [[Monti Carseolani]]), attraversando il confine regionale tra Lazio e Abruzzo poco prima dello svincolo di Carsoli, al confine tra i territori comunali di [[Riofreddo]] e [[Oricola]]. In questo tratto vi è il viadotto di [[Pietrasecca]], che si sviluppa in rettilineo e in curva per {{M|1,9|u=km}}<ref name=":2">{{Cita web|url=http://www.totoholding.it/businessunit/strada_dei_parchi.html|titolo=Toto Holding|accesso=28 luglio 2016|urlarchivio=https://web.archive.org/web/20160516221505/http://www.totoholding.it/businessunit/strada_dei_parchi.html|urlmorto=sì}}</ref> a oltre {{M|100|u=m}} di altezza.<ref name=":2" />
+
+Oltrepassato Tagliacozzo, dopo alcuni chilometri di discesa, al {{M|72|u=km}} si incontra lo svincolo direzionale con la [[Autostrada A25 (Italia)|A25]], presso [[Torano (Borgorose)|Torano]], con il tracciato che piega verso nord-est, tornando per circa {{M|20|u=km}} nel territorio laziale del [[Cicolano]] a partire dalla ''[[Val de' Varri]]''-''Monte Faito'', al confine tra i territori dei comuni di [[Pescorocchiano]] e [[Sante Marie]]; successivamente, il tracciato sale e si immette nella galleria "[[Gruppo montuoso Monte San Rocco-Monte Cava|San Rocco]]" (tra gli svincoli di [[Valle del Salto]] e [[Tornimparte]]), lunga {{M|4,120|u=km}} che separa la [[Valle dell'Aterno]] dal Cicolano, lambendo a nord i [[Monti della Duchessa]] ([[Velino-Sirente]]) e tornando definitivamente in territorio abruzzese. Superata la galleria, l'autostrada percorre il valico di Monte San Rocco ({{M|1100|u=m}} s.l.m.)  con un tratto in discesa verso L'Aquila dove lambisce la periferia della città con un lungo viadotto passando per gli svincoli di ''L'Aquila ovest'' prima e ''L'Aquila est'' poi; l'autostrada risale ancora in direzione di [[Assergi]] entrando nel territorio del [[parco nazionale del Gran Sasso e Monti della Laga]] sul versante aquilano del [[Gran Sasso d'Italia]]. 
+[[File:Campo Imperatore 40(RaBoe).jpg|left|thumb|A24, Ingresso nel [[traforo del Gran Sasso|tunnel del Gran Sasso]] presso [[Assergi]], versante aquilano visto dalla sommità di [[Campo Imperatore]]]]
+
+Il traforo del Gran Sasso, dallo sviluppo pressoché rettilineo salvo due curve ad ampio raggio subito dopo l'ingresso e poco prima dell'uscita, si sviluppa tra gli svincoli Assergi e [[Colledara]], con l'ingresso nel lato aquilano al km 118 a circa {{M|970|u=m}} [[s.l.m.]]. Nel traforo settentrionale, ovvero in direzione Roma, vi è l'ingresso, tramite uno svincolo a raso, dei [[laboratori nazionali del Gran Sasso]], e sono presenti limiti di velocità particolari per via del restringimento di carreggiata. I mezzi provenienti dall'Aquila accedono ai laboratori mediante uno svincolo di inversione di marcia vietato ai mezzi non autorizzati, realizzato poco dopo l'uscita dal traforo meridionale.
+
+Superato il traforo in direzione di Teramo, il tracciato procede al di sotto del versante orientale del [[Gran Sasso]], caratterizzato da una pendenza del 6% circa. In virtù della pendenza significativa è presente, in luogo della corsia di emergenza, una terza corsia di marcia nel tratto in salita verso il traforo in direzione di Roma, che copre tutta la lunghezza del tracciato tra lo svincolo di San Gabriele-Colledara e l'imbocco sud del traforo.
+
+Come in altre autostrade è attivo il sistema [[SICVE|Tutor]] per il monitoraggio delle velocità medie degli autoveicoli nelle rispettive tratte percorse. A causa dell'elevata incidenza di opere ingegneristiche sul tracciato autostradale (118,8&nbsp;km di viadotti, 70,8&nbsp;km di gallerie su complessivi 562,8&nbsp;km di carreggiate), dell'ambiente collinare e montano e dei conseguenti alti costi di manutenzione è classificata tra le autostrade di montagna,<ref>{{cita news|autore=Andrea Tartaglia|url=https://www.gazzetta.it/motori/la-mia-auto/24-10-2019/calcolo-pedaggio-autostradale-non-basta-semplice-moltiplicazione-350543272338.shtml|titolo=Calcolo del pedaggio autostradale: non basta una moltiplicazione|pubblicazione=La Gazzetta dello Sport|data=2 novembre 2021|accesso=28 gennaio 2021}}</ref> pur non rientrando tra le tratte autostradali italiane che applicano i pedaggi più elevati.<ref>{{cita news||url=http://motori.quotidiano.net/comefare/pedaggio-autostrada-quali-le-tratte-piu-costose.htm|titolo=Pedaggio autostrada: quali sono le tratte più costose|pubblicazione=Quotidiano Nazionale|data=24 ottobre 2018|accesso=31 gennaio 2021}}</ref>
+[[File:Autostrada A24 Rom 03(RaBoe).jpg|miniatura|L'autostrada nei pressi di [[Castel Madama]]]]
+[[File:A24-Sodera.jpg|thumb|A24, direzione [[Teramo]], galleria Sodera]]
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A24 Italia.svg|30}} ROMA - L'AQUILA - TERAMO'''<br />Autostrada dei Parchi
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|17}} {{simbolo|Italian traffic signs - fine autostrada.svg|17}}||[[Tangenziale Est di Roma|Tangenziale Est]]|| align="right"|7,3|| align="right"| 0 ||align="center" rowspan=18|[[Città metropolitana di Roma Capitale|RM]] ||align="center" rowspan=8|
+|-
+| [[File:AB-AS-grün.svg]]|| Via di Portonaccio<br /><small> [[Casal Bertone]]<br />{{simbolo|Strada Statale 5 Italia.svg|35}} ''[[Strada statale 5 Via Tiburtina Valeria|Via Tiburtina]]''</small> <small>{{simbolo|Italian traffic signs - icona supermercato.svg}} Zona commerciale</small>
+| align="right" | --,-|| align="right"| 0,8
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Tiburtina"<ref>Solo direzione L'Aquila/Teramo</ref>|| align="right" |4|| align="right"| --,- 
+|-
+| [[File:AB-AS-grün.svg]]|| Via F. Fiorentini - Ospedale Sandro Pertini|| align="right"| 4,9|| align="right"| 2,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Viale Palmiro Togliatti]]<br /><small> {{simbolo|Strada Statale 5 Italia.svg|35}} ''[[Strada statale 5 Via Tiburtina Valeria|Via Tiburtina]]''<br />{{simbolo|Strada Statale 6 Italia.svg|35}} ''[[Strada statale 6 Via Casilina|Via Casilina]]''<br />{{simbolo|Strada Statale 215 Italia.svg|35}} ''[[Via Tuscolana]]''</small> 
+[[Ponte Mammolo (metropolitana di Roma)|Stazione Ponte Mammolo]][[File:Metropolitana_di_Roma_B.svg|link=Linea_B_(metropolitana_di_Roma)|25x25px]]
+
+| align="right" | 3,5|| align="right"| 3,8
+|-
+| [[File:AB-AS-grün.svg]]|| Via di Tor Cervara
+[[File:Metropolitana_di_Roma_B.svg|link=Linea_B_(metropolitana_di_Roma)|25x25px]] [[Rebibbia (metropolitana di Roma)|Stazione Rebibbia]]
+
+[[FL2 (ferrovia regionale del Lazio)]]
+
+[[Stazione di Tor Sapienza|Stazione di Tor Sapien]]
+| align="right" | 1,6|| align="right"|5,7
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "La Rustica"<ref>Solo direzione Roma</ref>|| align="right" |--,-|| align="right"| -,-
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A90 Italia.svg|23}} [[Autostrada A90|Grande Raccordo Anulare]]|| align="right"| 0|| align="right"| 158
+|-
+| [[File:AB-AS-grün.svg]]|| [[Settecamini]]<br /><small>{{simbolo|Strada Statale 5 Italia.svg|35}} ''[[Strada statale 5 Via Tiburtina Valeria|Via Tiburtina]]''</small> || align="right" |1|| align="right" | 157 ||align="center" rowspan=13|[[File:Italian traffic signs - strada europea 80.svg|50px|link=Strada europea E80]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Ponte di Nona]]<br /><small> [[Via Collatina]]<br />{{simbolo|Italian traffic signs - icona supermercato.svg}} Zona commerciale</small> || align="right" |2|| align="right" | 156
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lunghezza (zona di Roma)|Lunghezza]] || align="right" |8|| align="right" | 150
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera [[Roma]] est|| align="right" |8|| align="right" | 150
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano - Napoli]]
+| align="right" |10|| align="right" | 148
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Colle Tasso"|| align="right" |11|| align="right" | 147
+|-
+| [[File:AB-AS-grün.svg]]|| [[Tivoli]]<br /><small>{{simbolo|Strada Statale 5 Italia.svg|35}} ''[[Strada statale 5 Via Tiburtina Valeria|Tiburtina]]''</small>|| align="right" |13|| align="right" | 145
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castel Madama]]|| align="right" |24|| align="right" | 134
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vicovaro]]<br />[[Mandela (Italia)|Mandela]]|| align="right" |33|| align="right" | 125
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Roviano" || align="right" |40 || align="right" |118
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Civita"|| align="right" |47|| align="right" | 111||align="center" rowspan=3|[[Provincia dell'Aquila|AQ]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Carsoli]]<br />[[Oricola]]|| align="right" |50|| align="right" | 108
+|-
+| [[File:AB-AS-grün.svg]] ||[[Tagliacozzo]]<ref>Uscita solo in direzione Teramo, ingresso solo in direzione Roma</ref>
+| align="right" |61|| align="right" | 97
+|-
+| [[File:AB-Vzw-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A25 Italia.svg|23}} [[Autostrada A25 (Italia)|Pescara - Chieti]]|| align="right"|72|| align="right"| 86||align="center" rowspan=2|[[Provincia di Rieti|RI]] || rowspan="16" align="center" |
+|-
+| [[File:AB-AS-grün.svg]]|| [[Valle del Salto]]<br /><small>{{simbolo|Strada Statale 578 Italia.svg|35}} ''[[Strada statale 578 Salto Cicolana|Salto Cicolana]]'' - [[Rieti]]</small>|| align="right"|75|| align="right"| 83
+|-
+| [[File:AB-AS-grün.svg]] ||[[Tornimparte]]<br /><small>{{simbolo|Strada Statale 696 Italia.svg|35}} ''[[Strada statale 696 del Parco Regionale Sirente-Velino|del Parco Regionale Sirente-Velino]]''<br/>{{simbolo|Strada Provinciale 1 Italia.svg|35}} ''[[Strada provinciale 1 Amiternina|Amiternina]]''<br/>{{simbolo|Italian traffic signs - icona scuola sci.svg}} [[Campo Felice]]</small>|| align="right"|85|| align="right"| 72||align="center" rowspan=6|[[Provincia dell'Aquila|AQ]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Valle Aterno"|| align="right"|99|| align="right"| 59
+|-
+| [[File:AB-AS-grün.svg]]|| [[L'Aquila]] ovest<br /><small>{{simbolo|Strada Statale 80 Italia.svg|35}} ''[[Strada statale 80 del Gran Sasso d'Italia|del Gran Sasso d'Italia]]'' - [[Teramo]]<br />{{simbolo|Strada Statale 17 Italia.svg|35}} ''[[Strada statale 17 dell'Appennino Abruzzese ed Appulo-Sannitico|dell'Appennino Abruzzese ed Appulo-Sannitico]]'' - [[Antrodoco]] </small>|| align="right"|101|| align="right"| 57
+|-
+| [[File:AB-AS-grün.svg]]|| [[L'Aquila]] est<br /><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|15}} {{simbolo|Strada Statale 17ter Italia.svg|35}} ''[[Strada statale 17 ter dell'Appennino Abruzzese|Tangenziale Est dell'Aquila]]'' - [[Pescara]]</small>|| align="right"|107|| align="right"| 51
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Gran Sasso " || align="right"|108,2|| align="right"| 50
+|-
+| [[File:AB-AS-grün.svg]]|| [[Assergi]]<br /><small>{{simbolo|Italian traffic signs - icona scuola sci.svg}} [[Campo Imperatore]]<br />''[[Parco nazionale del Gran Sasso e Monti della Laga]]'' </small>|| align="right"|117|| align="right"| 41
+|-
+|[[File:Italian_traffic_signs_-_galleria.svg|20x20px]] ||[[Traforo del Gran Sasso]] 
+|118
+|40
+|[[Provincia dell'Aquila|AQ]]/[[Provincia di Teramo|TE]]
+|-
+| [[File:AB-AS-grün.svg]] ||[[San Gabriele (santuario)|San Gabriele]]<br />[[Colledara]]<br /><small>{{simbolo|Strada Statale 491 Italia.svg|35}} [[Isola del Gran Sasso d'Italia]] - [[Castelli (Italia)|Castelli]]<br />''[[Parco nazionale del Gran Sasso e Monti della Laga]]'' </small>|| align="right"|137|| align="right" | 21||align="center" rowspan=7|[[Provincia di Teramo|TE]]
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera [[Teramo]]||align="right"|147|| align="right"| 11
+|-
+| [[File:AB-AS-grün.svg]]|| [[Basciano]]<br />[[Villa Vomano]]<br /><small>ex {{simbolo|Strada Statale 365 Italia.svg|35}} ''[[Strada statale 365 di Bisenti|di Bisenti]]'' - [[Bisenti]] {{simbolo|Strada Statale 81 Italia.svg|35}} ''[[Strada statale 81 Piceno Aprutina|Piceno-Aprutina]]'' - [[Teramo]] {{simbolo|Strada Statale 81 Italia.svg|35}} ''[[Strada statale 81 Piceno Aprutina|Piceno-Aprutina]]'' - [[Chieti]]</small> || align="right" | 149|| align="right" | 9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Val Vomano]]<br /><small> {{simbolo|Strada Statale 150 Italia.svg|35}} ''della Valle del Vomano'' - [[Roseto degli Abruzzi]]</small>|| align="right"|151|| align="right" | 7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Teramo]] ovest <small><br />{{simbolo|Strada Statale 80var Italia.svg|35}} ''Variante di Teramo''<br />{{simbolo|Strada Statale 80 Italia.svg|35}} [[Montorio al Vomano]] </small> || align="right"|157|| align="right" | 1
+|-
+| [[File:AB-AS-grün.svg]] ||[[Teramo]] est<br /><small> {{simbolo|Strada Statale 81 Italia.svg|35}} ''[[Strada statale 81 Piceno Aprutina|Piceno-Aprutina]]'' - [[Ascoli Piceno]] {{simbolo|Strada Statale 80 Italia.svg|35}} [[Giulianova]]</small> || align="right"|158|| align="right" | 0
+|-
+| {{simbolo|Italian traffic signs - strada extraurbana principale.svg|17}} {{simbolo|Italian traffic signs - fine autostrada.svg|17}}||{{simbolo|Strada Statale 80racc Italia.svg|35}} ''[[Strada statale 80 racc di Teramo|di Teramo]]''<br /><small> {{simbolo|Italian traffic signs - strada europea 55.svg|22}} {{simbolo|Autostrada A14 Italia.svg|18}} [[Autostrada A14 (Italia)|Bologna - Taranto]]</small> || align="right"|158|| align="right"| 0
+|-
+|}
+
+== Note ==
+<references />
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Roma - L'Aquila con diramazione per Villa Vomano e Pescara |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 6 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = giugno |pp = 293-302 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/418/mode/2up }}
+* {{Cita libro|Marco Zaganella||L'Aquila e l'Abruzzo nella storia d'Italia|2013|Edizioni Nuova Cultura|lingua=it}}
+
+== Voci correlate ==
+
+* [[Autostrada A25 (Italia)]]
+* [[Tangenziale Est di Roma]]
+* [[Strada statale 80 racc di Teramo]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|http://www.stradadeiparchi.it/|Strada dei Parchi S.p.A.}}
+* {{cita web|http://www.lotsberg.net/data/italia/A24.html|Gallerie e viadotti della A24}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrada A24| ]]
+[[Categoria:Trasporti all'Aquila]]
+[[Categoria:Trasporti a Teramo]]
+[[Categoria:Autostrade gestite dall'ANAS]]

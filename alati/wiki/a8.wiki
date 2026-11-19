@@ -1,0 +1,203 @@
+{{Strada
+|nome = Autostrada A8
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada dei Laghi<br />Milano-Varese
+|simbolo = Autostrada A8 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-MI}}<br />{{IT-VA}}
+|inizio = Allacciamento con [[Cavalcavia del Ghisallo]] e intersezione con [[Autostrada_A4_(Italia)|A4]] presso [[Milano]]
+|fine = Innesto su [[Strada statale 707 Raccordo Gazzada-Varese|SS 707 ''Gazzada-Varese'']] presso [[Buguggiate]]
+|lunghezza = 43,3<ref name="lotsberg.net"/>
+|direzione = 
+|apertura = [[1924]]<ref name="lotsberg.net">{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=22 settembre 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|sistema aperto]]
+|città servite = 
+|intersezioni = [[Autostrada A4 (Italia)|A4]], [[Autostrada A9 (Italia)|A9]], [[Autostrada A26 (Italia)|A26]], [[Autostrada A36 (Italia)|A36]], [[Autostrada A50|A50]], [[Autostrada A52 (Italia)|A52]], [[Autostrada A60 (Italia)|A60]]
+|europea1 = 35
+|europea2 = 62
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A8.svg
+|tracciato = 
+}}
+L''''autostrada A8''' è un'autostrada [[italia]]na che collega [[Milano]] a [[Varese]]. È comunemente definita, assieme all'[[Autostrada A9 (Italia)|autostrada A9]], come '''[[autostrada dei Laghi]]'''. Lunga 43,6&nbsp;km, è interamente gestita da [[Autostrade per l'Italia]]<ref name="autogenerato12">{{Cita web|url=http://www.autostrade.it/it/la-nostra-rete|titolo=La rete - Autostrade per l'Italia|accesso=9 dicembre 2016}}</ref>.
+
+==Cavalcavia del Ghisallo==
+{{Vedi anche|Cavalcavia del Ghisallo}}
+
+== Storia ==
+{{Vedi anche|Autostrada dei Laghi}}
+{{...|trasporti}}
+
+== L'autostrada oggi ==
+L'[[autostrada]] ha inizio a [[Milano]] come prosecuzione del [[cavalcavia del Ghisallo]]<ref>Il tratto del cavalcavia del Ghisallo originariamente costituiva il primo chilometro dell'autostrada.</ref> e si snoda interamente nel territorio della regione [[Lombardia]]. Il chilometro zero è oggi posto presso lo svincolo di Viale Certosa in corrispondenza della congiunzione con l'[[Autostrada A4 (Italia)|autostrada A4 Torino-Trieste]], in uno dei punti più critici della viabilità autostradale lombarda, che è detto "quadrivio Fiorenza", mentre in origine si trovava proprio davanti alla [[Certosa di Garegnano|Certosa]] stessa, presso cui era posto il casello d’entrata.
+
+A [[Lainate]] l'autostrada prosegue in direzione [[Varese]] e si dirama l'[[Autostrada A9 (Italia)|autostrada A9]] in direzione [[Como]]-[[Svizzera]]. In corrispondenza di [[Gallarate]] l'autostrada A8 si collega con la [[Autostrada A26 (Italia)|A26]] tramite la [[Autostrada A8/A26|diramazione A8/A26]]. L’A8 termina in corrispondenza del raccordo autostradale [[Strada statale 707 Raccordo Gazzada-Varese|SS 707 ''Gazzada-Varese'']], che prosegue fino al centro della città di [[Varese]].
+
+L'[[Autostrada dei Laghi]] oggi ha importanza notevole perché sostiene un elevato traffico pendolare diretto a [[Milano]], inoltre rappresenta un percorso obbligato per la maggior parte delle merci che dall'[[Italia]] viaggiano verso il nord [[Europa]].
+
+Sulla A8 sono da segnalare importanti opere di ammodernamento recenti: il collegamento ([[Superstrada Malpensa 2000]]) con l'[[Aeroporto di Milano-Malpensa|aeroporto di Malpensa]], la costruzione della quarta corsia fino a [[Lainate]],<ref>{{Cita web|url=https://www.ilgiorno.it/milano/cronaca/lainate-svincolo-autostrada-1.4659827|titolo=Lainate: si avvicina la quinta corsia, ma lo svincolo sulla A8 chiude|autore=MONICA GUERCI|sito=Il Giorno|data=1561270754803|lingua=it|accesso=24 ottobre 2019}}</ref> a cui è stata in seguito aggiunta la quinta limitatamente al tratto successivo alla barriera di Milano Nord, la costruzione della terza corsia sino a [[Gallarate]] e il nuovo svincolo per la [[fiera]] di [[Milano]] (nei pressi di [[Rho]]), che consente l'allacciamento alla [[Autostrada A52 (Italia)|Tangenziale Nord]].
+
+La gestione è in affidamento ad ''[[Autostrade per l'Italia]]''. L'autostrada è soggetta a un sistema di pedaggio aperto cui sono sottoposti i veicoli che percorrono i tratti fra la [[fiera di Milano]] (barriera di Milano Nord) e l'interconnessione con la A9, e fra [[Gallarate]] e [[Cavaria]] (barriera di Gallarate Nord).
+
+===Controllo elettronico della velocità===
+Ora è attivo il controllo elettronico della velocità con sistema [[SICVE|Safety Tutor]]:
+*in direzione di Milano nella tratta Gallarate-Legnano (km 27,2 - 13,5)
+*in direzione di Varese nella tratta Origgio Ovest-Busto Arsizio (km 12,2 - 25,6)
+
+==Tabella percorso==
+Il chilometraggio ufficiale è unico e parte da [[Milano]], essendo valido anche per la A9. Nella tabella sottostante la chilometrica inversa è da considerarsi puramente informativa e informale.
+{| class="wikitable" 
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A8 Italia.svg|30}} MILANO - VARESE'''<br />Autostrada dei Laghi
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|Autostrada sfondo verde.PNG|18}} || [[Milano]] Viale [[Certosa di Milano|Certosa]]<br />{{simbolo|Italian traffic signs - strada extraurbana principale.svg|18}} <small>[[Cavalcavia del Ghisallo]] - {{simbolo|Italian traffic signs - icona stadio.svg}} ''[[San Siro (Milano)|San Siro]]'' </small>||align="right"|-1,0 ||align="right"|43,3 || align="center" rowspan="10" |[[Provincia di Milano|MI]]||align="center" rowspan="5"|
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Torino - Venezia]] <ref>''Esclusa la relazione Varese-Torino, svolta dallo svincolo della Cascina Merlata''.</ref>||align="right"|-0,9 ||align="right"|43,5 
+|-
+| [[File:AB-Kreuz-grün.svg]]||[[Cascina Merlata]] <ref name="Varese" /><br/> {{simbolo|Italian traffic signs - strada extraurbana principale.svg|18}} <small>[[Tangenziale Ovest di Milano|SR1 Raccordo per A4 Torino e A50]]</small>|| align="right" | - || align="right" |42,1 
+|-
+| [[File:AB-Kreuz-grün.svg]]||{{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Fiera di Milano|Fieramilano]]<br />{{simbolo|Autostrada A52 Italia.svg|23}} [[Autostrada A52 (Italia)|Tangenziale Nord di Milano]] ||align="right"|2,0 ||align="right"|40,6 
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}||Barriera [[Milano]] Nord<br /><small>''pedaggio € 1,90'' <ref>''pedaggio con [[car pooling]] € 0,50 (lun-ven 6.30/9.30 - 17.30/20.00)''</ref> </small> ||align="right"|5,6 ||align="right"|38,0
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A50 Italia.svg|23}} [[Autostrada A50|Tangenziale Ovest di Milano]] <ref name="Varese">''Svincolo solo da e per [[Varese]].''</ref> ||align="right"| - ||align="right"|36,8 ||align="center" rowspan="5"|[[File:Italian traffic signs - strada europea 35.svg|50px|link=Strada europea E35]]<br />[[File:Italian traffic signs - strada europea 62.svg|50px|link=Strada europea E62]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lainate]]-[[Arese]] <ref>''Svincolo solo da e per [[Milano]]''</ref>|| align="right" |7,2 ||align="right"|-
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Area di servizio Villoresi Ovest|Villoresi Ovest]]"|| align="right" |7,6 ||align="right"|35,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lainate]] <br>{{simbolo|Italian traffic signs - stazione.svg|15}} ''pedaggio <small>€ 0,80</small>''<ref name="Varese" />
+| align="right" |8,1 ||align="right"|34,5
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A9 Italia.svg|23}} [[Autostrada A9 (Italia)|Como - Chiasso]] ||align="right"|10,3 ||align="right"|32,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Origgio]] ovest <ref>''Solo uscita in direzione Varese''</ref>||align="right"|14,0||align="right"|-&nbsp;|| align="center" |[[Provincia di Varese|VA]]||rowspan=7 align="center"|[[File:Italian traffic signs - strada europea 62.svg|50px|link=Strada europea E62]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Legnano]]||align="right"|16,3 ||align="right"|26,3 ||align="center"|[[Provincia di Milano|MI]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castellanza]] ||align="right"|18,0 ||align="right"|24,6 ||rowspan=13 align="center"|[[Provincia di Varese|VA]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Busto Arsizio]]<br /><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|18}} {{simbolo|Strada Statale 336 Italia.svg|35}} [[Superstrada Malpensa 2000]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Milano-Malpensa]]</small> ||align="right"|24,5 ||align="right"|18,2
+|-
+| [[File:AB-Kreuz-grün.svg]] || [[File:Autostrada A36 Italia.svg|23px|A36]] [[Autostrada A36 (Italia)|Lentate sul Seveso]]<br /><small>[[Solbiate Olona]]</small> || align="right" |26,0 ||align="right" |15,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Gallarate]] {{simbolo|Italian traffic signs - stazione.svg|15}} <small>''€ 0,80 solo da e per [[Milano]]''</small> ||align="right"|29,9 ||align="right"|12,7
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A8-A26 Italia.svg|23}} [[Autostrada A8 (Italia)#A8/A26 diramazione Gallarate-Gattico|Gravellona Toce - Genova]] ||align="right"|30,9 ||align="right"|11,7
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}||Barriera [[Gallarate]] Nord<br /><small>''pedaggio € 1,60''</small> ||align="right"|31,9 ||align="right"|11,7||rowspan=8 align="center"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cavaria con Premezzo|Cavaria]]||align="right"|33,9 ||align="right"|8,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Solbiate Arno]] - [[Albizzate]]||align="right"|35,7 ||align="right"|6,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castronno]]||align="right"|40,1 ||align="right"|2,5
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Brughiera del Dosso|Brughiera]]"|| align="right" |40,7 ||align="right"|1,9
+|-
+| [[File:AB-Kreuz-grün.svg]]||{{simbolo|Autostrada A60 Italia.svg|23}} [[Autostrada A60 (Italia)|Tangenziale di Varese]]<br />[[Gazzada Schianno]]<br />[[Morazzone]]<br />[[Varese]] est
+| align="right" |41,7 ||align="right"|0,9
+|-
+|[[File:AB-AS-grün.svg]]||[[Azzate]] - [[Buguggiate]]
+[[Varese]] ovest<br /><small>{{simbolo|Strada Provinciale 1 Italia.svg|35}} ''del [[Voltorre|Chiostro di Voltorre]]''</small>
+| align="right" |42,0 ||align="right"|0,6
+|-
+|{{simbolo|Italian traffic signs - fine autostrada.svg|18}} ||{{simbolo|Italian traffic signs - strada extraurbana principale.svg|18}} {{simbolo|Strada Statale 707 Italia.svg|35}} [[Strada statale 707 Raccordo Gazzada-Varese|''Raccordo Gazzada-Varese'']] ||align="right"|42,3||align="right"|0,0
+|}
+<references group="annotazione"/>
+
+==Quinta corsia==
+Il [[Consiglio dei ministri]] ha approvato il progetto di ampliamento della terza corsia dell'[[Autostrada A9 (Italia)#Lavori|autostrada A9]], inserito nel IV Atto Aggiuntivo del 2004, i cui lavori si sono conclusi nel luglio 2012. Il progetto ha interessato anche l'A8 comprendendo la costruzione della 4ª corsia tra la barriera di [[Milano]] Nord e l'interconnessione di [[Lainate]] con l'A9 dal km 5+577 al km 9+990<ref>{{Cita web|autore = |url = http://www.trail.unioncamerelombardia.it/scheda_intervento.php?id=1236&idfase=|titolo = A8: 5^ corsia con revisione degli svincoli|accesso = |data = 13 maggio 2014|urlarchivio = https://web.archive.org/web/20150120120819/http://www.trail.unioncamerelombardia.it/scheda_intervento.php?id=1236&idfase=|urlmorto = sì}}</ref>. I lavori per questa tratta hanno avuto inizio nel luglio 2014 con termine entro maggio 2015, limitatamente allo stralcio Expo 2015. Nel 2019 hanno avuto inizio i lavori per il completamento della tratta a 5ª corsia<ref>{{Cita web|url=https://www.comune.lainate.mi.it/it/page/lavori-5-corsia-autostrada|titolo=Lavori 5^ Corsia Autostrada|lingua=it|accesso=29 dicembre 2019|urlarchivio=https://web.archive.org/web/20191229123011/https://www.comune.lainate.mi.it/it/page/lavori-5-corsia-autostrada|urlmorto=sì}}</ref>. Il 26 settembre 2023 è stata aperta al traffico la 5ª corsia del ''lotto 2'', dalla lunghezza di 4.400 [[metro|m]], rendendo così l'A8 la prima autostrada a 5 corsie in Italia<ref>{{Cita web|url=https://ilsole24ore.com/pagina/AFubSjz|titolo=Milano Laghi diventa la prima autostrada a 5 corsie (ma solo per 4,4 Km)|accesso=26 settembre 2023|urlmorto=sì}}</ref>
+
+==A8/A26 diramazione Gallarate-Gattico==
+{{Strada
+|nome = Autostrada A8/A26
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Gallarate-Gattico
+|simbolo = Autostrada A8-A26 Italia.svg
+|nome precedente = A8dir. <small>Autostrada dei Laghi</small><ref>fino a [[Sesto Calende]]</ref>
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}<br />{{IT-PMN}}
+|divisione amm 2 = {{IT-VA}}<br/>{{IT-NO}}
+|inizio = A8 presso [[Gallarate]] ([[provincia di Varese|VA]])
+|fine = Innesto su [[Autostrada A26 (Italia)|A26]] presso [[Gattico-Veruno]] ([[provincia di Novara|NO]])
+|lunghezza = 24,0<ref>{{Cita web |url=http://www.trail.pie.camcom.it/infra/paa000600.htm |titolo=A8/26 |accesso=25 luglio 2020 |dataarchivio=11 agosto 2007 |urlarchivio=https://web.archive.org/web/20070811210953/http://www.trail.pie.camcom.it/infra/paa000600.htm |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1925]]<ref name="ReferenceA">{{Cita web |url=http://www.lotsberg.net/data/italia/autostra-2.html |titolo=The World's longest Tunnel Page: Motorways in Italy, Page 2 |accesso=22 settembre 2009 |dataarchivio=7 aprile 2016 |urlarchivio=https://web.archive.org/web/20160407033506/http://www.lotsberg.net/data/italia/autostra-2.html |urlmorto=sì }}</ref><ref>Il tratto piemontese fu aperto nel [[1988]].</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]
+|città servite = 
+|intersezioni = [[Autostrada dei Laghi|A8]] - [[Autostrada A26 (Italia)|A26]]
+|europea1 = 62
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Mappa autostrada A8-A26 Italia.svg
+|tracciato = 
+}}
+La '''diramazione Gallarate-Gattico A8/A26''', gestita da [[Autostrade per l'Italia]], congiunge l'autostrada A8 nei pressi di [[Gallarate]] con l'[[autostrada A26 (Italia)|A26]] nei pressi del comune di [[Gattico-Veruno]]. Presso Gattico, nell'estremità ovest la [[Raccordo autostradale|diramazione]] prosegue senza soluzione di continuità come autostrada A26 verso Genova e attraverso rampe di accelerazione e decelerazione verso nord sempre come autostrada A26. La A8/A26 è stata progettata e realizzata per mettere direttamente in comunicazione [[Domodossola]] e il traffico proveniente dal [[Passo del Sempione|Sempione]] con [[Milano]] e la penisola [[italia]]na. L'infrastruttura è a due corsie in entrambi i sensi di marcia da [[Gallarate]] a [[Sesto Calende]]-[[Vergiate]], tratto che costituisce il percorso originario dell'arteria, concepito nel [[1925]] come terzo ramo dell'[[Autostrada dei Laghi]]. Da Sesto Calende-Vergiate a [[Gattico-Veruno]], tratto aperto nel 1988,<ref name="ReferenceA"/> è invece a tre corsie per ogni senso di marcia.
+
+Questa [[Raccordo autostradale#Diramazioni, bretelle e raccordi autostradali|''diramazione'']] è anche classificata come ''diramazione D08''<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |titolo=TE - Trasporti Eccezionali - Mappe |accesso=22 settembre 2009 |dataarchivio=13 marzo 2013 |urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |urlmorto=sì }}</ref> secondo la numerazione interna di [[Autostrade per l'Italia]], in quanto appunto diramazione della A8.
+
+Il ''Decreto Legislativo del 29 ottobre 1999, n. 461'' aveva classificato questa diramazione come A8/A26dir tuttavia è indicata nella segnaletica anche come A26-8 o come A8/A26, mentre i pannelli integrativi posti in prossimità dei cavalcavia indicano la dicitura A8dir, continuando la numerazione di quelli della A26 nel tratto a ovest e quelli della A8 nel tratto a est.
+
+L'autostrada, differentemente dal resto dell'[[Autolaghi]] sottoposta a un sistema di pedaggio aperto, è a pagamento chiuso nella totalità del suo percorso. Altra difformità dall’Autolaghi è un chilometraggio proprio.
+
+Sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile nella tratta compresa tra l'innesto con la A8 e il chilometro 13,500<ref name="autostrade.it">{{Cita web|http://www.autostrade.it/it/la-nostra-rete/operazioni-invernali|Dal sito Autostrade.it nella sezione "Operazioni invernali"}}</ref>
+
+{| class="wikitable" 
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A8-A26 Italia.svg|30}} AUTOSTRADA A8/A26'''<br />Diramazione Gallarate - Gattico
+|-
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Provincia'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}} ||{{simbolo|Autostrada A8 Italia.svg|23}} [[Autostrada dei Laghi|Milano - Varese]]||align="right"|0,0 ||align="right"|24,0 ||rowspan=5 align="center"|[[Provincia di Varese|VA]]||rowspan=7 align="center"|[[File:Italian traffic signs - strada europea 62.svg|50px|link=Strada europea E62]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Gallarate]] Ovest||align="right"|2,5 ||align="right"|21,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Besnate]]|| align="right"|4,0 ||align="right"|20,0
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Verbano"||align="right"|6,1 ||align="right"|17,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sesto Calende]] - [[Vergiate]]<br /><small> {{simbolo|Strada Statale 33 Italia.svg|35}} ''[[Strada statale 33 del Sempione|del Sempione]]'': {{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Lago Maggiore]]<br />{{simbolo|Strada Statale 629 Italia.svg|35}} ''[[Strada statale 629 del Lago di Monate|del Lago di Monate]]''</small> || align="right"|11,9 ||align="right"|12,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castelletto Ticino]]<br /><small> {{simbolo|Strada Statale 32 Italia.svg|35}} ''[[Strada statale 32 Ticinese|Ticinese]]''<br />{{simbolo|Strada Statale 33 Italia.svg|35}} ''[[Strada statale 33 del Sempione|del Sempione]]'': {{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Lago Maggiore]] </small>|| align="right"|17,9 ||align="right"|6,1 ||rowspan=2 align="center"|[[Provincia di Novara|NO]]
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Autostrada A26 Italia.svg|23}} [[Autostrada A26 (Italia)|Gravellona Toce - Genova]] || align="right"|24,0 ||align="right"|0,0
+|-
+|}
+La chilometrica ufficiale dell'autostrada è unica e parte dalla diramazione dall'[[Autolaghi]]. Nella tabella la chilometrica inversa è da considerarsi puramente informale.
+
+== Obblighi ==
+Sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile su tutta la tratta e anche su tutta la ''Diramazione Gallarate-Gattico''.<ref>{{Cita web|lingua=it-IT|url=https://www.autostrade.it/it/obbligo-catene|titolo=Obbligo catene a bordo|sito=Autostrade per l'Italia|accesso=2025-05-22}}</ref>
+
+==Note==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = Le «Autostrade» da Milano ai Laghi Lombardi |autore = Italo Vandone |rivista = [[Le Strade]] |volume = anno V |numero = 2 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1923 |mese = febbraio |pp = 33-37 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1517#page/52/mode/2up }}
+
+==Altri progetti==
+{{interprogetto}}
+
+==Collegamenti esterni==
+*{{cita web |url=http://www.autostrade.it/index.html |titolo=Autostrade per l'Italia |accesso=22 settembre 2009 |urlarchivio=https://web.archive.org/web/20100105093501/http://www.autostrade.it/index.html |urlmorto=sì }}
+*{{cita web|http://www.lotsberg.net/data/italia/A08.html|Gallerie e viadotti della A8}}
+*{{cita web|http://www.lotsberg.net/data/italia/D08.html|Gallerie e viadotti della A8/A26}}
+
+{{Autostrade italiane}}
+{{Portale|Lombardia|trasporti}}
+
+[[Categoria:Autostrada A8 (Italia)| ]]
+[[Categoria:Trasporti in Lombardia]]

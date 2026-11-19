@@ -1,0 +1,723 @@
+{{Nota disambigua|la tratta dismessa|Autostrada A2 (Italia, 1962-1988)|nocat=1}}
+{{Strada
+|nome = Autostrada A2 
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada del Mediterraneo<br/>Salerno-Reggio Calabria
+|simbolo = Autostrada A2 Italia.svg
+|nome precedente = [[Autostrada A3 (Italia)|Autostrada A3]] nel tratto [[Salerno]]-[[Reggio Calabria]]<br/ >[[Raccordo autostradale 2]] nel tratto [[Salerno]]-[[Autostrada A30 (Italia)|A30]]
+|divisione amm 1 = {{IT-CAM}}<br />{{IT-BAS}}<br />{{IT-CAL}}
+|divisione amm 2 ={{IT-SA}}<br/>{{IT-PZ}}<br/>{{IT-CS}}<br/>{{IT-CZ}}<br/>{{IT-VV}}<br/>{{IT-RC}}
+|inizio = Innesto in [[Autostrada A30 (Italia)|A30]] presso [[Fisciano]]
+|fine = Innesto in [[#A2 diramazione Reggio Calabria|A2dir RC]] presso [[Villa San Giovanni]]
+|lunghezza = 432,6
+|direzione = nord-sud
+|apertura = 1963-1974 - Vecchio tracciato<br/>22/12/2016 - Nuovo tracciato con anticipo del cambio di nome da A3 ad A2<br/>13/06/2017 - Rinomina in A2 del Mediterraneo e ufficializzazione del nuovo tracciato
+|provvedimento istituzione = Decreto ministeriale 13/06/2017 (G.U. n.153 del 03/07/2017)
+|gestore = [[Anas (azienda)|Anas]]
+|pedaggio = gratuita
+|città servite = [[Salerno]], [[Cosenza]], [[Vibo Valentia]] e [[Reggio Calabria]]
+|intersezioni = {{simbolo|Autostrada A30 Italia.svg}} [[Autostrada A30 (Italia)|A30]] e {{simbolo|Italian traffic signs - raccordo autostradale 2.svg}} [[Raccordo autostradale 2|RA 2]] a [[Fisciano]]<br/>{{simbolo|Autostrada A2dirNA Italia.png}} [[#A2 diramazione Napoli|A2dir NA]] a [[Salerno]]<br/>{{simbolo|Italian traffic signs - raccordo autostradale 5.svg}} [[Raccordo autostradale 5|RA 5]] a [[Sicignano degli Alburni]]<br />{{simbolo|Italian traffic signs - strada europea 844.svg|30}} {{simbolo|Strada Statale 534 Italia.svg|35}} [[Strada statale 534 di Cammarata e degli Stombi|SS534 di Cammarata e degli Stombi]] a [[Saracena]]<br />{{simbolo|Italian traffic signs - strada europea 848.svg|30}} {{simbolo|Strada Statale 280 Italia.svg|35}} [[Strada statale 280 dei Due Mari|SS280 dei Due Mari]] a [[Lamezia Terme]]<br/> {{simbolo|Autostrada A2dir Diramazione Reggio Calabria - Italia.svg}} [[#A2 diramazione Reggio Calabria|A2dir RC]] a [[Campo Calabro]]
+|europea1 = 841
+|europea2 = 45
+|europea altro =
+|mappa = Italia - mappa autostrada A2.svg
+}}
+[[File:Autostrada del Mediterraneo Logo.svg|miniatura|Il logo utilizzato per la promozione turistica.]]
+L{{'}}'''autostrada A2''', detta anche '''Salerno-Reggio Calabria''' o '''Autostrada del Mediterraneo''', è un'[[autostrada italiana]] che collega [[Salerno]] a [[Reggio Calabria]] passando per [[Cosenza]] e [[Vibo Valentia]]. Lunga {{m|432,6 |u=km}}, è interamente gestita dall'[[Anas (azienda)|Anas]] ed è gratuita.
+
+È la quarta autostrada italiana per lunghezza dopo la [[Autostrada A1 (Italia)|A1]], [[Autostrada A14 (Italia)|A14]] e [[Autostrada A4 (Italia)|A4]].
+
+È parte delle [[strade europee]] [[Strada europea E45|E45]] e [[Strada europea E841|E841]] e rappresenta la prosecuzione naturale dell'itinerario che nasce con la [[Autostrada A1 (Italia)|A1]] a [[Milano]], proseguendo per la [[Autostrada A30 (Italia)|A30]] da [[Caserta]], con termine presso lo svincolo di [[Villa San Giovanni]], fungente da porta d'accesso per la [[Sicilia]]<ref>{{Cita web|url=https://www.stradeanas.it/it/le-strade/la-rete-anas/i-grandi-itinerari-anas/autostrada-del-mediterraneo|titolo=Autostrada del Mediterraneo|sito=Anas S.p.A.|data=06 dicembre 2016|lingua=it|accesso=04 gennaio 2023}}</ref>.
+
+== Classificazioni ==
+
+=== Precedenti ===
+Fino al 13 giugno 2017, l'autostrada aveva due denominazioni in base al percorso:
+
+* da Fisciano a Salerno era denominata RA 2 Salerno-Avellino (denominazione ora rimasta solo per il tratto Innesto A2/[[Autostrada A30 (Italia)|A30]] - [[Atripalda]] con nuova denominazione "[[Raccordo autostradale 2|Raccordo di Avellino]]");
+* da Salerno a Reggio Calabria era denominata, unitamente al tratto Napoli-Salerno, A3 Napoli - Reggio Calabria (denominazione ora rimasta solo al tratto [[Autostrada A3 (Italia)|Napoli-Salerno]]).
+
+Fino al 1988, anno di apertura della bretella [[Fiano Romano]]-[[San Cesareo]] presso Roma, la denominazione [[Autostrada A2 (Italia, 1962-1988)|A2]] era assegnata all'autostrada che collegava Roma a Napoli, comprendendo quella che è divenuta la diramazione Roma Sud dell'[[Autostrada A1 (Italia)|autostrada A1]] e il rimanente percorso da San Cesareo a Napoli, poi integrato nell'autostrada A1.
+
+=== Dal 2017 ===
+La denominazione "Autostrada del Mediterraneo" (diramazioni incluse) è entrata in vigore il 13 giugno [[2017]] tramite il decreto ministeriale 13/06/2017 (G.U. n. 153 del 03/07/2017). Il cambio di denominazione è stato deciso in seguito alla fine dei lavori di ammodernamento.<ref name=":2">{{Cita web|url=https://lestradedelcuore.it/autostrada-del-mediterraneo/|titolo=A2 - Autostrada del Mediterraneo}}</ref><ref>{{cita web|url=http://www.ilmattino.it/salerno/salerno_reggio_calabria_diventa_a2_autostrada_del_mediterraneo-2501372.html|titolo=La Salerno-Reggio Calabria diventa A2 Autostrada del Mediterraneo|accesso=14 giugno 2017}}</ref><ref>{{Cita web|url=http://www.lametino.it/Ultimora/delrio-firma-il-decreto-che-rinomina-la-ex-a3-da-oggi-e-ufficialmente-a2-autostrada-del-mediterraneo.html|titolo=Delrio firma il decreto che rinomina la ex A3: da oggi è ufficialmente 'A2 autostrada del Mediterraneo'|autore=lametino10|sito=il Lametino.it - il giornale di Lamezia Terme e del lametino|lingua=it|accesso=2 agosto 2021}}</ref> Sono entrate in vigore le seguenti tre denominazioni:
+* A2 diramazione [[Napoli]] - Innesto A2 presso Salerno est - Innesto [[Autostrada A3 (Italia)|A3]] presso Salerno Centro, di lunghezza 2,335&nbsp;km;
+* A2 del Mediterraneo - Innesto [[Autostrada A30 (Italia)|A30]] e [[Raccordo autostradale 2|RA2]] presso [[Fisciano]] - Innesto A2dir RC presso [[Villa San Giovanni]] - 432,600&nbsp;km (su strada sono rimasti invariati i capisaldi, Salerno e Reggio Calabria);
+* A2 diramazione [[Reggio Calabria]] - Innesto A2 presso lo svincolo di Villa San Giovanni - Innesto [[Raccordo autostradale 4|RA4]] presso Reggio Calabria nord, di lunghezza 9,048&nbsp;km.
+
+Contestualmente è stata lanciata una campagna pubblicitaria a scopo turistico, con dieci percorsi culturali<ref>{{cita web|url=http://www.salernotoday.it/cronaca/A3-diventa-autostrada-mediterraneo-vie-turismo-salerno-13-giugno-2017.html|titolo=La Sa-Rc cambia nome, nasce l'Autostrada del Mediterraneo: dieci vie per il turismo|accesso=14 giugno 2017}}</ref> e uno spot interpretato da [[Giancarlo Giannini]].
+
+== Storia ==
+Nei primi [[anni 1960]], il [[governo italiano]] decise di finanziare la costruzione di un'[[autostrada]] che collegasse il resto dell'[[Italia]] alla [[Calabria]], regione fino a quel momento considerata "l'Isola nella Penisola" o "la Terza Isola" perché gli aspri rilievi non permettevano di raggiungerla facilmente.<ref>{{cita web|autore=Stefano Perri|url=http://www.strill.it/rubriche/memorie/2011/11/memorie-storia-della-salerno-reggio-calabria-quando-il-sole-si-fermo-a-napoli-da-li-in-poi-il-buio/|titolo=Memorie-Storia della Salerno-Reggio Calabria. Quando il Sole si fermò a Napoli. Da {{sic|li}} in poi, il buio|sito=strill.it|data=16 novembre 2011|accesso=19 luglio 2018}}</ref> A differenza dell'[[Autostrada A1 (Italia)|Autostrada del Sole]], tuttavia, la realizzazione della Salerno-Reggio Calabria non poté contare sulla partecipazione di capitali privati, e lo Stato dovette farsi interamente carico dell'opera.<ref>{{cita web|url=http://www.lastoriasiamonoi.rai.it/puntate/salerno-reggio-calabria/816/default.aspx|titolo=Salerno-Reggio Calabria - L'autostrada che non c'è|sito=lastoriasiamonoi.rai.it|accesso=19 giugno 2017|urlarchivio=https://web.archive.org/web/20180803225629/http://www.lastoriasiamonoi.rai.it/puntate/salerno-reggio-calabria/816/default.aspx|urlmorto=sì}}</ref> Il 24 luglio 1961 venne approvata la legge n. 729<ref>{{cita web|url=http://www.gazzettaufficiale.it/eli/id/1961/08/12/061U0729/sg|sito=gazzettaufficiale.it|titolo=Legge n. 729 del 24 luglio 1961|accesso=19 giugno 2017}}</ref><ref>{{cita legge italiana|tipo=legge|numero=729|giorno=24|mese=07|anno=1961}}</ref> (cosiddetta ''legge [[Benigno Zaccagnini|Zaccagnini]]'') che definiva il nuovo Piano di costruzioni stradali e autostradali e assegnava all'[[ANAS|Anas]] la costruzione e la futura gestione della Salerno-Reggio Calabria, autorizzandola a contrarre mutui per 180 miliardi di lire, costo iniziale stimato dell'opera.<ref name=anasSA-RC>{{cita web|url=http://www.stradeanas.it/it/autostrada-salerno-reggio-calabria|titolo=Autostrada Salerno-Reggio Calabria|sito=stradeanas.it|accesso=19 giugno 2017|urlmorto=sì|urlarchivio=https://web.archive.org/web/20170706192111/http://www.stradeanas.it/it/autostrada-salerno-reggio-calabria}}</ref>
+
+I lavori iniziarono il 21 gennaio 1962 in località Montevergine (Reggio Calabria) alla presenza del [[Presidente del Consiglio dei ministri della Repubblica Italiana|Presidente del Consiglio]] [[Amintore Fanfani]]<ref>{{cita news|titolo=Fanfani dà il via ai lavori della Salerno-Reggio Cal.|pubblicazione=[[La Stampa]]|data=22 gennaio 1962|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,9/articleid,0084_02_1962_0019_0009_17495529/|accesso=19 giugno 2017}}</ref> il quale, nella cerimonia della posa della prima pietra in cui prevedeva che l'infrastruttura sarebbe stata completata entro tre anni, posò una lapide che recitava:<ref>Il riferimento era all'antica strada romana [[via Capua-Regium]].</ref>
+{{citazione|Dopo XXI secoli la via che Roma aprì a unire le genti del Mezzogiorno, si riapre oggi sulle antiche orme da Salerno a Reggio Calabria per continuare e completare fra il Settentrione e il Meridione d'Italia la grande via del traffico e del lavoro|Lapide posta all'inizio dell'autostrada Salerno-Reggio Calabria<ref>{{cita pubblicazione|autore=Carlo Guccione|titolo=Autostrada Salerno-Reggio Calabria, correva il 1962. Cinquanta anni dopo rimane una eterna incompiuta|editore=Corriere della Calabria|data=14 settembre 2012}}</ref>}}
+
+L'autostrada venne aperta all'esercizio tra [[Salerno]] e [[Lagonegro]] nel [[1967]], l'[[1968|anno successivo]] raggiunse [[Cosenza]] e nel [[1969]] arrivò a [[Gioia Tauro]]. Nel [[1972]] una frana nei pressi di Lagonegro danneggiò i viadotti Taggine e Sirino; ciò causò chiusura di parte dell'autostrada e l'apertura di una deviazione (e una strozzatura tra gli allora km 131 e 132). Nel [[1974]] l'autostrada raggiunse [[Reggio Calabria]].
+
+L'autostrada realizzata era a due corsie per ciascun senso di marcia, priva di corsie d'emergenza e con sole piazzole di sosta distanziate tra loro, e il suo tracciato misurava {{m|442 |u=km}}
+
+Il costo finale fu calcolato in 368 miliardi di lire.<ref name=":3">{{Cita web|url=https://www.stradeanas.it/sites/default/files/La%20storia%20della%20Salerno%20-%20Reggio%20Calabria.pdf|titolo=La storia della A2 raccontata da Anas}}</ref>
+
+=== Lavori di ammodernamento (1997 - 22 dicembre 2016) ===
+L'impetuosa motorizzazione del Paese degli anni '60 e '70 rese presto evidente l'inadeguatezza delle infrastrutture della tratta Salerno-Reggio Calabria. A causa delle curve pericolose e delle corsie strette (3,5 metri di larghezza), negli anni a venire si verificarono numerosi incidenti e ingorghi.
+
+Il primo governo a mettere in agenda un consistente piano di interventi sulla Salerno-Reggio Calabria fu il [[Governo Craxi II|secondo governo Craxi]], nel [[1987]], con lo stanziamento di 1000 miliardi di lire.<ref name=anasSA-RC/>
+
+Negli anni seguenti si sono susseguiti progetti di ammodernamento e ampliamento, che hanno portato alla progressiva cantierizzazione di tratte per l'ampliamento a due carreggiate (tra l'innesto con la A2dir NA presso [[Fratte (Salerno)|Fratte]] e [[Sicignano degli Alburni]] la tratta è stata ammodernata a 3 corsie più corsia d'emergenza). Considerata l'importanza dell'opera, l'attività di ammodernamento ha visto diverse indagini sulle infiltrazioni della [['Ndrangheta]] nei [['Ndrangheta e appalti|relativi appalti]], alcune operazioni di polizia finite sulle cronache nazionali<ref>{{cita news|url=http://www.ilfattoquotidiano.it/2012/07/17/ndrangheta-doppio-blitz-dai-lavori-sulla3-ai-certificati-medici-falsi-per-boss/295901/|titolo=‘Ndrangheta, doppio blitz: dai lavori sull’A3 ai certificati medici falsi per i boss|pubblicazione=[[il Fatto Quotidiano]]|data=17 luglio 2012|accesso=19 giugno 2017}}</ref> e il presenziamento dei cantieri da parte delle forze dell'ordine.<ref>{{cita web|autore=Vincenzo Foti|url=https://www.trasporti-italia.com/infrastrutture/a3-salerno-reggio-calabria-arriva-lesercito/2146|titolo=A3 Salerno-Reggio Calabria: arriva l'esercito|sito=trasporti-italia.com|data=10 febbraio 2011|accesso=19 giugno 2017}}</ref>
+
+Il concreto avvio dei lavori di ammodernamento avvenne nel 1997, seppur con una certa lentezza, con l'appalto di pochi lotti di modeste dimensioni; subì un'importante accelerazione con l'approvazione della [[Legge obiettivo|legge Obiettivo n. 443 del 21 dicembre 2001]] e la riprogettazione della cantierizzazione dell'autostrada da parte dell'Anas. Sopraggiunte difficoltà tecniche, crisi finanziarie delle ditte appaltatrici e infiltrazioni mafiose nei lavori hanno, in più occasioni, rallentato o arrestato la prosecuzione dei lavori di ammodernamento con aumento consistente di costi e tempistiche, creando notevoli disagi al territorio interessato e ai fruitori dell'autostrada.
+
+L'ammodernamento non è consistito semplicemente in un allargamento della vecchia sede stradale (attuato in alcuni tratti), ma anche nella vera e propria costruzione di una nuova autostrada con graduale abbattimento della precedente, in presenza di costante flusso di traffico<ref name=":1">{{Cita news|url=http://www.stradeanas.it/it/le-strade/la-rete-anas/i-grandi-itinerari-anas/autostrada-del-mediterraneo|titolo=Autostrada del Mediterraneo|pubblicazione=Anas S.p.A.|data=6 dicembre 2016|accesso=5 novembre 2017}}</ref> spesso predisposto su singola carreggiata a doppio senso di circolazione, con continue deviazioni. Il nuovo tracciato (costruito sia con il riutilizzo del percorso precedente sia in variante) è stato frutto di numerose rettifiche, con profilo più lineare, diminuzione delle pendenze e addolcimento delle curve. Il primo tratto è caratterizzato da tre corsie per senso di marcia più corsia di emergenza per circa 50&nbsp;km, dall'innesto con la A2dir NA al km 8 fino a [[Sicignano degli Alburni]] al km 58, e da due corsie per senso di marcia più corsia di emergenza per la rimanente tratta ammodernata.
+
+Vi sono alcuni tratti ammodernati senza corsia di emergenza; si segnalano tra i principali:
+
+* Viadotto Torbido, km 135,5, 280 metri circa, ammodernato senza corsia di emergenza per terreno franoso durante la manomissione;
+* Tratto di circa {{m|5|u=km}} dall'area di servizio Galdo (km 151,5) allo svincolo di [[Laino Borgo]] (km 156,5), ammodernato senza corsia di emergenza ma con banchina pavimentata a destra per motivi tecnici.
+* [[Viadotto Italia]], km 161,1, ammodernata la campata centrale senza corsia di emergenza per preservare una parte del vecchio viadotto.
+* Viadotto Rago, km 181,9, 400 metri circa, ammodernato senza corsia di emergenza per motivi tecnici.
+* Galleria Romania, km 186,6, 75 metri circa, ammodernata senza corsia di emergenza per motivi tecnici.
+* [[Viadotto Sfalassà]], km 415,0, ammodernata la campata centrale senza corsia di emergenza per la stessa motivazione del viadotto Italia.
+
+Al 26 luglio [[2016]], con l'apertura del lotto tra [[Laino Borgo]] e [[Campotenese]] in Calabria (in cui rientra anche il [[viadotto Italia]])<ref>{{cita news|autore=Daniele Eboli|url=http://www.ilgiornale.it/news/politica/salerno-reggio-calabria-aperto-lultimo-tratto-questestate-1289634.html|titolo=Salerno-Reggio Calabria: aperto l'ultimo tratto. Questa estate sarà percorribile senza interruzioni|data=26 luglio 2016|pubblicazione=[[il Giornale]]|accesso=19 giugno 2017}}</ref>, sono stati completati 374,15&nbsp;km (di cui 3,935&nbsp;km stralciati dai lavori), mentre 68,77&nbsp;km dovevano ancora essere cantierizzati.
+
+Il 22 dicembre 2016, con l'apertura al traffico della galleria "Larìa", sono stati completati i lavori di ricostruzione dell'autostrada secondo gli standard moderni, con carreggiate più larghe.<ref name=":3" />
+
+=== Il piano di manutenzione (2016-2017) ===
+Nel mese di marzo 2016, d'intesa con il [[Ministero delle infrastrutture e dei trasporti]], Anas presentò il cosiddetto "Piano di Manutenzione", una manovra di ''project review'' che accantonava i lavori di ricostruzione dei tre tratti non ammodernati [[Morano Calabro|Morano]] - [[Firmo (Italia)|Firmo]], [[Cosenza]] - [[Altilia]] e [[Pizzo (Italia)|Pizzo]] - [[Vibo Valentia]] per complessivi {{m|60,4|u= km}} (a cui, erroneamente, si è fatto spesso riferimento come a "gli ultimi {{m|58|u= km}} da ammodernare") in favore di un rinnovamento in sede. La scelta del Piano di Manutenzione, il cui costo stimato era di 1 miliardo di euro, interamente finanziato, avrebbe, secondo Anas, comportato notevoli vantaggi tra cui il dimezzamento della durata dei lavori e un minore impatto sull'ambiente e la viabilità, rispetto ad una ricostruzione adottata negli altri tratti. Il piano prevede, in particolare:
+* L'adeguamento delle barriere di sicurezza (i cosiddetti ''guardrail''), tramite la loro sostituzione con barriere tipo H2, con profilo salva motociclisti;
+* L'installazione di barriere fonoassorbenti o fonorepellenti, ove necessario;
+* Il rinnovo della pavimentazione, tra cui la posa di nuovo asfalto e nuova segnaletica orizzontale;
+* L'installazione di centraline meteorologiche e apparecchiature per la connettività wireless, pannelli a messaggio variabile e telecamere di videosorveglianza;
+* L'installazione di impianti d'illuminazione in corrispondenza degli svincoli, nonché di nuova segnaletica turistica in prossimità di essi;
+* Il restauro di elementi ammalorati su ponti e viadotti, compreso il rinforzo e l'adeguamento alle norme antisismiche, nonché la posa di reti di protezione;
+* La sostituzione della segnaletica verticale con la nuova denominazione A2;
+* L'adeguamento delle gallerie, con l'installazione di luci a LED, ventilatori e altri elementi per la sicurezza.
+
+Inizialmente tra Cosenza e Altilia si è studiata la costruzione di una nuova carreggiata sud complanare (in direzione Reggio Calabria), in modo da destinare, nello stesso tratto, entrambe le carreggiate esistenti al traffico in direzione Salerno, di cui una riservata all'arrampicamento dei mezzi pesanti, ma il progetto fu definitivamente scartato.
+
+Se da un lato l'attuazione del piano di manutenzione ha condannato i tratti non ammodernati a rimanere sostanzialmente identici nella struttura, dall'altro ha messo finalmente inizio a un'importante azione di manutenzione straordinaria per l'intero tracciato autostradale, in particolar modo proprio per i tratti non ammodernati la cui cura è sempre stata messa in secondo piano, nell'ottica di ricostruirli in futuro, spingendo, quindi, alla realizzazione di interventi che avrebbero dovuto essere attuati già da molto tempo, primo fra tutti il rinnovo della pavimentazione.
+
+L'ammodernamento prosegue sul resto dell'infrastruttura con allargamento delle corsie, sostituzione delle barriere di sicurezza, nuovo asfalto drenante e costruzione della nuova banchina laterale; non è invece prevista la corsia di emergenza per questi tratti.
+
+=== La ricostruzione delle opere complementari ===
+{{recentismo|motivo=I lavori di rinnovo delle aree di servizio perdureranno fino al 2026, perciò sarà quasi un continuo aggiornamento della sezione in merito}}
+Sebbene i lavori dell'autostrada finirono il 22 dicembre 2016, non furono ammodernate, nel progetto dell'ammodernamento dell'autostrada, le aree di servizio ed alcune opere complementari.
+
+Nel corso del 2017 fu aperta la nuova area di servizio Campagna est che soppiantò quella presente sul vecchio tracciato.<ref>{{Cita web|url=https://www.salernotoday.it/cronaca/A3-apertura-area-servizio-campagna-nord-iannuzzi-29-marzo-2017.html|titolo=Autostrada A3, apre l'Area di Servizio di Campagna Nord: soddisfatto Iannuzzi|sito=SalernoToday|lingua=it|accesso=07 giugno 2024}}</ref> Sempre nello stesso periodo fu aperta la nuova area di servizio Villa San Giovanni est sempre per soppiantare quella presente sul vecchio tracciato ormai chiusa dal 2013.<ref>{{Cita web|url=https://www.stradeanas.it/it/a2-autostrada-del-mediterraneo-entra-funzione-la-nuova-area-di-servizio-%E2%80%9Cvilla-san-giovanni-est%E2%80%9D|titolo=A2 "Autostrada del Mediterraneo": entra in funzione la nuova Area di Servizio “Villa San Giovanni Est”, sulla carreggiata nord|sito=Anas S.p.A.|data=01 giugno 2017|lingua=it|accesso=07 giugno 2024}}</ref>
+
+Il 13 dicembre 2019 l'area di servizio Galdo ovest viene temporaneamente dismessa a seguito di fatturati bassi e per la distanza dell'edificio vetusto dall'autostrada<ref>{{Cita web|url=https://www.quotidianodelsud.it/basilicata/potenza/economia/viabilita-e-trasporti/2019/12/13/il-gestore-cede-chiude-la-stazione-di-servizio-galdo-ovest|titolo=Il gestore cede, chiude la stazione di servizio Galdo Ovest|autore=Gianfranco Aurilio|sito=Il Quotidiano del Sud|lingua=it|accesso=26 luglio 2023}}</ref>.
+
+Nel 2021, a seguito dell'aggiudicamento di appalti oil e ristorazione, si conclusero le operazioni di rinnovamento "parziale" delle aree di servizio. A partire dal 2024 e fino al 2026, le aree di servizio saranno subordinate ad una ricostruzione totale, visti i fabbricati vetusti<ref>{{Cita web|url=https://www.stradeanas.it/it/aree-di-servizio|titolo=Aree di servizio|sito=Anas S.p.A.|data=23 novembre 2016|lingua=it|accesso=26 luglio 2023}}</ref>. Successivamente, tra giugno e luglio 2022, nel tratto calabrese, in alcune aree di servizio, sono stati rinnovati i servizi igienici, altre aree sono state escluse poiché verranno successivamente ricostruite, o, in altri casi, i gestori provvedono autonomamente al rinnovo dei locali.<ref>{{Cita web|url=https://www.ecodellalocride.it/news/a2-salerno-reggio-lavori-di-ammodernamento-in-10-aree-di-servizio-della-calabria/|titolo=A2 Salerno-Reggio, lavori di ammodernamento in 10 aree di servizio della Calabria|sito=www.ecodellalocride.it|lingua=it|accesso=01 settembre 2023}}</ref>
+
+Il 6 luglio 2023 viene rinnovata l'area di servizio Cosenza ovest, capofila dei lavori di ammodernamento che si susseguiranno fino al 2025.<ref>{{Cita web|url=https://www.quicosenza.it/news/area-urbana/a2-completata-la-ristrutturazione-dellarea-di-servizio-cosenza-ovest|titolo=A2, Anas completa la ristrutturazione dell'area di servizio Cosenza Ovest|autore=S.M|sito=quicosenza|data=06 luglio 2023|lingua=it|accesso=26 luglio 2023}}</ref><ref>{{Cita web|url=https://www.stradeanas.it/it/a2-autostrada-del-mediterraneo-anas-manutenzione-delle-aree-di-servizio-una-maggiore-qualita-ed|titolo=A2 AUTOSTRADA DEL MEDITERRANEO, ANAS: MANUTENZIONE DELLE AREE DI SERVIZIO PER UNA MAGGIORE QUALITA' ED EFFICIENZA A FAVORE DEGLI UTENTI IN VIAGGIO|sito=Anas S.p.A.|data=06 luglio 2023|lingua=it|accesso=01 settembre 2023}}</ref>
+
+A novembre 2023 inizia il rinnovo dell'area di servizio Sala Consilina est, tuttavia, per la area opposta, ovvero Sala Consilina ovest, si dovrà aspettare ulteriore tempo per il termine dell'aggiudicazione della gara, aggiudicata nel mese di aprile 2024.<ref>{{Cita web|url=https://www.giornaledelcilento.it/autostrada-del-mediterraneo-partono-i-lavori-allarea-di-servizio-di-sala-consilina-ovest/|titolo=Autostrada del Mediterraneo, partono i lavori all’area di servizio di Sala Consilina Ovest|autore=Redazione|sito=Giornale del Cilento|data=2024-04-19|lingua=it|accesso=2024-04-25}}</ref><ref>{{Cita web|url=https://www.salernotoday.it/cronaca/anas-lavori-area-servizio-sala-consilina.html|titolo=Ammodernamento dell'area di servizio di Sala Consilina Est: via libera per l'affidamento dei lavori|sito=SalernoToday|lingua=it|accesso=21 novembre 2023}}</ref> Una volta terminati i lavori delle due suddette aree di servizio, si procederà all'ammodernamento delle restanti, come pianificato da [[Anas (azienda)|Anas]] durante il triennio 2024-2026.<ref>{{Cita web|url=https://www.ilmattino.it/salerno/lavori_di_restyling_delle_aree_di_servizio_di_sala_consilina_sull_a2_mediterraneo-7488704.html|titolo=Lavori di restyling delle aree di servizio di Sala Consilina sull'A2 del Mediterraneo|sito=www.ilmattino.it|data=28 giugno 2023|lingua=it|accesso=26 luglio 2023}}</ref><ref>{{Cita web|url=https://www.liratv.it/news/cronaca/lavori-nellarea-di-servizio-di-sala-consilina/|titolo=Lavori nell'area di servizio di Sala Consilina|autore=Anna Sarno|sito=LIRATV|data=28 giugno 2023|lingua=it|accesso=26 luglio 2023}}</ref><ref>{{Cita web|url=https://www.stradeanas.it/sites/default/files/pdf/Presentazione_ADS_Anas_24nov2023.pdf|titolo=Pagina 4, aree di servizio della A2}}</ref>
+
+Nel corso del 2024 chiude anche l'area di servizio di Galdo est per poter permettere la riapertura di entrambi i locali sulla nuova carreggiata e la sistemazione delle rampe di accesso.<ref>{{Cita web|url=https://www.stradeanas.it/sites/default/files/pdf/Elenco_Servizi_ADS_29mag24.pdf|titolo=Da sito web Anas nell'elenco anche la AdS Galdo est è chiusa}}</ref> L'11 luglio dello stesso anno, in concomitanza con l'inizio dell'esodo estivo e della sospensione dei cantieri, riaprono entrambe le aree di servizio sul tracciato esistente, sotto la gestione unificata del gruppo [[Sarni (azienda)|Sarni]], sia per il reparto oil sia per il reparto food, soppiantando le precedenti situate sul vecchio tracciato.<ref name=":4" />
+
+=== Dal 22 dicembre 2016 in poi ===
+Il 22 dicembre 2016, in occasione della cerimonia conclusiva dei grandi lavori di ammodernamento della ''A3 - Salerno/Reggio Calabria'', fu annunciato che l'infrastruttura avrebbe cambiato nome in ''A2 - Autostrada del Mediterraneo'' e che il nuovo itinerario sarebbe partito da Fisciano ''«come naturale prosecuzione dell’itinerario Nord-Sud che nasce a Milano con l’autostrada A1»'' e terminato a Villa San Giovanni ''«porta di accesso alla Sicilia e naturale conclusione dell’itinerario internazionale E45»'', escludendo quindi il tratto iniziale di {{m|2,335|u= km}} da Salerno Centro a Salerno Fratte, in seguito denominato ''A2 dir NA'', e quello terminale di {{m|9,17|u= km}} da Villa San Giovanni a Reggio Calabria Nord, in seguito denominato ''A2 dir RC'', tratti entrambi non interessati da lavori di ricostruzione bensì da successivi lavori di restyling, come gli altri tratti non ammodernati.
+
+Il nome Autostrada del Mediterraneo venne scelto poiché tale autostrada è la porta di accesso verso il [[Mezzogiorno (Italia)|Mezzogiorno d'Italia]], e con conseguente porta di accesso al mare più a sud della penisola italiana, ovvero il [[Mar Mediterraneo]]. Il nome, altresì, richiama il legame culturale del territorio attraversato dalla Calabria, Campania e Basilicata, regioni che conservano un profondo legame storico con il Mediterraneo ed inoltre il nome è stato scelto anche per la prosecuzione naturale dell'itinerario Nord-Sud che nasce a Milano con l'[[Autostrada A1 (Italia)|autostrada A1]] e che prosegue a Caserta con l'[[Autostrada A30 (Italia)|autostrada A30]].<ref name=":2" /><ref>{{Cita web|lingua=it|url=https://www.stradeanas.it/it/le-strade/la-rete-anas/i-grandi-itinerari-anas/autostrada-del-mediterraneo|titolo=Autostrada del Mediterraneo|sito=Anas S.p.A.|data=06 dicembre 2016|accesso=09 febbraio 2023}}</ref><ref>{{Cita web|lingua=it|url=https://mobilita.org/2016/12/23/video-e-storia-anas-nasce-la-a2-autostrada-del-mediterraneo/|titolo=VIDEO e STORIA {{!}} Anas: nasce la A2 “Autostrada del Mediterraneo”|sito=Mobilita.org|data=23 dicembre 2016|accesso=16 dicembre 2024}}</ref><ref>{{Cita web|lingua=it|autore=Simona Rubino|url=https://ilnuovomediterraneo.com/autostrada-a2/|titolo=Autostrada A2: un'esperienza di viaggio diversa dalle altre|sito=Il Nuovo Mediterraneo|data=23 settembre 2024|accesso=16 dicembre 2024}}</ref>
+
+Nel 2017, con un progetto di rilancio dell'autostrada da parte di [[Anas (azienda)|Anas]], la stessa è stata arricchita dalla promozione di itinerari tematici chiamati "''Dieci Vie''", come la Via del Mare, dei Castelli e dell’Archeologia, che invitano i viaggiatori a scoprire le bellezze naturali, storiche ed enogastronomiche del Mezzogiorno.<ref>{{Cita web|lingua=it|autore=Debora Calomino|url=https://marketingdelterritorio.info/index.php/it/dal-territorio/3045-autostrada-del-mediterraneo-le-dieci-vie-del-turismo-della-nuova-sa-rc|titolo=Autostrada del Mediterraneo, le dieci vie del turismo della nuova SA-RC|sito=Marketing del territorio|data=28 giugno 2017|accesso=16 dicembre 2024}}</ref><ref>{{Cita web|url=https://www.stradeanas.it/sites/default/files/Scheda%20-%20Le%2010%20vie%20del%20Mediterraneo.pdf|titolo=PDF Anas "Le dieci vie"}}</ref> Con il cambio di denominazione, la modifica dei capisaldi di itinerario e la campagna di valorizzazione turistica del tracciato dell'A2, a partire dal primo semestre 2017 e proseguendo fino a marzo 2019, Anas attuò l'installazione della nuova segnaletica turistica nei pressi degli svincoli e la sostituzione dei pannelli di numerazione cavalcavia (che tenevano conto anche della [[Autostrada A3 (Italia)|A3]]) e delle progressive chilometriche.
+
+Durante i grandi lavori di ammodernamento l'asse originario, tra l'innesto dell'ex [[Raccordo autostradale 2|raccordo Salerno-Avellino]]<ref>Ora rinominato in [[Raccordo autostradale 2|Raccordo di Avellino]]. Dal 13 giugno 2017 è parte integrante dell'A2; vi prosegue per 8&nbsp;km successivamente sino a intersecare l'A30 e il RA2.</ref> (ex km 2,335) e lo svincolo di Campo Calabro (ex km 433,75) subì una riduzione di quasi {{m|8|u= km}} (7,485 per la precisione), portando il nuovo asse autostradale, che include i primi {{m|8,035|u= km}} dell'ex [[raccordo autostradale 2]] e il tratto [[Salerno]]-[[Villa San Giovanni]], togliendo gli ultimi 9&nbsp;km fino a [[Reggio Calabria]] classificati come A2dir, a misurare complessivamente {{m|432,600|u= km}}. Le indicazioni riportanti i capisaldi di itinerario riportate sulla segnaletica stradale sono rimaste invariate: ''Salerno'' in direzione nord e ''Reggio Calabria'' in direzione sud.<ref name=":0" />
+
+La ricostruzione dei circa 370&nbsp;km di nuovo asse autostradale ha comportato una spesa approssimativa di 7,5 miliardi di euro con costo medio di 20-21 milioni di euro al chilometro.<ref name=":1" />
+
+I tratti completi sono quelli tra gli svincoli di:
+* [[Autostrada A30 (Italia)|Innesto A30]] - [[Morano Calabro]], 187,8&nbsp;km, dal km 0 al km 187,8. Per circa 50&nbsp;km, dall’innesto con la A2dir Napoli fino a Sicignano a tre corsie più corsia d'emergenza;
+* [[Firmo (Italia)|Firmo]]/[[Sibari]]/[[Saracena]] - [[Cosenza]], 50,5&nbsp;km; dal km 210,5 al km 261,0;
+* [[Altilia]]/[[Grimaldi (Italia)|Grimaldi]] - [[Pizzo (Italia)|Pizzo Calabro]], 51,9&nbsp;km; dal km 287,1 al km 339,0;
+* [[Sant'Onofrio (Italia)|Sant'Onofrio/Vibo Valentia]] - [[Campo Calabro]], 83,6&nbsp;km; dal km 349,0 al km 432,6.
+Come previsto dal piano manutenzione<ref>Piano manutenzione Anas 2016-17, accantonato e attuato soltanto a partire dal 2021</ref>, dal 2021 60,4&nbsp;km sono interessati da interventi di miglioramento tra gli svincoli di<ref name=":5">{{Cita web|lingua=it|autore=Siciliainprogress|url=https://www.siciliainprogress.com/a2-salerno-reggio-calabria-presto-i-lavori-nel-tratto-cosenza-altilia/|titolo=A2 SALERNO-REGGIO CALABRIA, PRESTO I LAVORI NEL TRATTO COSENZA-ALTILIA - In Progress|data=26 febbraio 2024|accesso=24 dicembre 2024}}</ref>:
+* [[Morano Calabro]] - [[Firmo (Italia)|Firmo]]/[[Sibari]]/[[Saracena]] (22,7&nbsp;km, dal km 187,8 al km 210,5);
+* [[Cosenza]] - [[Altilia]] (26,1&nbsp;km, dal km 261,0 al km 287,1);
+* [[Altilia]] - [[San Mango d'Aquino]] (1,6&nbsp;km, dal km 293,8 al 295,3; trattasi del breve tratto della galleria "Tribito" dove, a causa del rinvenimento di [[Asbesto|roccia verde]] nella montagna a fianco alla galleria "Tribito", non si sono scavate le nuove gallerie);
+* [[Pizzo (Italia)|Pizzo Calabro]] - [[Vibo Valentia]]/[[Sant'Onofrio (Italia)|Sant'Onofrio]] (10&nbsp;km, dal km 339,0 al km 349,0).
+
+Gli svincoli di [[Morano Calabro|Morano]], [[Castrovillari]], [[Rogliano (Italia)|Rogliano]], [[Altilia]], [[Pizzo (Italia)|Pizzo]], [[Sant'Onofrio (Italia)|Sant'Onofrio]] sono attualmente in rifacimento in vista dell’ammodernamento completo dei tratti non ammodernati in precedenza.<ref name=":5" />
+
+Le due diramazioni della A2 hanno seguito programmi di lavori diversi fra loro:
+
+* A2dir RC: i lavori sono stati completati da un ammodernamento straordinario iniziato nel mese di giugno 2018 e terminato nel mese di giugno 2021, servito a rendere l'autostrada conforme alle normative standard, con la sola mancanza della corsia di emergenza. Vi è stata installata nuova segnaletica, nuove protezioni, nuovi dispositivi di comunicazione elettronici (pannelli a messaggio variabile), nuovo asfalto e restyling delle gallerie.
+* A2dir NA: anche per essa, sono stati installati nuovi dispositivi di comunicazione elettronici ed è stata sostituita la segnaletica. Nelle gallerie è stata esclusivamente cambiata l'illuminazione. In corso di rifacimento vi sono asfalto, guardrail e gallerie.
+A partire da agosto 2024, è in fase di completamento il tratto autostradale Mileto-Candidoni, interessato da problemi, oltre che di calamità naturali, di infiltrazioni mafiose, cantiere sospeso dal 2016 a causa di problematiche con l'azienda appaltatrice.<ref>{{Cita web|url=https://www.stradeanas.it/sites/default/files/pdf/A2-08-Determinazione-conclusiva-CdS-lavori-di-completamento.pdf|titolo=Comunicato lavori completamento tratto Mileto-Candidoni}}</ref> Questo segmento, situato tra i km 370 e 379 dell'autostrada (precedentemente denominati km 369 - 378), è stato oggetto di indagini condotte dalla Corte dei Conti della Calabria. Le indagini hanno riguardato sia alcuni progettisti sia funzionari dell'Anas, che avevano ricoperto ruoli dirigenziali nel cantiere. A seguito delle investigazioni, questi sono stati condannati a risarcire all'Anas un importo pari a 366.000 euro, anche in considerazione di rischi legati a potenziali inondazioni nel tratto interessato.<ref>{{Cita web|url=https://www.quotidianodelsud.it/calabria/cronache/giudiziaria/2024/08/29/a2-a-rischio-inondazione-tra-mileto-e-rosarno-condanne-della-corte-dei-conti-per-oltre-7-milioni-di-euro|titolo=A2 a rischio inondazione tra Mileto e Rosarno: condanne della Corte dei Conti per oltre 7 milioni di euro|autore=Francesco Ridolfi|sito=Il Quotidiano del Sud|lingua=it|accesso=11 settembre 2024}}</ref>
+
+== Percorso ==
+L'autostrada si estende per 432,6&nbsp;km nelle province di [[Provincia di Salerno|Salerno]], [[Provincia di Potenza|Potenza]], [[Provincia di Cosenza|Cosenza]], [[Provincia di Catanzaro|Catanzaro]], [[Provincia di Vibo Valentia|Vibo Valentia]] e [[Provincia di Reggio Calabria|Reggio Calabria]]. Attraversa tre regioni: la [[Campania]] per 123&nbsp;km (km 0 - 123), la [[Basilicata]] per 29,5&nbsp;km (km 123 - 152,5) e la [[Calabria]], dove snoda gran parte del suo percorso, per i restanti 279,5&nbsp;km (km 152,5 - 432).
+
+Il suo percorso si snoda in gran parte su territorio montano. Il 50% della tratta attraversa l'[[Appennino lucano]] e quello [[Appennino calabro|calabro]]. Comprende 190 gallerie e 480 tra [[Ponte|ponti]] e [[Viadotto|viadotti]]. Dei suoi 432&nbsp;km, 125&nbsp;km si percorrono in galleria e 97&nbsp;km tra viadotti e ponti. 35 gallerie hanno una lunghezza che oltrepassa i 1000 metri e 70 ponti superano la lunghezza di 300 metri.
+
+L'inizio dell'autostrada è collocato nell'innesto tra l'[[Autostrada A30 (Italia)|autostrada A30]] proveniente da [[Caserta]] e il [[raccordo autostradale 2]] proveniente da [[Avellino]]. Subito dopo l'innesto vi è lo svincolo di Fisciano sud (in uscita solo in carreggiata nord e in entrata solo in carreggiata sud). Subito dopo vi sono gli svincoli di Baronissi nord-Lancusi e Baronissi sud, intervallati da due aree di servizio, che portano il nome del paese alla quale sono adiacenti, costruite quando il tratto tra la A30 e la A2 diramazione Napoli era ancora parte del RA2.
+
+Dopo un breve tratto, si arriva nella località di [[Fratte (Salerno)|Fratte]], dove si trova il bivio per la A2 diramazione Napoli, la quale si raggiunge proseguendo a destra, mentre proseguendo dritto, in direzione sud, si rimane in A2 in direzione di [[Reggio Calabria]].
+
+Superato il bivio si apre un tratto a tre corsie più quella di emergenza, con gallerie e viadotti che attraversano: [[San Mango Piemonte]], [[Pontecagnano Faiano|Pontecagnano]] (fine Tangenziale di Salerno), [[Montecorvino Pugliano|Montecorvino]], [[Battipaglia]], [[Eboli]], [[Campagna (Italia)|Campagna]] (dove c'è anche un pezzo dell'ex tracciato in cui c'è anche l'area di servizio "Campagna ovest"), [[Contursi Terme]], [[Sicignano degli Alburni]] (collegamento con [[Potenza (Italia)|Potenza]]).
+
+Superato lo svincolo di Sicignano degli Alburni l'autostrada prosegue a due corsie più quella d'emergenza (salvo i tratti non ammodernati e alcuni tratti per natura tecnica ammodernati, ma privi di corsia di emergenza), passando per [[Petina]],  [[Polla]], [[Atena Lucana]], [[Sala Consilina]] e [[Padula]].
+
+All'inizio del viadotto Pennarone I (km 123,5) entra in [[Basilicata]]. Nel breve tratto lucano l'autostrada percorre il [[Parco nazionale dell'Appennino Lucano Val d'Agri Lagonegrese|Parco Nazionale dell'Appennino Lucano]] ed il [[Parco nazionale del Pollino|Parco Nazionale del Pollino]]. Tra gli svincoli di [[Lauria]] Nord e Lauria Sud è presente la galleria Serra Rotonda, lunga 3.800 metri.
+
+A metà della galleria Fossino e subito dopo l'area di servizio "Galdo" (km 152,5) l'autostrada entra in [[Calabria]], fino al termine della stessa a Villa San Giovanni (km 432). L'autostrada è l'arteria principale della Calabria, collegata con strade trasversali anche al principale asse viario del versante ionico, la [[strada statale 106 Jonica|SS 106 Jonica/E90]]<ref>Vedi paragrafo "Le trasversali principali che collegano la A2 allo Jonio"</ref>. Nel superare il tratto iniziale del [[Lao (fiume)|fiume Lao]], tra [[Laino Borgo]] e [[Laino Castello]] è presente il [[viadotto Italia]] che, con i suoi 260 metri, è il viadotto più alto d'Italia e il secondo in Europa.
+
+Superato lo svincolo di [[Mormanno]] è presente lo svincolo di [[Campotenese]], dopo il quale, si raggiunge il punto più alto dell'autostrada a quota 1016 (valico di Campotenese) per scendere di altimetria fino a Cosenza. A Morano Calabro incontriamo uno dei primi 3 tratti non ammodernati, in fase di ammodernamento, che termina a Sibari. Superato lo svincolo di Sibari, si percorre la A2 fino a Cosenza prevalentemente in pianura. Superato lo svincolo di [[Cosenza]], l'autostrada risale di altimetria e attraversa le varie montagne in direzione [[Altilia]], la quale si raggiunge dopo aver oltrepassato, prima dello svincolo di Rogliano, il valico di Piano Lago a quota 636. Qui troviamo un tracciato impervio risalente ai primi anni 70, con carreggiate in ammodernamento in quanto non conformi alle normative europee. Arrivati ad Altilia inizia il nuovo tratto ammodernato che costeggia il Tirreno, attraversando [[Lamezia Terme]], con lo svincolo per la città e l'[[Aeroporto di Lamezia Terme|aeroporto]], fino a [[Pizzo (Italia)|Pizzo Calabro]], dove scende nuovamente di altimetria e ritorna all'interno con lo svincolo di [[Vibo Valentia]], percorrendo un altro pezzo di vecchio tracciato di circa 10&nbsp;km tra i due svincoli (Vibo Valentia e Pizzo), anche quello in fase di ammodernamento.
+
+L'autostrada attraversa successivamente la parte costiera della [[Rosarno|piana di Rosarno]] e della [[piana di Gioia Tauro]], per finire nei comuni costieri di [[Bagnara Calabra]], [[Scilla (Italia)|Scilla]], [[Villa San Giovanni]] (con imbarchi per la [[Sicilia]]), comune presso il quale l'autostrada ha termine e il percorso, senza soluzione di continuità, prosegue per [[Reggio Calabria]] tramite la A2 diramazione Reggio Calabria.[[File:A2 del Mediterraneo Viadotto Sciabica 2022.png|alt=L'autostrada A2 nei pressi del viadotto Sciabica, all'altezza di Nocera Terinese|miniatura|L'autostrada A2 nei pressi del viadotto Sciabica, all'altezza di [[Nocera Terinese]]]]
+
+[[File:SS 682 Jonio-Tirreno.jpg|thumb|upright=1.3|Autostrada A2 - uscita Rosarno - Località raggiungibili (tra cui la [[Strada statale 682 Jonio-Tirreno|SS682]])]]
+
+=== Le trasversali principali di collegamento con il mar Jonio ===
+Vi sono diverse strade che collegano l'autostrada allo Jonio, tra queste le più importanti partono dagli svincoli:
+
+* Sicignano degli Alburni (km 57): [[Raccordo autostradale 5|RA5]] [[Strada statale 407 Basentana|e SS407 Basentana]] [[Raccordo autostradale 5|(Svincolo A2 Sicignano - Potenza]] [[Strada statale 407 Basentana|- SS106 presso Metaponto)]]<nowiki/>che collega direttamente A2 e SS106 tramite la [[Strada europea E847|strada Europea E847]];
+* Lauria Nord (km 140): [[Strada statale 653 della Valle del Sinni|SS653 Sinnica (Svincolo A2 Lauria Nord - SS106 presso Policoro/Nova Siri)]], lunga {{m|83 |u=km}} e passante per la valle del Sinni;
+* Firmo/Sibari/Saracena (km 210): [[strada statale 534 di Cammarata e degli Stombi|SS 534 di Cammarata e degli Stombi (Svincolo A2 Firmo/Sibari/Saracena - SS106 presso Sibari)]] che mette in comunicazione la Piana di Sibari, la jonica cosentina e la SS106 per Taranto;
+* Rende/Cosenza Nord (km 255), [[strada statale 107 Silana Crotonese|SS 107 Silana Crotonese (SS18 presso Paola - SS106 presso Crotone)]] che collega il crotonese alla costa tirrenica cosentina;
+* Lamezia Terme/Catanzaro (km 320): [[strada statale 280 dei Due Mari|SS 280 dei Due Mari (SS18 presso Lamezia - Germaneto/Catanzaro)]] che collega il catanzarese;
+* Rosarno (km 380), [[strada statale 682 Jonio-Tirreno|SS 682 Jonio-Tirreno (Svincolo A2 Rosarno - SS106 presso Gioiosa)]] che collega la fascia Jonica del reggino.
+===Le trasversali principali di collegamento con il mar Tirreno===
+
+Dal momento che nel tratto tra Battipaglia e Falerna il tracciato autostradale si allontana dalla linea di costa, il collegamento con la costa tirrenica è assicurato dai seguenti svincoli
+
+*Battipaglia (km 28), che attraverso la [[Strada statale 18 Tirrena Inferiore|SS18 Tirrena Inferiore]] permette di raggiungere Capaccio, il parco archeologico di Paestum, Agropoli ed i territori del Cilento attraverso la [[Strada statale 18 var Cilentana|SS18var Cilentana]];
+*Padula/Buonabitacolo (km 108), che attraverso la [[Strada statale 517 Bussentina|SS517var Bussentina]] collega l'autostrada con le località di Policastro Bussentino, Sapri e Maratea;
+*Lagonegro nord (km 127), che attraverso la [[Strada statale 585 Fondo Valle del Noce|SS585 Fondo Valle del Noce]] collega l'autostrada con la Riviera dei Cedri (fascia tirrenica da Tortora a Cetraro);
+*Tarsia nord/Spezzano Albanese (km 222), che attraverso la [[Strada statale 283 delle Terme Luigiane|SS283 delle Terme Luigiane]] serve la fascia costiera compresa tra Guardia Piemontese e Fuscaldo;
+*Rende/Cosenza nord (km 255), che attraverso la [[Strada statale 107 Silana Crotonese|SS107 Silana-Crotonese]] serve la fascia costiera compresa tra Paola e Belmonte Calabro;
+*Falerna (km 305), che attraverso la SS18 collega la restante fascia costiera compresa tra Amantea e Falerna.
+
+== Viadotti ==
+[[File:Viadotto Sfalassa, autostrada A3.jpg|thumb|Il [[viadotto Sfalassà]] visto da Solano]]
+[[File:Viadotto Favazzina, autostrada A3.jpg|thumb|Il [[viadotto Favazzina]]]]
+[[File:Viadotto Rago, autostrada A3.jpg|thumb|Il [[viadotto Rago]]]]
+
+Realizzata su terreni irregolari, l'autostrada richiese la costruzione di numerosi viadotti, alcuni dei quali demoliti e sostituiti nel corso dell'opera di ammodernamento.
+
+=== Viadotti campani ===
+I viadotti realizzati dopo l'uscita di [[Salerno]], sono stati demoliti e sostituiti con viadotti in sistema misto. I viadotti originari erano in [[calcestruzzo]] e furono caratterizzati dalle diverse tecniche costruttive, ad esempio il viadotto Tanagro, lungo 100 metri e alto 30 era costituito da un arco parabolico a via superiore iperstatico, fu fatto brillare nei lavori di adeguamento e sostituito. Molto frequente fu la tipologia a stampella,{{efn|La tipologia a stampella è formata da pile aventi sulla sommità la struttura a sbalzo di una porzione della carreggiata e le diverse strutture a sbalzo sono connesse fra loro da elementi prefabbricati (travi) che completano l'impalcato.}} il vecchio viadotto Lontrano (progetto dell'ingegnere [[Riccardo Morandi]]) ne era un esempio.
+
+=== Viadotti lucano-calabri ===
+Il tracciato dell'autostrada si sviluppa in un territorio geologicamente complesso e con un profilo altimetrico piuttosto movimentato: le catene montuose di [[Massiccio del Pollino|Pollino]] e [[Sila]] (l'[[Aspromonte]] viene solamente costeggiato dal tracciato autostradale) vengono superate attraverso i due valichi di Campotenese e Piano Lago. All'epoca della costruzione si preferì, per motivi tecnici, la costruzione in viadotto piuttosto che in galleria e da questo è derivato un tracciato a tratti tortuoso e con raggi di curvatura molto stretti. Questi ultimi rappresentano uno dei maggiori sforzi dell'[[ingegneria civile]] impegnata nella progettazione e realizzazione di viadotti a grandi [[Luce|luci]] in sistema misto ([[acciaio]] e [[calcestruzzo armato]]) e altezze notevoli. Furono impegnati anche alcuni degli ingegneri più noti del panorama italiano, ci furono anche i progettisti degli arditi viadotti dell'[[Autostrada A1 (Italia)|A1]] realizzati circa un decennio prima, tra questi ci sono anche [[Silvano Zorzi]] e [[Fabrizio de Miranda]]. I più noti sono:
+
+* il [[viadotto Italia]] sul [[Lao (fiume)|Lao]] (1967-1973) fu progettato da [[Fabrizio de Miranda]] che utilizzò la soluzione calcestruzzo-acciaio che in quegli anni volle diffondere, per massimizzare con la loro interazione, le migliori caratteristiche di questi due elementi. Vinse il concorso nazionale di progettazione. L'opera è lunga 1.122 metri e la parte centrale è costituita da una lunga trave metallica di 425 metri tripartita in due luci di 125 metri e una, quella centrale, da 175 metri di luce. L'altezza dal fondovalle al piano stradale è di 261 metri. Tale quota altimetrica ha reso questo viadotto il più alto d'Europa fino al 2004, quando il [[Viadotto di Millau|Viaduc de Millau]] in Francia strappò il primato svettando a 271 metri sul fondo valle (dal piano stradale, 343 dai piloni). La pila est raggiunge l'altezza di 171 metri (record europeo) e affonda sulla roccia che fa da insenatura al Fiume Lao. Resta il quarto ponte al mondo come viabilità ordinaria.<ref>{{cita libro|autore1=Cestelli Guidi C.|autore2=De Miranda F.|autore3=Pellegrino Gallo C.|titolo=Il progetto del viadotto sul fiume Lao dell'Autostrada Salerno-Reggio Calabria|pubblicazione=[[Costruzioni Metalliche (rivista)|Costruzioni Metalliche]]|numero=6/1965}}</ref>
+* il [[viadotto Sfalassà]] a [[Bagnara Calabra]], fu progettato da Zorzi nel 1967 nello studio IN-CO di Milano assieme a Sabatino Procaccia e Luciano Lonardo. L'opera è lunga 769 metri (742&nbsp;m Sfalassà-151&nbsp;m Vardaru I), la campata centrale in acciaio ha luce 376&nbsp;m ed è alta dal fondovalle alla sede stradale 253 metri.<ref>{{cita web|lingua=en|url=http://en.structurae.de/structures/data/index.cfm?id=s0002297|titolo=Sfalassa Bridge|accesso=11 marzo 2012|sito=structurae.de}}</ref> Lo Sfalassà ha vinto il premio Europeo Cecm nel 1970, 1971 e 1972. Rimane il ponte ad arco portale spingente più alto del mondo, mentre è il terzo d'Europa e il sesto a livello mondiale come viabilità ordinaria. Per la sua valenza tecnica e storica, lo Sfalassà è l'unico ponte che non è stato demolito durante i lavori del tra Scilla e Gioia Tauro, ma soltanto ammodernato sulla base del precedente e preservando la campata centrale, rimasta senza corsia d'emergenza.<ref>{{cita news|autore=Francesco Romeo|url=http://www.lestradedellinformazione.it/site/home/documento1435.html|titolo=Sfalassà, il colosso dei record|pubblicazione=Il Quotidiano della Calabria|giorno=25|mese=luglio|anno=2011|p=14|accesso=12 marzo 2014|urlarchivio=https://web.archive.org/web/20140907191633/http://www.lestradedellinformazione.it/site/home/documento1435.html|urlmorto=sì}}</ref> 
+[[File:Viadotto Italia, autostrada A3.jpg|thumb|Il [[viadotto Italia]]]]
+* il viadotto Stupino a [[Carpanzano]], si sviluppa per 635 metri ed è alto dal fondovalle 150 metri, l'altezza della pila centrale 135 metri ed è caratterizzato dalle due campate centrali in calcestruzzo armato lunghe 120 metri. Esse sono realizzate attraverso il metodo cantilever.
+* il viadotto Rago a [[Morano Calabro]], si sviluppa per 399 metri ed è alto dal fondovalle 147 metri, l'altezza delle pile raggiunge i 150 metri ed è caratterizzato da una trave metallica di 122 metri di luce.
+* il viadotto Coscile a [[Castrovillari]], si sviluppa per 637 metri ed è alto dal fondovalle 140 metri, l'altezza delle pile raggiunge 140 metri ed è caratterizzato da una struttura in travi in [[Calcestruzzo armato precompresso|C.A.P.]]
+* Il viadotto Serra a [[Lagonegro]], si sviluppa per 231 metri ed è alto dal fondovalle alla sede stradale 125 metri, l'altezza delle pile è 90 metri, l'impalcato è costituito da due piastre ortotrope di altezza variabile (sul pilastro è 8,5 metri e alla spalla 5 metri).
+
+Inoltre vi sono altri viadotti di notevole altezza realizzati sull'Appennino lucano e calabro, caratterizzati dalle diverse tecniche costruttive adottate dai progettisti. La maggior parte di essi sono stati demoliti a favore di nuovi viadotti a 11 metri di larghezza, con tre corsie (due di marcia e una di emergenza) realizzati durante l'adeguamento generale dell'autostrada.
+
+== Sistema Vergilius ==
+Dal 2012, in via sperimentale nel tratto a tre corsie [[Salerno]] - [[Sicignano degli Alburni]], e definitivamente dal 2015 nel tratto Salerno (km 8) - [[Padula]]/[[Buonabitacolo]] (km 108), sull'autostrada è attivo il sistema di rilevamento della velocità media e istantanea [[Vergilius (SICVE)|Vergilius]], un sistema di rilevamento con funzionamento simile al [[SICVE|Safety Tutor]] dal quale ne deriva. Tutto il tratto sorvegliato dal sistema [[Vergilius (SICVE)|Vergilius]] ha come limite imposto 130&nbsp;km/h.<ref>{{Cita web|lingua=it|url=https://www.avvenire.it/economia/pagine/automobilisti-attenti-dopo-il-tutor-arriva-vergilius|titolo=Sicurezza e velocità. Automobilisti attenti: dopo il Tutor arriva Vergilius|sito=www.avvenire.it|data=2024-03-16|accesso=2025-01-06}}</ref><ref>{{Cita web|lingua=it-IT|url=https://www.fleetmagazine.com/vergilius-come-funziona/|titolo=In arrivo Vergilius: tutto quello che c'è da sapere|sito=Fleet Magazine|data=2024-02-13|accesso=2025-01-06}}</ref><ref>{{Cita web|lingua=it|url=https://www.stradeanas.it/it/controlla-la-velocit%C3%A0|titolo=Controlla la velocità|sito=Anas S.p.A.|data=2016-11-28|accesso=2025-01-06}}</ref>
+
+Nei tratti di autostrada compresi tra la [[Autostrada A30 (Italia)|A30]] (km 0) e Salerno (km 8), così come tra Padula/Buonabitacolo (km 108) e Villa San Giovanni (km 432), salvo eventuali postazioni mobili, non sono presenti [[Autovelox|rilevatori di velocità]], nonostante la segnaletica lungo l'autostrada indichi la presenza di controlli elettronici della velocità.
+
+== Tabella percorso ==
+{| class="wikitable" 
+|- align="center" style="color: white;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A2 Italia.svg|30}} SALERNO - REGGIO CALABRIA'''<br />Autostrada del Mediterraneo
+|-
+! Tipo !! Indicazione !! ↓km↓
+!↑km↑!! Provincia !! Strada europea
+|-
+| [[File:AB-Kreuz-grün.svg]]|| [[File:Autostrada A30 Italia.svg|20x20px]] [[Autostrada A30 (Italia)|Caserta]]<br>[[File:Italian traffic signs - raccordo autostradale 2.svg|30x30px]] [[Raccordo autostradale 2|di Avellino]]|| align="right" |0,0
+|432,6|| rowspan="23" align="center" |[[Provincia di Salerno|SA]] || rowspan="5" align="center" |[[File:Italian traffic signs - strada europea 841.svg|50px|link=Strada europea E841]]
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Fisciano|Fisciano Sud]]<br><small>{{Simbolo|Italian_traffic_signs_-_icona_università.svg}}  [[Università degli Studi di Salerno|Università]] - Campus di Fisciano<ref group="N">Svincolo completato il 5 febbraio 2010</ref><ref>{{Cita web|url=https://www.cilentonotizie.it/dettaglio/4368/fisciano--aperto-nuovo-svincolo-per-l-universita/|titolo=Fisciano - Aperto nuovo svincolo per l'università|sito=Cilento Notizie|data=05 febbraio 2010|lingua=it|accesso=06 novembre 2022}}</ref>{{efn|Solo uscita in direzione Salerno/A30; solo entrata in direzione Reggio Calabria}}</small>
+|align="right"| 1,1
+|432,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Baronissi|Baronissi Nord]] - [[Lancusi]]<br><small>{{Simbolo|Italian_traffic_signs_-_icona_università.svg}} [[Università degli Studi di Salerno|Università]] - Campus di Baronissi</small>|| align="right" | 1,3
+|431,3
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Baronissi" || align="right" | 2,0
+|430,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Baronissi|Baronissi Sud]]<br /><small>{{simbolo|Strada Regionale exSS88 Italia.svg|35}} [[Strada statale 88 dei Due Principati|dei Due Principati]]</small> || align="right" | 3,7
+|428,9
+|-
+| [[File:AB-Kreuz-grün.svg]]|| [[File:Italian traffic signs - strada europea 45.svg|30px|link=Strada europea E45]] [[File:Autostrada A2dirNA Italia.png|20x20px]] [[Autostrada A2 (Italia)#A2 diramazione Napoli|diramazione Napoli]]<br/><small>[[File:Italian traffic signs - strada europea 45.svg|30px|link=Strada europea E45]]</small> <small>[[File:Autostrada_A3_Italia.svg|class=mw-file-element|20x20px]] [[Autostrada A3 (Italia)|Napoli - Salerno]]</small>|| align="right" |  8,4
+|424,4|| rowspan="79" align="center" |[[File:Italian traffic signs - strada europea 45.svg|50px|link=Strada europea E45]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Salerno" || align="right" | 13,0 
+|419,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Mango Piemonte]]|| align="right" | 13,5
+|419,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pontecagnano]]<br /><small>[[File:Italian_traffic_signs_-_strada_extraurbana_principale.svg|20px|superstrada]] [[Tangenziale di Salerno]]</small>|| align="right" | 18,7
+|413,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Montecorvino Pugliano]]-[[Pontecagnano|Pontecagnano Sud]]<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Salerno-Costa d'Amalfi]]</small>|| align="right" | 23,4
+|409,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Battipaglia]]|| align="right" | 28,3
+|404,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Eboli]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''</small>|| align="right" | 35,8
+|396,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Campagna (Italia)|Campagna]]|| align="right" | 41,9 
+|390,7
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Campagna"<ref>In direzione sud posta sul vecchio tracciato dove, dall'ingresso dall'autostrada principale, bisogna percorrere circa 2,3 km per raggiungerla</ref>
+| align="right" | 47,8 
+|384,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Contursi Terme]] - [[Postiglione (Italia)|Postiglione]]|| align="right" | 51,9
+|380,7
+|-
+| [[File:AB-Kreuz-grün.svg]]|| [[File:Italian traffic signs - raccordo autostradale 5.svg|30x30px]] [[Raccordo autostradale 5|Potenza]]|| align="right" | 58,0 
+|374,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Petina]]|| align="right" | 68,9
+|363,7
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Tanagro"<ref group="N" name="sa" />
+|align="right"| -
+|354,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Polla]]||align="right" | 80,0
+|352,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Atena Lucana]]<br /><small>{{simbolo|Strada Statale 598 Italia.svg|35}} ''[[Strada statale 598 di Fondo Valle d'Agri|di Fondovalle dell'Agri]]''</small>|| align="right" | 86,9
+|345,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sala Consilina]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''</small>|| align="right" | 92,8 
+|339,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Sala Consilina" || align="right" | 95,8 
+|336,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Padula]] - [[Buonabitacolo]]|| align="right" | 108,1
+|324,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lagonegro|Lagonegro nord]]<br><small>[[Maratea]] - [[Tortora (Italia)|Tortora]] - [[Praia a Mare]]<br>{{simbolo|Strada Statale 585 Italia.svg|35}} ''[[Strada statale 585 Fondo Valle del Noce|di Fondovalle del Noce]]''</small>|| align="right"|127,8
+|304,8|| rowspan="6" align="center" |[[Provincia di Potenza|PZ]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lagonegro|Lagonegro sud]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''</small>|| align="right" | 129,9
+|302,7
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Sirino"<ref group="N" name="rc" />
+|align="right"|135,5
+| -
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lauria|Lauria nord]]<br /><small>{{simbolo|Strada Statale 653 Italia.svg|35}} ''[[Strada statale 653 della Valle del Sinni|della Valle del Sinni]]''</small>|| align="right" | 141,1
+|291,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lauria|Lauria sud]]<br /><small>{{simbolo|Italian traffic signs - icona foresta.svg}} ''[[Parco nazionale del Pollino]]''</small>|| align="right" | 148,9
+|283,7
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Galdo"<ref name=":4">{{Cita web|url=https://ivl24.it/lauria-sud-riaperte-le-aree-di-servizio-di-galdo/|titolo=Lauria Sud, riaperte le aree di servizio di Galdo|autore=Redazione|sito=ivl24.it|data=11 luglio 2024|lingua=it|accesso=11 luglio 2024}}</ref><ref>{{Cita web|url=https://www.virgilio.it/italia/lauria/notizielocali/_la_voce_della_politica_apertura_aree_di_servizio_galdo_est_ed_ovest_-73629004.html|titolo=- - > La voce della Politica ''Apertura Aree di Servizio Galdo Est ed Ovest''|sito=Virgilio Lauria.|data=11 luglio 2024|lingua=it|accesso=11 luglio 2024}}</ref><ref>Dismessa nel 2019 lato ovest causa fatturati bassi, dismessa nel 2024 lato est a seguito dell'imminente riapertura del fabbricato nuovo, sono state riaperte entrambi l'11 luglio 2024 sotto gestione unificata del gruppo [[Sarni (azienda)|Sarni]]. Fino a tale data la distanza tra una area di servizio e l'altra (ovvero da Sala Consilina a Frascineto e viceversa) superava i 100 km.</ref>
+| align="right" | 151,1 
+|281,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Laino Borgo]]|| align="right" | 156,5
+|276,1|| rowspan="28" align="center" |[[Provincia di Cosenza|CS]]
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Pietragrossa"<ref group="N" name="rc" />
+|align="right"|163,3
+|269,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Mormanno]] - [[Laino Castello]]|| align="right" | 165,9
+|266,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Campotenese]]<br /><small>{{simbolo|Italian traffic signs - icona foresta.svg}} ''[[Parco nazionale del Pollino]]''</small>|| align="right" | 177,1 
+|255,5
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Rago"<ref group="N" name="rc">Solo in direzione Reggio Calabria</ref>
+|align="right"|183,1
+| -
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Colloreto"<ref group="N" name="sa" />
+|align="right"| -
+|246,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Morano Calabro]] - [[Castrovillari|Castrovillari Nord]]|| align="right" | 187,8
+|244,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Frascineto" || align="right" | 195,0
+|237,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Frascineto]] - [[Castrovillari]]<br /><small>''Posto Manutenzione Anas''</small><br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''</small>
+| align="right" | 196,2 
+|236,4
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Salso"
+|align="right"|205,6
+|227,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Firmo (Italia)|Firmo]] - [[Sibari]] - [[Saracena]]<br /><small>{{simbolo|Italian traffic signs - strada europea 844.svg|30}} {{simbolo|Strada Statale 534 Italia.svg|35}} ''[[Strada statale 534 di Cammarata e degli Stombi|di Cammarata e degli Stombi]]''</small>|| align="right" | 210,5
+|222,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Altomonte]]|| align="right" | 216,0
+|216,6
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di Parcheggio "Grondo"<ref group="N" name="rc" />
+|align="right"|216,7
+| -
+|-
+| [[File:AB-AS-grün.svg]]|| [[Tarsia (Italia)|Tarsia nord]] - [[Spezzano Albanese|Spezzano Terme]]<br /><small>''Posto Manutenzione Anas''</small>|| align="right" | 222,3 
+|210,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Tarsia (Italia)|Tarsia]]|| align="right" | 227,8
+|204,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Tarsia" || align="right" | 228,1 
+|204,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Torano Castello]]-[[Bisignano]]|| align="right" | 237,0
+|195,6
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di Parcheggio "Buca del Duca"<ref group="N" name="rc" />
+|align="right"|238,8
+| -
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di Parcheggio "S. Marinella"<ref group="N" name="sa">Solo in direzione Salerno</ref>
+|align="right"| -
+|187,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Montalto Uffugo]] - [[Rose (Italia)|Rose]]|| align="right" | 246,8
+|185,8
+|-
+|[[File:AB-AS-grün.svg]]
+|Settimo di Rende - Cosenza nord<br /><small>{{simbolo|Italian traffic signs - divieto di transito.svg|20}}</small> ''in costruzione''<ref>{{Cita web|lingua=it|url=https://www.stradeanas.it/it/le-strade/progetti-avvisi-al-pubblico/a2-autostrada-del-mediterraneo-lavori-di-costruzione-del-0|titolo=A2 Autostrada del Mediterraneo lavori di costruzione del nuovo svincolo di Cosenza Nord al Km 250+000 in località Settimo di Rende|sito=Anas S.p.A.|data=2024-12-20|accesso=2025-01-30}}</ref>
+|250,0
+|181,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rende]] - [[Cosenza|Cosenza nord]]<br /><small>{{simbolo|Italian traffic signs - strada europea 846.svg|30}} {{simbolo|Strada Statale 107 Italia.svg|35}} ''[[Strada statale 107 Silana Crotonese|Silana Crotonese]]''<br />{{simbolo|Italian traffic signs - icona foresta.svg}} ''[[Parco nazionale della Sila]]''</small><br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''</small>
+| align="right" | 255,0
+|177,6
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Cosenza"{{efn|Altro nome: Rende}}|| align="right" | 255,4
+|177,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cosenza]]<br /><small>''S<nowiki/>ede Anas Autostrada del Mediterraneo''</small>|| align="right" | 261,0
+|171,6
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Bella Vista"<ref group="N" name="sa" />
+|align="right"| 263,1
+|168,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rogliano (Italia)|Rogliano]]<br /><small>''Posto Manutenzione Anas''</small>|| align="right" | 275,0
+|157,6
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Rogliano" || align="right" | 276,3 
+|156,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Altilia]] - [[Grimaldi (Italia)|Grimaldi]]|| align="right" | 287,4
+|145,2
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di Parcheggio "Savuto"<ref group="N" name="sa" />
+|align="right"| -
+|141,6
+|align="center"|CS/CZ
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Mango d'Aquino]]|| align="right" | 295,9
+| 136,7|| rowspan="6" align="center" |[[Provincia di Catanzaro|CZ]]
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di Parcheggio "Dragona"<ref group="N" name="rc" />
+|align="right"|298,2
+| -
+|-
+| [[File:AB-AS-grün.svg]]|| [[Falerna]]|| align="right" | 305,3
+|127,3
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di Parcheggio "Lamezia"<ref group="N" name="sa" />
+|align="right"| -
+|118,6
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Lamezia" || align="right" | 318,8 
+|113,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lamezia Terme]] - [[Catanzaro]]<ref>{{cita web|url=https://www.stradeanas.it/sites/default/files/Sinottico_A2.png|titolo=Gli svincoli della A2}}</ref><br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Lamezia Terme]]<br />{{simbolo|Italian traffic signs - strada europea 848.svg|30}} {{simbolo|Strada Statale 280 Italia.svg|35}}'' [[Strada statale 280 dei Due Mari|dei Due Mari]]'' </small><br />{{simbolo|Strada Statale 18 Italia.svg|35}} <small>''[[Strada statale 18 Tirrena Inferiore|Tirrena Inferiore]]''</small><br />{{simbolo|Italian traffic signs - strada europea 90.svg|30}} {{simbolo|Strada Statale 106 Italia.svg|35}} <small>''[[Strada statale 106 Jonica|Jonica]]''</small><br /><small>''Posto Manutenzione Anas''</small><br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''</small>
+| align="right" | 321,8 
+|110,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pizzo (Italia)|Pizzo]]<br />{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} <small>''[[Vibo Marina]]''</small><br /><small>ex {{simbolo|Strada Statale 522 Italia.svg|35}} ''[[strada statale 522 di Tropea|di Tropea]]''</small><br />{{simbolo|Strada Statale 18 Italia.svg|35}} <small>''[[Strada statale 18 Tirrena Inferiore|Tirrena Inferiore]]''</small>|| align="right" |337,0
+| 92,6|| rowspan="7" align="center" |[[Provincia di Vibo Valentia|VV]]
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di Parcheggio "Pizzo"<ref group="N" name="rc" />
+|align="right"|343,0
+| -
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Pizzo"<ref group="N" name="sa" />
+| align="right" | -
+|89,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sant'Onofrio (Italia)|S. Onofrio]] - [[Vibo Valentia]]<br /><small>''Posto Manutenzione Anas''</small>|| align="right" | 347,9  
+|82,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vazzano]] {{efn|Svincolo aperto il 26 ottobre 2018}}<br />{{simbolo|Strada Statale 713 Italia.svg|35}} <small>''[[Serra San Bruno]]''</small>|| align="right" | 357,9
+|74,7
+|-
+| [[File:AB-AS-grün.svg]]||[[Gerocarne]] - [[Soriano Calabro]] {{efn|Già Serre fino al 2019}}<br /><small>{{simbolo|Strada Statale 182 Italia.svg|35}} ''[[Strada statale 182 delle Serre Calabre|delle Serre Calabre]]''</small>
+| align="right" |  360,2
+|72,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Mileto (Italia)|Mileto]] || align="right" | 370,7
+|61,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rosarno]]<br /><small>{{simbolo|Italian traffic signs - icona porto.svg}} [[Porto di Gioia Tauro]]<br />{{simbolo|Strada Statale 682 Italia.svg|35}} ''[[Strada statale 682 Jonio-Tirreno|Jonio-Tirreno]]''<br />{{simbolo|Italian traffic signs - icona foresta.svg}} ''[[Parco nazionale dell'Aspromonte]]''</small><br />{{simbolo|Strada Statale 682dir Italia.svg|35}} <small>''[[Strada statale 682 Jonio-Tirreno#Strada statale 682 dir Raccordo al Porto di Gioia Tauro|dir. Raccordo al Porto di Gioia Tauro]]''</small><br />{{simbolo|Strada Statale 18 Italia.svg|35}} <small>''[[Strada statale 18 Tirrena Inferiore|Tirrena Inferiore]]''</small><br />{{simbolo|Italian traffic signs - strada europea 90.svg|30}} {{simbolo|Strada Statale 106 Italia.svg|35}} <small>''[[Strada statale 106 Jonica|Jonica]]''</small> || align="right" | 383,2
+| 49,4|| rowspan="13" align="center" |[[Città metropolitana di Reggio Calabria|RC]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Rosarno" || align="right" | 390,1 
+|42,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Gioia Tauro]] || align="right" | 394,0
+|38,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Palmi]]<br/>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} <small>''[[Costa Viola]]''</small><br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''</small>
+| align="right" | 401,1 
+|31,5
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Santa Lucia"<ref group="N" name="sa" />
+|align="right"| -
+|28,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bagnara Calabra]] <ref group="N">Fino al 2013 S. Elia - Melicuccà</ref><br />{{simbolo|Nuova Strada Statale 433 Italia.svg|35}} <small>''[[Strada statale 739 di Bagnara Calabra|di Bagnara Calabra]]''</small><br />{{simbolo|Strada Statale 18 Italia.svg|35}} <small>''[[Strada statale 18 Tirrena Inferiore|Tirrena Inferiore]]''</small> || align="right" | 408,6 
+|24,0
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Monumento ai Caduti"<ref group="N" name="rc" />
+|align="right"|421,9
+| -
+|-
+| [[File:AB-AS-grün.svg]]|| [[Scilla (Italia)|Scilla]]<br />{{simbolo|Strada Statale 737 Italia.svg|35}} <small>''[[Strada statale 737 di Scilla|di Scilla]]''</small><br />{{simbolo|Strada Statale 18 Italia.svg|35}} <small>''[[Strada statale 18 Tirrena Inferiore|Tirrena Inferiore]]''</small><br/><small>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} ''[[Costa Viola]] ''</small> || align="right" | 422,9 
+|9,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cannitello|Santa Trada]]{{efn|Solo uscita in direzione Salerno; solo entrata in direzione Reggio Calabria}}|| align="right" | -
+|6,1
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di Parcheggio "Santa Trada"<ref group="N" name="rc" />
+|align="right"| 426,7
+| -
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg]]|| Area di servizio "Villa San Giovanni" || align="right" | 429,5
+
+|0,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Villa San Giovanni]]<br/>{{simbolo|Italian traffic signs - icona traghetto.svg}} <small>[[Traghettamento nello stretto di Messina|Traghetti per Messina]]</small><br />{{simbolo|Italian traffic signs - strada europea 45.svg|30}} {{simbolo|Strada Statale 738 Italia.svg|35}} <small>''[[Strada statale 738 di Villa San Giovanni|di Villa San Giovanni]]''</small>|| align="right" |432,0
+|0,6
+|-
+|[[File:AB-gerade-grün.svg]]
+|{{Simbolo|Autostrada A2dirRC Italia.png}} [[#A2 diramazione Reggio Calabria|diramazione Reggio Calabria]]
+|align="right"|432,6
+|0,0
+|}
+{{Gruppo di note}}
+
+== Diramazioni ==
+=== A2 diramazione Napoli ===
+{{Strada
+|nome = Autostrada A2 dir
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Napoli
+|simbolo = Autostrada A2dir Diramazione Napoli - Italia.svg
+|nome precedente = Autostrada A3
+|nome successivo = 
+|divisione amm 1 = {{IT-CAM}}
+|divisione amm 2 ={{IT-SA}} 
+|inizio = Innesto sulla A2 presso [[Salerno]] est
+|fine = Innesto sulla A3 presso [[Salerno]]  centro
+|lunghezza = 2,335
+|direzione = 
+|apertura = 
+|provvedimento istituzione = Decreto ministeriale 13/06/2017 (G.U. n.153 del 03/07/2017)
+|gestore = 
+|pedaggio = 
+|città servite = 
+|intersezioni =[[Autostrada A3 (Italia)|A3]] presso lo svincolo di [[Salerno]] centro, A2 presso lo svincolo di [[Salerno]]  est 
+|europea1 = 45
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+L{{'}}'''A2 diramazione Napoli''' è una diramazione autostradale lunga 2,335&nbsp;km che collega l'autostrada A2, partendo da [[Fratte (Salerno)|Fratte]], con l'[[Autostrada A3 (Italia)|autostrada A3]], innestandosi presso [[Salerno|Salerno centro]]/[[Costiera amalfitana]].
+
+È interamente parte della [[strada europea E45]].
+
+Costeggia il lato nord-ovest della città di Salerno per creare un collegamento veloce tra Napoli e Reggio Calabria, inclusa la parte ovest della città a quella est e viceversa.
+
+Fino al 13 giugno [[2017]] la diramazione era parte integrante dell'autostrada [[Autostrada A3 (Italia)|A3 Napoli-Reggio Calabria]].<ref name=:0>{{Cita web|url=http://www.gazzettaufficiale.it/eli/gu/2017/07/03/153/sg/pdf|titolo=}}</ref> Per distinguere questa tratta dalle altre diramazioni, questa tratta è numerata come ''A2 dir NA''. Il raccordo ha una progressiva chilometrica indipendente, con il km 0 posizionato nei pressi dell'innesto con la A2 al km 8.
+{| class="wikitable" 
+|- align="center" style="color: white;" bgcolor="#08842c"
+| colspan="6" |[[File:Autostrada A2dirNA Italia.png|30x30px]]''' DIRAMAZIONE NAPOLI'''
+|-
+! Tipo !! Indicazione !! ↓km↓ 
+!↑km↑!! Provincia !! Strada europea
+|-
+|[[File:AB-gerade-grün.svg]]
+|{{simbolo|Italian traffic signs - strada europea 45.svg|30}} {{simbolo|Autostrada_A2_(Italia).png}} <small>[[#Tabella percorso|Salerno-Reggio Calabria]]</small>
+| align="right" | 0,000
+|2,335
+| rowspan="4" align="center" |[[Provincia di Salerno|SA]]
+| rowspan="4" align="center" |[[File:Italian traffic signs - strada europea 45.svg|50px|link=Strada europea E45]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Salerno]] - [[Fratte (Salerno)|Fratte]]<br><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg}} ''[[Tangenziale di Salerno]]''<br />{{simbolo|Strada Regionale exSS88 Italia.svg|35}} [[Strada statale 88 dei Due Principati|dei Due Principati]]</small>
+| align="right" | 0,500
+|1,835
+|-
+| [[File:AB-AS-grün.svg]]|| [[Salerno]] {{simbolo|Italian traffic signs - centro città.svg|14}}<br><small>{{simbolo|Strada Statale 18 Italia.svg|35}} ''[[Strada statale 18 Tirrena Inferiore|Tirrena Inferiore]]''<br>{{simbolo|Italian traffic signs - icona porto.svg}} [[Porto di Salerno]]<br />{{simbolo|Italian traffic signs - icona pineta + mare.svg}} ''[[Costiera amalfitana]]''</small>
+| align="right" | 2,230
+|0,105
+|-
+|[[File:AB-gerade-grün.svg]]
+|{{simbolo|Italian traffic signs - strada europea 45.svg|30}} {{simbolo|Autostrada A3 Italia.svg}} <small>[[Autostrada A3 (Italia)|Napoli-Salerno]]</small>
+| align="right" | 2,335
+|0,000
+|}
+
+=== A2 diramazione Reggio Calabria ===
+{{Strada
+|nome = Autostrada A2 dir
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Reggio Calabria
+|simbolo = Autostrada A2dir Diramazione Reggio Calabria - Italia.svg
+|nome precedente = Autostrada A3
+|nome successivo = 
+|divisione amm 1 = {{IT-CAL}}
+|divisione amm 2 ={{IT-RC}} 
+|inizio = Innesto in A2 presso [[Villa San Giovanni]]
+|fine = [[Reggio Calabria]]
+|lunghezza = 9,048
+|direzione = 
+|apertura = 
+|provvedimento istituzione = Decreto ministeriale 13/06/2017 (G.U. n.153 del 03/07/2017)
+|gestore = 
+|pedaggio = 
+|città servite = 
+|intersezioni =A2 a [[Villa San Giovanni]], [[Raccordo autostradale 4|RA4]] a [[Reggio Calabria]] 
+|europea1 = 90
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+L{{'}}'''A2 diramazione Reggio Calabria''' è una diramazione autostradale lunga 9,048&nbsp;km che collega l'autostrada A2, partendo da [[Villa San Giovanni]], fino a [[Reggio Calabria]], terminando con l'innesto nella [[Raccordo autostradale 4|tangenziale di Reggio Calabria]] e l'ingresso nord di Reggio Calabria.
+
+È interamente parte della [[strada europea E90]].
+
+La diramazione costeggia il paese di [[Campo Calabro]] e i quartieri nord di Reggio Calabria.
+
+Fino al 13 giugno [[2017]] la diramazione era parte integrante dell'autostrada [[Autostrada A3 (Italia)|A3 Napoli-Reggio Calabria]].<ref name=":0" /> Per distinguere questa tratta dalle altre diramazioni, questa tratta è numerata come ''A2 dir RC''. Il raccordo ha una progressiva chilometrica indipendente.
+==== Lavori di riqualificazione (2018 - 2021) ====
+Nel piano dei lavori per l’ammodernamento dell’arteria era incluso anche questo tratto come parte dei lavori che avrebbero dovuto estendersi oltre [[Campo Calabro]] fino a [[Reggio Calabria]] per ulteriori 10&nbsp;km, che nel 2007 vennero stralciati su pressioni dell’allora sindaco di Reggio Calabria [[Giuseppe Scopelliti]] per evitare disagi alla circolazione.
+
+L'intervento venne quindi modificato in una riqualificazione del tracciato esistente e i lavori partirono nell'estate 2018. Il termine, originariamente previsto per dicembre 2019, è successivamente slittato ed i lavori si sono conclusi a giugno 2021.
+
+Ad oggi l'intera tratta è stata riaperta ed è sgombra da cantieri, con limite di velocità di 80 km/h, ridotto a 70 km/h nei pressi di alcune curve pericolose.[[File:reggio calabria innesto raccordo ra04 su autostrada a3.jpg|thumb|upright=3.6|center|Innesto tra l'A2dir RC e il RA4]]
+{| class="wikitable" 
+|- align="center" style="color: white;" bgcolor="#08842c"
+| colspan="6" |[[File:Autostrada A2dirRC Italia.png|30x30px]]''' DIRAMAZIONE REGGIO CALABRIA'''
+|-
+! Tipo !! Indicazione !! ↓km↓ 
+!Note!! Provincia !! Strada europea
+|-
+| [[File:AB-gerade-grün.svg]]
+| {{simbolo|Italian traffic signs - strada europea 45.svg|30}} {{simbolo|Autostrada_A2_(Italia).png|23}} [[#Tabella percorso|Salerno-Reggio Calabria]]
+| align="right" | 0,0
+|
+| align="center" rowspan=7 | [[Città metropolitana di Reggio Calabria|RC]]
+| align="center" rowspan=7 | [[File:Italian traffic signs - strada europea 90.svg|50px|link=Strada europea E90]]
+|-
+| [[File:AB-AS-grün.svg]]
+| [[Campo Calabro]]
+| align="right"| 0,3
+|
+|-
+| [[File:AB-AS-grün.svg]]
+| [[Catona]] - [[Arghillà]]
+| align="right" | 2,2
+|<small>Solo uscita in dir. Salerno e entrata in dir. Reggio C.</small>
+|-
+| [[File:AB-AS-grün.svg]]
+| [[Gallico (Reggio Calabria)|Reggio Calabria Gallico]]<br />{{simbolo|Strada Statale 18 Italia.svg|35}} <small>''[[Strada statale 18 Tirrena Inferiore|Tirrena Inferiore]] .''</small>  {{simbolo|Strada Statale 184 Italia.svg|35}} <small>''[[Strada statale 184 delle Gambarie|delle Gambarie]]''</small>
+| align="right" | 3,4
+|
+|-
+| [[File:AB-AS-grün.svg]]
+| [[Porto di Reggio Calabria|Reggio Calabria Porto]]<br /><small>{{simbolo|Italian traffic signs - icona porto.svg}} [[Porto di Reggio Calabria]]</small><br/>{{simbolo|Italian traffic signs - icona traghetto.svg}} <small>[[Traghettamento nello stretto di Messina|Traghetti per Messina]]</small>
+| align="right" | 7,6
+|
+|-
+| [[File:AB-Kreuz-blaugrün.svg]]
+| [[File:Italian_traffic_signs_-_strada_europea_90.svg|class=mw-file-element|30x30px]] [[File:Italian_traffic_signs_-_raccordo_autostradale_4.svg|class=mw-file-element|30x30px]] [[Raccordo autostradale 4|Tangenziale di Reggio Calabria]]<br />{{simbolo|Italian traffic signs - strada europea 90.svg|30}} {{simbolo|Strada Statale 106 Italia.svg|35}} <small>''[[Strada statale 106 Jonica|Jonica]]''</small>
+| align="right" | 8,5
+|<small>Solo uscita in dir. Reggio C. e entrata per Salerno</small>
+|-
+| {{simbolo|Italian traffic signs - città.svg}}
+| [[Reggio Calabria|Reggio Calabria Nord]]
+| align="right" | 9,0
+|
+|}
+
+== Obblighi ==
+Sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile tra:<ref>{{Cita web|url=https://www.stradeanas.it/it/viabilita-estiva-invernale|titolo=Viabilità estiva-invernale - Anas S.p.A.}}</ref>
+
+* lo svincolo di [[Sala Consilina]] (km 92,4) e lo svincolo di [[Frascineto]] (km 196,2)
+* lo svincolo di [[Cosenza]] (km 261,0) e lo svincolo di [[Altilia]]/[[Grimaldi (Italia)|Grimaldi]] (km 287,4).
+
+Invece sono altamente consigliate, come da cartellonistica presente ad ogni ingresso dell’autostrada, le dotazioni nello stesso periodo sull'intera autostrada.
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Salerno - Reggio Calabria |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 8-9 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = agosto-settembre |pp = 428-443 |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/602/mode/2up }}
+* Leandra D'Antone, ''Senza pedaggio. Storia dell'autostrada Salerno-Reggio Calabria'', Donzelli, 2008, ISBN 88-6036-223-7
+* Vittorio Mete, ''I lavori di ammodernamento dell'autostrada Salerno-Reggio Calabria. Il ruolo delle grandi imprese nazionali'', in: Rocco Sciarrone (a cura di), ''Alleanze nell'ombra. Mafie e economie locali in Sicilia e nel Mezzogiorno'', Fondazione Res, Donzelli, Roma, 2011.
+
+== Altri progetti ==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{Cita web|url=https://www.lestradedelcuore.it/autostrada-del-mediterraneo/|titolo=A2 - Autostrada del Mediterraneo}}
+* Ex sito della A3 -{{cita web|url=http://www.salernoreggiocalabria.it/|titolo=www.salernoreggiocalabria.it|accesso=18 giugno 2017|urlarchivio=https://web.archive.org/web/20160803165241/http://www.salernoreggiocalabria.it/|urlmorto=sì}}
+* {{Cita web |url=http://www.lastoriasiamonoi.rai.it/puntate/salerno-reggio-calabria/816/default.aspx |titolo=Salerno-Reggio Calabria - L'autostrada che non c'è |accesso=19 maggio 2019  |urlarchivio=https://web.archive.org/web/20180803225629/http://www.lastoriasiamonoi.rai.it/puntate/salerno-reggio-calabria/816/default.aspx |urlmorto=sì }}
+* {{cita web|http://www.stradeanas.it/sites/default/files/La%20storia%20della%20Salerno%20-%20Reggio%20Calabria.pdf|Cronologia eventi e storia della Salerno - Reggio Calabria fino al 22/12/2016, prima di diventare A2 del Mediterraneo}}
+* {{cita web | url = http://www.report.rai.it/dl/Report/puntata/ContentItem-d772ec6f-6a6f-41e2-9662-2b3d7c563957.html | titolo = ''Mafia, corruzione, clientele... Chi paga il prezzo? - Parte prima'' | accesso = 18 giugno 2017 | urlarchivio = https://web.archive.org/web/20170716100656/http://www.report.rai.it/dl/Report/puntata/ContentItem-d772ec6f-6a6f-41e2-9662-2b3d7c563957.html | urlmorto = sì }}
+* {{cita web |url=http://www.report.rai.it/dl/Report/puntata/ContentItem-8ff726de-2232-47b7-b6a8-85758a1790e0.html |titolo=''Mafia, corruzione, clientele... Chi paga il prezzo? - Parte seconda'' |accesso=18 giugno 2017 |urlarchivio=https://web.archive.org/web/20111104125416/http://www.report.rai.it/dl/Report/puntata/ContentItem-8ff726de-2232-47b7-b6a8-85758a1790e0.html |urlmorto=sì }}
+* {{cita web |url=http://www.dps.mef.gov.it/documentazione/docs/uver/Nota%20Anas%20Sa-Rc%20LLPP%20Senato.pdf |titolo=Osservazioni sulla situazione generale dell'ANAS S.P.A. e stato degli appalti delle opere di ammodernamento della Salerno-Reggio Calabria al 20 settembre 2006 |accesso=18 giugno 2017 |urlarchivio=https://web.archive.org/web/20150202154122/http://www.dps.mef.gov.it/documentazione/docs/uver/Nota%20Anas%20Sa-Rc%20LLPP%20Senato.pdf |urlmorto=sì }}
+* {{cita web|http://www.regioni.it/upload/infrastrutture_prioritarie___calabria%5B1%5D.pdf|Priorità infrastrutturali nelle regioni - regione Calabria}}
+* {{cita web|http://mobilita.org/2016/12/23/video-e-storia-anas-nasce-la-a2-autostrada-del-mediterraneo|VIDEO e STORIA Anas: nasce la A2 “Autostrada del Mediterraneo”}}
+* [https://www.skyscrapercity.com/threads/a2-a3-autostrada-napoli-reggio-calabria.1439479/page-987 ''Il forum dedicato sulla A2 - Autostrada del Mediterraneo''] su ''[[SkyscraperCity|skyscrapercity.com]]''
+
+{{Autostrade italiane}}
+{{portale|trasporti}}
+
+[[Categoria:Autostrada A2| ]]
+[[Categoria:Autostrade gestite dall'ANAS]]
+[[Categoria:Trasporti in Campania]]
+[[Categoria:Trasporti in Basilicata]]
+[[Categoria:Trasporti in Calabria]]

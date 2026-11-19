@@ -1,0 +1,357 @@
+{{Strada
+|nome = Autostrada A22
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada del Brennero<br />Brennero-Modena<br />Autobrennero<br />Brennerautobahn
+|simbolo = Autostrada A22 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-TAA}}<br />{{IT-VEN}}<br />{{IT-LOM}}<br />{{IT-EMR}}
+|divisione amm 2 ={{IT-BZ}}<br />{{IT-TN}}<br />{{IT-VR}}<br />{{IT-MN}}<br />{{IT-RE}}<br />{{IT-MO}} 
+|inizio = Innesto in confine con l'[[Austria]] ([[Brenner Autobahn|Autobahn A13]]) presso il [[Passo del Brennero]]
+|fine = innesto in [[autostrada A1 (Italia)|A1]] presso [[Modena]]
+|lunghezza = 313,1<ref>{{cita testo|url=https://www2.autostrade.it/BVSPortal/?strada=29&ramo=29&code=A22&link=&tipo=#/home/(rete)|titolo=Portale Trasporti Eccezionali - Rami autostradali|accesso=17 gennaio 2026}}</ref>
+|direzione = 
+|apertura = [[1968]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrada del Brennero (azienda)|Autostrada del Brennero S.p.A.]]
+|pedaggio =[[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]<ref>Gratuiti solo gli ultimi 15&nbsp;km tra la barriera del Vipiteno e il confine con l'[[Austria]]</ref> 
+|città servite = 
+|intersezioni =[[Autostrada A1 (Italia)|A1]] a Modena, [[Autostrada A4 (Italia)|A4]] a Verona 
+|europea1 = 45
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A22.svg
+|tracciato = Tracciato A22.svg
+|Province=}}
+
+L{{'}}'''autostrada A22''', detta anche '''Autostrada del Brennero, Brennero-Modena''' o '''Autobrennero''', {{tedesco|Brennerautobahn}}, collega [[Modena]], partendo dall'[[Autostrada A1 (Italia)|autostrada A1]] e passando la [[Pianura Padana]], con il [[Passo del Brennero]] e quindi con l'[[Austria]]  proseguendo senza soluzione di continuità, mantenendo il nome di ''Brenner Autobahn'', come [[Autostrada A13 (Austria)|autostrada A13 austriaca]]. È uno degli assi principali della [[rete autostradale italiana]], la sua importanza permette di collegarsi verso l'[[Austria]] e, in generale, verso l'[[Europa]]. Lunga 313,1 km, è interamente gestita da [[Autostrada del Brennero (azienda)|Autostrada del Brennero S.p.A.]].
+
+È la quinta autostrada italiana per lunghezza dopo la [[Autostrada A1 (Italia)|A1]], [[Autostrada A14 (Italia)|A14]], [[Autostrada A4 (Italia)|A4]] e [[Autostrada A2 (Italia)|A2]].
+
+== Storia ==
+[[File:Costruzione A22.JPG|upright=1.2|thumb|La costruzione di uno dei tanti viadotti dell'A22, negli anni settanta, in [[Valle Isarco]]]]
+Già nel [[1949]] durante la [[convenzione di Ginevra sulla circolazione stradale]] venne tracciata una rotta, identificata con la sigla ''E56'', che congiungeva la penisola [[Scandinavia|scandinava]] con la punta più meridionale d'[[Italia]], di cui il percorso attuale dell'Autobrennero faceva già parte.
+
+Il passo successivo nell'attuazione del progetto fu il 20 febbraio [[1959]], quando fu fondata la [[Autostrada del Brennero (azienda)|Autostrada del Brennero S.p.A.]], che due anni dopo ottenne la concessione per la costruzione e il successivo esercizio dell'autostrada (tale società è tuttora la realtà operativa che cura questa [[infrastruttura]]). Il tracciato autostradale fu inizialmente elaborato da [[Bruno Gentilini|Bruno]] e [[Lino Gentilini]] coadiuvati dal senatore [[Guido de Unterrichter]]. Questo fu leggermente modificato ed era composto da una doppia carreggiata di 7,5 × 2 metri. Il progetto Verona-Brennero fu approvato dall'[[Anas (azienda)|Anas]] il 25 gennaio [[1962]], mentre la tratta Verona-Modena fu approvata l'anno seguente. Nel seguito si dovette procedere all'esproprio di alcuni terreni e alla costruzione di nuovi sovra-sotto-passi sia [[strada]]li che [[ferrovia]]ri, lo spostamento di ben 307 chilometri di [[Elettrodotto|elettrodotti]] e 74 di [[Rete telefonica|linee telefoniche]]. Il tutto richiese una spesa di circa 23 miliardi di lire.<ref name=A22>{{cita testo|url=http://www.autobrennero.it/it/Societ%C3%A0/Storia/50-anni-di-storia/|titolo=50 anni di storia | Autostrada del Brennero - A22}}</ref>
+
+Nel 1963 venne approvato il disegno definitivo del percorso, e grazie anche a finanziamenti internazionali iniziò la realizzazione vera e propria con l'inaugurazione il 21 dicembre [[1968]] del primo tratto aperto al pubblico; 50 chilometri tra [[Bolzano]] e [[Trento]].<ref name=A22/> Il primo traffico autostradale tra l'Italia e l'Austria si ebbe il 5 aprile [[1971]].<ref name=A22/>
+
+Dopo l'apertura di altri tratti, l'autostrada poté essere considerata conclusa definitivamente l'11 aprile [[1974]] con l'inaugurazione del tratto che risultò il più impegnativo dal punto di vista delle opere di [[ingegneria]]; quello tra [[Chiusa (Italia)|Chiusa]] e Bolzano. Complessivamente all'epoca furono aperte 21 stazioni di ingresso e uscita e 12 [[area di servizio|stazioni di servizio]].
+
+A quei tempi il costo complessivo dell'opera fu di 243&nbsp;721&nbsp;821&nbsp;000 [[lira italiana|lire]], ovvero un costo di 780 milioni al chilometro. Solamente nel [[1984]] l'autostrada A22 riuscì ad avere il suo primo utile di esercizio.<ref name=A22/>
+
+Negli anni l'autostrada ha subito poche modifiche del tracciato; perlopiù si sono aperti e/o chiusi alcuni caselli autostradali, ad esempio:
+* "Bressanone sud - Zona industriale": aperto solo per chi va o proviene da nord. È prevista l'apertura anche nell'altra direzione;<ref>{{Cita web|url=http://altoadige.gelocal.it/cronaca/2010/12/31/news/la-provincia-si-al-casello-sud-dell-a22-a-bressanone-3078956|titolo=La Provincia: sì al casello sud dell'A22 a Bressanone|autore=Gianfranco Piccoli|sito=Alto Adige|data=31 dicembre 2010|accesso=22 dicembre 2020|urlarchivio=https://web.archive.org/web/20150411042951/http://altoadige.gelocal.it/bolzano/cronaca/2010/12/31/news/la-provincia-si-al-casello-sud-dell-a22-a-bressanone-1.4185676|urlmorto=sì}}</ref>
+* "Trento sud": aperto il 3 maggio 2011 per un costo di 17,5 milioni di euro compreso il nuovo ponte sull'Adige;<ref>{{Cita web|url=http://www.ansa.it/web/notizie/regioni/trentino/2011/05/03/visualizza_new.html_874675826.html|titolo=}}</ref>
+* "Trento centro": chiusura delle sole uscite dal 23 maggio 2011.<ref name=Adige/><ref>{{cita web |url=http://www.reteazzurra.tv/articolo.php?id=104791 |titolo=AUTOSTRADE: A22; CASELLO TRENTO CENTRO CHIUSO DAL 23 MAGGIO |accesso=20 maggio 2011 |urlmorto=sì }}</ref>
+
+L'autostrada conta 313,1&nbsp;km di rete stradale, con 23 stazioni di ingresso, 22 di uscita, 6 centri sicurezza, 6 centri servizi e 22 aree di servizio.<ref>{{cita testo|url=http://www.autobrennero.it/it/Infrastruttura/Tracciato-A22/|titolo=Tracciato A22 | Autostrada del Brennero - A22}}</ref>
+
+== Caratteristiche ==
+Con un percorso totale di 313,1&nbsp;[[chilometro|km]] da [[Modena]], l'autostrada percorre la pianura in direzione [[nord]], toccando [[Carpi]] e [[Mantova]], a [[Verona]] interseca l'[[Autostrada A4 (Italia)|autostrada A4]], quindi si assesta nella [[valle dell'Adige]] parallelamente al [[Lago di Garda]], passa [[Rovereto]] e [[Trento]] per arrivare a [[Bolzano]]. Successivamente si incunea nella [[valle dell'Isarco]] superando agevolmente [[Bressanone]] e [[Vipiteno]] fino a giungere alla [[dogana]] del [[Brennero]]. Da qui il corridoio [[Modena]]-[[Monaco di Baviera|Monaco]] continua sulla [[Autostrada A13 (Austria)|A13 Brenner Autobahn austriaca]].
+
+Trattandosi di un'[[autostrada]] di particolare importanza per i collegamenti tra il sud e il nord dell'[[Europa]], il suo percorso è stato progettato in modo da utilizzare uno dei più bassi valichi [[alpi]]ni, quello del Brennero, situato a soli 1.375 {{mslm}}
+=== Traffico ===
+Studi [[statistica|statistici]] hanno calcolato che questo tronco autostradale assorbe tra i trentamila e i quarantamila veicoli al giorno (di cui circa 1/3 di [[autocarro|veicoli pesanti]]) con punte più elevate in corrispondenza dei trasferimenti per le vacanze; questa mole di traffico causa sovente dei gravi rallentamenti alla circolazione. Per sopperire a queste problematiche viene suggerito e incentivato l'uso, da parte dei mezzi pesanti, del [[trasporto intermodale]], con il carico dei mezzi di trasporto su appositi [[carro ferroviario merci|vagoni]] e il trasferimento da Verona all'estero via [[ferrovia]].
+
+I [[guardrail]] della A22, caratteristici per il loro colore marrone, sono realizzati in [[acciaio Corten]], una lega che presenta un'elevata resistenza alla [[corrosione]] e un'elevata [[resistenza meccanica]].
+
+Dopo il completamento di questo nuovo collegamento stradale, il volume delle merci trasportate su strada raggiunse più di 30 milioni di tonnellate annue nel periodo compreso tra il 2006 e 2015.<ref>{{Cita pubblicazione |titolo=Mobilität und Verkehr in Südtirol - Mobilità e traffico in provincia di Bolzano |capitolo=Güterverkehr auf Straße und Schiene - Trasporto merci su strada e ferrovia |editore=Provincia Autonoma di Bolzano |numero=217 |pagina=102 |anno=2015}}</ref>
+
+Al 2018 oltre il 40% dell’intero traffico delle merci transalpino transita attraverso il passo del Brennero: qui il 71% del trasporto delle merci avviene su strada, mentre il 29% si effettua su rotaia. <ref>{{Cita news |url=https://www.ilsole24ore.com/art/impresa-e-territori/2018-02-05/brennero-patto-europeo-promuovere-ferrovia-154715.shtml?refresh_ce=1 |autore=Marco Morino |titolo=Bennero, patto europeo per promuovere la ferrovia |rivista=Il Sole 24 Ore |data=6 febbraio 2018}}</ref>
+
+I notiziari sul traffico sono diffusi su tutto il percorso principalmente da [[RTL 102.5]] (con frequenza fissa 102.5 su tutto il percorso) sulla piattaforma condivisa con [[Autostrade per l'Italia]] (''Viaradio''). Nella regione Trentino-Alto Adige sono diffusi anche da Radio NBC (in italiano) e [[Südtirol 1|radio Südtirol 1]] (in tedesco), nonché nel restante tratto autostradale da [[radio Pico]].
+
+=== Percorso ===
+L'autostrada è lunga complessivamente 313,1&nbsp;km: il tracciato inizia a [[Modena]], all'allacciamento con l'[[Autostrada A1 (Italia)|autostrada A1]], e attraversa verticalmente l'[[Italia settentrionale]] e termina al [[passo del Brennero]], al [[confine tra l'Austria e l'Italia|confine]] con l'[[Austria]]. Una volta superato il valico, l'autostrada prosegue senza soluzione come [[Autostrada A13 (Austria)|autostrada A13 austriaca]] ([[Innsbruck]]-[[Brennero]]). 
+
+L'autostrada attraversa quattro [[Regioni d'Italia|regioni italiane]] ([[Trentino-Alto Adige]], [[Veneto]], [[Lombardia]] ed [[Emilia-Romagna]]). La sua gestione è affidata sin dalla costruzione a una società concessionaria, [[Autostrada del Brennero (azienda)|Autostrada del Brennero S.p.A.]].
+
+=== Strade europee ===
+La A22, all'interno della rete delle [[strade europee]], fa parte per l'intero suo tratto della dorsale nord-sud [[Strada Europea E45|E45]] che unisce [[Karesuando]] a [[Gela]], e le intersezione con altre strade europe vi sono con la [[Strada Europea E70|E70]], in quel punto rappresentata dall'[[autostrada A4 (Italia)|autostrada A4]], a [[Verona]] e la [[Strada Europea E35|E35]], in quel punto rappresentata dall'[[autostrada A1 (Italia)|autostrada A1]], a [[Modena]].
+
+=== Segnaletica ===
+La segnaletica è bilingue (italiana e [[Lingua tedesca|tedesca]]) in particolare nel tratto in cui la A22 attraversa la [[Provincia di Bolzano|Provincia autonoma di Bolzano]], dove la comunità germanofona è predominante rispetto a quella italofona ed è tutelata anche a livello linguistico.
+
+=== Obblighi ===
+Sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile su tutta la tratta.<ref>{{Cita web|autore=A22|url=https://www.autobrennero.it/it/in-viaggio/info-viaggio/obbligo-pneumatici-invernali/|titolo=Obbligo pneumatici invernali|sito=www.autobrennero.it|accesso=2026-05-07}}</ref>
+
+== Tabella percorso ==
+[[File:A22-Bolzano.JPG|thumb|Il tracciato attraverso la zona industriale di [[Bolzano]]]]
+[[File:Mautstelle Sterzing Crop.jpg|thumb|La barriera di Vipiteno]]
+[[File:Autostrada22.jpg|thumb|L'autostrada nei pressi di Ora-Termeno, in direzione Modena]]
+[[File:Autostrada22 ponti.jpg|thumb|Viadotto in [[Valle Isarco]]]]
+[[File:BrenneroViadotto1.JPG|thumb|Un alto viadotto a sud di [[Brennero|Brennero Terme]]]]
+[[File:ViadottoBrennero2.JPG|thumb|Il viadotto che passa sopra il paese di [[Colle Isarco]]]]
+
+{| class=wikitable
+| style="color:white; background:#08842c; text-align:center" colspan=6 | '''{{simbolo|Autostrada A22 Italia.svg|30}} MODENA – BRENNERO'''<br/>Autostrada del Brennero
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Prov.!!Strada europea
+|-
+|{{simbolo|AB-Kreuz-grün.svg|17}}||{{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano - Bologna]]|| align="right" |0 ||align="right"|313 || rowspan="4" align="center" |[[provincia di Modena|MO]]|| rowspan="45" align="center" |[[File:Italian traffic signs - strada europea 45.svg|50px]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Campogalliano]]|| align="right"|3 || align="right"|311 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Campogalliano" || align="right"|5 || align="right"|309
+|-
+| [[File:AB-AS-grün.svg]] ||[[Carpi]]|| align="right"| 11|| align="right"|303
+|-
+| [[File:AB-AS-grün.svg]]|| [[Reggiolo]] - [[Rolo]]|| align="right" |28 || align="right"|286 || align="center"|[[Provincia di Reggio nell'Emilia|RE]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pegognaga]]<br /><small>{{simbolo|Strada Statale 62 Italia.svg|35}} [[Suzzara]] - [[Parma]]</small> || align="right"| 37|| align="right"|277 ||rowspan=4 align="center"|[[Provincia di Mantova|MN]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Po"|| align="right"|47 || align="right"|267
+|-
+| [[File:AB-AS-grün.svg]]|| [[Mantova]] sud|| align="right"| 49|| align="right"|265
+|-
+| [[File:AB-AS-grün.svg]]|| [[Mantova]] nord|| align="right"| 57|| align="right"|257
+|-
+| [[File:AB-AS-grün.svg]]|| [[Nogarole Rocca]]|| align="right"| 71|| align="right"|243 ||rowspan=7 align="center"|[[provincia di Verona|VR]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Povegliano" || align="right"|74 || align="right"|240
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A4 Italia.svg|22}} [[Autostrada A4 (Italia)|Milano - Venezia]] <br />[[File:AB-AS-grün.svg]] [[Verona]] sud|| align="right" |86
+| align="right"|228
+|-
+| [[File:AB-AS-grün.svg]]|| [[Verona]] nord<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto Valerio Catullo|Verona-Villafranca]]</small>|| align="right"| 88|| align="right"|226
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Garda" || align="right"|104 || align="right" |210
+|-
+| [[File:AB-AS-grün.svg]]|| [[Affi]] - [[Lago di Garda]] sud
+<small>''{{simbolo|Italian traffic signs - icona mare fiume lago.svg}}'' [[Lago di Garda]]</small>
+
+<small>{{simbolo|Strada Statale 450 Italia.svg|35}} ''[[Strada statale 450 di Affi|di Affi]]'' - [[Peschiera del Garda|Peschiera]] - [[Cavaion Veronese|Cavaion V.]] - [[Lazise]]</small>
+
+<small>[[Valpolicella]] - [[Monti Lessini]] - [[Monte Baldo]] - [[Caprino Veronese|Caprino V.]] - [[Rivoli Veronese|Rivoli V.]]</small>
+| align="right" | 108|| align="right" |206
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Adige" || align="right"|128 || align="right" |186
+|-
+| [[File:AB-AS-grün.svg]]|| [[Ala (Italia)|Ala]] - [[Avio]]
+<small> {{simbolo|Italian traffic signs - icona castello.svg}}</small> [[Castello di Avio|<small>Castello di Avio</small>]]
+
+<small> {{simbolo|Italian traffic signs - icona foresta.svg|}} [[Monte Baldo]] - [[Prà Alpesina]]</small>
+
+<small>''{{simbolo|Strada Provinciale 211 Italia.svg|35}}'' [[Strada provinciale 211 dei Monti Lessini|''dei Monti Lessini'']] - [[Lessinia|Altopiano dei Monti Lessini]]</small>
+| align="right" |135 || align="right"|179 ||rowspan=9 align="center"|[[provincia di Trento|TN]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rovereto]] sud - [[Lago di Garda]] nord
+<small> {{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Lago di Garda]] / {{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Riva del Garda]]</small>
+
+<small>{{simbolo|Strada Provinciale 3 Italia.svg|35}} [[Strada provinciale 3 del Monte Baldo|''del Monte Baldo'']] - [[Brentonico]] - [[Polsa (Italia)|Polsa / San Valentino]]</small>
+
+<small>{{simbolo|Strada Provinciale 88 Italia.svg|35}} ''[[Strada provinciale 88 della Val di Gresta|della Val di Gresta]]'' - [[Val di Gresta]]</small>
+
+<small>{{simbolo|Strada Statale 240 Italia.svg|35}} ''[[Strada statale 240 di Loppio e Val di Ledro|di Loppio e Val di Ledro]]'' - [[Comunità delle Giudicarie|Giudicarie]]</small>
+| align="right" | 147|| align="right"|167
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Nogaredo" || align="right"|154 || align="right"|160
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rovereto]] nord
+<small>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Lago di Cei]]</small>
+
+<small>{{simbolo|Strada Provinciale 20 Italia.svg|35}} [[Strada provinciale 20 del Lago di Cei|''del Lago di Cei'']] - [[Passo Bordala]]</small>
+
+<small>{{simbolo|Strada Statale 46 Italia.svg|35}}</small> [[Strada statale 46 del Pasubio|<small>''del Pasubio''</small>]] <small>- [[Vallarsa]]</small>
+| align="right" | 156|| align="right"|158
+|-
+|[[File:AB-AS-grün.svg]] || [[Trento]] sud
+<small>''{{simbolo|Strada Statale 237 Italia.svg|35}} [[Strada statale 237 del Caffaro|del Caffaro]]'' - [[Valle del Chiese]] - [[Storo]]</small>
+
+<small>''{{simbolo|Strada Statale 239 Italia.svg|35}} [[Strada statale 239 di Campiglio|di Campiglio]]'' - [[Val Rendena]]</small>
+
+<small>''{{simbolo|Strada Statale 349 Italia.svg|35}} [[Strada statale 349 di Val d'Assa e Pedemontana Costo|di Val d'Assa e Pedemontana Costo]]'' - [[Altopiano della Vigolana]]</small>
+
+<small>''{{simbolo|Strada Statale 350 Italia.svg|35}}''</small> ''<small>[[Strada statale 350 di Folgaria e Val d'Astico|di Folgaria e Val d'Astico]]</small>'' <small>- [[Folgaria]] - [[Arsiero]] - [[Piovene Rocchette]]</small>
+
+<small>''{{simbolo|Strada Provinciale 85 Italia.svg|35}} [[Strada provinciale 85 del Monte Bondone|del Monte Bondone]]'' - [[Monte Bondone]] - [[Valle dei Laghi]]</small>
+| align="right" | 174 ||align="right"|140
+|-
+| [[File:AB-AS-grün.svg]]||[[Trento]] centro<ref name=Adige>Fonte: {{cita testo|url=http://www.ladige.it/news/2008_lay_notizia_01.php?id_cat=4&id_news=108562|titolo=www.ladige.it ''Chiude questa sera alle 20 il casello di Trento centro''|urlarchivio=https://web.archive.org/web/20160322020554/http://www.ladige.it/news/2008_lay_notizia_01.php?id_cat=4&id_news=108562 }},  URL consultato il 23 maggio 2011</ref><ref>Solo in entrata.</ref>
+<small>{{simbolo|Strada Statale 45bis Italia.svg|35}} ''[[Strada statale 45 bis Gardesana Occidentale|SS45 bis Gardesana Occidentale]]''</small>
+| align="right" | 178 || align="right"| 136
+|-
+| [[File:AB-AS-grün.svg]]|| [[Trento]] nord
+<small>{{simbolo|Italian traffic signs - icona industria.svg}} [[Interporto di Trento]]</small>
+
+<small>{{simbolo|Strada Statale 47 Italia.svg|35}} ''[[Strada statale 47 della Valsugana|della Valsugana]]''</small>
+
+<small>''{{simbolo|Strada Statale 48 Italia.svg|35}} [[Strada statale 48 delle Dolomiti|delle Dolomiti]]'' - [[Val di Fiemme]] e [[Val di Fassa]]</small>
+
+<small>{{simbolo|Strada Statale 43 Italia.svg|35}} ''[[Strada statale 43 della Val di Non|della Val di Non]]'' - [[Val di Non]] e [[Val di Sole]]</small>
+
+<small>''{{simbolo|Strada Statale 612 Italia.svg|35}} [[Strada statale 612 della Val di Cembra|della Val di Cembra]]''</small>
+| align="right" | 182|| align="right"|132
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "Paganella" || align="right"|185 || align="right"|129
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Michele all'Adige]] - [[Mezzocorona]]
+<small>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Lago di Molveno]]</small>
+
+<small>{{simbolo|Strada Statale 43 Italia.svg|35}} ''[[Strada statale 43 della Val di Non|della Val di Non]]'' - [[Mezzolombardo]]</small>
+
+<small>''{{simbolo|Strada Statale 239 Italia.svg|35}} [[Strada statale 239 di Campiglio|di Campiglio]]'' - [[Madonna di Campiglio]]</small> 
+
+<small>''{{simbolo|Strada Statale 421 Italia.svg|35}} [[Strada statale 421 dei Laghi di Molveno e Tenno|dei Laghi di Molveno e Tenno]]'' - [[Altopiano della Paganella]]</small>
+| align="right" | 193|| align="right"|121
+|-
+| [[File:AB-AS-grün.svg]] ||[[Egna]] - [[Ora (Italia)|Ora]] - [[Termeno sulla Strada del Vino|Termeno]] / [[Egna|Neumarkt]] - [[Ora (Italia)|Auer]] - [[Termeno sulla Strada del Vino|Tramin]]
+<small>''{{simbolo|Strada Statale 50 Italia.svg|35}} [[Strada statale 50 del Grappa e del Passo Rolle|del Grappa e del Passo Rolle]]'' - [[San Martino di Castrozza]]</small>
+
+<small>''[[Strada del vino dell'Alto Adige]] / [[Strada del vino dell'Alto Adige|Südtiroler Weinstraße]]''</small>
+| align="right" | 212|| align="right"|102 || rowspan="19" align="center" |[[provincia autonoma di Bolzano|BZ]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "[[Castel Varco|Castel Varco / Laimburg]]"|| align="right"|218 || align="right"|99
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bolzano]] sud / [[Bolzano|Bozen]] Süd
+<small>{{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Fiera di Bolzano|Fiera di Bolzano / Messe Bozen]]</small>
+
+<small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Bolzano|Bolzano-Dolomiti / Flughafen Bozen]]</small>
+
+<small>{{simbolo|Strada Statale 38 Italia.svg|35}} ''[[Strada Statale 38 dello Stelvio|dello Stelvio / Stilfser]]-[[Merano|Merano/Meran]]''</small>
+
+<small>''{{simbolo|Strada Statale 42 Italia.svg|35}} [[Strada statale 42 del Tonale e della Mendola|del Tonale e della Mendola]]'' - [[Passo della Mendola]] / [[Passo della Mendola|Mendelpass]]</small>
+| align="right" | 229|| align="right"|85
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bolzano]] nord - [[Val d'Ega]] / [[Bolzano|Bozen]] Nord - [[Val d'Ega|Eggental]]
+<small>''{{simbolo|Strada Provinciale 24 Italia.svg|35}} [[Altopiano dello Sciliar|Altopiano dello Sciliar / Schlerngebiet]]'' - [[Alpe di Siusi|Alpe di Siusi / Seiser Alm]]</small>
+
+<small>''{{simbolo|Strada Provinciale 73 Italia.svg|35}} di [[Renon|Renon / Ritten]]''</small>
+| align="right" | 237|| align="right"|77
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "[[Massiccio dello Sciliar|Sciliar / Schlern]]"<ref>solo direzione sud</ref>|| align="right" |— || align="right"|69
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "[[Isarco|Isarco / Eisack]]"<ref>solo direzione nord</ref>|| align="right"|250 || align="right"|—
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chiusa (Italia)|Chiusa]] - [[Val Gardena]] / [[Chiusa (Italia)|Klausen]] - [[Val Gardena|Gröden]]
+''<small>{{simbolo|Strada Statale 242 Italia.svg|35}} [[Strada statale 242 di Val Gardena e Passo Sella|di Val Gardena e Passo Sella]]</small>'' <small>- [[Laion|Laion / Lajen]]</small>
+
+<small>''{{simbolo|Strada Provinciale 29 Italia.svg|35}} di [[Plose]]''</small>
+| align="right" | 261|| align="right"|53
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bressanone]] zona industriale / [[Bressanone|Brixen]] Industriezone<ref>Bressanone zona industriale ({{de}} ''Brixen Industriezone'') è in uscita in direzione [[Modena]] (sud) e in entrata nella direzione opposta (nord), [[Brennero]], per evitare ai mezzi pesanti diretti o provenienti dall'[[Austria]] e dalla [[Germania]] l'attraversamento su viabilità ordinaria dell'abitato di [[Bressanone]].</ref>
+<small>''{{simbolo|Italian traffic signs - icona industria.svg}} Zona industriale di Bressanone / Industriezone Brixen''</small>
+| align="right" | 266|| align="right" |48
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "[[Plose]]" || align="right"|272 || align="right" |42
+|-
+| [[File:AB-AS-grün.svg]]||[[Bressanone]] - [[Val Pusteria]] / [[Bressanone|Brixen]] - [[Val Pusteria|Pustertal]]
+<small>{{simbolo|E66-IT.svg|30}} {{simbolo|Strada Statale 49 Italia.svg|35}} ''[[Strada statale 49 della Pusteria|della Pusteria / Pustertaler]]''</small>
+
+<small>{{simbolo|Strada Statale 244 Italia.svg|35}} ''[[Strada statale 244 di Val Badia|di Val Badia]]''</small>
+
+<small>{{simbolo|Strada Statale 621 Italia.svg|35}} ''[[Strada statale 621 della Valle Aurina|della Valle Aurina]]''</small>
+
+<small>{{simbolo|Strada Statale 51 Italia.svg|35}} ''[[Strada statale 51 di Alemagna|di Alemagna]]'' - [[Cortina d'Ampezzo]]</small>
+| align="right" | 276|| align="right" |38
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]||Area di servizio "[[Chiesa di Santa Maria Assunta (Campo di Trens)|Trens]]" || align="right" |294 || align="right"|20
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vipiteno|Vipiteno / Sterzing]]
+<small>{{simbolo|Strada Statale 12 Italia.svg|35}} ''[[Strada statale 12 dell'Abetone e del Brennero|dell'Abetone e del Brennero / Brenner]]''</small>
+
+<small>[[File:Strada_Statale_44_Italia.svg|35x35px]] ''[[Strada statale 44 del Passo di Giovo|del Passo di Giovo / Jaufenpass]]''</small>
+
+<small>''[[File:Strada_Statale_508_Italia.svg|link=Strada statale 508 di Val Sarentino e del Passo di Vizze|36x36px]] [[Strada statale 508 di Val Sarentino e del Passo di Vizze|di Val Sarentino e del Passo di Vizze / Sarntaler und Pfitscher Joch]]''</small>
+| align="right" |298 || align="right"|16
+|-
+| {{simbolo|italian traffic signs - stazione.svg|18}}|| Barriera "[[Passo del Brennero|Brennero / Brenner]]"|| align="right" |298 || align="right"|16
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Autoporto {{cita testo|url=https://www.autobrennero.it/it/servizi/aree-di-servizio/area-di-servizio/autoporto-sadobre_24_a/?t=mp|titolo="Sadobre"}}
+|299
+|15
+|-
+| [[File:AB-AS-grün.svg]]|| [[Colle Isarco|Colle Isarco / Gossensaß]]<ref>Solo uscita direzione Brennero</ref>
+{{simbolo|Strada Statale 12 Italia.svg|35}} ''[[Strada statale 12 dell'Abetone e del Brennero|<small>dell'Abetone e del Brennero / Brenner</small>]]''
+| align="right" |307 || align="right" | —
+|-
+| [[File:AB-AS-grün.svg]]|| {{simbolo|Italian traffic signs - icona terme.svg}} [[Brennero|Terme di Brennero / Brenner Thermalquellen]]<ref>solo entrata direzione Modena</ref>
+|align="right" |— || align="right"| 6
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Brennero]] sud / [[Brennero|Brenner]] Süd
+{{simbolo|Strada Statale 12 Italia.svg|35}} ''[[Strada statale 12 dell'Abetone e del Brennero|<small>dell'Abetone e del Brennero</small>]]'' - <small>[[Val di Fleres]]</small>
+|309
+|5
+|-
+|<small>[[File:AB-Autobahnkiosk.svg|16x16px]]</small>||Area di servizio
+{{Simbolo|Italian_traffic_signs_-_icona_museo.svg}} <small>''{{cita testo|url=https://www.autobrennero.it/it/servizi/aree-di-servizio/area-di-servizio/plessi-museum_33_a/?t=mp|titolo=Museo Plessi / Plessimuseum}}''</small> 
+| align="right" |312|| align="right" |1
+|-
+|{{simbolo|Italian traffic signs - preavviso di confine di Stato tra paesi della Comunità Europea (Austria).svg|22}}||[[Austria|Austria / Österreich]]<br/><small>{{simbolo|A13-AT.svg|20}} [[Innsbruck]]</small>|| align="right" |313|| align="right" |0
+|}
+
+== Lavori e progetti ==
+{{Da aggiornare|argomento=trasporti}}
+=== Corsia dinamica ===
+È in corso nel tratto tra [[Trento]] sud e [[Rovereto]] nord la sperimentazione della [[Corsia dinamica|terza corsia dinamica]] che prevede, in particolari situazioni di congestione del traffico, l'utilizzo della corsia d'emergenza come corsia di marcia. La segnalazione agli utenti avviene mediante pannelli a messaggio variabile posizionati lungo il percorso, indicanti frecce verdi (corsia percorribile), frecce gialle oblique (chiusura della corsia) e X rosse (corsia chiusa).<ref>{{Cita web |url=http://www.sicurezza.sina.co.it/index.php/it/sicurezza-stradale-archivio-visualizzazione-dettaglio/885-nuove-tecnologie-e-pmv-per-la-corsia-dinamica-della22?layout=default |titolo=Tecnologie PMV (pannelli a messaggio variabile) |accesso=15 maggio 2014 |urlarchivio=https://web.archive.org/web/20140517153153/http://www.sicurezza.sina.co.it/index.php/it/sicurezza-stradale-archivio-visualizzazione-dettaglio/885-nuove-tecnologie-e-pmv-per-la-corsia-dinamica-della22?layout=default |urlmorto=sì }}</ref> Il progetto prevede l'istituzione della corsia dinamica nel tratto compreso tra i caselli di [[Bolzano|Bolzano sud]] e [[Verona|Verona nord]],<ref>{{Cita web |url=http://altoadige.gelocal.it/cronaca/2010/09/22/news/a22-piu-larga-via-ai-lavori-per-la-terza-corsia-dinamica-in-alto-adige-1.4147488# |titolo=Via ai lavori (2010) |accesso=18 maggio 2014 |urlarchivio=https://web.archive.org/web/20140518115456/http://altoadige.gelocal.it/cronaca/2010/09/22/news/a22-piu-larga-via-ai-lavori-per-la-terza-corsia-dinamica-in-alto-adige-1.4147488# |urlmorto=sì }}</ref><ref>{{cita testo|url=http://perlalternativa.altervista.org/a22-vince-l%E2%80%99ala-economica-l%E2%80%99svp-verso-il-si-alla-terza-corsia-dinamica/|titolo=Corsia dinamica fino a Bolzano|urlarchivio=https://web.archive.org/web/20140518134226/http://perlalternativa.altervista.org/a22-vince-l%E2%80%99ala-economica-l%E2%80%99svp-verso-il-si-alla-terza-corsia-dinamica/ }}</ref> dove si congiungerà con la terza corsia ''permanente'' fino all'intersezione con l'[[Autostrada A1 (Italia)|A1]] a [[Modena]].<ref>{{Cita web |url=http://trentinocorrierealpi.gelocal.it/economia/2013/12/10/news/a22-ora-la-corsia-dinamica-fara-capolino-fino-ad-affi-1.8278874# |titolo=Sperimentazione corsia dinamica (10 dicembre 2013) |accesso=15 maggio 2014 |urlarchivio=https://web.archive.org/web/20140517120654/http://trentinocorrierealpi.gelocal.it/economia/2013/12/10/news/a22-ora-la-corsia-dinamica-fara-capolino-fino-ad-affi-1.8278874# |urlmorto=sì }}</ref>
+
+=== Terza corsia ===
+Entro il [[2016]] cominciarono i lavori per la realizzazione della terza corsia dell'autostrada nel tratto compreso tra il casello di Verona nord e l'innesto con la [[Autostrada A1 (Italia)|A1]] a Modena nord. In quest'ultimo tratto lo svincolo sarà allargato, adeguato al traffico in costante aumento e predisposto già per la futura diramazione verso [[Sassuolo]]. Per l'ampliamento non ci saranno espropri, ma verranno utilizzati gli 11 metri di spartitraffico già presenti tra le due carreggiate. L'intervento permetterà di allargare di un metro la corsia d'emergenza e prevede la costruzione di piazzole di sosta ogni 500 metri.<ref>{{cita testo|url=http://www.autobrennero.it/documenti/Press/2007/Settembre/CS_21_settembre_terza_corsia.pdf|titolo=Terza corsia A22}}</ref><ref>{{cita testo|url=http://www.autobrennero.it/documenti/4_Area_tecnica/Pubblicazioni/2010/Terza_Corsia_nov2010.pdf|titolo=Misure per minimizzare l'impatto ambientale}}</ref>
+
+=== Bretella Campogalliano-Sassuolo ===
+Il progetto di diramazione verso sud dell'autostrada A22, dall'innesto di [[Campogalliano]] fino a [[Sassuolo]], per un totale di 14&nbsp;km e 6 caselli, è stato approvato dal Consiglio di Amministrazione di [[Anas (azienda)|Anas]] nel [[2005]].<ref>{{cita testo|url=http://www.stradeanas.it/index.php?/content/index/arg/RA_Campogalliano_Sassuolo|titolo=Anas S.p.A. - Raccordo Autostradale Campogalliano Sassuolo}}</ref> I lavori, appaltati all'associazione temporanea d'imprese Autocs (Autostrada del Brennero spa, Coopsette, [[Impresa Pizzarotti & C.]], Cordioli, Edilizia Wipptal, Oberosler e Consorzio stabile Coseam Italia), sono previsti da maggio 2018 per una durata di quattro anni, con un costo preventivato in 516 milioni di euro.
+
+Il progetto esecutivo prevede la realizzazione di complessivi 25,5&nbsp;km di strade, cui 14&nbsp;km della diramazione autostradale Campogalliano-Sassuolo, 6,5 della nuova tangenziale sud di Rubiera (con ulteriori 1,4&nbsp;km di raccordo) e 3,6&nbsp;km per il raccordo con la [[tangenziale di Modena]]. Sono previsti due viadotti per superare il fiume Secchia (814 metri) e la [[via Emilia]] e il fascio ferroviario [[Ferrovia Milano-Bologna (alta velocità)|Milano-Bologna]] (621 metri) e due gallerie sotterranee per preservare l'oasi naturale del Colombarone di Formigine, oltre a 15 sottopassi e 12 cavalcavia per la viabilità secondaria.<ref>{{cita news|autore=Giovanni Balugani|titolo=Nasce la Campogalliano-Sassuolo: prima pietra a maggio del 2018|pubblicazione=Gazzetta di Modena|data=2 giugno 2017|url=http://gazzettadimodena.gelocal.it/modena/cronaca/2017/06/02/news/nasce-la-campogalliano-sassuolo-prima-pietra-a-maggio-del-2018-1.15430209|urlarchivio=https://archive.is/20171212094242/http://gazzettadimodena.gelocal.it/modena/cronaca/2017/06/02/news/nasce-la-campogalliano-sassuolo-prima-pietra-a-maggio-del-2018-1.15430209|urlmorto=no}}</ref>
+
+=== Ti.Bre. (raccordo con l'A15) ===
+{{vedi anche|Corridoio plurimodale Tirreno-Brennero}}
+Il [[Corridoio plurimodale Tirreno-Brennero|progetto Ti.Bre]] (acronimo di Tirreno-Brennero) prevede il prolungamento dell'[[autostrada A15 (Italia)|autostrada A15]] La Spezia-Parma verso nord, da [[Fontevivo]] (Parma ovest) fino al casello di [[Nogarole Rocca]] sulla A22, per un totale di 85&nbsp;km.<ref>{{cita web|titolo=Corridoio plurimodale Tirreno Brennero (Ti.Bre.)|url=http://www.tirrenobrennero.it/corridoio_plurimodale.asp|accesso=12 dicembre 2017|urlarchivio=https://archive.is/20171212095347/http://www.tirrenobrennero.it/corridoio_plurimodale.asp}}</ref>
+
+Nel marzo [[2017]] risultavano in fase di costruzione 12 chilometri sugli 85 previsti con un costo complessivo di 2,7 miliardi di euro, l'allacciamento termina a San Quirico di [[Trecasali]] (Parma).<ref>{{cita news|autore=Francesco Nani|titolo=Ti-Bre, la breve corsa dell'autostrada che finisce in campagna|pubblicazione=La Repubblica|data=29 marzo 2017|url=https://parma.repubblica.it/cronaca/2017/03/29/news/tibre-161638594/?ref=fbpr}}</ref>
+
+=== Bypass urbano di Trento e Rovereto ===
+È allo studio della [[provincia autonoma di Trento]] l'utilizzo dell'autostrada gratuita nei tratti tra i caselli di Trento nord e sud e di Rovereto nord e sud, in modo da risolvere i problemi di traffico nelle città. In particolare [[Rovereto]], non avendo una tangenziale propria, è molto spesso oggetto di lunghe code e attese, che causano anche frequentemente piccoli incidenti e tamponamenti. L'idea, oltre che a prevedere la gratuità solo e soltanto nei tratti compresi tra i due caselli, applicando il costo zero solamente se entrati e usciti alle stazioni in questione, è preferibile soprattutto per gli alti costi di costruzione di un'eventuale tangenziale, intorno ai 200 milioni di euro, contro circa il milione di euro annuale di accordo tra provincia e A22, e per il molto più basso impatto ambientale e paesaggistico rispetto a una nuova strada.<ref>{{Cita web |url=http://trentinocorrierealpi.gelocal.it/trento/cronaca/2014/10/16/news/la-a22-diventa-la-tangenziale-di-trento-e-rovereto-1.10128816# |titolo=La A22 diventa la tangenziale di Trento e Rovereto |accesso=19 ottobre 2014 |urlarchivio=https://web.archive.org/web/20150326080450/http://trentinocorrierealpi.gelocal.it/trento/cronaca/2014/10/16/news/la-a22-diventa-la-tangenziale-di-trento-e-rovereto-1.10128816# |urlmorto=sì }}</ref><ref>{{cita testo|url=https://www.partitodemocraticotrentino.it/uploaded/PACHER%20A22%20gratis.pdf|titolo=Costi dei due progetti}}</ref>
+
+=== Autostrada a idrogeno ===
+L'autostrada A22 avrebbe dovuto essere la prima "[[autostrada ad idrogeno|autostrada a idrogeno]]" in Europa. Entro il [[2010]] essa doveva infatti essere dotata di una rete di impianti di rifornimento di [[idrogeno]], sul modello della ''California Hydrogen Net'' (CaH2Net), realizzata per volere del [[governatore della California]] [[Arnold Schwarzenegger]]. L'idrogeno, non presente in natura allo stato libero, deve essere prodotto a partire dal [[petrolio]] o da fonti alternative: in linea con la rigida tutela ambientale applicata nella zona di [[Bolzano]], il gas avrebbe dovuto essere prodotto da [[fonti rinnovabili]].<ref>Il presidente della provincia di Bolzano Luis Durnwalder ha dichiarato:
+"Il carburante sarà ricavato da [[fonti di energia rinnovabili]], compiendo un passo avanti significativo nel contenimento del consumo di energia dal fossile. Assieme all'Autobrennero e ad altri partner la Provincia ha già avviato una specifica società, l'[[Istituto per Tecnologie Innovative]] (Iit), cui sarà affidato il compito della produzione e della distribuzione dell'idrogeno.
+"Il centro di produzione sarà costruito in un'area dell'A22 a Bolzano sud, il primo impianto di distribuzione sul grande parcheggio adiacente" ([[La Repubblica (quotidiano)|La Repubblica]], 26 settembre [[2007]]).</ref>
+
+Dopo i prolungati tentennamenti della [[Provincia autonoma di Bolzano|provincia]] e dell'A22, guidate rispettivamente da [[Luis Durnwalder]] e Silvano Grisenti, e dopo un nulla di fatto anche nel 2012, nel 2013 hanno preso il via i lavori per la realizzazione dello stabilimento destinato alla produzione di idrogeno.
+
+Nell'estate 2014 l'impianto è stato portato a termine e fornisce carburante a un nuovo distributore, inaugurato a fine novembre, nei pressi del casello Bolzano Sud.<ref>{{Cita web|url=http://www.autobrennero.it/AreaTecnica/it/utility/news/inaugurato-il-centro-di-idrogeno_25_ide/|titolo=Inaugurato il centro di idrogeno|sito=Autostrada del Brennero SpA|accesso=22 dicembre 2020|urlarchivio=https://archive.is/20141022134326/http://www.autobrennero.it/AreaTecnica/it/utility/news/inaugurato-il-centro-di-idrogeno_25_ide/}}</ref>
+
+=== Casello autostradale di Trento sud ===
+Il 3 maggio [[2011]] è stato aperto il casello autostradale di Trento Sud che consente di deviare il traffico sulla viabilità ordinaria ([[Tangenziale di Trento|tangenziale]]), qualora vi sia la necessità (chiusura parziale o totale dell'autostrada). Con l'apertura del casello di Trento Sud, è stato chiuso (solo in uscita) il casello di Trento Centro.<ref name=Adige/><ref>{{cita web |url=http://www.brennerautobahn.it/it/Area-Tecnica/Progetti/Casello-Trento-Sud/ |titolo=brennerautobahn - Casello trento sud |accesso=16 agosto 2010}}</ref>
+
+=== Chiusura del casello autostradale di Trento centro ===
+Il 23 maggio [[2011]] è stato chiuso permanentemente in uscita il casello autostradale di Trento centro che consentiva l'accesso diretto alla [[Strada statale 45 bis Gardesana Occidentale|SS45 bis Gardesana Occidentale]] e alla città di [[Trento]].<ref name="Adige" /> 
+
+Ciò è stato fatto per ridurre di molto il carico di traffico al centro di [[Trento]]. È comunque possibile utilizzare in entrata il casello sia in direzione Brennero che in direzione Modena (per evitare traffico extra sulla [[tangenziale di Trento]]).
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada del Brennero |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLIX |numero = 2 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1969 |mese = febbraio |pp = 55-66 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1561#page/92/mode/2up }}
+* Wittfrida Mitterer, ''Paesaggio costruito in movimento. L'autostrada del Brennero, l'opera del secolo, compie 50 anni'', Weger, Bressanone, 2014, ISBN 88-65631120.
+* {{de}} Magdalena Pernold, ''Die Brennerautobahn als Infrastruktur für Verkehr und Transit. Zur Entgrenzung geografischer Verkehrsräume im Zeitraum ihrer Realisierung,'' in Andrea Bonoldi, [[Hannes Obermair]] (a cura di), ''Verkehr und Infrastruktur - Trasporti e infrastrutture'' ([[Geschichte und Region/Storia e regione]], 25/2), StudienVerlag, Vienna-Innsbruck-Bolzano, 2017, ISBN 978-3-7065-5556-2, pp. 64-81.
+* Andrea Gritti, Giovanni Hänninen: [https://www.store.rubbettinoeditore.it/catalogo/autostrada-del-brennero-architetture-e-paesaggi/ ''Autostrada del Brennero. Architetture e paesaggi''], Rubbettino Editore 2023, ISBN 978-88-4987838-7
+
+== Voci correlate ==
+* [[Autostrada del Brennero (azienda)|Autostrada del Brennero SpA]]
+* [[Galleria di base del Brennero]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.autobrennero.it/|titolo=Autobrennero}}
+* {{cita web|url=https://www.lotsberg.net/data/italia/A22.html|titolo=Gallerie e viadotti della A22}}
+* {{cita web |url=http://www.stradeeautostrade.it/online/ilcaso/osservatorio-a22/ |titolo=Il caso sul rinnovo della concessione dell'A22 |accesso=16 maggio 2011 |urlarchivio=https://web.archive.org/web/20110524235551/http://www.stradeeautostrade.it/online/ilcaso/osservatorio-a22/ |urlmorto=sì }}
+* {{cita web|url=https://distanzechilometriche.net/traffico/A22/|titolo=Traffico e incidenti sulla A22 in tempo reale}}
+
+{{Autostrade italiane}}{{Strade in Trentino-Alto Adige}}{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A22]]
+[[Categoria:Trasporti in Lombardia]]
+[[Categoria:Trasporti in Emilia-Romagna]]
+[[Categoria:Trasporti in Veneto]]
+[[Categoria:Trasporti in Trentino-Alto Adige]]
+[[Categoria:Trasporti in provincia di Trento]]
+[[Categoria:Trasporti in provincia di Bolzano]]

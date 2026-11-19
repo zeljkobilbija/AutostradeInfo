@@ -1,0 +1,265 @@
+{{Strada
+|nome = Autostrada A20
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Messina-Palermo
+|simbolo = Autostrada A20 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 ={{IT-ME}}<br/>{{IT-PA}} 
+|inizio = [[Messina]] 
+|fine = [[Autostrada A19 (Italia)|A19]] presso [[Buonfornello]]
+|lunghezza = 183<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=216&ramo=1&code=A20&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente --> |accesso=8 dicembre 2009 |dataarchivio=3 marzo 2016 |urlarchivio=https://web.archive.org/web/20160303173026/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=216&ramo=1&code=A20&link=&tipo= |urlmorto=sì }}</ref>
+|direzione =est-ovest 
+|apertura = [[1972]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy<!-- Titolo generato automaticamente --> |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref> (primo tratto aperto)
+|provvedimento istituzione = 
+|gestore = [[Consorzio per le Autostrade Siciliane]]
+|pedaggio =[[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]<ref>Il tratto ricadente nel comune di [[Messina]] è esente da pedaggio in quanto funge da tangenziale; il solo svincolo di [[Villafranca Tirrena]] è soggetto ad un pagamento fisso (sistema aperto) solo da e per Messina</ref> 
+|città servite =[[Messina]] e [[Palermo]] 
+|intersezioni =[[Autostrada A19 (Italia)|A19]] a [[Buonfornello]] e [[Autostrada A18 Messina-Catania|A18]] a [[Messina]] 
+|europea1 = 45
+|europea2 = 90
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A20.svg
+|tracciato = 
+}}
+L''''Autostrada A20''', lunga {{m|183|ul=km}}, collega [[Messina]] a [[Buonfornello]], distaccandosi dall'[[Autostrada A18 Messina-Catania|autostrada A18]] presso lo svincolo [[Messina]] [[Tremestieri]] e immettendosi senza soluzione di continuità nell'[[Autostrada A19 (Italia)|autostrada A19]] presso [[Buonfornello]]. È a pedaggio e interamente gestita dal [[Consorzio per le Autostrade Siciliane]]. 
+
+Seppur chiamata Messina-[[Palermo]], termina a tutti gli effetti nel comune di [[Termini Imerese]] in località [[Buonfornello]]. È necessario percorrere altri 43&nbsp;km dell'[[Autostrada A19 (Italia)|A19]], gratuita, per raggiungere il capoluogo siciliano.
+
+== Storia ==
+[[File:Viadotti dell'A 20 sul torrente Tusa.jpg|sinistra|miniatura|Viadotti dell'A20 sul torrente Tusa]]
+Il 24 gennaio [[1969]] la [[Technital|Technital Spa]], società di [[Verona]], si aggiudicò l'appalto per la costruzione dei primi 12 chilometri di [[autostrada]], all'interno del Comune di Messina, tratto che va dallo svincolo [[Messina]] [[Boccetta]] a quello di Villafranca Tirrena.<ref name="girodivite.it">{{Cita news|autore=|url=http://www.girodivite.it/Un-autostrada-senza-ritorno.html|titolo=Un'autostrada senza ritorno|pubblicazione=|giorno=22|mese=12|anno=2004|p=1}}</ref>
+
+Nel [[1971]] vennero appaltati i successivi 13 chilometri, da [[Brolo]] a [[Rocca di Caprileone]]. Nel [[1972]], a poco più di tre anni dal primo bando, s'inaugura la tratta Boccetta-Villafranca Tirrena. Da quel momento tutto sembra andare per il meglio. I lavori proseguono speditamente. Ma nel [[1975]] la [[legge Bucalossi]], mette un freno agli appalti e consente solo il completamento di quelli già avviati.
+
+Nel [[1977]] si completa la tratta Brolo-Rocca di Caprileone, [[1978|un anno dopo]] la Patti-Brolo di 18 chilometri. Poi i bandi di gara si fermarono per 7 anni. Le ditte portano avanti a singhiozzo i lavori assegnati prima della Bucalossi. Si teme un fermo a tempo indeterminato dei lavori.
+
+Ma nel [[1982]], su intervento di alcuni senatori, il [[parlamento]] dà nuovo slancio ai lavori. Così nel [[1984]], il Consorzio Messina-Patti, presieduto da Vincenzo Ardizzone che fino ad allora aveva gestito la realizzazione dell'autostrada, indice nuovi appalti. Nascono nuovi problemi, contrasti fra i comuni coinvolti che chiedono accavallandosi fondi al governo di Roma, clientelismo politico delle ditte appaltatrici e anche i parlamentari regionali gelosi del loro elettorato locale intralciano una spedita conclusione dei lavori.
+
+Nel [[1988]] viene aperto il tratto tra Rocca di Caprileone e [[Sant'Agata di Militello]].
+
+Nel [[1992]] viene aperto il tratto tra [[Sant'Agata di Militello]] e lo svincolo provvisorio di Furiano, appena 8 chilometri, con la barriera di Furiano, dismessa nel 2006 dopo l'apertura dell'ultimo tratto dell'autostrada rimasto, che segnava il termine dell'autostrada A20 nell'estremità est e posizionata immediatamente dopo lo svincolo di [[Sant'Agata di Militello]] in direzione di Palermo.
+{| class="wikitable" style="float:right"
+|- style="background:#efefef;"
+! Tratta
+! Inaugurazione
+|-
+|-
+|align="left"|[[Messina|Boccetta]] – [[Villafranca Tirrena]]
+|align="right"|1º giugno [[1972]]
+|-
+|align="left"|Divieto – [[Rometta]]
+|align="right"|23 febbraio [[1973]]
+|-
+|align="left"|[[Milazzo]] – [[Patti]]
+|align="right"|30 settembre [[1973]]
+|-
+|align="left"|Rometta&nbsp;– Milazzo
+|align="right"|4 dicembre [[1973]]
+|-
+|align="left"|[[Messina|Centro]] - Boccetta
+|align="right"|29 luglio [[1974]]
+|-
+|align="left"|[[Cefalù|Cefalù Ovest]] – [[Buonfornello]]
+|align="right"|16 novembre [[1974]]
+|-
+|align="left"|Tremestieri - Centro
+|align="right"|21 novembre [[1974]]
+|-
+|align="left"|[[Cefalù|Cefalù Est]] – Cefalù Ovest
+|align="right"|15 luglio [[1977]]
+|-
+|align="left"|[[Brolo]] - [[Capri Leone|Rocca di Capri Leone]]
+|align="right"|23 ottobre [[1977]]
+|-
+|align="left"|Patti - Brolo
+|align="right"|5 agosto [[1978]]
+|-
+|align="left"|Rocca di Capri Leone – [[Sant'Agata di Militello]]
+|align="right"|18 dicembre [[1988]]
+|-
+|align="left"|Sant'Agata di Militello – [[Acquedolci|Furiano]]
+|align="right"|9 agosto [[1992]]
+|-
+|align="left"|[[Castelbuono]] – Cefalù Est
+|align="right"|28 luglio [[1998]]
+|-
+|align="left"|Furiano&nbsp;– Castelbuono
+|align="right"|21 luglio [[2005]]
+|}
+Anche in Sicilia, però, si diffonde [[Tangentopoli]]. La procura palermitana apre un'indagine sugli appalti per l'autostrada.
+Nel mirino finisce la ditta di Filippo Salamone (fratello del magistrato bresciano Fabio), arrestato successivamente per concorso in associazione mafiosa.
+I lavori vengono nuovamente interrotti. Anche i vertici del Consorzio vengono investiti dal ciclone di [[Mani pulite]].<ref name="girodivite.it"/>
+
+Solo nel [[1998]] riprenderanno i lavori per il tratto [[Cefalù]]-[[Pollina]]-[[Castelbuono]].
+
+La macchina è ripartita, i dirigenti ricominciano a firmare ma i fondi scarseggiano sempre più. Le ditte appaltatrici non sono più foraggiate e si susseguono i fallimenti.
+
+Si apre la stagione dei contenziosi e delle revoche di appalti già assegnati.
+
+Nel [[1999]] la Procura di [[Messina]] invia sei avvisi di garanzia ad alcuni amministratori locali per l'appalto dello svincolo di Messina Giostra, aggiudicato tre anni prima con un ribasso del 27% sulla base d'asta.
+
+Nel [[2001]] e a soli 41&nbsp;km dalla fine, il governo Capodicasa (DS) firma con il [[Ministero dei lavori pubblici]] l'accordo di programma quadro con lo stanziamento di 300 milioni di euro. I lavori possono ripartire. Per garantire maggiore sicurezza contro le infiltrazioni mafiose il [[Consorzio per le Autostrade Siciliane|CAS]], firma nella Prefettura di Messina un protocollo di legalità con l'[[Anas (azienda)|Anas]], i sindacati, l'[[Inps]] e l'[[Inail]].<ref>{{Cita pubblicazione|nome=A C|cognome=La Boccetta|data=1960|titolo=Communicable Disease Nursing: Halting the spread of infectious disease|rivista=Nursing Research|volume=9|numero=2|p=96|accesso=2025-02-01|doi=10.1097/00006199-196000920-00178|url=https://doi.org/10.1097/00006199-196000920-00178}}</ref>
+
+Il 21 dicembre [[2004]], viene inaugurato l'ultimo tratto tra [[Castelbuono]] e lo svincolo provvisorio di Furiano, completo solo in direzione [[Messina]], in presenza dell'allora [[Presidente del Consiglio dei ministri della Repubblica Italiana|Presidente del Consiglio dei ministri]] [[Silvio Berlusconi]] e il presidente della regione [[Salvatore Cuffaro|Cuffaro]]. A causa di ultimi lavori della galleria ''Piano Paradiso'' e del correlato tratto [[Tusa]]-[[Castelbuono]], in direzione [[Palermo]], l'apertura completa al traffico in entrambe le direzioni, avviene circa sei mesi dopo. Nel frattempo per percorrere il tratto da [[Messina]] a [[Palermo]] si rese necessaria l'uscita obbligatoria allo svincolo di [[Tusa]] e il rientro a quello di [[Castelbuono]].<ref>{{Cita news|autore=|url=http://www.corriere.it/Primo_Piano/Cronache/2004/12_Dicembre/21/stella.shtml|titolo=L'autostrada più inaugurata d'Italia|pubblicazione=|giorno=21|mese=12|anno=2004|p=1}}</ref>
+
+Il 21 luglio [[2005]]<ref>{{Cita news|autore=|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2005/07/21/palermo-messina-guida-zigzag-sull-autostrada.html|titolo='Palermo Messina' guida a zigzag sull'autostrada|pubblicazione=|giorno=21|mese=07|anno=2005|p=1}}</ref> viene aperta al traffico, anche in direzione [[Palermo]], la tratta di quasi 11&nbsp;km tra [[Tusa]] e [[Castelbuono]], completando così dopo 36 anni l'Autostrada A20, non per nulla soprannominata '"eterna incompiuta".
+
+L'intera opera è costata più di 700 milioni di [[euro]], circa 4 milioni per ogni chilometro,<ref>{{Cita web|url=https://www.girodivite.it/Un-autostrada-senza-ritorno.html|titolo=Girodivite: Un'autostrada senza ritorno|sito=www.girodivite.it|accesso=2025-02-01}}</ref> a cui vanno aggiunti i soldi pubblici spesi nella numerose cause per contenziosi con le ditte appaltatrici che hanno caratterizzato tutto l'iter di costruzione.
+
+== L'autostrada oggi ==
+[[File:Autostrada A20 Torregrotta.jpg|miniatura|L'autostrada A20 nei pressi di [[Torregrotta]]]]
+Per la [[Sicilia]] si tratta di un'arteria di fondamentale importanza perché collega (considerando A19 e A20) il [[Palermo|capoluogo di Regione]] a [[Messina]], necessario soprattutto per chi deve andare in [[Calabria]] o verso altre regioni. A causa dell'orografia complessa, l'autostrada ha richiesto l'adozione di ardite soluzioni di ingegneria, e tutto il tracciato, a due corsie per senso di marcia, risulta costruito a mezza costa con un susseguirsi di gallerie e viadotti.
+
+Ha inizio nella zona sud di Messina come prosecuzione, senza soluzione di continuità, dell'[[Autostrada A18 Messina-Catania|autostrada A18]]. Il primo tratto dell'autostrada, ovvero il tratto denominato anche tangenziale di Messina, fino allo svincolo di Messina Giostra, è libero da pedaggio. Proseguendo lungo la costa tirrenica siciliana, dopo aver attraversato i [[monti Peloritani]], il tracciato si snoda dapprima in un paesaggio collinare con scorci sul mare. Poi lo scenario diventa gradualmente pianeggiante, attraversando la [[valle del Niceto]] e l'ampia piana di Milazzo. Dopo lo svincolo di [[Falcone (Italia)|Falcone]] vi sono una serie di lunghe gallerie in corrispondenza di altrettanti promontori tra i monti [[Nebrodi]]. Proseguendo verso Palermo, le gallerie sono intervallate da viadotti molto alti che attraversano le strette e profonde valli tra i versanti costieri dei Monti Nebrodi e delle Madonie. L'autostrada giunge infine alla barriera di [[Buonfornello]] confluendo nella A19.
+
+Nel 2018 l'arteria ha registrato un traffico di 21.079.609 veicoli.<ref>{{Cita news|autore=|url=http://www.autostradesiciliane.it/dati-di-traffico/|titolo=Transiti veicolari annuali in uscita dalle stazioni.|pubblicazione=Dati di Traffico|data=}}</ref>
+
+In via provvisoria, oltre al pagamento del pedaggio classico con carte e contanti, in [[Telepedaggio|modalità di esazione dinamica]] è possibile pagare la suddetta autostrada soltanto con [[Telepass]] e [[MooneyGo]]<ref>Basato a sua volta su hardware Telepass</ref>. È in fase di attivazione il sistema di [[UnipolMove]]<ref>{{Cita web|url=https://www.unipoltech.com/it/Documents/UnipolMove_Mezzi%20Leggeri_Tratte%20in%20attivazione_v6.0.pdf|titolo=Tratte autostradali dove è in fase di attivazione UnipolMove}}</ref> e il sistema di interoperabilità con il telepedaggio europeo a seguito di varie denunce presentate da [[Cittadinanzattiva]] e [[Confconsumatori]] Sicilia.<ref>{{Cita web|url=https://www.autostradesiciliane.it/servizi/telepedaggio/|titolo=Autostrade Siciliane|sito=www.autostradesiciliane.it|accesso=2023-06-28}}</ref><ref>{{Cita web|url=https://www.paeseitaliapress.it/terza-fila/magazine/2022/08/28/confconsumatori-sicilia-annuncia-diffida-al-cas-autostrade-a18-e-a20-prive-del-servizio-europeo-di-telepedaggio-set/|titolo=Confconsumatori Sicilia annuncia diffida al Cas: Autostrade A18 e A20 prive del Servizio Europeo di Telepedaggio SET|autore=Mimma Cucinotta|sito=Paese Italia Press|data=2022-08-27|lingua=it-IT|accesso=2023-06-28}}</ref><ref>{{Cita web|url=https://www.lasiciliaweb.it/2022/08/telepedaggi-obsoleti-il-cas-intervenga/|titolo=“Telepedaggi obsoleti, intervenga il Cas”|sito=lasiciliaweb|data=2022-08-28|lingua=it-IT|accesso=2023-06-28}}</ref><ref>{{Cita web|url=https://www.mobilitasostenibile.it/set-il-servizio-europeo-di-telepedaggio-non-e-ancora-arrivato-in-sicilia/|titolo=SET, il Servizio Europeo di Telepedaggio, non è ancora arrivato in Sicilia|autore=MobilitaSostenibile.it|sito=Mobilità Sostenibile|data=2022-08-28|lingua=it-IT|accesso=2023-06-28}}</ref>
+
+È inoltre l'unica autostrada in Italia ad avere un raggio molto elevato (circa 170 km) tra un'area di servizio e l'altra, in direzione Palermo, in quanto sprovvista di esse<ref>La causa dell'eccessiva distanza è dovuta alla chiusura della AdS Tindari nord, seppur quest'ultima già distante parecchio da Caracoli nord (130 km).</ref> in tutto il tratto da [[Villafranca Tirrena]] (area di servizio Divieto nord) sino alla prima area di servizio utile, ovvero Caracoli nord, situata sulla [[Autostrada A19 (Italia)|A19]] all'altezza di [[Termini Imerese]].<ref>{{Cita web|url=https://www.tempostretto.it/news/autostrada-messina-palermo-chiude-tindari-nord-e-restano-solo-due-aree-di-servizio-in-170-km.html|titolo=Autostrada Messina – Palermo. Chiude Tindari nord e restano solo due aree di servizio in 170 km|sito=Tempo Stretto - Ultime notizie da Messina e Reggio Calabria|data=2023-12-20|lingua=it-IT|accesso=2023-12-26}}</ref><ref>{{Cita web|url=https://www.letteraemme.it/autostrada-messina-palermo-chiude-anche-larea-di-servizio-tindari-nord/|titolo=Autostrada Messina-Palermo, chiude anche l'area di servizio Tindari Nord|autore=Redazione|sito=LetteraEmme|data=2023-12-19|lingua=it-IT|accesso=2023-12-26}}</ref><ref>{{Cita web|url=https://www.messinaora.it/notizia/2023/12/21/chiusura-dellarea-servizio-tindari-nord-le-precarie-condizioni-della-messina-palermo-la-denuncia-federconsumatori/167391|titolo=Chiusura dell'area di servizio Tindari Nord e le precarie condizioni della Messina-Palermo, la denuncia di Federconsumatori|autore=Redazione sport|sito=MessinaOra.it|data=2023-12-21|lingua=it-IT|accesso=2023-12-26}}</ref>
+
+Nel 2023 le 2 aree di servizio Tindari sud e Tindari nord, sono state chiuse a causa di un incendio, distruggendo non solo la vegetazione, ma anche l'area di servizio all'interno, le pompe di benzina e alcuni cartelli stradali.
+
+Nel 2024 è stato inserito nei finanziamenti del Fondo Sviluppo e Coesione della Regione Siciliana la realizzazione dello svincolo di Monforte San Giorgio<ref>{{Cita news|autore=Maria Caterina Calogero|url=https://messina.gazzettadelsud.it/articoli/cronaca/2024/05/24/monforte-san-giorgio-lo-svincolo-autostradale-inserito-nellfsc-della-regione-siciliana-finanziamento-da-oltre-40-milioni-1d8612e7-d605-4c6a-9ea3-582bca6aa89a/|titolo=Monforte San Giorgio, lo svincolo autostradale inserito nell'Fsc della Regione Siciliana: finanziamento da oltre 40 milioni|pubblicazione=Gazzetta del Sud|data=24 maggio 2024}}</ref>. Con la costruzione di quest'opera, è prevista la decongestione del traffico sulla SS113 nel tratto tra Rometta e Milazzo, anche se già in passato era stato proposto un finanziamento per tale opera, che successivamente è stato ritirato<ref>{{Cita news|url=https://www.messinatoday.it/politica/svincolo-monforte-san-giorgio-interrogazione-raffa-m5stelle.html|titolo="L'unico con progetto ma definanziato", lo svincolo di Monforte San Giorgio finisce in Parlamento|pubblicazione=MessinaToday|data=22 settembre 2023}}</ref>.
+
+Nel 2026 è stato avviato l'iter per l'inserimento dello svincolo di [[Gioiosa Marea]] - [[Piraino]] nel programma triennale delle opere pubbliche del Consorzio per le Autostrade Siciliane <ref> {{Cita news|autore=Salvatore Calà|url=https://www.nebrodi24.it/2026/07/21/svincolo-autostradale-di-gioiosa-marea-piraino-definito-il-percorso-per-progettazione-e-primo-stralcio-dellopera/|titolo=Svincolo autostradale di Gioiosa Marea – Piraino: definito il percorso per progettazione e primo stralcio dell’opera|pubblicazione=Nebrodi24.it|data= 21 luglio 2026}}</ref>.
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | {{simbolo|Autostrada A20 Italia.svg|35}}<br />''Messina - Palermo''
+|-
+!Tipo!!Indicazione<ref>{{cita web|url=http://www.autostradesiciliane.it/rete_autostradale/05.jpg|titolo=Percorso Autostrada A20 - prima parte|accesso=15 settembre 2014|editore=Consorzio per le Autostrade Siciliane|urlmorto=sì|urlarchivio=https://web.archive.org/web/20140911014621/http://www.autostradesiciliane.it/rete_autostradale/05.jpg}}</ref><ref>{{cita web|url=http://www.autostradesiciliane.it/rete_autostradale/06.jpg|titolo=Percorso Autostrada A20 - seconda parte|accesso=15 settembre 2014|editore=Consorzio per le Autostrade Siciliane|urlmorto=sì|urlarchivio=https://web.archive.org/web/20140911004408/http://www.autostradesiciliane.it/rete_autostradale/06.jpg}}</ref>!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg|17}} || {{simbolo|Italian traffic signs - strada europea 45.svg|40}} {{simbolo|Autostrada A18 Italia.svg|24}} [[Autostrada A18 Messina-Catania|Messina-Catania]] || align="right"| 0,0 || align="right"| 183,0 || rowspan="38" align="center" | [[Città metropolitana di Messina|ME]] || rowspan=6 align="center"|[[File:Italian traffic signs - strada europea 45.svg|45px|link=Strada europea E45]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio<ref name=":0">Solo direzione Messina.</ref>|| align="right" | - || align="right"| 182,9
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Messina]] sud - [[Tremestieri]] <br/> {{simbolo|Strada Statale 114 Italia.svg|35}} <small>[[Strada statale 114 Orientale Sicula|Orientale Sicula]]</small> <br/> {{simbolo|Italian traffic signs - icona traghetto.svg}} <small>[[Porto di Tremestieri]], traghetti per [[Villa San Giovanni]]</small>  || align="right" | 0,6 || align="right"| 182,4
+|-
+| {{Simbolo|Italian traffic signs - simbolo area servizio.svg|21}}|| Area di servizio "Tremestieri"<ref name=":0" />|| align="right" | - || align="right"| 181,5
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Messina]] - [[San Filippo Inferiore|San Filippo]] || align="right"| 3,8 || align="right"| 179,2
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Messina]] - [[Gazzi]] || align="right"| 5,1 || align="right"| 177,9
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| {{simbolo|Italian traffic signs - strada europea 45.svg|40}} {{simbolo|Italian traffic signs - strada europea 90.svg|40}} [[Messina|Messina centro]] <br/> {{simbolo|Italian traffic signs - icona traghetto.svg}} <small>[[Porto di Messina]], traghetti per [[Villa San Giovanni]]</small> || align="right"| 7,0 || align="right"| 176,0 || rowspan=1 align="center" |[[File:Italian traffic signs - strada europea 45.svg|45px|link=Strada europea E45]] [[File:Italian traffic signs - strada europea 90.svg|45px|link=Strada europea E90]]
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Messina]] - Boccetta <br/> {{simbolo|Italian traffic signs - icona traghetto.svg}} <small>[[Rada San Francesco]], traghetti per [[Villa San Giovanni]]</small> || align="right" | 9,0 || align="right"| 174,0 || rowspan="38" align="center" | [[File:Italian traffic signs - strada europea 90.svg|45px|link=Strada europea E90]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Trapani"<ref name=":1">Solo direzione Palermo.</ref>|| align="right" | 10,1 || align="right"| -
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Messina]] - Giostra <br/> {{simbolo|Italian traffic signs - icona traghetto.svg}} <small>[[Rada San Francesco]], traghetti per [[Villa San Giovanni]]</small> || align="right" |11,2 || align="right" |171,0
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Salici"<ref name=":0" />|| align="right" | - || align="right"| 166,8
+|-
+| {{simbolo|Italian traffic signs - stazione.svg|18}} || Barriera Messina nord || align="right"| 20,5 || align="right"| 162,5
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Villafranca Tirrena]]<br /><small>''(solo uscita direzione Palermo, entrata direzione Messina)''</small><br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 20,5 || align="right"| 162,5
+|-
+| {{Simbolo|Italian traffic signs - simbolo area servizio.svg|21}}|| Area di servizio "Divieto"<ref>In direzione Messina provvista soltanto di parcheggio e rifornimento</ref>|| align="right" | 22,0 || align="right"| 161,0
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Rometta]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 24,0 || align="right"| 159,0
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Ronetto"<ref name=":1" />|| align="right" | 26,8 || align="right"| -
+|-
+|- bgcolor="ffe4e1"
+|{{Simbolo|AB-AS-grün geschlossen.svg}}
+|[[Monforte San Giorgio]] ''<small>(in progetto)</small>''
+| align="right"| - 
+| align="right"| - 
+|-
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Milazzo]] - [[Isole Eolie]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 38,0 || align="right"| 145,0
+|-
+| {{Simbolo|Italian traffic signs - simbolo area servizio.svg|21}}|| Area di servizio "Olivarella"<ref name=":0" />|| align="right" | - || align="right"| 143,0
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Barcellona Pozzo di Gotto]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 46,6 || align="right"| 136,4
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Bazia" || align="right" | 54,3 || align="right"| 128,7
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Falcone (Italia)|Falcone]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 58,2 || align="right"| 124,8
+|-
+| {{Simbolo|Italian traffic signs - simbolo area servizio.svg|21}}|| Area di servizio "Tindari"<ref>Chiuse entrambi. Tindari sud incendiata il 25 luglio 2023 e demolita, Tindari nord dismessa da [[Kuwait Petroleum Italia|Q8]] il 15 dicembre 2023.</ref>|| align="right" | -|| align="right" | -
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Patti]] || align="right"| 66,7 || align="right"| 116,3
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Praia"<ref name=":0" />|| align="right" | - || align="right"| 114,3
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Cicero"<ref name=":1" />|| align="right" | 72,1 || align="right"| -
+|-
+|-
+|- bgcolor="ffe4e1"
+|{{Simbolo|AB-AS-grün geschlossen.svg}}
+|[[Gioiosa Marea]] - [[Piraino]] ''<small>(in progetto)</small>''
+| align="right"| - 
+| align="right"| - 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Sant'Angelo di Brolo"<ref name=":1" />|| align="right" | 81,0 || align="right"| -
+|-
+| [[File:AB-AS-grün.svg]] || [[Brolo]] - [[Capo d'Orlando]] est || align="right"| 84,1 || align="right"| 98,9
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "San Gregorio" || align="right" | 89,5 || align="right"| 93,5
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| Rocca di [[Capri Leone]] - [[Capo d'Orlando]] ovest || align="right"| 97,4 || align="right"| 85,6
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Sant'Agata di Militello]] || align="right"| 107,1 || align="right"| 75,9
+|-
+| {{Simbolo|Italian traffic signs - simbolo area servizio.svg|21}}|| Area di servizio "Acquedolci"<ref name=":0" />|| align="right" | - || align="right"| 74,0
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio<ref name=":0" />|| align="right" | - || align="right"| ?
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio<ref name=":1" />|| align="right" |? || align="right" | -
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Reitano]] - [[Santo Stefano di Camastra]] <br/> {{simbolo|Strada Statale 117 Italia.svg|35}} <small>[[Strada statale 117 Centrale Sicula|Centrale Sicula]]</small> || rowspan=2 align="right"| 134,4 || rowspan=2 align="right"| 48,5
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Tusa]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 145,0 || align="right"| 40,4
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio || align="right" |? || align="right" |? || rowspan="8" align="center" |[[Città metropolitana di Palermo|PA]]
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Castelbuono]] - [[Pollina]] <br/> {{simbolo|Strada Statale 286 Italia.svg|35}} <small>[[Strada statale 286 di Castelbuono|di Castelbuono]]</small> || align="right"| 153,6 || align="right"| 29,4
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio<ref name=":1" />|| align="right" |? || align="right" | -
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Santa Lucia"<ref name=":0" />|| align="right" | - || align="right"| 16,7
+|-
+| {{Simbolo|AB-AS-grün.svg}}|| [[Cefalù]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 166,8 || align="right"| 16,2
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Campofelice" || align="right" | 178,8 || align="right"| 4,2
+|-
+| {{simbolo|Italian traffic signs - stazione.svg|18}} || Barriera [[Buonfornello]] || align="right"| 181,8 || align="right"| 1,2
+|-
+| {{Simbolo|AB-Vzw-grün.svg}}|| {{simbolo|Italian traffic signs - strada europea 90.svg|40}} {{simbolo|Italian traffic signs - strada europea 932.svg|40}} {{simbolo|Autostrada A19 Italia.svg|24}} [[Autostrada A19 (Italia)|Palermo-Catania]] || align="right"| 183,0 || align="right"| 0,0
+|}
+
+== Opere principali ==
+* 282 viadotti, con campate variabili da un minimo di 19 metri a un massimo di 1.101 metri;
+* 124 gallerie naturali (per complessivi 112,408 km);
+* 31 gallerie artificiali (per complessivi 5,720 km)
+
+Il 31 luglio 2017 è stato chiuso al traffico un tratto della A20, sul Viadotto Ritiro, (dal Km 11, 200 alla Galleria Baglio, in direzione di Palermo) con deviazione del traffico autostradale sulla nuova rampa di uscita di Messina - Giostra e sulla rampa in entrata dello stesso svincolo (aperta il 16 maggio 2013).
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{cita web|url=http://www.autostradesiciliane.it/carta_servizi_2010/index.html|titolo=Carta dei servizi 2010|accesso=8 agosto 2010|editore=Consorzio per le Autostrade Siciliane|urlmorto=sì|urlarchivio=https://web.archive.org/web/20120118220632/http://www.autostradesiciliane.it/carta_servizi_2010/index.html}}
+
+== Altri progetti ==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{cita web|http://www.autostradesiciliane.it|Autostrade Siciliane}}
+* {{cita web | 1 = http://www.lotsberg.net/data/italia/A20.html | 2 = Gallerie e viadotti della A20 | accesso = 3 agosto 2009 | dataarchivio = 3 novembre 2009 | urlarchivio = https://web.archive.org/web/20091103045517/http://www.lotsberg.net/data/italia/A20.html | urlmorto = sì }}
+
+{{Autostrade italiane}}
+{{Portale|Sicilia|trasporti}}
+
+[[Categoria:Autostrade in Sicilia]]
+[[Categoria:Autostrade in Italia|A20]]

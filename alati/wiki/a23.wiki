@@ -1,0 +1,192 @@
+{{Strada
+|nome = Autostrada A23
+|tipo = [[Autostrada]]
+|stato = ITA
+|simbolo = Autostrada A23 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-FVG}}
+|divisione amm 2 = {{IT-UD}}
+|inizio = [[Autostrada A4 (Italia)|A4]] presso [[Palmanova]]
+|fine = confine di stato con l' {{AUT}} nei pressi di [[Tarvisio]]
+|lunghezza = 119,9<ref name=autogenerato1>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=33&ramo=33&code=A23&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali |accesso=8 dicembre 2009 |dataarchivio=12 gennaio 2014 |urlarchivio=https://web.archive.org/web/20140112183621/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=33&ramo=33&code=A23&link=&tipo= |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1966]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore =*[[Autostrade per l'Italia]] (Udine Sud-confine [[Austria|austriaco]]) 
+*[[Società Autostrade Alto Adriatico]] (Palmanova-Udine Sud) 
+|pedaggio =[[Pedaggio#Sistema autostradale chiuso|sistema chiuso]] (gratuito nella tratta tra la barriera di Ugovizza e il confine austriaco) 
+|città servite = 
+|intersezioni = 
+|europea1 = 55
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A23.svg
+|tracciato = Tracciato A23.svg
+|nome secondario=Alpe-Adria<br />Palmanova-Tarvisio}}
+L''''autostrada A23''' '''Alpe-Adria o Palmanova-Tarvisio''' è un'[[rete autostradale italiana|autostrada italiana]], lunga circa 120&nbsp;km con percorso che si sviluppa interamente nella [[provincia di Udine]]: partendo da [[Palmanova]], collega l'[[Italia]] all'[[Austria]] attraversando [[Udine]] tramite il confine di [[Coccau]] (comune di [[Tarvisio]]), per poi proseguire fino a [[Vienna]] come [[Süd Autobahn]]. Rappresenta uno dei principali collegamenti viari fra l'[[Italia]] e il [[Europa centrale|centro Europa]].
+
+È gestita da due concessionarie: i primi 20 km, dalla A4 a Udine sud dalla [[Società Autostrade Alto Adriatico]] e nel restante percorso di 100 km da Udine sud sino al confine austriaco dove inizia la [[Süd Autobahn|Autobahn A2]], da [[Autostrade per l'Italia]].
+
+== Storia ==
+Il tratto Palmanova-Udine Sud fu aperto il [[30 luglio]] [[1966]], insieme al tratto [[Palmanova]]-[[Monfalcone]] dell'[[Autostrada A4 (Italia)|A4]], dopo due anni di lavori. Il [[3 agosto]] [[1973]] iniziarono i lavori sul tratto da [[Udine]] al casello della [[Carnia]];<ref>{{Cita pubblicazione |titolo = Via al tronco della Udine - Carnia |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XV |numero = 7 |editore = |città = Roma |anno = 1973 |mese = luglio |p = 34 |ISSN = 0005-1756 }}</ref> il tratto da Udine ad [[Amaro (Italia)|Amaro]] venne aperto il [[26 luglio]] [[1979]],<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XXI |numero = 7-8 |editore = |città = Roma |anno = 1979 |mese = luglio-agosto |p = 78 |ISSN = 0005-1756 }}</ref> quello da Amaro a [[Chiusaforte]] nel 1985 (con un'intersezione provvisoria con la [[Strada statale 13 Pontebbana|SS 13]] a Chiusaforte) mentre [[Tarvisio]] e il confine austriaco furono raggiunti il [[3 luglio]] [[1986]]. Il tratto tra Udine Nord e Udine Sud fu aperto nel [[1988]] dopo due anni di lavori.
+===I viadotti e il terremoto 1976===
+Il tratto tra [[Gemona]] e il casello di [[Amaro (Italia)|Amaro]]-[[Tolmezzo]] era in costruzione durante il [[terremoto del Friuli del 1976]]. Nel tratto sorgono 3 principali viadotti: Tagliamento I, Somplago, che sovrasta il [[Lago di Cavazzo]], e Tagliamento II.
+
+Il viadotto Somplago viene definito "il capolavoro tecnico della A23" in quanto è il primo esemplare in Italia di un [[viadotto]] a trave continua con 20 campate (della lunghezza totale di 1320 m) realizzato con conci a sbalzo prefabbricati e dotato di ritegno longitudinale anti-sismico di tipo elastico<ref name=":1">{{Cita web|url=http://www.bandigara.bestinparking.it/sites/default/files/downloads/cv_giorgio_nicolini.pdf|titolo=CURRICULUM VITAE Ing. Nicolini Giorgio (responsabile della costruzione da parte di ItalStrade dei Viadotti Tagliamenti I, Somplago, Tagliamento II)|accesso=30 dicembre 2020|dataarchivio=26 ottobre 2021|urlarchivio=https://web.archive.org/web/20211026093338/http://bandigara.bestinparking.it/sites/default/files/downloads/cv_giorgio_nicolini.pdf|urlmorto=sì}}</ref>. Fu completato poco prima del [[Terremoto del Friuli del 1976|terremoto del 1976]] e durante il [[terremoto]] fu notato come questo tipo di viadotto ricevesse sollecitazioni minori degli altri, costruiti con sezioni in calcestruzzo precompresso separate, oltre a dare un maggiore comfort di guida per l'assenza di giunti.<ref name=":0">{{Cita web|url=https://strutturisti.wordpress.com/2009/05/13/isolamento-sismico-le-tappe-storiche-dal-1266-ad-oggi/|titolo=Isolamento sismico: le tappe storiche dal 1266 ad oggi|autore=Francesco Salvatore Onorio says|sito=L'angolo dell'ingegnere strutturista|data=13 maggio 2009|lingua=it|accesso=30 dicembre 2020}}</ref> Per ricordare l'eccezionale capolavoro tecnico che è stato ideato dagli ingegneri della Società Autostrade e l'importanza che questo dispositivo ha nella [[Carnia|comunità carnica]] post-terremoto nella ricorrenza del 33º anniversario del terremoto e per elogiare l'importanza del primo viadotto antisismico costruito in [[Italia]] soli due anni prima del terremoto del Friuli, nel 2009 venne inaugurato all'ingresso dell'Orto Botanico d'Interneppo nel comune di Bordano il monumento all'Isolatore Sismico con vista del primo [[viadotto]] autostradale antisismico d'Italia.<ref>{{Cita web|url=http://www.cm-gemonesecanaldelferrovalcanale.it/index.php?id=1116&tx_news_pi1%5Bnews%5D=12&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=87435618b22b61d8f9da996eabdbc342|titolo=Isolatore Sismico|sito=Comunità Montana del Gemonese, Canal del Ferro e Val Canale|lingua=it|accesso=30 dicembre 2020|urlmorto=sì}}</ref>
+
+Gli altri due viadotti, i Tagliamento I e II non ebbero una risposta antisismica uguale: nel viadotto Tagliamento II infatti i danni furono molto elevati, tali da distruggere una buona parte del viadotto in quanto la caduta delle travi precompresse danneggiarono i piloni, rendendo necessario posticipare l'inaugurazione del tratto [[Udine]]-[[Amaro (Italia)|Amaro]] di circa 3 anni.<ref>{{Cita web|url=https://webthesis.biblio.polito.it/11820/1/tesi.pdf|titolo=POLITECNICO DI TORINO
+- TESI DI LAUREA MAGISTRALE In Ingegneria Civile - "ANALISI DINAMICA DI UNA GALLERIA IN ZONA SISMICA"}}</ref> Anche il viadotto Tagliamento I ricevette comunque dei danni, anche se più lievi, nonostante fosse più vicino all'epicentro. [[Italstrade]] e [[Spea Engineering|Società Progettazioni Edili Autostradali]] (responsabili della costruzione per conto dell'[[IRI]]-[[Atlantia|Società Autostrade]]) chiamò numerosi esperti dell'epoca del cemento, tra cui l'[[Riccardo Morandi|ingegner Morandi]], per poter analizzare le azioni sismiche sui ponti e iniziare a capire come prevenire i sisma; proprio per l'occasione furono effettuati dei test distruttivi alle campate di cemento precompresso del Tagliamento II danneggiate dal sisma. Alcuni resti di cemento precompresso emergono ancora oggi dal letto del fiume.
+
+===Gli altri viadotti===
+Grazie a questi dati, tutti i successivi viadotti delle autostrade costruite dalla società [[Autostrade per l'Italia|Autostrade]] (principalmente A23, [[Autostrada A27 (Italia)|A27]], [[Autostrada A26 (Italia)|A26]] e quelli realizzati per gli ampliamenti con terza corsia della rete Società Autostrade) vennero realizzati a trave unica con isolatori antisismici. Solo dagli anni '90, comunque, questa tecnica venne estesa al di fuori delle autostrade costruite da [[Autostrade per l'Italia]]: alcuni esempi si trovano lungo i viadotti della [[Autostrada A28 (Italia)|Pordenone-Sacile]] costruiti all'inizio degli [[anni 1990]] grazie all'emanazione delle "Istruzioni per la progettazione antisismica dei ponti con l’impiego di dispositivi isolatori/dissipatori".<ref name=":0" />
+
+== L'autostrada oggi ==
+L'[[autostrada]] è a due corsie, tranne che per un breve tratto tra gli svincoli di [[Udine]] Nord e Sud ove vi sono tre corsie per senso di marcia. 
+Questa direttrice è gestita da due società concessionarie: [[Società Autostrade Alto Adriatico]] e [[Autostrade per l'Italia]]. La competenza della prima inizia dallo svincolo con la [[Autostrada A4 (Italia)|A4]] e arriva fino al cavalcavia della [[Strada statale 13 Pontebbana|SS 13]] che attraversa l'autostrada al km 18+550<ref name=autogenerato1 /><ref>{{Cita web|url=https://www.autovie.it/ProxyVFS.axd/null/r20375/Planimetria-Schematica-estesa-autostradale-All-n-2-pdf?ext=.pdf|titolo=Allegato n.2: PLANIMETRIA SCHEMATICA ESTESA
+AUTOSTRADALE DI COMPETENZA S.P.A. AUTOVIE VENETE}}</ref> (vicino al cavalcavia di Viale Venezia), mentre la competenza della seconda società prosegue da lì fino al [[Coccau|confine con l'Austria]].
+
+Sulla tratta tra [[Pontebba]] e [[Palmanova]] sono presenti i dispositivi [[Autovelox|Safety Tutor]] per il controllo della velocità media. 
+
+=== Obblighi ===
+Sono obbligatorie le dotazioni invernali su tutta la tratta dal [[15 novembre]] al [[15 aprile]].<ref>{{Cita web|http://www.autostrade.it/it/la-nostra-rete/operazioni-invernali|Dal sito Autostrade.it per la tratta tra Udine e il confine di stato}}</ref><ref>{{Cita web|http://www.infotraffico.autovie.it/code/14277/Viabilita-invernale|Dal sito di Autovie Venete per la tratta tra Palmanova e Udine}}</ref>
+
+=== Percorso ===
+[[File:Inizio A 23.JPG|thumb|left|L'inizio dell'A23 a [[Palmanova]]]]
+
+L'autostrada inizia dallo svincolo della [[Autostrada A4 (Italia)|A4]] nelle vicinanze di [[Palmanova]] e prosegue per un intero tratto quasi rettilineo fino all'uscita di ''[[Udine]] Sud''; da qui l'autostrada corre parallela alla tangenziale ovest (composta dal [[Raccordo Udine Sud|raccordo Udine sud]] e da una tratta della [[Strada statale 13 Pontebbana|SS 13 ''Pontebbana'']]) del [[Udine|capoluogo friulano]] e, superato l'abitato di [[Cormor]] Basso, l'autostrada diventa a 3 corsie per senso di marcia fino a poco prima del casello di ''Udine Nord''.
+Dopo lo stesso casello, in direzione [[Tarvisio]], inizia il tratto collinare dell'autostrada, con dolci saliscendi lungo le [[Morena|colline moreniche]] della zona a Nord Ovest di [[Udine]] e qualche ponte su [[fiumi]] secondari e/o [[torrenti]].
+
+Poco prima dell'uscita ''[[Gemona]]-[[Osoppo]]'', in località Ledra, a meno di 1km dall'[[autostrada]], si trova l'epicentro del [[terremoto del Friuli del 1976]]<ref>{{Cita web|url=https://geohack.toolforge.org/geohack.php?language=it&pagename=Terremoto_del_Friuli_del_1976&params=46.241_N_13.119_E_type:event|titolo=GeoHack - Terremoto del Friuli del 1976|sito=geohack.toolforge.org|accesso=30 dicembre 2020}}</ref>. Le cime delle [[Alpi Carniche]] e delle [[Alpi Giulie]] sono decisamente più vicine. Poco dopo l'uscita di ''[[Gemona]]-[[Osoppo]]'' inizia il ponte ''Tagliamento I'', che sovrasta il letto del fiume [[Tagliamento]] ed è lungo 1,259&nbsp;m; inizia ora il tratto montuoso dell'autostrada, con le prime [[Galleria (ingegneria)|gallerie]]<ref>Ci sono, dalla prima galleria ''Lago'', all'ultima in prossimità del confine, diciassette gallerie, di cui sei sono comprese dal casello di uscita di Tarvisio fino al confine di Coccau</ref>.[[File:Cavazzo Càrnico Lago di Cavazzo con autostrada A23 e Pieve di Santo Stefano 01112007 94.jpg|thumb|Veduta del viadotto Somplago sopra il [[Lago di Cavazzo]]]]
+
+Percorrendo l'autostrada verso [[Tarvisio]], sulla destra sono visibili le pendici del Monte Brancot e più a nord quelle del Monte San Simeone. In lontananza è visibile il ponte di Braulins sullo stesso fiume [[Tagliamento]] e il gruppo montuoso del [[Monte Plauris]] (appartenente alle [[Prealpi Giulie]]). 
+
+In seguito, dopo aver costeggiato il Monte Brancot, s'imbocca la galleria ''Lago'', lunga circa 1,6&nbsp;km, per poi sboccare al di sopra del [[Lago di Cavazzo]] (o dei 3 Comuni) che viene attraversato da un lungo [[viadotto]]. Essendo la zona successiva allo sbocco della galleria soggetta frequentemente a vento forte, già all'imbocco i segnali di avvertenza relativi al vento forte consigliano in tal caso la velocità di 80&nbsp;km/h.
+[[File:A23 Udine sud 005.jpg|thumb|left|Le [[Alpi Giulie]] imbiancate viste da [[Udine]] sud]]
+
+Il viadotto ''Somplago'' sovrasta il [[Lago di Cavazzo]] nella sua parte settentrionale, è lungo circa 1&nbsp;km e in discreta salita ed è noto a tutti i tecnici per la sua caratteristica di essere il primo [[viadotto]] autostradale antisismico d'Italia e costruito poco tempo prima del terremoto del Friuli<ref name=":1" />. Sulla sinistra è visibile la [[Pieve di Cesclans|Pieve di Santo Stefano di Cesclans]], mentre sulla destra le pendici del Monte Festa.
+
+Pochi [[chilometri]] dopo l'uscita di ''[[Carnia]] [[Tolmezzo]]'' e pochi chilometri prima di oltrepassare l'abitato di [[Moggio Udinese]], inizia la valle denominata [[Canal del Ferro]], lungo la quale scorre il fiume [[Fella]]; l'autostrada la percorre tutta lungo numerose gallerie e [[Viadotto|viadotti]].
+
+Nei pressi del paese di [[Chiusaforte]], l'autostrada scorre parallela al lato destro del [[Fella|fiume Fella]] e si avvicina allo sbocco della [[Val Raccolana]].
+Tra le uscite di ''[[Carnia]]", [[Tolmezzo]]'' e ''[[Pontebba]]'', il [[Canal del Ferro]] è piuttosto stretto e si sono resi necessari numerosi viadotti e gallerie per l'attraversamento della valle.
+
+Le gallerie presentano quasi tutte sviluppi piuttosto consistenti (tra 1 e 2&nbsp;km; quella ''Pontebba'' è la più lunga di questo tratto, circa 2,3&nbsp;km e completamente rettilinea).
+[[File:RouteE55.jpeg|thumb|L'A23 nei pressi del [[confine tra l'Austria e l'Italia|confine di stato con l'Austria]]]]
+
+L'uscita di ''[[Tarvisio]] sud'', situata presso l'abitato di [[Camporosso (Tarvisio)|Camporosso]] verso il termine della [[Val Canale]], è l'ultima uscita in [[Italia]]; lo svincolo di ''[[Tarvisio]] nord'' consente infatti solamente l'immissione in autostrada verso [[nord]] o l'uscita provenendo da nord. Sulla destra sono visibili i boschi delle pendici del [[Monte Santo di Lussari|Monte Lussari]].
+
+A 1&nbsp;km dal confine di Stato con l'[[Austria]], presso il valico di [[Coccau]], l'autostrada e la [[strada statale 13 Pontebbana]] corrono parallele. Al confine di stato, da cui si prosegue in territorio austriaco sull'[[Autostrada A2 (Austria)|autostrada A2]] (munendosi di apposita Vignette, necessaria per percorrere le [[Autostrade in Austria|autostrade austriache]]), non è più necessario fermarsi in virtù degli [[Accordi di Schengen]].
+
+=== Strade europee ===
+La A23 fa parte per tutta la sua lunghezza della [[Strada Europea E55]], dorsale [[nord]]-[[sud]] che unisce [[Helsingborg]] in [[Svezia]] a [[Kalamáta]] in [[Grecia]].
+
+== Tabella percorso ==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A23 Italia.svg|30}} PALMANOVA - TARVISIO'''<br />Autostrada Alpe-Adria
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+| [[File:AB-Vzw-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Venezia-Trieste]] ||align="right"|0,0||align="right"|119,9|| rowspan="26" align="center" | [[Provincia di Udine|UD]] || rowspan="26" align="center" |[[File:Italian traffic signs - strada europea 55.svg|link=Strada europea E55|47px]]
+|-
+|{{simbolo|AB-Tank.svg}}
+|Area di servizio "Lumignacco"
+{{simbolo|Italian traffic signs - lavori.svg|17}} ''in costruzione''<ref>{{Cita web|url=https://www.ilfriuli.it/articolo/Cronaca/Nuova_area_di_servizio_a_Lumignacco/2/124244|titolo=Nuova area di servizio a Lumignacco {{!}} Il Friuli|sito=www.ilfriuli.it|lingua=it|accesso=27 dicembre 2020}}</ref>
+|11+630
+|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Udine]] Sud<br />{{simbolo|Autostrada A23 Italia.svg|23}} ''[[Raccordo Udine Sud]]''|| align="right" | 13+746|| align="right" | 106 
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Zugliano"|| align="right" | 14+250|| align="right" | 105 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Santa Caterina" || align="right" |16+820
+| align="right" |
+|-
+| [[File:AB-AS-grün.svg]]|| [[Udine]] Nord || align="right"| 26|| align="right"| 93
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Cormor"||align="right"| || align="right"| 
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Ledra" ||align="right"| 37|| align="right"| 82 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Rio Gelato"||align="right"| || align="right"| 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Gemona del Friuli|Gemona]] - [[Osoppo]]|| align="right"| 45|| align="right"| 74 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Carnia (Venzone)|Carnia]] - [[Tolmezzo]]<br />{{simbolo|Strada Statale 52 Italia.svg|35}} <small>''[[strada statale 52 Carnica|Carnica]]''</small> || align="right"| 60|| align="right"| 59
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Carnia"<ref name="soloUDPAL">solo direzione Udine-Palmanova</ref>||align="right"| || align="right"|
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Stavoli - Sachs"<ref name="soloUDPAL" />||align="right"| || align="right"|
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Campiolo"<ref name="soloUDPAL" />||align="right"| 68|| align="right"|
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Campiolo"<ref name="soloTAR">solo direzione Tarvisio</ref>||align="right"| || align="right"|51
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Resia"<ref name="soloTAR" />||align="right"| || align="right"|
+|-
+|[[File:AB-AS-grün.svg]]{{simbolo|Italian traffic signs - divieto di transito.svg|15}}
+|[[Chiusaforte]]<ref>Attualmente è un deposito di mezzi tecnici per la rete autostradale. Nel 2003, a seguito dell'alluvione è stata realizzata una bretella che permette di collegare l'autostrada alla statale 13, è in fase di progettazione uno svincolo definitivo.</ref><ref>{{Cita web|url=https://ricerca.gelocal.it/messaggeroveneto/archivio/messaggeroveneto/2005/06/03/UD_09_SIA1.html|titolo=A23, svincolo e casello a Chiusaforte - Messaggero Veneto|sito=Archivio - Messaggero Veneto|lingua=it|accesso=30 dicembre 2020}}</ref> (in progetto)
+|
+|
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Cadramazzo"<ref name="soloTAR" />||align="right"| || align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pontebba]] || align="right"| 93|| align="right"| 26 
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Fella"<ref name="soloTAR" />||align="right"| 97|| align="right"| 22
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "La Foresta"<ref name="soloTAR" />||align="right"| || align="right"|
+|-
+| {{simbolo|italian traffic signs - stazione.svg}} || Barriera [[Ugovizza]] || align="right"| 105|| align="right"| 14
+|-
+| [[File:AB-AS-grün.svg]]|| [[Malborghetto-Valbruna]]<ref name="uscitaCONFINE">uscita solo direzione confine, entrata solo direzione Udine-Palmanova</ref>|| align="right"| 105|| align="right"| 14
+|-
+| [[File:AB-AS-grün.svg]]|| [[Tarvisio]] Sud<ref name="uscitaCONFINE" /> || align="right"| 108|| align="right"| 11
+|-
+| [[File:AB-AS-grün.svg]]|| [[Tarvisio]] Nord<ref>entrata solo direzione confine, uscita solo direzione Udine-Palmanova</ref> || align="right"| 115|| align="right"| 4
+|-
+|{{simbolo|Italian traffic signs - preavviso di confine di Stato tra paesi della Comunità Europea (Austria).svg|22}}|| {{bandiera|EUR|dim=18}} {{bandiera|AUT|dim=18}} Confine di Stato: [[Austria]]<br />{{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|A2-AT.svg}} <small>[[Autostrada A2 (Austria)|Villach-Klagenfurt-Wien]]</small> || align="right" | 119,9|| align="right"| 0,0
+|- 
+|}
+==Raccordo Udine Sud==
+{{Strada|nome=Autostrada A23|nome secondario=Raccordo Udine Sud|apertura=|mappa=|europea altro=|europea3=|europea2=|europea1=|intersezioni=|città servite=|pedaggio=|gestore=|provvedimento istituzione=|direzione=|tipo=[[Autostrada]]|lunghezza=2,7|fine=Tangenziale Ovest|inizio=A23 Svincolo Udine Sud|divisione amm 2={{IT-UD}}|divisione amm 1={{IT-FVG}}|nome successivo=|nome precedente=|simbolo=Autostrada A23 Italia.svg|stato=ITA|tracciato=}}Questa breve bretella permette di collegare le due tangenziali ([[Strada statale 13 Pontebbana|Ovest]] e [[Strada statale 676 Tangenziale Sud di Udine|Sud]]) di Udine con il casello di Udine Sud, il raccordo comincia dal casello stesso dove, dopo qualche centinaio di metri, è possibile innestarsi sulla [[Strada statale 676 Tangenziale Sud di Udine|SS 676 tangenziale Sud]] oppure proseguire verso la [[Strada statale 13 Pontebbana|tangenziale Ovest]], il raccordo termina in corrispondenza dell'ex [[semaforo]] di [[Basaldella]], ora rimosso in seguito al completamento dei lavori di interramento della [[tangenziale]] che impediscono la formazione degli ingorghi da parte dello stesso semaforo. Da qui la tangenziale ovest prosegue verso nord senza soluzione di continuità con la designazione di [[Strada statale 676 Tangenziale Sud di Udine|SS676]] (e successivamente [[Strada statale 13 Pontebbana|SS13]] dopo lo svincolo per Viale Venezia).
+
+===Tabella percorso===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="6" | '''{{simbolo|Autostrada A23 Italia.svg|30}} Raccordo Udine Sud'''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia
+|-
+|[[File:AB-Vzw-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Autostrada A23 Italia.svg|24}} [[#Tabella percorso|Palmanova-Tarvisio]] || align="right"| 0,0 || align="right"| 2,7 || align="center" rowspan=4|[[Provincia di Udine|UD]]
+|-
+|{{simbolo|Italian traffic signs - stazione.svg}} || Barriera [[Udine]] Sud || align="right"| 0,4 || align="right"| 2,3
+|-
+|[[File:AB-AS-grün.svg]] || [[Gorizia]]-[[Manzano (Friuli-Venezia Giulia)|Manzano]]-[[Buttrio]]<br />{{simbolo|Strada Statale 676 Italia.svg|35}} <small>''[[Strada statale 676 Tangenziale Sud di Udine#Da Paparotti a Raccordo Udine Sud|Tangenziale Sud di Udine]]''</small> || align="right"| 0,9 || align="right"| 1,8
+|-
+|{{simbolo|AB-ende-grün.svg|17}} || {{simbolo|Sinnbild Innerorts.svg|17}} [[Basaldella (Campoformido)|Basaldella]]<br />{{simbolo|Strada Statale 676 Italia.svg|35}} <small>''[[Strada statale 676 Tangenziale Sud di Udine#Da Basaldella a SS 13|Tangenziale Sud di Udine]]''</small> || align="right"| 2,7 || align="right"| 0,0
+|}
+
+== Note ==
+<references />
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Venezia Udine Trieste |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 12 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = dicembre |pp = 611-623 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/848/mode/2up }}
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|https://www.autovie.it|Autovie Venete Spa}}
+* {{cita web|http://www.autostrade.it/|Autostrade per l'Italia S.p.A.}}
+* {{cita web|https://www.lotsberg.net/data/italia/A23.html|Gallerie e viadotti della A23}}
+
+{{Autostrade italiane}}
+{{Portale|Friuli-Venezia Giulia|trasporti}}
+
+[[Categoria:Autostrade in Italia|A23]]
+[[Categoria:Autostrade in Friuli-Venezia Giulia]]

@@ -1,0 +1,97 @@
+{{Strada
+|nome = Autostrada A91
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada dell'Aeroporto di Fiumicino<br/>Roma-Fiumicino
+|simbolo = Autostrada A91 Italia.svg
+|nome precedente =[[Strada statale 201 dell'Aeroporto di Fiumicino]] 
+|nome successivo = 
+|divisione amm 1 = {{IT-LAZ}}
+|divisione amm 2 ={{IT-RM}} 
+|inizio = [[Roma]]
+|fine = [[Fiumicino]]
+|lunghezza = 18,5<ref name = autogenerato1>{{Cita web|1=http://www.stradeanas.it/index.php?/file/open/10482|2=Anas – Provvedimento del 13 ottobre 2008|3=22 maggio 2014|formato=PDF|dataarchivio=13 settembre 2011|urlarchivio=https://web.archive.org/web/20110913060217/http://www.stradeanas.it/index.php?%2Ffile%2Fopen%2F10482|urlmorto=sì}}</ref>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore =[[ANAS]] 
+|pedaggio = Gratuito
+|città servite = [[Roma]], [[Fiumicino]]
+|intersezioni = [[Autostrada A90 (Italia)|A90]], [[Autostrada A12 (Italia)|A12]]
+|europea1 = 80
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A91.svg
+|tracciato = 
+}}
+
+L''''autostrada A91''', detta anche '''Autostrada dell'Aeroporto di Fiumicino''', collega la [[Roma|capitale]] con l'[[Aeroporto di Roma-Fiumicino|aeroporto internazionale Leonardo da Vinci]].
+
+== Storia ==
+La sua costruzione, a cura dell'[[ANAS]] che ne è tuttora l'esercente, fu terminata nel [[1959]]<ref>{{Cita web|http://www.stradeanas.it/index.php?/news/download/file/491|Cronologia degli 80 anni dell'ANAS – a pagina 4|22 maggio 2014|formato=PDF}}</ref> in concomitanza con l'entrata in servizio dell'[[aeroporto]] (avvenuta in diverse fasi tra il [[1956]] e il gennaio [[1961]]). Inizialmente classificata come [[strada statale 201 dell'Aeroporto di Fiumicino]], divenne [[autostrada]] nel [[1969]]<ref>{{Cita web|http://www.stradeanas.it/index.php?/news/download/file/491|Cronologia degli 80 anni dell'ANAS – a pagina 5|22 maggio 2014|formato=PDF}}</ref>, sebbene priva di classificazione numerica fino al 1999, anno in cui ricevette la denominazione ufficiale '''A91'''<ref name="autogenerato1" /><ref name="za">{{Cita web|url=http://www.stradeanas.it/index.php?/news/dettaglio/id/784|titolo=Completati i lavori della complanare all'autostrada Roma-Fiumicino|data=6 maggio 2010|accesso=7 maggio 2010|urlarchivio=https://web.archive.org/web/20150924111000/http://www.stradeanas.it/index.php?%2Fnews%2Fdettaglio%2Fid%2F784|urlmorto=sì}}</ref>. Al 2024, su parte della segnaletica stradale permane il caratteristico simbolo ottagonale verde delle autostrade italiane con la lettera ''A'' priva del numero.
+
+In occasione del [[Giubileo del 2000]], fu ampliata con la costruzione della terza [[corsia di marcia|corsia]] nel tratto che va dal [[Autostrada A90|Grande Raccordo Anulare]] all'aeroporto, a eccezione dei primi {{M|4|ul=km}} circa, dall'aeroporto in direzione Roma, rimasto a due corsie. Furono inoltre installati lampioni a luce arancione dotati di [[LED]] rossi sui lati che ne aumentano la visibilità, a beneficio del traffico aereo che la sorvola a bassa quota.
+
+Nel maggio del [[2010]] furono completati i lavori di costruzione di una viabilità complanare all'autostrada per favorire i collegamenti con le zone commerciali e residenziali sviluppatesi nel frattempo nelle zone adiacenti, come [[Parco Leonardo]] e la nuova [[Fiera di Roma]]<ref name="za" />.
+
+==Ipotesi di pedaggio==
+Come per le altre autostrade a gestione diretta ANAS, l'A91 è percorribile gratuitamente<ref>{{Cita web|url=https://www.stradeanas.it/it/le-strade/la-rete-anas/le-autostrade|titolo=Le autostrade|sito=Anas S.p.A.|data=2018-09-19|lingua=it|accesso=2022-08-16|dataarchivio=14 gennaio 2024|urlarchivio=https://web.archive.org/web/20240114204559/https://www.stradeanas.it/it/le-strade/la-rete-anas/le-autostrade|urlmorto=sì}}</ref>. Tuttavia, in più di un'occasione venne ipotizzata l'introduzione di un pedaggio. In particolare, la [[legge finanziaria]] del [[2011]] ne prevedeva l'adozione su [[raccordo autostradale|raccordi autostradali]] ed autostrade gestite direttamente dall'ANAS<ref>
+{{Cita web|url=http://www.ilmessaggero.it/articolo.php?id=104007&sez=HOME_ECONOMIA|titolo=Pedaggi autostrade, 1-2 euro sul Gra
+Salerno-Reggio, tra due anni 3-5 euro|data=27 maggio 2010|accesso=31 maggio 2010|urlmorto=sì|urlarchivio=https://web.archive.org/web/20111225040515/http://www.ilmessaggero.it/articolo.php?id=104007&sez=HOME_ECONOMIA}}
+</ref>, allo scopo di diminuire il corrispettivo di servizio dovuto dallo Stato all'azienda per la gestione e la manutenzione della rete stradale.
+
+Il [[decreto legge]]<ref>Decreto Legge numero 78 del 31 maggio 2010: Misure urgenti in materia di stabilizzazione finanziaria e di competitività economica.</ref> prevedeva l'introduzione del nuovo sistema di pedaggio al più tardi entro dicembre [[2011]] e, secondo la relazione tecnica allegata, esso avrebbe dovuto essere di tipo ''free flow'' ([[pedaggio#Sistema esclusivamente free-flow|pedaggio elettronico]]) in luogo dei tradizionali caselli; in attesa della realizzazione delle infrastrutture connesse (telecamere, sala di controllo ecc.), il pedaggio nello svincolo [[Maccarese]]-[[Fregene]] dell'[[Autostrada A12 (Italia)|A12]] e nella barriera dell'A12 di Roma ovest fu aumentato in via transitoria (1 euro per le autovetture e 2 euro per i mezzi pesanti)<ref>{{Cita web|url=http://www.stradeanas.it/index.php?/news/dettaglio/id/832|titolo=Manovra finanziaria, il Testo pubblicato dalla Gazzetta Ufficiale|accesso=6 giugno 2010}}</ref>. Tali aumenti forfettari provvisori furono in seguito eliminati, a partire dal 4 agosto 2010, a seguito di ricorsi presentati da enti locali al [[Tribunale amministrativo regionale|TAR]] del Lazio e del Piemonte e di un decreto del [[Consiglio di Stato (Italia)|Consiglio di Stato]]: infatti, agli svincoli e alla barriere dove era previsto il pagamento del pedaggio anche gli utenti che non proseguissero per le autostrade avrebbero dovuto ugualmente pagarne l'utilizzo, mentre, secondo i giudici, il pedaggio non può essere una tassa bensì il pagamento per l'effettiva fruizione di un servizio<ref>{{Cita web|https://www.ansa.it/web/notizie/rubriche/cronaca/2010/07/29/visualizza_new.html_1876282621.html|Pedaggi: Tar Lazio, stop aumenti autostrade e Gra|22 maggio 2014|data=29 luglio 2010}}</ref>.
+
+== Tracciato ==
+[[File:Autostrada roma - fiumicino A91.jpg|thumb|upright=1.2|Autostrada A91]]
+L'autostrada si sviluppa su una lunghezza di 18,5&nbsp;km di cui 11,9&nbsp;km dall'aeroporto allo svincolo con il [[Autostrada A90|Grande Raccordo Anulare]]; il suo tracciato è sostanzialmente rettilineo, a eccezione di un tratto in corrispondenza di un'ampia [[Viadotto Ansa del Tevere|ansa del Tevere]] in zona [[Magliana]], nel quartiere [[Portuense]], dove si trova un viadotto di 145 metri su [[Viadotto Ansa del Tevere|ponte strallato curvilineo]], intitolato a Franco della Scala<ref>Direttore ANAS, tra le vittime dell'[[Anas (azienda)|Attentato di Fiumicino del 1985]]</ref> e progettato da [[Riccardo Morandi]]. Tale manufatto fu adottato come variazione in corso d'opera, per superare un tratto di terreno instabile a causa di una frana che trascinò con sé alcuni piloni del tracciato ancora in corso di costruzione<ref>{{Cita web|url=https://www.atlantearchitetture.beniculturali.it/viadotto-sullansa-del-fiume-tevere/|titolo=Viadotto sull’ansa del fiume Tevere – Atlante architettura contemporanea|sito=www.atlantearchitetture.beniculturali.it|accesso=2022-08-09|dataarchivio=9 agosto 2022|urlarchivio=https://web.archive.org/web/20220809142518/https://www.atlantearchitetture.beniculturali.it/viadotto-sullansa-del-fiume-tevere/|urlmorto=sì}}</ref>.
+
+Oltre alla [[Autostrada A24 (Italia)|A24]], questa è l'unica altra autostrada di Roma a prevedere un tronco di penetrazione urbana all'interno del Grande Raccordo Anulare.
+
+{| class="wikitable"
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="5" | '''{{simbolo|Autostrada A91 Italia.svg|30}} Autostrada Roma - Aeroporto di Fiumicino'''
+|-
+!'''Tipo'''!! align="center" |'''Indicazione'''!! align="center" |'''↓km↓'''!!align="center"|'''↑km↑'''!! align="center"|'''Strada europea'''
+|-
+| {{simbolo|AB-gerade-grün.svg|13}}|| Viadotto della Magliana <br /><small>[[Via Laurentina]]<br />[[Via Cristoforo Colombo (Roma)|Via Cristoforo Colombo]] || align="right" |0,0 || align="right" |18,5 || rowspan="5" align="center" | 
+|-
+| [[File:AB-AS-grün.svg]] || Via Isacco Newton<br />[[Via Portuense]]<br />[[Strada statale 1 Via Aurelia|Via Aurelia]] || align="right"|1,3 || align="right" | <ref name=":0">Solo in direzione Aeroporto di Fiumicino</ref>
+|-
+| [[File:AB-AS-grün.svg]] || [[Roma]] {{simbolo|Italian traffic signs - centro città.svg|17}} <br />Via della Magliana<br />[[Trastevere]] || align="right" | <ref name=":1">Solo in direzione Roma</ref>|| align="right" |16,9
+|-
+| [[File:AB-AS-grün.svg]] || [[Magliana Vecchia]]<br />{{simbolo|Italian_traffic_signs_-_icona_golf.svg}} [[Parco de' Medici]] || align="right" |4,5 ||align="right"|14
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]] || Area di servizio "Magliana" || align="right" |5,4 || align="right" |13,1
+|-
+| [[File:AB-Kreuz-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 80.svg|30}} {{simbolo|Autostrada A90 Italia.svg}} [[Autostrada A90|Grande Raccordo Anulare]] <br />{{simbolo|Italian_traffic_signs_-_icona_esposizione-fiera.svg}} ''[[Fiera di Roma]]<ref name=":0" />'' || align="right" |6,4 || align="right" |10,3 || rowspan="3" align="center" |[[File:Italian traffic signs - strada europea 80.svg|50px|link=Strada europea E80]]
+|-
+| [[File:AB-AS-grün.svg]] || {{simbolo|Italian_traffic_signs_-_icona_esposizione-fiera.svg}} [[Fiera di Roma]] || align="right" |<ref name=":1" />|| align="right" |6,4
+|-
+| [[File:AB-Kreuz-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 80.svg|30}} {{simbolo|Autostrada A12 Italia.svg}} [[Autostrada A12 (Italia)|Civitavecchia]] {{simbolo|Italian_traffic_signs_-_simbolo_porto_(figura_II_119).svg|link=Porto di Civitavecchia}} || align="right" |13,2 || align="right" |11,9
+|-
+| [[File:AB-AS-grün.svg]] || {{simbolo|Italian_traffic_signs_-_icona_supermercato.svg}} zona commerciale <br />{{simbolo|Italian_traffic_signs_-_icona_zona_archeologica.svg}} [[porto di Traiano]]<br />{{Simbolo|Strada Provinciale 1-a Italia.svg|27}} [[Via Portuense]] || align="right" |14,8 || align="right" |<ref name=":0" /> || rowspan="3" align="center" |
+|-
+| [[File:AB-AS-grün.svg]] || {{Simbolo|Italian_traffic_signs_-_icona_parcheggio.svg}} Parcheggio Lunga Sosta<br />Cargo || align="right" |16,0 || align="right" |<ref name=":0" />
+|-
+| {{simbolo|AB-ende-grün.svg|17}} || {{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Roma-Fiumicino|Aeroporto internazionale Leonardo da Vinci]] || align="right" |18,5 || align="right" |0,0
+|}
+
+== Note ==
+<references/>
+
+==Altri progetti==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A91]]
+[[Categoria:Aeroporto di Roma-Fiumicino]]
+[[Categoria:Trasporti a Roma]]
+[[Categoria:Trasporti a Fiumicino]]
+[[Categoria:Autostrade gestite dall'ANAS]]

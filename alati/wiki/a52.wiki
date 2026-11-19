@@ -1,0 +1,140 @@
+{{Strada
+|nome = Autostrada A52
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale Nord di Milano
+|simbolo = Autostrada A52 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-MI}}<br />{{IT-MB}}
+|inizio = [[autostrada A51 (Italia)|A51]] presso [[Cologno Monzese]] ([[città metropolitana di Milano|MI]])
+|fine = [[autostrada A50 (Italia)|A50]] presso [[Rho]] ([[città metropolitana di Milano|MI]])<br><small>Allacciamento con [[Strada Statale 33 del Sempione|SS33]]</small>
+|lunghezza = 21,6 [[Chilometro|km]] <br> + raccordo di 4,4
+|direzione = 
+|apertura = [[1994]]
+|provvedimento istituzione = 
+|gestore =[[Milano Serravalle - Milano Tangenziali]] <br> [[Autostrade per l'Italia]] <br> [[SATAP]]
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|sistema aperto]]
+|città servite = 
+|intersezioni = [[Autostrada A4 (Italia)|A4]], [[Autostrada A8 (Italia)|A8]], [[Autostrada A50 (Italia)|A50]], [[Autostrada A51 (Italia)|A51]], [[Superstrada Milano-Meda|SS35]], [[SS36]]
+|mappa = Italia - mappa autostrada A52.svg
+|tracciato = Mappa A52 Tangenziale Nord di Milano.png
+}}
+La '''tangenziale Nord di Milano'''<ref>{{cita web|url=http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf|titolo=Dati provvisori delle autostrade italiane in concessione|data=dicembre 2009|formato=pdf|p=8|accesso=26 agosto 2017|dataarchivio=16 ottobre 2013|urlarchivio=https://web.archive.org/web/20131016102523/http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf|urlmorto=sì}}</ref> è un'[[autostrada]] [[tangenziale]] [[italia]]na, codificata come '''A52''', tangente l'area suburbana di [[Milano]] nella sua parte [[nord]]. Gestita dalla [[Milano Serravalle-Milano Tangenziali]] e da [[Autostrade per l'Italia]], più un breve raccordo di [[SATAP]], collega [[Rho]] a ovest con [[Cologno Monzese]] a est, passando per [[Paderno Dugnano]] e [[Cinisello Balsamo]].
+
+Insieme con la [[Autostrada A51|A51]] (tangenziale Est di Milano), la [[Autostrada A58|A58]] (tangenziale Est Esterna di Milano) e la [[Autostrada A50|A50]] (tangenziale Ovest di Milano), compone il più esteso sistema italiano di [[tangenziale|tangenziali]] intorno a una città: aggiungendo alle tre tangenziali il tratto urbano della [[Autostrada A4 (Italia)|A4]] che corre parallelo alla tangenziale Nord (il tratto della Nord è però molto più sinuoso), si ottiene un sistema di autostrade urbane che circonda totalmente il comune di [[Milano]]. Il flusso di traffico che interessa questo tratto autostradale è di circa 80.000 transiti giornalieri.
+
+== Storia ==
+Iniziata dalla società concessionaria [[Milano Serravalle-Milano Tangenziali|Milano Serravalle - Milano Tangenziali S.p.A.]] e terminata da [[Autostrade per l'Italia]] dopo tre decenni, la tangenziale Nord ha la funzione di collegare le aree fortemente urbanizzate e industrializzate della [[Brianza]] con l'[[Autostrada A4 (Italia)|autostrada Torino-Trieste]] e con la [[Autostrada A51|tangenziale Est]], rappresentando l'alternativa alla [[Autostrada A4 (Italia)|A4]] per il traffico locale. L'intera opera ha sofferto di una cronica mancanza di finanziamenti che ne ha allungato i tempi di costruzione.
+
+I lavori per il primo tronco, da [[Cologno Monzese]] a [[Paderno Dugnano]], sono terminati nel [[1994]]. Tra [[29 marzo|marzo]] [[2005]] e il [[2008]] è stato invece aperto il lotto di collegamento tra [[Rho]], la [[fiera di Milano]], e la [[Autostrada A8 (Italia)|A8]], primo tratto del tronco ovest, completato nella propria interezza (fino a [[Baranzate]]) nel [[2015]], per [[Expo 2015|Expo]]<ref name="autostrade.it">{{cita web|url=http://www.autostrade.it/it/la-nostra-rete/piano-investimenti-interventi-in-corso/a8-nuova-fiera-di-milano|titolo=Piano di investimenti e interventi in corso / A8 Nuova Fiera di Milano|accesso=26 agosto 2017|dataarchivio=27 agosto 2017|urlarchivio=https://web.archive.org/web/20170827010142/http://www.autostrade.it/it/la-nostra-rete/piano-investimenti-interventi-in-corso/a8-nuova-fiera-di-milano|urlmorto=sì}}</ref>. I collegamenti tra i due tronchi, da [[Baranzate]] a [[Paderno Dugnano]], sono stati invece a lungo garantiti dalla strada provinciale Monza-Rho. Il [[9 febbraio]] [[2009]] era stato approvato da [[ANAS]] il progetto preliminare di completamento dell'A52, dal costo previsto di 428 milioni di [[euro]]. I lavori, iniziati nell'aprile del [[2014]], vennero suddivisi in 3 lotti e gestiti dalla società [[Milano Serravalle-Milano Tangenziali|Milano Serravalle - Milano Tangenziali]] ad eccezione della variante di [[Baranzate]], gestita da [[Autostrade per l'Italia]].<ref>{{cita web|url=https://www.affaritaliani.it/static/upload/pres/0003/presentazione_agnoloni_assimpredil-ance_20-novembre.pdf|titolo=Milano Serravalle – Milano Tangenziali S.p.A. Le nuove tratte autostradali in fase di realizzazione|data=20 novembre 2013|accesso=26 agosto 2017}}</ref> Dal [[27 aprile]] [[2015]], in vista di [[Expo 2015|Expo]], è stata aperta provvisoriamente una bretella a due corsie di marcia per creare continuità fra la tratta est e la ovest, garantendo fluidità al traffico. L'inaugurazione ufficiale del viadotto che scavalca la [[Strada statale 35 dei Giovi#Superstrada Milano-Meda-Lentate|SS35]] e della galleria fonica nei pressi di [[Paderno Dugnano]] si è tenuta il [[14 novembre]] [[2022]], completando così l'autostrada nella propria interezza.<ref name=":0">{{Cita web|url=https://tg24.sky.it/milano/2022/11/14/autostrada-rho-monza-apertura|titolo=Autostrada Rho-Monza, oggi l'apertura dopo sette anni di lavori|autore=Sky TG24|sito=tg24.sky.it|lingua=it|accesso=2022-11-14}}</ref><ref>{{Cita web|url=https://primamilanoovest.it/cronaca/rho-monza-inaugurata-la-galleria-di-paderno/|titolo=Rho-Monza: inaugurata la galleria di Paderno|autore=Lorenzo Giglio|sito=Prima Milano Ovest|data=2022-11-14|lingua=it-IT|accesso=2022-11-14}}</ref>L'apertura effettiva al traffico del nuovo ed ultimo tratto della tangenziale nord è avvenuta il mattino successivo; restano da completare alcune opere secondarie esterne alla sede stradale.
+
+Con la conclusione delle opere si sono conseguiti due obiettivi importanti: consentire un percorso che attraversasse l'area settentrionale del capoluogo lombardo da est ad ovest alternativo al tratto urbano dell'[[Autostrada A4 (Italia)|A4]] e chiudere l'anello rappresentato dalle tangenziali [[Autostrada A50|A50]]-[[Autostrada A51|A51]]-A52.
+
+A differenza della A50 e della A51, che hanno attribuito una numerazione a tutte le proprie uscite, la A52 ha numerato solo tre dei suoi svincoli.
+
+== L'autostrada oggi ==
+Ha una lunghezza di circa 26&nbsp;km ed è costituita da due [[corsia di marcia|corsie per senso di marcia]] più la [[corsia di emergenza]]. Ha un andamento per la maggior parte curvilineo a causa del territorio densamente urbanizzato, 16 uscite e 4 interconnessioni autostradali. Il limite di velocità varia da un minimo di 60&nbsp;km/h ad un massimo di 90&nbsp;km/h.
+
+Ha inizio con il km 0 dalla connessione nei pressi del comune di [[Sesto San Giovanni]] con la [[Autostrada A51|tangenziale est]], da cui raccoglie solo il traffico proveniente dalla carreggiata nord e sulla quale si immette solamente in direzione sud. Passata la [[barriera autostradale]] di Sesto San Giovanni, dal km 4 al km 12, così come dal 17 al 20, è stata costruita totalmente in trincea, riducendo così l'impatto visivo sul territorio circostante.
+
+Si collega con l'[[Autostrada A4 (Italia)|autostrada Serenissima]] Torino-Trieste nel territorio del comune di [[Monza]], proseguendo poi nel comune di [[Cinisello Balsamo]], incrociando la [[Strada statale 36 del Lago di Como e dello Spluga|SS36]], fino a sovrappassare la [[Strada statale 35 dei Giovi#Superstrada Milano-Meda-Lentate|SS35 Milano-Meda]].
+
+Dopo [[Paderno Dugnano]], la tangenziale attraversa un innovativo tunnel fonico<ref>{{Cita web|url=https://www.stradeeautostrade.it/gallerie-e-tunnelling/s-p-46-rho-monza-la-galleria-fonica-di-paderno-dugnano/|titolo=S.P. 46 “Rho-Monza”: la galleria fonica di Paderno Dugnano|sito=Strade & Autostrade Online|data=2021-01-21|lingua=it-IT|accesso=2022-11-15}}</ref><ref>{{Cita web|url=https://milano.repubblica.it/cronaca/2022/11/14/news/rho_monza_tangenziale_a52_la_russa_salvini-374500971/|titolo=Rho-Monza, inaugurato il prolungamento della Tangenziale Nord A52 fino a Novate Milanese|sito=la Repubblica|data=2022-11-14|lingua=it|accesso=2022-11-15}}</ref> che riduce l'impatto sonoro ed ambientale nei quartieri più vicini all'arteria. Sono inoltre in fase di completamento in quest'ultimo tratto ulteriori opere di mitigazione dell'impatto ambientale e bretelle lungo la viabilità ordinaria.<ref>{{Cita web|url=https://blog.urbanfile.org/2022/11/15/milano-mobilita-inaugurata-la-tangenziale-nord/|titolo=Milano {{!}} Mobilità - Inaugurata la Tangenziale Nord|autore=Roberto Arsuffi|sito=Urbanfile Blog|data=2022-11-15|lingua=it-IT|accesso=2022-11-15}}</ref> Presso [[Baranzate]] un sovrappasso permette di evitare l'intersezione a raso con la [[Strada statale 233 Varesina|statale Varesina]] e consente una connessione diretta con la [[Autostrada A8 (Italia)|A8]] e la [[Autostrada A4 (Italia)|A4]], per poi snodarsi tra la casa di reclusione di [[Bollate]], la [[Rho|fiera di Rho]] e l'area [[Expo 2015|Expo]]. Si interseca infine con la [[Tangenziale Ovest di Milano|Tangenziale Ovest]], oltre la quale prosegue senza soluzione di continuità nella [[Strada statale 33 del Sempione|SS33 del Sempione]].<ref name="teonline.autostrade.it">{{cita web|url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2|titolo=TE - Trasporti Eccezionali - Rami autostradali|accesso=26 agosto 2017|dataarchivio=13 marzo 2013|urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2|urlmorto=sì}}</ref>
+
+== Tabella del percorso ==
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''{{simbolo|Autostrada A52 Italia.svg|30}} Tangenziale Nord di Milano'''
+|-
+! align="center" |'''n°'''!! align="center" |'''Tipo'''!! align="center" |↓km↓!! align="center" |''↑km↑''!! align="center" |Prov.
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Autostrada A51 Italia.svg|23}} [[Autostrada A51|Tangenziale Est di Milano]]<br><small>solo da e verso Bologna</small>||0,0|| align="right" | 26,4
+! rowspan="4" align="right" |[[Provincia di Milano|MI]] 
+|-
+| [[File:AB-AS-grün.svg]]||[[Sesto San Giovanni]] Sud <small>- [[Cologno Monzese]]<br>verso Rho solo entrata<ref>Per l’uscita si usa lo svincolo 11 della A51, funzionalmente collegato a questo nella viabilità ordinaria; questo svincolo è infatti indicato per il traffico proveniente da nord e per quello indirizzato nella direzione nord della A51</ref></small>
+| 1,0 || align="right" |25,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sesto San Giovanni]] <small>{{simbolo|Milano linea M1.svg}} [[Sesto Marelli]]-[[Sesto 1º Maggio FS|Sesto 1º Maggio]]</small>|| 3,2 || align="right" |23,2
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Sesto San Giovanni]]<br><small>''pedaggio 2,60€''</small><ref>{{Cita web|url=https://www.serravalle.it/index.php/pagine/pedaggio|titolo=Milano Serravalle - Pedaggio|sito=www.serravalle.it|lingua=it|accesso=2024-06-07}}</ref>|| 3,7 || align="right" |22,8
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Autostrada Torino - Venezia]]|| 4,3 || align="right" | 22,2
+! rowspan="4" align="right" |[[Provincia di Monza e della Brianza|MB]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Monza]] [[Sant'Alessandro (Monza)|Sant'Alessandro]]|| 4,6 || align="right" |21,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Monza]] {{simbolo|Italian traffic signs - centro città.svg|15}}<br><small>{{simbolo|Milano linea M1.svg}} [[Sesto 1º Maggio FS|Sesto 1º Maggio]]</small>
+| 5,3 || align="right" |21,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cinisello Balsamo]] Robecco<br><small>solo uscita in direzione Bologna, solo entrata in direzione Rho</small>
+| 5,8 || align="right" |20,7
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Monza]] [[Villa Reale di Monza|Villa Reale]]<br>{{simbolo|Strada Statale 36 Italia.svg|35}} <small>[[Strada statale 36 del Lago di Como e dello Spluga|Superstrada Milano-Lecco]]<br>entrata solo verso Bologna</small>
+|6,5 || align="right" | 20,0
+! rowspan="3" |[[Provincia di Milano|MI]]
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Cinisello Balsamo]] sud<br><small>[[Viale Zara|Milano v.le Zara]]</small>
+|6,6 || align="right" | 19,9
+|-
+| [[File:AB-AS-grün.svg]]|| {{simbolo|Strada Provinciale 151 Italia.svg|35}} [[Cinisello Balsamo]] Nord - [[Muggiò]]|| 8,5|| align="right" | 18,0
+|-
+| [[File:AB-AS-grün.svg]]||{{simbolo|Strada Provinciale 131 Italia.svg|35}} [[Nova Milanese]]|| 9,5|| align="right" | 17,0
+! align="right" |[[Provincia di Monza e della Brianza|MB]]
+|-
+| {{simbolo|AB-Tank.svg|16}}|| Area Servizio "Cinisello Balsamo Nord"|| 10,5
+| align="right" | -
+! rowspan="12" align="right" |[[Provincia di Milano|MI]]
+|-
+| [[File:AB-AS-grün.svg]]<br>{{simbolo|MA Route 10.svg}}|| <small>{{simbolo|Strada Provinciale 9 Italia.svg|35}}</small> Vecchia Valassina <small>direz. [[Erba (Italia)|Erba]] <br> ''alias'' [[Paderno Dugnano|Paderno]] Calderara</small><ref>Il primo nome è nella vecchia cartellonistica; data l’irrazionalità di tale indicazione per raggiungere Erba, i nuovi cartelli in corso di installazione riportano il nuovo nome</ref>
+| 11,5 || align="right" |15,0
+|-
+| [[File:AB-Kreuz-blaugrün.svg]]<br>{{simbolo|MA Route 11.svg}}|| {{simbolo|Strada Statale 35 Italia.svg|35}} [[Superstrada Milano-Meda|Superstrada Milano - Meda]]|| 13,0 || align="right" |13,5
+|-
+| [[File:AB-AS-grün.svg]]<br>{{simbolo|MA Route 12.svg}}|| [[Cormano]]-[[Bollate]]|| 16,0 || align="right" |10,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bollate]]-[[Novate Milanese|Novate]]|| 19,9 || align="right" |6,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Baranzate]]|| 20,9 || align="right" |4,8
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A8 Italia.svg|23}} [[Autostrada A8 (Italia)|Autostrada Milano - Varese]]
+| 21,5|| align="right" |4,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Mazzo (Rho)|Mazzo di Rho]] - <small>[[Expo 2015|Expo]] [[Cascina Triulza|Triulza]]</small>
+| - 4,0
+| align="right" |<small>21,6 =<br>racc.-4,4</small>
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Autostrada Torino - Venezia]]<br/><small>in direzione Monza entrata solo da Venezia, in direzione Rho uscita solo verso Venezia<br>[[Pero (Italia)|Pero]] - [[Fieramilano]] est</small>|| - 3,0|| align="right" |2,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Fieramilano]] ovest
+| - 0,6 || align="right" |1,3
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A50 Italia.svg|23}} [[Autostrada A50|Tangenziale Ovest di Milano]]
+| - 0,1 || align="right" |0,4
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg}}|| [[Rho]] {{simbolo|Strada Statale 33 Italia.svg|35}} <small>[[Strada statale 33 del Sempione|del Sempione]]</small>|| - 0,0 || align="right" |0,0
+|}<references group="A51"/>
+<small>Nota: la chilometrica inversa non è ufficiale</small>
+
+== Note ==
+<references/>
+
+== Voci correlate ==
+* [[Milano Serravalle-Milano Tangenziali]]
+* [[Autostrada A50|Tangenziale Ovest]]
+* [[Autostrada A51|Tangenziale Est]]
+
+== Altri progetti ==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{Cita web|https://www.serravalle.it|Milano Serravalle- Milano Tangenziali S.p.A.}}
+* {{Cita web|https://www.lotsberg.net/data/italia/A52.html|Gallerie e viadotti della A52}}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}{{Portale|Milano|trasporti}}
+
+[[Categoria:Tangenziali di Milano]]
+[[Categoria:Autostrade in Italia|A52]]

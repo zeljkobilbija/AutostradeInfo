@@ -1,0 +1,552 @@
+{{Strada
+|nome = Autostrada A14
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada Adriatica <br />Bologna-Taranto
+|simbolo = Autostrada A14 Italia.svg
+|nome precedente =[[Autostrada A17 (Italia)|Autostrada A17]] (nel tratto Canosa-Bari, 1968-1973) 
+|nome successivo = 
+|divisione amm 1 = {{IT-EMR}}<br />{{IT-MAR}}<br />{{IT-ABR}}<br />{{IT-MOL}}<br />{{IT-PUG}}
+|divisione amm 2 = 
+|inizio = innesto da [[Autostrada A1 (Italia)|A1]] presso [[Bologna]]
+|fine = innesto in [[Strada statale 7 Via Appia|SS7]] presso [[Massafra]] ([[Provincia di Taranto|TA]])
+|lunghezza = 743,4<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=10&ramo=10&code=A14&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente --> |accesso=8 dicembre 2009 |urlarchivio=https://web.archive.org/web/20130313001702/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=10&ramo=10&code=A14&link=&tipo= |urlmorto=no }}</ref>
+|direzione = 
+|apertura = a tratte, fra il [[1966]] e il [[1975]]<ref name=autogenerato1>{{Cita web |url=http://psc.comune.bologna.it/qc_cd/volume5/Vol5_infrastrutture_stradali.pdf |titolo=Infrastrutture sul sito del Comune di Bologna |accesso=9 aprile 2009 |urlarchivio=https://web.archive.org/web/20120131220849/http://psc.comune.bologna.it/qc_cd/volume5/Vol5_infrastrutture_stradali.pdf |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|Sistema chiuso]]<ref>Gratuiti solo gli ultimi 9 km tra la barriera di Taranto nord e la SS7</ref> 
+|città servite = [[Bologna]], [[Rimini]], [[Pesaro]], [[Ancona]], [[Pescara]], [[Foggia]], [[Bari]], [[Taranto]]
+|intersezioni = * [[Autostrada A1 (Italia)|A1]], [[Autostrada A13 (Italia)|A13]] e [[Raccordo autostradale 1|RA1]]  a [[Bologna]]
+* [[Raccordo autostradale 11|RA11]] a [[San Benedetto del Tronto]]
+* [[Autostrada A25 (Italia)|A25]] e [[Raccordo autostradale 12|RA12]] a [[Pescara]]
+* [[Autostrada A16 (Italia)|A16]] a [[Cerignola]]
+* [[Strada Statale 16 Adriatica|SS 16]] a [[Bari]]
+* [[Strada Statale 7 Via Appia|SS 7]] e [[Strada Statale 100 di Gioia del Colle|SS 100]] a [[Massafra]]
+|europea1 = 45 
+|europea2 = 55 
+|europea3 = 843
+|mappa = Italia - mappa autostrada A14.svg
+|tracciato = 
+}}
+L{{'}}'''autostrada A14''', detta anche '''Bologna-Taranto''' o '''Autostrada Adriatica''', collega [[Bologna]] a [[Taranto]] attraversando la penisola italiana costeggiando per lunghi tratti il mar Adriatico e passando per [[Ancona]], [[Pescara]] e [[Bari]]. Lunga {{m|743,4|ul=km}}, è interamente gestita da [[Autostrade per l'Italia]]<ref>{{Cita web|lingua=it-IT|url=https://www.autostrade.it/it/la-nostra-rete|titolo=Rete in gestione|sito=Autostrade per l'Italia|accesso=2025-05-24}}</ref>.
+
+È la seconda autostrada italiana per lunghezza e anche secondo asse meridiano principale della [[rete autostradale italiana]] dopo la [[Autostrada A1 (Italia)|A1]].
+
+== Storia ==
+[[File:Tracciato-ss9racc.png|miniatura|destra|Tracciato della SS 9 racc nel 1960]]
+L'attuale autostrada A14 [[Bologna]]-[[Taranto]] ha origine da tre tratte autostradali concepite separatamente: l'autostrada Adriatica Bologna-[[Canosa di Puglia|Canosa]], la tratta Canosa-[[Bari]] dell'[[Autostrada A17 (Italia)|autostrada Napoli-Bari]] e la tratta Bari-Taranto dell'incompiuta autostrada jonica Bari-Taranto-[[Sibari]].
+
+=== La tratta Bologna-Canosa ===
+In seguito alla [[legge]] 729 del [[1961]] sul ''Piano di nuove costruzioni stradali e autostradali'', il primo tratto di A14 a essere costruito fu quello da [[Bologna]] alla [[provincia di Forlì]] (il 7 luglio [[1966]], l'allora [[Ministero dei lavori pubblici|ministro dei lavori pubblici]] [[Giacomo Mancini]] tagliò il nastro tricolore a [[San Lazzaro di Savena]]<ref>{{Cita web |url=http://www.ilrestodelcarlino.it/forli/2008/07/08/102969-forli_aspetto_mezzanotte.shtml |titolo=''E per l'A14 Forlì aspettò mezzanotte 8 luglio '66 tutti assiepati al casello'' |accesso=15 agosto 2016 |urlarchivio=https://web.archive.org/web/20160820130054/http://www.ilrestodelcarlino.it/forli/2008/07/08/102969-forli_aspetto_mezzanotte.shtml |urlmorto=no }}</ref>), mentre nel [[1967]] fu inaugurato il tratto della [[Tangenziale di Bologna]]; questo tratto ha assorbito una vecchia strada di raccordo tra l'[[Autostrada A1 (Italia)|A1]] e la [[strada statale 9 Via Emilia|SS 9]], denominata ''SS 9 racc'', aperta a fine [[1959]] insieme al tratto bolognese dell'autostrada del Sole.
+
+Il 7 luglio [[1966]] venne aperto il tratto da Bologna via Massarenti (oggi: Castenaso) a [[Cesena]],<ref>{{Cita pubblicazione |titolo = Notiziario della Società "Autostrade" |rivista = Autostrade |volume = anno VIII |numero = 9 |editore = |città = Roma |anno = 1966 |mese = settembre |p = 65 |ISSN = 0005-1756 }}</ref> seguito il 13 agosto successivo dal tratto seguente da Cesena a [[Rimini]] sud.<ref>{{Cita pubblicazione |titolo = Notiziario della Società "Autostrade" |rivista = Autostrade |volume = anno VIII |numero = 10-11 |editore = |città = Roma |anno = 1966 |mese = ottobre-novembre |p = 60 |ISSN = 0005-1756 }}</ref>
+
+Il 15 maggio [[1968]] venne aperto al traffico il breve tratto da Rimini sud a [[Riccione]],<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno X |numero = 7 |editore = |città = Roma |anno = 1968 |mese = luglio |p = 51 |ISSN = 0005-1756 }}</ref> seguito il 22 luglio dal tratto da [[Riccione]] a [[Cattolica (Italia)|Cattolica]]<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno X |numero = 9 |editore = |città = Roma |anno = 1968 |mese = settembre |p = 61 |ISSN = 0005-1756 }}</ref> e il 16 novembre dal tratto da Cattolica a [[Pesaro]].<ref>{{Cita pubblicazione |titolo = Aperta l'autostrada da Cattolica a Pesaro |rivista = Autostrade |volume = anno X |numero = 11 |editore = |città = Roma |anno = 1968 |mese = novembre |p = 9 |ISSN = 0005-1756 }}</ref>
+
+Il tronco da [[Pesaro]] a [[Fano]] venne inaugurato il 19 aprile [[1969]] alla presenza del [[Ministero delle partecipazioni statali|ministro delle partecipazioni statali]] [[Arnaldo Forlani]].<ref>{{Cita pubblicazione |titolo = Un altro passo verso Ancona |rivista = Autostrade |volume = anno XI |numero = 4 |editore = |città = Roma |anno = 1969 |mese = aprile |p = 3 |ISSN = 0005-1756 }}</ref><ref>{{Cita pubblicazione |titolo = Aperto un nuovo tratto della Bologna-Canosa di Puglia |rivista = Le Strade |volume = anno XLIX |numero = 5 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1969 |mese = maggio |p = 279 |ISSN =  |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1561#page/380/mode/2up |accesso = 26 novembre 2018 |urlarchivio = https://web.archive.org/web/20180612163044/https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1561#page/380/mode/2up |urlmorto = no }}</ref>
+
+Il 31 maggio [[1969]] venne aperto il tronco da Fano ad [[Ancona]] sud,<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno XI |numero = 7 |editore = |città = Roma |anno = 1969 |mese = luglio |p = 67 |ISSN = 0005-1756 }}</ref> mentre il successivo 4 novembre venne inaugurato anche il tratto da [[Pescara]] nord-[[Città Sant'Angelo]] a [[Vasto]] (uscita provvisoria all'altezza dell'attuale km 444+700) alla presenza dei ministri [[Lorenzo Natali]] e [[Remo Gaspari]].<ref>{{Cita pubblicazione |titolo = Una nuova dimensione per l'Abruzzo |rivista = Autostrade |volume = anno XI |numero = 11 |editore = |città = Roma |anno = 1969 |mese = novembre |pp = 30-31 |ISSN = 0005-1756 }}</ref>
+
+Il 2 maggio [[1972]] venne aperta la tratta da [[Foggia]] a [[Canosa di Puglia|Canosa]], dove l'autostrada confluiva nella già esistente [[Autostrada A17 (Italia)|autostrada Napoli-Bari]].<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno XIV |numero = 7 |editore = |città = Roma |anno = 1972 |mese = luglio |p = 55 |ISSN = 0005-1756 }}</ref>
+
+I due tratti mancanti, da Ancona sud a Pescara nord-Città Sant'Angelo e da Vasto a Foggia, vennero inaugurati il 14 marzo [[1973]]<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno XV |numero = 6 |editore = |città = Roma |anno = 1973 |mese = giugno |p = 58 |ISSN = 0005-1756 }}</ref> alla presenza del Presidente della Repubblica [[Giovanni Leone]].<ref>{{Cita pubblicazione |titolo = Il Presidente della Repubblica ha inaugurato l'autostrada «Adriatica» |rivista = Autostrade |volume = anno XV |numero = 4 |editore = |città = Roma |anno = 1973 |mese = aprile |p = 2 |ISSN = 0005-1756 }}</ref>
+
+=== La tratta Canosa-Bari (ex A17) ===
+Il 4 aprile [[1966]] venne aperto al traffico il tratto da [[Canosa di Puglia|Canosa]] e l'innesto sulla [[Strada statale 96 Barese|SS 96]] presso [[Bari]] (oggi: Bari Zona Industriale), per una lunghezza di {{M|62.7|ul=km}}.<ref>{{Cita pubblicazione |titolo = Cronache autostradali |rivista = Autostrade |volume = anno VIII |numero = 6 |editore = |città = Roma |anno = 1966 |mese = giugno |p = 76 |ISSN = 0005-1756 }}</ref>
+
+Il successivo 24 dicembre venne attivato un breve tratto da Canosa a un innesto provvisorio sulla strada provinciale per [[San Ferdinando di Puglia|San Ferdinando]], che consentiva di evitare lʾattraversamento della città pugliese.<ref>{{Cita pubblicazione |titolo = La rete autostradale IRI - Dati e notizie |rivista = Autostrade |volume = anno IX |numero = 2 |editore = |città = Roma |anno = 1967 |mese = febbraio |p = 53 |ISSN = 0005-1756 }}</ref>
+
+Il 25 novembre [[1968]] venne aperto il tronco da [[Raccordo A14-Tangenziale di Bari|Bari zona industriale alla circonvallazione del capoluogo pugliese]].<ref name = "Raccordo Bari">{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno XI |numero = 4 |editore = |città = Roma |anno = 1969 |mese = aprile |p = 59 |ISSN = 0005-1756 }}</ref>
+
+=== La tratta Bari-Taranto ===
+La tratta da [[Bari]] a [[Taranto]] avrebbe dovuto essere parte di un più esteso progetto di un'autostrada lungo la costa ionica, da Bari a [[Sibari]], che però non venne mai definito. I lavori ebbero inizio il 30 novembre [[1971]].<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno XIV |numero = 1 |editore = |città = Roma |anno = 1972 |mese = gennaio |p = 55 |ISSN = 0005-1756 }}</ref>
+
+La tratta venne aperta interamente nel [[1975]], in tre fasi: il 1º luglio si aprirono i primi {{M|5.5|ul=km}} da Bari nord a Bari sud, in parte affiancati da carreggiate complanari;<ref>{{Cita pubblicazione |titolo = Aperti al traffico i primi 5,5 km della Bari - Taranto (A-14) |rivista = Autostrade |volume = anno XVII |numero = 5 |editore = |città = Roma |anno = 1975 |mese = maggio |p = 44 |ISSN = 0005-1756 }}</ref> il 12 settembre seguì il tratto da Bari sud a [[Gioia del Colle]];<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno XVII |numero = 12 |editore = |città = Roma |anno = 1975 |mese = dicembre |p = 72 |ISSN = 0005-1756 }}</ref> e infine il 6 dicembre fu aperta l'ultima tratta da Gioia a [[Taranto]].<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = Autostrade |volume = anno XVIII |numero = 3 |editore = |città = Roma |anno = 1976 |mese = marzo |p = 61 |ISSN = 0005-1756 }}</ref>
+
+Per ridurre l'impatto sull'ambiente e consolidare i terreni durante i lavori vennero impiantate 8 milioni di piante, sia nello spartitraffico sia nelle scarpate. Nel tratto tra Bari e Taranto, in particolare, si utilizzarono 75.000 cespugli di oleandri per le barriere che separano le carreggiate, 5 milioni di piante e 12.000 alberi di alto fusto.
+
+== Incidenti ==
+
+=== Incidente del 6 agosto 2018 ===
+Il 6 agosto 2018, al km 4 del Ramo Casalecchio del tratto di autostrada ricadente nel Comune di [[Bologna]], ha avuto luogo un gravissimo incidente. Durante un rallentamento, un autoarticolato con cisterna carico di 30 tonnellate di [[Gas di petrolio liquefatti|GPL]] tampona il mezzo che lo precede nella coda, carico di solventi diluiti, e prende immediatamente fuoco. Qualche minuto dopo, a causa dell'infiammabilità dei carichi, ha luogo una gigantesca esplosione, che spaventa la cittadinanza e rompe alcune vetrate negli edifici in prossimità. Il fuoco raggiunge anche una concessionaria adiacente all'autostrada, distruggendo diversi veicoli, e causa il crollo di una parte del cavalcavia su via Lepido, provocando la chiusura di una carreggiata e della strada sottostante. Il bilancio complessivo è di 145 feriti, di cui 4 gravi, e 2 morti, l'autista del [[Trasporto internazionale su gomma|TIR]] e un anziano di 81 anni, rimasto ferito a causa dell'onda d'urto e deceduto dopo 8 giorni di agonia.<ref>{{Cita web |url=http://bologna.repubblica.it/cronaca/2018/08/14/news/esplosione_bologna_anziano_muore_a_8_giorni_dalla_tragedia-204111021/ |titolo=Esplosione Bologna, anziano muore a 8 giorni dalla tragedia - la Repubblica |accesso=26 novembre 2018 |urlarchivio=https://web.archive.org/web/20181221012149/https://bologna.repubblica.it/cronaca/2018/08/14/news/esplosione_bologna_anziano_muore_a_8_giorni_dalla_tragedia-204111021/ |urlmorto=no }}</ref>
+
+== L'autostrada oggi ==
+Il tracciato dell'autostrada è costituito prevalentemente da un tracciato avente due corsie per senso di marcia, mentre in questi tratti vi è la presenza della terza corsia:
+
+* Allacciamento [[Autostrada A1 (Italia)|A1]] - [[Porto Sant'Elpidio]], per 271 km, il tratto è comprensivo anche della terza corsia dinamica nel tratto urbano di Bologna per circa 14 km da Bologna Borgo Panigale a Bologna S. Lazzaro;
+* Barriera di Taranto nord - km 729, per circa 6 km.
+
+[[File:Sistema Autostradale Bologna.svg|destra|miniatura|Il nodo di Bologna]]
+[[File:PMV A14-RA1.JPG|miniatura|Il tratto urbano di Bologna, dove è attiva la [[Corsia dinamica|terza corsia dinamica]], nei pressi dell'innesto con la A13 Bologna-Padova e dello svincolo n.6 della ''tangenziale di Bologna-RA1'', che scorre qui complanare all'autostrada]]
+Il suo percorso è prettamente rettilineo, senza presenza di gallerie e con pochi viadotti, con curve ad ampio raggio nel tratto pugliese, molisano e emiliano, mentre, nel tratto marchigiano ed abruzzese è caratterizzato da continui saliscendi e curve, generalmente ad ampio raggio, con presenza di sporadiche [[Gallerie per lunghezza|gallerie stradali]] e numerosi [[viadotto|viadotti]].
+
+Sono in corso i lavori di costruzione della quarta corsia tra Bologna S. Lazzaro e l'allacciamento con la A14dir.<ref>{{Cita web|url=https://va.mite.gov.it/it-IT/Oggetti/Info/422|titolo=Autostrada A14 Bologna - Bari - Taranto: ampliamento alla quarta corsia nel tratto Bologna San Lazzaro - Diramazione Ravenna - Info - Valutazioni e Autorizzazioni Ambientali - VAS - VIA - AIA|sito=va.mite.gov.it|accesso=2025-01-29}}</ref>
+
+Ha origine a [[Bologna]], intersecandosi con l'[[Autostrada A1 (Italia)|Autostrada A1]] e termina il suo percorso circa 20&nbsp;km prima di [[Taranto]], allacciandosi alla [[Strada statale 7 Via Appia]] presso [[Massafra]]. Nel comune di [[Palagianello]] è presente la [[barriera autostradale]] finale denominata Taranto Nord.
+
+Nel primo tratto, Ramo Casalecchio-Bologna S. Lazzaro (stretta ai lati dalla [[tangenziale]] complanare di Bologna), è stata aperta al traffico la [[Corsia dinamica|terza corsia dinamica]]. Questo tratto risulta tra i nodi stradali più trafficati d'Italia e per questo motivo, dal km 8 al km 22, è stato ampliato a [[Corsia dinamica|tre corsie dinamiche]], che consente in caso di traffico intenso di usare la corsia di emergenza come una corsia di marcia vera e propria. L'apertura della terza corsia dinamica è avvenuta il 16 gennaio [[2008]]<ref>{{cita testo|url=http://www.autostrade.it/opere/a14_panigale_lazzaro.html?initPos=2|titolo=Bologna b.ro Panigale – Bologna S.Lazzaro, realizzazione terza corsia – Autostrade per l'Italia S.p.A<!-- Titolo generato automaticamente -->|urlarchivio=https://web.archive.org/web/20090731034239/http://www.autostrade.it/opere/a14_panigale_lazzaro.html?initPos=2 }}</ref>.
+Dopo aver ricevuto il traffico automobilistico proveniente dall'[[Autostrada A13 (Italia)|autostrada A13]], attraversa la [[Romagna]] da nord-ovest a sud-est sino a [[Rimini]], [[Riccione]] e [[Cattolica (Italia)|Cattolica]], per poi costeggiare interamente la costa marchigiana del [[Mare Adriatico]] toccando le città di [[Pesaro]], [[Fano]], [[Mondolfo]], [[Senigallia]], [[Ancona]], [[Osimo]], [[Loreto]], [[Civitanova Marche]], [[Porto Sant'Elpidio]], [[Porto San Giorgio]], [[Pedaso]], [[Grottammare]] e [[San Benedetto del Tronto]] (km 311) con la [[Riviera delle Palme (Marche)|Riviera delle Palme]]; al km 312 varca il fiume [[Tronto]] (antico confine tra lo [[Stato Pontificio|Stato della Chiesa]] e il [[Regno delle due Sicilie]]) ed entra in [[Abruzzo]] attraversando il fiume [[Salinello]] con un [[Viadotto Salinello|imponente e lungo viadotto]] (alto 130 metri), il 35º più alto d'Italia<ref name="d">{{Cita web |url=http://www.highestbridges.com/wiki/index.php?title=Category:Bridges_in_Italy |titolo=Graduatoria dei viadotti più alti d'Italia |accesso=19 gennaio 2012 |urlarchivio=https://web.archive.org/web/20120110230721/http://highestbridges.com/wiki/index.php?title=Category:Bridges_in_Italy |urlmorto=no }}</ref>. Attraversa poi [[Giulianova]] (km 334), [[Roseto degli Abruzzi]], [[Montesilvano]], [[Chieti]], [[Pescara]] (ove collega l'[[autostrada A25 (Italia)|autostrada A25]] (km 377) in direzione [[Roma]]), [[Ortona]] (km 404), [[Lanciano]] (km 411) e [[Vasto]] (km 437). Il tratto abruzzese ha la caratteristica dei [[guard-rail]] laterali in alcune tratte non a viadotto realizzati in legno e in alcuni tratti realizzati in [[Acciaio Corten]]. Fino ai primi anni ottanta vi era una barriera allo svincolo di Lanciano. 
+
+Lo svincolo di Vasto sud ha una particolarità quasi unica: pur trovandosi in Molise, parte delle corsie di accelerazione è in territorio abruzzese, quindi a cavallo tra il confine delle due regioni.
+
+Il tracciato, varcato il fiume [[Trigno]], attraversa quindi la parte costiera del [[Molise]] e giunge a [[Termoli]] (km 476).
+
+[[File:Autostrada A14 Cesena nord.jpg|miniatura|L'autostrada nei pressi di [[Cesena]] nord]]
+Passato il fiume [[Biferno]] al km 478, il paesaggio, dapprima collinare con ampi scorci sul mare, diventa gradualmente più pianeggiante. Varcato il torrente [[Saccione]] presso il km 490 entra in [[Puglia]], con la prima area di servizio al km 494 (torre fantine sud), tocca [[Poggio Imperiale]] (km 507), e passando anche a lato delle cave di Apricena, dal km 511 al km 515, attraversa la [[Tavoliere delle Puglie|pianura del Tavoliere]] da [[nord]] a [[sud]] toccando [[San Severo]] (km 528), [[Foggia]] (km 554), [[Cerignola]] e l'[[Autostrada A16 (Italia)|A16]] (km 602-603).
+
+Passato il fiume [[Ofanto]] e dopo aver ricevuto il traffico automobilistico proveniente dall'[[Autostrada A16 (Italia)|Autostrada A16]], costeggia nuovamente la costa adriatica fino a [[Bari]] (km 672), toccando [[Canosa di Puglia]], [[Andria]] - [[Barletta]], [[Trani]], [[Molfetta]] e [[Bitonto]]. Da qui si dirige verso [[sud]] in direzione del [[Mar Ionio]], per terminare a pochi chilometri da [[Taranto]], ricongiungendosi con la [[Strada statale 7 Via Appia|SS7]], all'altezza di [[Massafra]], al km 743.
+
+Nel suo primo tratto hanno particolare importanza le uscite di [[Imola]], [[Faenza]], [[Forlì]] e [[Cesena]] (oltre che la diramazione verso [[Ravenna]]) per l'accesso alle zone industrializzate. L'uscita di Imola ha importanza anche per la presenza dell'[[Autodromo Enzo e Dino Ferrari]], vecchia sede del [[Gran Premio di San Marino]] (ora rinominato [[Gran Premio dell'Emilia-Romagna 2021|Gran premio dell'Emilia Romagna]]) di [[Formula 1]] e dei [[Gran Premio di motociclismo|Gran Premi]] di [[motociclismo]]. All'altezza dell'uscita di [[Cesena]] Nord l'autostrada si interseca con la [[SGC Orte-Ravenna]]/[[Strada europea E45|E45]] che consente di raggiungere [[Perugia]], e poi  [[Roma]] attraverso la [[Val Tiberina]]. 
+[[File:A14 Ascoli Piceno 2023.jpg|miniatura|L'autostrada presso [[Ascoli Piceno]] in direzione di Taranto]]
+L'uscita di [[Rimini|Rimini sud]] permette di raggiungere la [[Repubblica di San Marino]] attraverso la [[Strada statale 72 di San Marino]] che, superato il confine della piccola repubblica, assume la denominazione di [[Superstrada di San Marino]].
+
+Le uscite di Ancona Nord - Jesi e Ancona Sud - Osimo consentono di raggiungere il [[porto di Ancona|porto]] internazionale del [[Ancona|capoluogo marchigiano]], con imbarchi per la Croazia, l'Albania, il Montenegro e la Grecia. Sempre con l'omonimo svincolo, attraverso la superstrada [[Strada statale 76 della Val d'Esino|SS76 della Val d'Esino]], è possibile raggiungere l'[[Provincia di Ancona|entroterra anconetano]], quindi il territorio della Vallesina ([[Jesi]]), [[Fabriano]] e le [[Grotte di Frasassi]].
+
+L'uscita di Loreto-Porto Recanati è a pochi chilometri dal [[santuario di Loreto]], mentre, dallo svincolo di Civitanova Marche parte la superstrada [[Strada statale 77 della Val di Chienti|SS77 della val di Chienti]] che collega la costa con l'[[Umbria]] ([[Foligno]], [[Assisi]] e [[Perugia]]) e la [[Toscana]] ([[Arezzo]], [[Siena]]).
+Successivamente, il casello Giulianova-Teramo, appena dopo il [[viadotto Salinello]], permette l'allaccio con la [[Autostrada A24 (Italia)|A24]] che collega l'Adriatico a [[L'Aquila]] e [[Roma]], attraversando il [[parco nazionale del Gran Sasso]]. All'uscita di Pescara ovest-Chieti vi è un importante polo industriale e tramite il cosiddetto [[Raccordo autostradale 12|Asse attrezzato]] si può raggiungere il [[porto di Pescara]] e imbarcarsi per [[Spalato]] e la [[Dalmazia]].
+
+Il casello di Casalbordino-Vasto nord è a pochi chilometri dal [[Santuario della Madonna dei Miracoli (Casalbordino)|santuario della Madonna dei Miracoli]], mentre, più a sud, tramite il casello di Termoli è possibile raggiungere il [[Campobasso|capoluogo molisano]] e il [[porto di Termoli|porto]] e da qui imbarcarsi per le [[isole Tremiti]], e dal casello di Poggio Imperiale-Lesina si può giungere nel versante nord del [[Parco nazionale del Gargano]], con [[Peschici]], [[Vico del Gargano]], [[Ischitella]] e [[Rodi Garganico]]. Dopo lo svincolo di [[San Severo]], utile per i collegamenti con l'area garganica interna, tramite la statale [[Strada statale 272 di San Giovanni Rotondo|272]] ([[San Giovanni Rotondo]] con il [[Chiesa di Padre Pio|santuario di San Pio]], Manfredonia e [[Monte Sant'Angelo]] con il [[santuario di San Michele Arcangelo]]), notevole rilevanza ha il casello di [[Foggia]], da cui è possibile raggiungere il versante sud dello stesso parco nazionale del Gargano ([[Manfredonia]] con il suo porto, [[Mattinata]], [[Vieste]], anche Monte sant'Angelo e San Giovanni Rotondo), ma anche le regioni [[Campania]] ([[Ariano Irpino]], tramite la [[strada statale 90 delle Puglie]] e Benevento) e [[Basilicata]] ([[Melfi]], tramite la [[strada statale 655 Bradanica]] e Potenza, con la statale 658).
+
+[[File:Autostrada A14 - uscita Mottola-Castellaneta - segnale di itinerario.png|miniatura|L'autostrada nei pressi di [[Mottola]]-[[Castellaneta]]]]
+A sud di Foggia, in direzione [[Taranto]], hanno particolare importanza le uscite di [[Canosa di Puglia]] (con la vicina presenza dell'[[Autostrada A16 (Italia)|A16]] direzione [[Napoli]]), [[Andria]]-[[Barletta]] e [[Trani]] (città a elevata densità abitativa), [[Bari]] (uscite di Bari Zona Industriale- [[Modugno (Italia)|Modugno]] e [[Strada statale 96 Barese|SS 96]]/[[Strada statale 99 di Matera|SS 99]] e Bari Sud per [[Tangenziale di Bari]] e [[Stadio San Nicola]]) a servizio del capoluogo di regione della Puglia, e uscita ultima per il raggiungimento delle province di [[Matera]] (attraverso le [[Strada statale 96 Barese|SS 96]] fino ad [[Altamura]] e [[Strada statale 99 di Matera|SS 99]] per il capoluogo di provincia lucano), [[Provincia di Brindisi|Brindisi]] e [[Provincia di Lecce|Lecce]], nonché del [[Salento]] in generale (attraverso le superstrade [[Strada statale 16 Adriatica|SS 16]], [[SS 379]] e [[SS 613]]), e [[Taranto]] ([[Provincia di Taranto|Taranto e provincia]] tramite la [[Strada statale 7 Via Appia|SS 7]] e la [[Strada statale 106 Jonica|SS 106]] dopo il [[Casello autostradale|casello di Taranto Nord]]), punto cruciale per il raggiungimento delle aree ioniche della [[Basilicata]] e [[Calabria]] mediante la [[SS 106]] che collega alla [[Autostrada A2 (Italia)|autostrada A2 del Mediterraneo]] fino allo svincolo di [[Sibari]], dove originariamente doveva terminare la A14, per completare il corridoio nord-sud e quest'ultima giunge sino a [[Reggio Calabria]], e mediante [[Strada statale 7 Via Appia|la SS 7 Via Appia]] si raggiunge [[Taranto]], [[Brindisi]] e la [[Strada statale 100 di Gioia del Colle|SS 100 di Gioia del Colle]], quest'ultima per [[Bari]].
+[[File:A14 - A1.JPG|miniatura|L'innesto sull'[[Autostrada A1 (Italia)|autostrada del Sole]], mediante il cosiddetto Ramo Casalecchio al km 8]]
+
+== Percorso ==
+[[File:Autostrada A14.jpg|miniatura|L'autostrada nei pressi dello svincolo di [[Forlì]]]]
+
+[[File:A14 - A25 (3).JPG|miniatura|L'innesto con l'[[Autostrada A25 (Italia)|A25]] nei pressi dello svincolo Pescara ovest]]
+[[File:Autostrada -A14- 2018 by-RaBoe 012.jpg|miniatura|L'autostrada nei pressi di Pescara con lo sfondo del Gran Sasso d'Italia]]
+{| class="wikitable" 
+|- align="center" style="color: white;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A14 Italia.svg|30}} BOLOGNA-TARANTO'''<br />Autostrada Adriatica
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Area!!Strada europea
+|-
+|[[File:AB-Kreuz-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano]]
+| align="right" |0,0 || align="right" |743,4 || rowspan="10" align="center" |[[Città metropolitana di Bologna|BO]] || rowspan="15" align="center" |[[File:Italian traffic signs - strada europea 45.svg|47px|link=Strada europea E45|Simbolo dell'Autostrada E45]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "La Pioppa"|| align="right" |2,3 || align="right" |741,1
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Quartiere Borgo Panigale|Bologna Borgo Panigale]]<br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 1.svg|31}} [[raccordo autostradale 1#Ramo verde|Ramo verde]]</small><br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Bologna-Borgo Panigale]]</small>|| align="right" |4,8 || align="right" |738,6
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A14 Italia.svg|23}} [[#Ramo Casalecchio|Ramo Casalecchio]]<br />[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] [[Casalecchio di Reno|Bologna Casalecchio]]<br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 1.svg|31}} [[Raccordo autostradale 1|Tangenziale di Bologna]]</small><br /><small>{{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A1 Italia.svg}} [[Autostrada A1 (Italia)|Firenze]]</small>
+| align="right" |8,5 || align="right" |734,9
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A13 Italia.svg|23}} [[Autostrada A13 (Italia)|Padova]]<br /><small>[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] [[Bologna|Bologna Arcoveggio]]</small>
+| align="right" |14,3 || align="right" |729,1
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]||{{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Fiera di Bologna|Bologna Fiera]]<ref>{{Cita news|titolo=Apre il casello Bologna-Fiera|pubblicazione=La Repubblica|data=2006-12-06|nome=Francesco|cognome=Forni|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2006/12/06/apre-il-casello-bologna-fiera.html|accesso=2025-04-02|urlarchivio=https://web.archive.org/web/20180813044641/http://ricerca.repubblica.it/repubblica/archivio/repubblica/2006/12/06/apre-il-casello-bologna-fiera.html|urlmorto=no}}</ref> || align="right" |15,5 || align="right" |727,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[San Lazzaro di Savena|Bologna San Lazzaro]]<br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 1.svg|31}} [[Raccordo autostradale 1|Tangenziale di Bologna]] </small>|| align="right" |22,2 || align="right" |721,2
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Sillaro"|| align="right" |37,5 || align="right" |705,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]||[[Castel San Pietro Terme]]<br />{{simbolo|Italian traffic signs - icona terme.svg}}<small> Terme di Castel San Pietro</small>|| align="right" |38,1 || align="right" |705,3
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Imola]] || align="right" |50,1 || align="right" |693,3
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A14dir Italia.svg|23}} [[#A14 diramazione Ravenna|Ravenna]]<br /><small>{{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Strada Statale 309 Italia.svg|40}} ''[[Strada statale 309 Romea|Romea]]'' [[Venezia]]</small>
+| align="right" |56,7 || align="right" |686,7 || rowspan="3" align="center" |[[Provincia di Ravenna|RA]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Santerno"|| align="right" |59,5 || align="right" |683,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Faenza]] || align="right" |64,5 || align="right" |678,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Forlì]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} </small><small>[[Polizia stradale|''Polizia Stradale'']]</small><br /><small>{{simbolo|Italian traffic signs - icona terme.svg}} [[Castrocaro Terme e Terra del Sole|Castrocaro Terme]]</small>|| align="right" |81,6 || align="right" |661,8 || rowspan="6" align="center" |[[Provincia di Forlì-Cesena|FC]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Bevano"|| align="right" |89,5 || align="right" |653,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Cesena|Cesena nord]]<ref>{{Cita web |url=http://www.adnkronos.com/Archivio/AdnAgenzia/1995/09/22/Cronaca/AUTOSTRADE-INAUGURATO-CASELLO-CESENA-NORD_175300.php |titolo=Autostrade: Inaugurato Casello Cesena Nord<!-- Titolo generato automaticamente --> |accesso=17 marzo 2014 |urlarchivio=https://web.archive.org/web/20140419014602/http://www.adnkronos.com/Archivio/AdnAgenzia/1995/09/22/Cronaca/AUTOSTRADE-INAUGURATO-CASELLO-CESENA-NORD_175300.php |urlmorto=no }}</ref><br /><small>{{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Strada Statale 3bis Italia.svg|40}} ''[[Strada statale 3 bis Tiberina|Tiberina]]'' [[Sansepolcro]] - [[Perugia]] - [[Terni]]  </small><br /><small>{{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Strada Statale 675 Italia.svg|40}} ''[[Strada statale 675 Umbro-Laziale|Umbro-Laziale]]'' [[Orte]] - [[Viterbo]] - [[Roma]] </small>|| align="right" |93,6 || align="right" |649,8 || rowspan="76" align="center" |[[File:Italian traffic signs - strada europea 55.svg|47px|link=Strada europea E55|Simbolo dell'autostrada E55]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Cesena]] || align="right" |99,7 || align="right" |643,7
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Rubicone|Valle del Rubicone]]<ref name="autogenerato2">{{Cita web |url=http://www.romagnagazzette.com/2012/10/26/emilia-romagna-nuovo-casello-a14-valle-del-rubicone-inaugurato-oggi-a-gatteo/ |titolo=Da "Romagna Gazzette" del 26-10-2012: Emilia-Romagna. Il nuovo e atteso casello A14 "Valle del Rubicone" inaugurato a Gatteo. |accesso=21 novembre 2012 |urlarchivio=https://web.archive.org/web/20121128144051/http://www.romagnagazzette.com/2012/10/26/emilia-romagna-nuovo-casello-a14-valle-del-rubicone-inaugurato-oggi-a-gatteo/ |urlmorto=no }}</ref> || align="right" |110,1 || align="right" |631,3
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Rubicone"|| align="right" |111,3 || align="right" |630,1
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Rimini|Rimini nord]] - [[Bellaria-Igea Marina|Bellaria]] - [[Santarcangelo di Romagna|Santarcangelo]]|| align="right" |117,3 || align="right" |626,1 || rowspan="5" align="center" |[[Provincia di Rimini|RN]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Rimini|Rimini sud]]<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Rimini-Miramare]]</small><br /><small>{{simbolo|Strada Statale 72 Italia.svg|40}} ''[[Strada statale 72 di San Marino|di San Marino]]'' - {{SMR}} </small> || align="right" |127,4 || align="right" |616,0
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Montefeltro"|| align="right" |133,5 || align="right" |609,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Riccione]] || align="right" |135,4 || align="right" |608,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Cattolica (Italia)|Cattolica]] - [[San Giovanni in Marignano]] - [[Gabicce Mare]]|| align="right" |143,9 || align="right" |599,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Pesaro]] - [[Urbino]] || align="right" |155,9 || align="right" |587,5 || rowspan="5" align="center" |[[Provincia di Pesaro-Urbino|PU]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Foglia"|| align="right" |158,9 || align="right" |584,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Fano]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} </small><small>[[Polizia stradale|''Polizia Stradale'']]</small><br /><small>{{simbolo|Italian traffic signs - strada europea 78.svg|27}} {{simbolo|Strada Statale 73bis Italia.svg|40}} ''[[Strada statale 73 bis di Bocca Trabaria|di Bocca Trabaria]]'' [[Fossombrone]] - [[Sansepolcro]] - [[Arezzo]]</small>|| align="right" |173,3 || align="right" |570,1
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Marotta]] - [[Mondolfo]] || align="right" |184,9 || align="right" |558,5
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Metauro"|| align="right" |186,2 || align="right" |557,2
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] ||[[Senigallia]]<br /><small>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} ''Spiaggia di Velluto''</small> || align="right" |194,5 || align="right" |548,9 || rowspan="7" align="center" |[[Provincia di Ancona|AN]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Montemarciano]]<ref name="autogenerato3">{{Cita web |url=http://www.viveresenigallia.it/index.php?page=articolo&articolo_id=364344 |titolo=Da "Vivere Senigallia" del 28-07-2012: Montemarciano: taglio del nastro per il nuovo svincolo autostradale. |accesso=21 novembre 2012 |urlarchivio=https://web.archive.org/web/20140419014252/http://www.viveresenigallia.it/index.php?page=articolo&articolo_id=364344 |urlmorto=no }}</ref> || align="right" |207,9 || align="right" | 535,5
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Esino"|| align="right" |208,7 || align="right" |534,7
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Ancona|Ancona nord]] - [[Jesi]]<ref>Denominazione precedente: ''Ancona nord''</ref><br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} ''[[Aeroporto di Ancona|Aeroporto di Ancona-Falconara]]'' - [[Falconara Marittima]]</small> <br /><small>{{simbolo|Strada Statale 76 Italia.svg|35}} ''[[Strada statale 76 della Val d'Esino|della Val d'Esino]]'' - {{simbolo|Italian traffic signs - icona grotte.svg}} ''[[Grotte di Frasassi]]'' - [[Fabriano]] - [[Gubbio]] - [[Perugia]] </small> <br /> <small>{{simbolo|Italian traffic signs - icona porto.svg}}{{simbolo|Italian traffic signs - icona traghetto.svg}} ''Traghetti per [[Zara]] e [[Spalato]] ([[Croazia]]) - [[Patrasso]] ([[Grecia]])''</small>|| align="right" |213,5 || align="right" |529,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Ancona|Ancona sud]] - [[Osimo]]<ref>Denominazione precedente: ''Ancona sud''</ref><br /><small>[[Castelfidardo]] </small><br /><small>{{simbolo|Italian traffic signs - icona foresta.svg}} {{simbolo|Italian traffic signs - icona mare fiume lago.svg}} Riviera del Conero</small> || align="right" |230,4 || align="right" |513,0
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Conero"|| align="right" |239,0 || align="right" |504,4
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Loreto]] - [[Porto Recanati]]<br /><small> {{simbolo|Italian traffic signs - icona chiesa.svg}} ''[[Basilica della Santa Casa]]'' - [[Recanati]] </small>|| align="right" |245,5 || align="right" |497,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Civitanova Marche]] - [[Macerata]]<br /><small>{{simbolo|Strada Statale 77 Italia.svg|35}} ''[[Strada statale 77 della Val di Chienti|della Val di Chienti]]''  [[Civitanova Marche]]- [[Foligno]]</small><br /><small>{{simbolo|Strada Statale 3 Italia.svg|35}} ''[[Strada statale 3 Via Flaminia|Flaminia]]'' [[Spoleto]] - [[Terni]]</small><br /><small>{{simbolo|Strada Statale 75 Italia.svg|35}} ''[[Strada statale 75 Centrale Umbra|Centrale Umbra]]'' [[Assisi]] - [[Perugia]] - {{simbolo|Autostrada A1 Italia.svg}} ''[[Valdichiana]]'' </small> || align="right" |262,6 || align="right" |480,8 || rowspan="1" align="center" |[[Provincia di Macerata|MC]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Chienti"|| align="right" |263,9 || align="right" |479,5 || rowspan="6" align="center" |[[Provincia di Fermo|FM]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Porto Sant'Elpidio]]<ref name="autogenerato4">{{Cita web |url=http://www.ilrestodelcarlino.it/fermo/provincia/2011/07/29/553123-porto_sant_elpidio.shtml |titolo=Da "Il resto del Carlino": Apertura dello svincolo di P.to S.Elpidio avvenuta il 29-07-2011 |accesso=17 agosto 2011 |urlarchivio=https://web.archive.org/web/20140419020036/http://www.ilrestodelcarlino.it/fermo/provincia/2011/07/29/553123-porto_sant_elpidio.shtml |urlmorto=no }}</ref><small><br />''[[Sant'Elpidio a Mare]]<br />[[Monte Urano]]''</small>
+| align="right" |270,8 || align="right" |472,6
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Fermo (Italia)|Fermo]] - [[Porto San Giorgio]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} </small><small>[[Polizia stradale|''Polizia Stradale'']]</small>|| align="right" |280,0 || align="right" |463,4
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Torre di Palme"<ref>''Presente solo in carreggiata sud''</ref>|| align="right" |282,0 || align="right" |—
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Pedaso]] || align="right" |288,0 || align="right" |455,4
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Piceno"|| align="right" |290,8 || align="right" |452,6
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Grottammare]]<br /><small>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} ''[[Riviera delle Palme (Marche)|Riviera delle Palme]]'' </small>|| align="right" |302,0 || align="right" |441,4 || rowspan="3" align="center" |[[Provincia di Ascoli Piceno|AP]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Terrazza sul mare"<ref name="Presente solo in carreggiata nord">''Presente solo in carreggiata nord''</ref>|| align="right" |— || align="right" |439,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[San Benedetto del Tronto]] - [[Ascoli Piceno]]<br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 11.svg|31}} [[Raccordo autostradale 11|Ascoli Piceno]]</small><br /><small> {{simbolo|Strada Statale 4 Italia.svg|35}} ''[[Strada statale 4 Via Salaria|Salaria]]'' [[Rieti]] - [[Roma]] </small><br /><small> {{simbolo|Italian traffic signs - icona foresta.svg}} ''[[Parco nazionale dei Monti Sibillini]]'' - [[Norcia]] - [[Cascia]] - [[Spoleto]] </small>|| align="right" |311,7 || align="right" |431,7
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Val Vibrata]]<br /><small>{{simbolo|Italian traffic signs - icona castello.svg}} ''[[Civitella del Tronto|Fortezza di Civitella del Tronto]]''</small> || align="right" |319,5 || align="right" |423,9 || rowspan="8" align="center" |[[Provincia di Teramo|TE]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Tortoreto"|| align="right" |323,6 || align="right" |419,8
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Teramo]] - [[Giulianova]] - [[Mosciano Sant'Angelo]]<br /><small>{{simbolo|Strada Statale 80racc Italia.svg|35}} [[Strada statale 80 racc di Teramo|Teramo]] </small><br /><small> {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A24 Italia.svg}} [[Autostrada A24 (Italia)|L'Aquila - Roma]] </small>|| align="right" |334,4 || align="right" |409,0
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Vomano"|| align="right" |340,3 || align="right" |403,1
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Roseto degli Abruzzi|Roseto]]<br /><small>{{simbolo|Italian traffic signs - icona foresta.svg}} ''[[Parco nazionale del Gran Sasso e Monti della Laga]]'' - [[Castelli (Italia)|Castelli]] </small>|| align="right" |344,0 || align="right" |399,4
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Atri]] - [[Pineto]] || align="right" |351,8 || align="right" |391,6
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Fonte Antica" || align="right" |357,2 || align="right" |386,2
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Torre Cerrano"|| align="right" |363,1 || align="right" |380,3
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Pescara|Pescara nord]] - [[Città Sant'Angelo]]<br /><small>''Direzione 7° Tronco [[Autostrade per l'Italia]]''</small><br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} [[Polizia stradale|''Polizia Stradale'']]</small><br /><small>[[Montesilvano]] </small> || align="right" |364,5 || align="right" |378,9 || rowspan="2" align="center" |[[Provincia di Pescara|PE]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A25 Italia.svg|23}} [[Autostrada A25 (Italia)|Sulmona - Avezzano]]<br />{{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A24 Italia.svg}} <small>[[Autostrada A24 (Italia)|L'Aquila - Roma]]</small>
+| align="right" |378,0 || align="right" |364,4
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Pescara|Pescara ovest]] - [[Chieti]]<br /><small>{{simbolo|Strada Statale 5 Italia.svg|35}} ''[[Strada statale 5 Via Tiburtina Valeria|Via Tiburtina Valeria]]'' [[Sulmona]]</small><br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 12.svg|31}} [[Raccordo autostradale 12|Chieti scalo - Pescara centro]]</small><br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Pescara]]</small><br /><small>{{simbolo|Italian traffic signs - icona porto.svg}} ''Traghetti per [[Spalato]] e [[Lesina (Croazia)|Lesina]] ([[Croazia]])'' </small> || align="right" |380,0 || align="right" |362,4 || rowspan="11" align="center" |[[Provincia di Chieti|CH]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} ||Area di parcheggio "Le Sirene" || align="right" |388,9 || align="right" |354,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Pescara|Pescara sud]] - [[Francavilla al Mare]]<br /><small>{{simbolo|Italian traffic signs - icona foresta.svg}} ''[[Parco nazionale della Maiella]]''</small>|| align="right" |392,6 || align="right" |350,8
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Alento"|| align="right" |393,9 || align="right" |349,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Ortona]] || align="right" |404,6 || align="right" |338,8
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Lanciano]]<br /><small>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} ''[[Costa dei Trabocchi]]'' </small>|| align="right" |413,8 || align="right" |329,6
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Val di Sangro]]<br /><small>{{simbolo|Strada Statale 652 Italia.svg|35}} ''[[Strada statale 652 di Fondovalle Sangro|di Fondovalle del Sangro]]'' [[Casoli]] - [[Castel di Sangro]] - [[Agnone]] </small><br /><small>{{simbolo|Italian traffic signs - icona centro sportivo.svg}} ''Impianti sciistici di [[Roccaraso]]'' </small>|| align="right" |422,0 || align="right" |321,4
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Sangro"|| align="right" |428,8 || align="right" |314,6
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Casalbordino]] - [[Vasto|Vasto nord]] || align="right" |437,3 || align="right" |306,1
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "San Lorenzo" || align="right" |441,8 || align="right" |301,6
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Montenero di Bisaccia]] - [[Vasto|Vasto sud]] - [[San Salvo]]<ref>Denominazione precedente: ''Montenero di Bisaccia - Vasto sud''</ref><ref>Una porzione delle rampe dello svincolo è in territorio abruzzese, in provincia di Chieti, mentre la restante parte è in provincia di Campobasso</ref><br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} </small><small>[[Polizia stradale|''Polizia Stradale'']]</small><br /><small>{{simbolo|Strada Statale 86 Italia.svg|35}} ''[[Strada statale 86 Istonia|Istonia]]'' [[Cupello]] - [[Castiglione Messer Marino]] - [[Agnone]]</small><br /><small>{{simbolo|Strada Statale 650 Italia.svg|35}} ''[[Strada statale 650 di Fondovalle Trigno|di Fondovalle del Trigno]]'' [[Trivento]] - [[Isernia]] </small>|| align="right" |454,6 || align="right" |288,8 
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Trigno"|| align="right" |458,6 || align="right" |284,8 || rowspan="3" align="center" |[[Provincia di Campobasso|CB]]
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Riovivo" <ref>Dismessa in direzione Taranto il 9 gennaio 2015</ref>|| align="right" | —|| align="right"| 269,8
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Termoli]]<ref>Denominazione precedente: ''Termoli - Molise''</ref><br /><small>{{simbolo|Strada Statale 647 Italia.svg|35}} ''[[Strada statale 647 di Fondovalle del Biferno|di Fondovalle del Biferno]]'' [[Larino]] - [[Campobasso]] - [[Campomarino]] - [[Guglionesi]] </small><br /><small>{{simbolo|Italian traffic signs - icona traghetto.svg}} {{simbolo|Italian traffic signs - icona mare fiume lago.svg}} ''Traghetti per le [[Isole Tremiti]]'' </small>|| align="right" |477,0 || align="right" |266,4 
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Torre Fantine"|| align="right" |493,5 || align="right" |249,9 || rowspan="11" align="center" |[[Provincia di Foggia|FG]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Poggio Imperiale]]<br />[[Lesina (Italia)|Lesina]]<br /><small>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} ''Laghi di [[Lago di Lesina|Lesina]] e [[Lago di Varano|Varano]]''</small><br /><small>{{simbolo|Italian traffic signs - icona foresta.svg}} ''[[Parco nazionale del Gargano]]'' </small><br /><small>{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Peschici]]</small>|| align="right" |507,0 || align="right" |236,4
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "San Trifone"<ref>Dismessa in direzione Bologna a fine 2015</ref>|| align="right" | 517,5 || align="right"| —
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[San Severo]]<br /><small>{{simbolo|Strada Statale 272 Italia.svg|35}} ''[[Strada statale 272 di San Giovanni Rotondo|di San Giovanni Rotondo]]''</small><small>'' {{simbolo|Italian traffic signs - icona chiesa.svg}} [[San Giovanni Rotondo]] - [[Monte Sant'Angelo]]''</small>|| align="right" |528,6 || align="right" |214,8
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Gargano"|| align="right" |542,2 || align="right" |201,2
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Foggia]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} </small><small>[[Polizia stradale|''Polizia Stradale'']]</small><br /><small>{{simbolo|Strada Statale 17 Italia.svg|35}} ''[[Strada statale 17 dell'Appennino Abruzzese e Appulo Sannitica|dell'Appennino Abruzzese]]'' [[Lucera]] - [[Campobasso]]</small><br /><small>{{simbolo|Strada Statale 89 Italia.svg|35}} ''[[Strada statale 89 Garganica|Garganica]]'' [[Manfredonia]] - [[Vieste]]</small><br /><small>{{simbolo|Strada Statale 90 Italia.svg|35}} ''[[Strada statale 90 delle Puglie|delle Puglie]]'' [[Ariano Irpino]]</small><br /><small>{{simbolo|Strada Statale 655 Italia.svg|35}} ''[[Strada statale 655 Bradanica|Bradanica]]'' [[Candela (Italia)|Candela]] - [[Melfi]]</small>|| align="right" |554,1 || align="right" |189,3
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Daunia"<ref>Area di servizio dismessa in entrambe le direzioni a fine 2015</ref>|| align="right" | —|| align="right"| —
+|-
+|[[File:AB-AS-grün.svg|16x16px|Simbolo di uscita autostradale]]
+| [[Foggia]] Zona Industriale {{simbolo|Italian traffic signs - icona industria.svg}}<ref>Prima dell'apertura di questo svincolo (che consente tra l'altro un accesso più rapido a Foggia venendo da sud, in quanto il territorio della città di Foggia è molto vasto e la zona industriale rispetto al centro abitato è parecchio decentrata), il tratto Foggia - Cerignola est, di ben 35&nbsp;km, era il più lungo tratto autostradale italiano privo di svincoli intermedi.</ref>
+|564,8
+|178,6
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Le Saline"|| align="right" |587,3 || align="right" |156,1
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Cerignola|Cerignola est]] || align="right" |589,2 || align="right" |154,2
+|-
+| [[File:AB-Vzw-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 842.svg|27}} {{simbolo|Autostrada A16 Italia.svg|23}} [[Autostrada A16 (Italia)|Napoli]] - [[Benevento]] - [[Avellino]] - {{simbolo|Autostrada A30 Italia.svg|23}} [[Caserta]] - {{simbolo|Autostrada A1 Italia.svg|23}} [[Roma]]
+| align="right" |602,7 || align="right" |140,7
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Canosa di Puglia|Canosa]]<br /><small>{{simbolo|Italian traffic signs - icona zona archeologica.svg}} ''[[Canne (città antica)|Canne]]''</small> || align="right" |610,5 || align="right" |132,9 || rowspan="6" align="center" |[[Provincia di Barletta-Andria-Trani|BT]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Monterotondo" || align="right" |617,2 || align="right" |126,2
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Canne della Battaglia"|| align="right" |620,4 || align="right" |123,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Andria]] - [[Barletta]]<br /><small>{{simbolo|Italian traffic signs - icona porto.svg}} ''Traghetti per [[Durazzo]] ([[Albania]])''</small><br /><small>{{simbolo|Italian traffic signs - icona castello.svg}} ''[[Castel del Monte]]'' </small> || align="right" |626,9 || align="right" |116,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Trani]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} </small><small>[[Polizia stradale|''Polizia Stradale'']]</small><br /><small>''ex'' {{simbolo|Strada Statale 378 Italia.svg|35}} ''[[Strada statale 378 di Altamura|di Altamura]]'' [[Corato]] - [[Gravina in Puglia|Gravina]] - [[Altamura]] </small><br /><small>{{simbolo|Strada Statale 99 Italia.svg|35}} ''[[Strada statale 99 di Matera|di Matera]]'' - [[Matera]]</small>|| align="right" |638,1 || align="right" |105,3
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "[[Dolmen della Chianca|Dolmen di Bisceglie]]" {{simbolo|Italian traffic signs - icona zona archeologica.svg}} || align="right" |644,4 || align="right" |99,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Molfetta]]<br /><small>[[File:Strada Provinciale 112 Italia.svg|35x35px|Simbolo della Strada Provinciale 112]] [[Terlizzi]] [[File:Strada Provinciale 56 Italia.svg|35x35px|Simbolo della Strada Provinciale 56]] [[Ruvo di Puglia]] </small><br /><small>''[[File:Strada Statale 16 Italia.svg|35x35px|Simbolo della Strada Statale 16]] [[Strada statale 16 Adriatica|Adriatica-]][[Bisceglie]]''</small>
+|| 652,4 || align="right" |91,0 || rowspan="10" align="center" |[[Città metropolitana di Bari|BA]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Bitonto]]<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Bari-Palese Macchie|Aeroporto di Bari-Palese]] </small>|| align="right" |663,0 || align="right" |80,4
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "Murge"|| align="right" |671,4 || align="right" |72,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Bari|Bari nord]]<br /><small>{{simbolo|Italian traffic signs - strada europea 55.svg|27}} [[#Raccordo A14-Tangenziale di Bari|Raccordo]] {{simbolo|Autostrada A14 Italia.svg}} - {{simbolo|Strada Statale 16 Italia.svg|35}} [[Tangenziale di Bari]]</small><br /><small>{{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Strada Statale 16 Italia.svg|35}} ''[[Strada statale 16 Adriatica|Adriatica]]'' [[Brindisi]] - [[Lecce]] - [[Otranto]] </small><br /><small>{{simbolo|Strada Statale 96 Italia.svg|35}} ''[[Strada statale 96 Barese|Barese]]'' [[Gravina in Puglia|Gravina]] - [[Altamura]]</small><br /><small>{{simbolo|Strada Statale 99 Italia.svg|35}} ''[[Strada statale 99 di Matera|di Matera]]'' [[Matera]]</small><br /><small>{{simbolo|Italian traffic signs - icona traghetto.svg}} ''Traghetti per [[Ragusa (Croazia)|Ragusa di Dalmazia]] ([[Croazia]]), [[Igoumenitsa]] e [[Patrasso]] ([[Grecia]])''</small><ref>''Solo entrata in carreggiata nord e solo uscita in carreggiata sud''</ref>|| align="right" |672,2 || align="right" |71,2
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Bari|Bari sud]]<br />{{simbolo|Strada Provinciale 236 Italia.svg|35}} <small>''[[Strada statale 271 di Cassano|di Cassano]]''<br />''Direzione 8° Tronco [[Autostrade per l'Italia]]''</small><br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} [[Polizia stradale|''Polizia Stradale'']]</small><br /><small>{{simbolo|Italian traffic signs - icona stadio.svg}} [[Stadio San Nicola]]</small><ref>''Unica uscita per Bari in carreggiata nord''</ref>|| align="right" |677,8 || align="right" |65,6 || rowspan="12" align="center" |[[File:Italian traffic signs - strada europea 843.svg|47px|link=Strada europea E843|Simbolo dell'autostrada E843]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Virgilio" || align="right" |689,9 || align="right" |53,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] ||[[Acquaviva delle Fonti]] || align="right" |698,4 || align="right" |45,0
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]||Area di servizio "Le Fonti" || align="right" |698,5 || align="right" |44,9
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Le Masserie"<ref name="Presente solo in carreggiata nord" /> || align="right" |— || align="right" |42,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Gioia del Colle]]<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Gioia del Colle]] </small><br /><small>[[Alberobello]] - ''[[Valle d'Itria]]''</small>|| align="right" |709,6 || align="right" |33,6
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Le Grotte" || align="right" |723,4 || align="right" |20,0 || rowspan="6" align="center" |[[Provincia di Taranto|TA]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] ||[[Mottola]] - [[Castellaneta]] || align="right" |723,9 || align="right" |19,5
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "La Pineta" || align="right" |732,2 || align="right" |11,2
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}} ||Barriera [[Taranto|Taranto nord]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} [[Polizia stradale|''Polizia Stradale'']] </small>|| align="right" |735,2 || align="right" |8,2
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] ||[[Palagianello]]<ref>Svincolo aperto nel 2011</ref><br /><small>{{simbolo|Strada Statale 7 Italia.svg|35}} ''[[Strada statale 7 Via Appia|Via Appia]]'' [[Matera]] - [[Taranto]] </small><br /><small>{{simbolo|Strada Statale 106 Italia.svg|35}} ''[[Strada statale 106 Jonica|Jonica]]'' [[Sibari]] - [[Catanzaro]] - [[Reggio Calabria]]</small><ref>''Uscita solo in direzione Taranto / entrata solo in direzione Bologna''</ref> || align="right" |736,4|| align="right" |7,0
+|-
+| [[File:AB-Vzw.svg]] ||[[Taranto|Taranto nord]]<br /><small>{{simbolo|Italian traffic signs - strada europea 843.svg|27}} ''Allacciamento con la {{simbolo|Strada Statale 7 Italia.svg|35}} [[Strada statale 7 Via Appia|Via Appia]] per'' [[Massafra]] - [[Taranto]] - [[Brindisi]] - [[Lecce]]</small><br /><small>{{simbolo|Strada Statale 100 Italia.svg|35}} ''[[Strada statale 100 di Gioia del Colle|di Gioia del Colle]]'' [[Mottola]] - [[Gioia del Colle]] - [[Bari]]</small><br /><small>{{simbolo|Strada Statale 106 Italia.svg|35}} ''[[Strada statale 106 Jonica|Jonica]]'' [[Metaponto]] - [[Sibari]] - [[Reggio Calabria]]</small>
+| align="right" |743,4 || align="right" |0,0<br />
+|-
+|}
+
+== Ramo Casalecchio ==
+{{Strada
+|nome = Autostrada A14
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Ramo Casalecchio
+|simbolo = Autostrada A14 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-EMR}}
+|divisione amm 2 = {{IT-BO}} 
+|inizio = [[Autostrada A1 (Italia)|A1]] <small>presso</small> [[Casalecchio di Reno]]
+|fine = A14 <small>presso</small> [[Quartiere Borgo Panigale|Borgo Panigale]]
+|lunghezza = 5,5<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=10&ramo=13&code=R14&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente --> |accesso=8 dicembre 2009 |urlarchivio=https://web.archive.org/web/20130313001712/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=10&ramo=13&code=R14&link=&tipo= |urlmorto=no }}</ref>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore =[[Autostrade per l'Italia]] 
+|pedaggio =[[Pedaggio#Sistema autostradale chiuso|Sistema chiuso]] 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = Sistema Autostradale Bologna.svg
+}}
+
+Il ''ramo Casalecchio'' dell'A14 è un breve tratto autostradale che unisce l'A14 nelle vicinanze dell'[[Aeroporto di Bologna-Borgo Panigale|Aeroporto di Bologna]] e l'[[Autostrada A1 (Italia)|A1]] nei pressi di [[Casalecchio di Reno]], il cui scopo principale è consentire ai viaggiatori provenienti dall'[[Autostrada A13 (Italia)|A13]] e dall'A14 di dirigersi verso [[Firenze]], dal momento che l'interconnessione con l'A1 situata più a nord è stata chiusa già da molti anni al traffico in direzione sud. È costituita da due corsie per senso di marcia ed è affiancata ai lati dalla [[Raccordo autostradale 1|tangenziale di Bologna]]. A sud è totalmente interlacciata con la A1, dato che la presenza dello svincolo di [[Bologna]] [[Casalecchio di Reno|Casalecchio]] rende utile il movimento degli automobilisti da e verso [[Milano]] in riferimento al centro storico del capoluogo emiliano. A nord invece, il percorso è funzionale solo da e verso [[Ancona]], dato che la direttrice verso [[Quartiere Borgo Panigale|Borgo Panigale]] è già servita dalla tangenziale complanare.
+
+Il 6 agosto [[2018]] il raccordo è stato teatro di un [[Incidente stradale di Borgo Panigale|gravissimo incidente]] automobilistico: un'autocisterna contenente [[Gas di petrolio liquefatti|GPL]] tamponò un furgone provocando un incendio e due distinte esplosioni che causarono il crollo del ponte: il bilancio finale fu di 2 morti e 145 feriti.
+
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A14 Italia.svg|30}}'''<br />Ramo Casalecchio
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Città metropolitana
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano - Firenze]]
+|align="right"|0,0 ||align="right"|5,5 || rowspan=3 align="center"|[[Città metropolitana di Bologna|BO]]
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Bologna]] [[Casalecchio di Reno|Casalecchio]]<br /><small>{{simbolo|Italian traffic signs - raccordo autostradale 1.svg|18}} [[Raccordo autostradale 1|Tangenziale di Bologna]] </small><br /><small>''Direzione 3° Tronco [[Autostrade per l'Italia]]''</small>|| align="right" |1,0 ||align="right"|4,5
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A14 Italia.svg|23}} [[#Autostrada A14 (Italia)|Ancona]]<br />{{simbolo|Autostrada A13 Italia.svg|15}} <small>[[Autostrada A13 (Italia)|Padova]]</small>
+| align="right"|5,5 ||align="right"|0,0
+|-
+|}
+{{clear}}
+
+== A14 diramazione Ravenna ==
+{{Strada
+|nome = Autostrada A14
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Ravenna
+|simbolo = Autostrada A14dir Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-EMR}}
+|divisione amm 2 = {{IT-RA}}
+|inizio = A14
+|fine = [[Ravenna]]
+|lunghezza = 29,8<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |titolo=TE - Trasporti Eccezionali - Mappe<!-- Titolo generato automaticamente --> |accesso=7 dicembre 2009 |urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |urlmorto=no }}</ref>
+|direzione = 
+|apertura = [[1973]]<ref name = "Anche a Ravenna">{{Cita pubblicazione |titolo = Anche a Ravenna in autostrada |rivista = Autostrade |volume = anno XV |numero = 7 |editore = |città = Roma |anno = 1973 |mese = luglio |p = 35 |ISSN = }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio =Gratuito<ref>Nei primi 8 km soggetti al pagamento non vi sono svincoli intermedi prima della A14</ref> 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Mappa autostrada A14dir Italia.svg
+|tracciato = Autostrada A14 dir.png
+}}
+L{{'}}'''A14 dir''' ('''D14''' nella numerazione interna ad [[Autostrade per l'Italia]]) congiunge [[Ravenna]] con l'autostrada A14. Ha origine tra le uscite di Imola e Faenza dell'A14, nei pressi di [[Solarolo]] e di [[Castel Bolognese]] e ha termine immediatamente a nord di [[Ravenna]], dove prosegue come [[Strada statale 309 dir Romea|SS 309 dir]]. È gestita interamente da [[Autostrade per l'Italia]].
+
+Il decreto legislativo del 29 ottobre 1999 n. 461<ref>{{Cita web |url=http://gazzette.comune.jesi.an.it/288-99/099G053399990104.pdf |titolo=Comune di Jesi - Gazzette, Leggi e Normativa<!-- Titolo generato automaticamente --> |accesso=23 gennaio 2010 |urlarchivio=https://web.archive.org/web/20130927175230/http://gazzette.comune.jesi.an.it/288-99/099G053399990104.pdf |urlmorto=no }}</ref> ha classificato questa diramazione come A14 dir, tuttavia nei pannelli integrativi di identificazione dei cavalcavia è indicata come A14. In altri segnali è invece presente il simbolo A14 dir.
+
+=== Storia ===
+Il raccordo autostradale, lungo {{M|27|ul=km}} e comprendente la stazione intermedia di [[Lugo (Italia)|Lugo]]-[[Cotignola]], venne aperto al traffico nel giugno 1973<ref>{{cita news|autore=Carlo Raggi|url=https://www.ilrestodelcarlino.it/speciali/140-anni/la-rinascita-nel-dopoguerra-lo-b364fe7c|titolo=La rinascita nel dopoguerra. Lo sviluppo del porto e la caccia al metano. Così la città cambiò volto|pubblicazione=[[il Resto del Carlino]]|data=9 dicembre 2025}}</ref>.
+
+Quando fu aperta era interamente a pagamento. Il casello di Ravenna era posto in corrispondenza della frazione San Michele (al km 24). Nel 1992 fu deciso di liberalizzare il tratto fino a Lugo-Cotignola. Nel 2005 la decisione entrò in vigore: il casello di San Michele fu smantellato e la barriera intermedia di Lugo-Cotignola divenne il nuovo accesso al raccordo per le provenienze dalla viabilità ordinaria.<br/>
+La nuova barriera autostradale fu realizzata alcuni km a monte dell'ex casello di Lugo-Cotignola, nella frazione Budrio. 
+
+Sempre in occasione dei recenti lavori di riqualificazione è stato aperto un nuovo svincolo in prossimità dell'abitato di Bagnacavallo.
+
+=== Percorso ===
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A14dir Italia.svg|30}}'''<br />Diramazione Ravenna
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+| {{simbolo|AB-Vzw.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A14 Italia.svg|23}} [[#Autostrada A14 (Italia)|Bologna - Taranto]]
+|align="right"|0,0 ||align="right"|29,8 || rowspan=9 align="center"|[[Provincia di Ravenna|RA]] ||rowspan=9 |
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}} ||[[Pedaggio|Barriera Ravenna]] || align="right"|9,3 ||align="right"|20,5
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] ||[[Cotignola]] || align="right"|9,8 ||align="right"|20,0
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] ||[[Lugo (Italia)|Lugo]] || align="right"|9,9 ||align="right"|19,8
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Bagnacavallo]] || align="right"|13,9 ||align="right"|15,9
+|-
+| [[File:Italian_traffic_signs_-_simbolo_area_servizio.svg]]|| Area di servizio "S. Eufemia"||align="right"|19,9 ||align="right"|9,9
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| Fornace Zarattini<br /><small>{{simbolo|Strada Statale 253 Italia.svg}} ''[[Strada statale 253 San Vitale|San Vitale]]'' </small>|| align="right"|26,5 ||align="right"|3,3
+|-
+| [[File:AB-Kreuz-grün.svg]] ||{{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Strada Statale 16 Italia.svg|40}} ''[[Strada statale 16 Adriatica|Adriatica]]'' [[Ravenna]] - [[Alfonsine]] || align="right"|29,8 ||align="right"|0,0
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|17}}||{{simbolo|Italian traffic signs - strada europea 55.svg|27}}{{simbolo|Strada Statale 309dir Italia.svg|40}} ''[[Strada statale 309 dir Romea|dir Romea]]'' [[Ravenna|Porto di Ravenna]] || align="right"| ||align="right"|
+|}
+{{clear}}
+
+== Raccordo A14-Tangenziale di Bari ==
+{{Strada
+|nome = Autostrada A14
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Raccordo A14-Tangenziale di Bari
+|simbolo = Autostrada A14 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PUG}}
+|divisione amm 2 = {{IT-BA}}
+|inizio = A14
+|fine = [[Strada statale 16 Adriatica|SS 16]]
+|lunghezza = 4,6<ref name=d/>
+|direzione = 
+|apertura = [[1968]]<ref name = "Raccordo Bari"/>
+|provvedimento istituzione = 
+|gestore =[[Autostrade per l'Italia]] 
+|pedaggio =Gratuito 
+|città servite = 
+|intersezioni = 
+|europea1 = 55
+|mappa = 
+|tracciato = Raccordo A14-Tangenziale di Bari.png
+}}
+Il '''raccordo A14-tangenziale di Bari''', conosciuto anche ''Complanare sud di Bari'' ('''D94''' nella numerazione interna ad [[Autostrade per l'Italia]]) è un breve tratto autostradale senza pedaggio che collega l'uscita di ''Bari nord'' dell'A14 con l'uscita 8 della [[strada statale 16 Adriatica|SS 16]] [[tangenziale di Bari]]. Il raccordo, che per la parte iniziale è complanare all'autostrada, costituiva il tratto terminale dell'A14 (e prima ancora della [[Autostrada A17 (Italia)|A17]]) quando essa non era ancora stata prolungata fino a [[Taranto]]. Nella segnaletica stradale è sempre indicato come A14, ed anche nella progressiva chilometrica viene calcolata la distanza per Bologna e non in maniera indipendente dall'asse principale.
+
+Venne aperto al traffico il 25 novembre [[1968]].<ref name = "Raccordo Bari"/>
+
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''RACCORDO A14-TANGENZIALE DI BARI'''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Città metropolitana!!Strada europea
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}
+|| {{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Autostrada A14 Italia.svg|23}} [[#Autostrada A14 (Italia)|Bologna]]<br /><small>{{simbolo|Italian traffic signs - strada europea 842.svg|27}} {{simbolo|Autostrada A16 Italia.svg}} [[Autostrada A16 (Italia)|Napoli]]</small>
+|align="right"|0,0 ||align="right"|4,6 || rowspan=5 align="center"|[[Città metropolitana di Bari|BA]]|| rowspan="5" align="center" |[[File:Italian traffic signs - strada europea 55.svg|47px|link=Strada europea E55|Simbolo dell'autostrada E55]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}} ||Stazione di [[Bari|Bari nord]] || rowspan="3" align="right" | ||rowspan=3 align="right"|
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] ||[[Bari|Bari zona industriale]]<br /><small>{{simbolo|Strada Statale 96 Italia.svg|40}} ''[[Strada statale 96 Barese|Barese]]'' - [[Altamura]], [[Gravina in Puglia|Gravina]], [[Potenza (Italia)|Potenza]]<br />{{simbolo|Strada Statale 99 Italia.svg|40}} ''[[Strada statale 99 di Matera|di Matera]]'' - [[Matera]]</small>
+|-
+| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Modugno (Italia)|Modugno]]
+|-
+| [[File:AB-Vzw.svg]] || {{simbolo|Strada Statale 16 Italia.svg|40}} [[Tangenziale di Bari]]<br /><small>{{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Strada Statale 16 Italia.svg|40}} ''[[Strada statale 16 Adriatica|Adriatica]]'' - [[Brindisi]] - [[Lecce]] - [[Foggia]] - {{simbolo|Italian traffic signs - strada europea 843.svg|27}} {{simbolo|Autostrada A14 Italia.svg|23}} [[#Autostrada A14 (Italia)|Taranto]] - {{simbolo|Strada Statale 100 Italia.svg|40}} [[Strada statale 100 di Gioia del Colle|Taranto]]</small> || align="right"|4,6 ||align="right"|0,0
+|-
+|}
+
+== Obblighi ==
+Dall'inizio dell'autostrada presso la [[Autostrada A1 (Italia)|A1]] (km 0) fino allo svincolo di [[Poggio Imperiale]] (km 507), sull'intera A14dir ''Diramazione Ravenna'' e sull'intero ''Ramo Casalecchio'' sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile.<ref>{{Cita web|lingua=it-IT|url=https://www.autostrade.it/it/obbligo-catene|titolo=Obbligo catene a bordo|sito=Autostrade per l'Italia|accesso=2025-05-22}}</ref>
+
+== Lavori e progetti di ampliamento ==
+Il potenziamento dell'Autostrada A14 nelle sue tratte [[Emilia-Romagna|emiliano-romagnola]] e [[Marche|marchigiana]] è stato reso necessario da una critica domanda di mobilità che ha fonte nella rilevanza turistica delle riviere che interessa.
+
+Sono in fase autorizzativa il passante di mezzo di [[Bologna]], che prevede l'aggiunta della corsia d'emergenza al tratto autostradale e l'allargamento della [[Raccordo autostradale 1|tangenziale]] a tre corsie di marcia più corsia di emergenza (quattro nel tratto più trafficato), e i lavori che prevedono la realizzazione della Complanare Nord fra Ponte Rizzoli e l'inizio della [[Raccordo autostradale 1|tangenziale di Bologna]] presso [[San Lazzaro di Savena]], il nuovo casello di sola entrata (direzione sud) e di sola uscita (direzione nord) di ''Ponte Rizzoli'', all'altezza del km 29 tra Bologna San Lazzaro e Castel San Pietro Terme<ref>{{Cita web |url=http://www.comune.ozzano.bo.it/notizie/nuovo-svincolo-a14-pubblicato-lavviso |titolo=Nuovo svincolo A14: pubblicato l'Avviso {{!}} Comune di Ozzano dell'Emilia |accesso=9 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181009172116/http://www.comune.ozzano.bo.it/notizie/nuovo-svincolo-a14-pubblicato-lavviso |urlmorto=no }}</ref>.
+
+È in corso, invece, la realizzazione della quarta corsia in entrambi i sensi di marcia fra tale svincolo e l'inizio della diramazione per Ravenna tra Imola e Faenza.<ref>{{Cita web|url=https://www.otinord.it/progetti/autostrada_a14__ampliamento_quarta_corsia_tratta_ponte_rizzoli_diramazione_per_ravenna|titolo=OTI NORD - Autostrada A14: Ampliamento quarta corsia tratta Ponte Rizzoli-Diramazione per Ravenna|autore=NET BULL SRL|sito=OTI NORD|lingua=it-IT|accesso=2024-10-09}}</ref><ref>{{Cita web|url=https://www.autostrade.it/it/comunicazione-e-media/comunicati-stampa-viabilita/-/bulletin/view/4641e3e8-c005-43a7-a402-cde5ca6927bd|titolo=A14 BOLOGNA-TARANTO: CHIUSO PER UNA NOTTE IL TRATTO CASTEL SAN PIETRO-IMOLA VERSO ANCONA|sito=Autostrade per l'Italia|lingua=it-IT|accesso=2024-10-09}}</ref>
+
+Sono terminati nel 2016 i lavori per l'ampliamento della sede stradale da due a tre corsie più corsia di emergenza per senso di marcia nei {{m|154,7|ul=km}} tra ''Rimini nord'' e ''Porto Sant'Elpidio'', con una spesa di 2,44 miliardi di euro. L'allargamento è stato eseguito quasi interamente in sede, ad eccezione di alcuni tratti di limitata estensione in variante; questa tratta è caratterizzata anche dalla presenza di alcune gallerie, per le quali si è proceduto all'adeguamento secondo diverse modalità: costruzione di due nuove canne in variante (gallerie ''Boncio'' e ''Case Bruciate''); costruzione di una nuova canna in variante ed ampliamento di una delle due canne esistenti (gallerie ''Novilara'', ''Cavallo'' e ''Sappanico''); costruzione di una variante provvisoria ed ampliamento in sede della galleria esistente (galleria ''Scacciano'') e ampliamento in sede delle canne esistenti (gallerie ''Montedomini'' e ''Corva''). Da sottolineare in particolare l'adeguamento della galleria ''Montedomini'', situata tra gli svincoli di Ancona Nord e Ancona Sud, per la quale è stata impiegata una modalità di ampliamento senza interruzione del traffico veicolare (questa tipologia di intervento era già stata adottata per allargare la galleria Nazzano nell'autostrada A1). I lavori in questa tratta hanno comportato anche l'apertura dei nuovi svincoli di ''Montemarciano'' e ''Porto Sant'Elpidio'', lo spostamento del casello di ''Senigallia'', la riqualificazione della viabilità esistente mediante realizzazione di circa 36&nbsp;km di bretelle di collegamento agli svincoli autostradali e varie opere secondarie. 
+
+Il 20 dicembre [[2017]] è stato inaugurato il nuovo svincolo ''Foggia Zona Industriale'' allo scopo di decongestionare il traffico diretto verso la zona industriale foggiana e il centro commerciale della capitanata ''GrandApulia''.<ref>{{Cita web|lingua=it|autore=redazione 15 dicembre 2017 09:32 Facebook WhatsApp|url=https://www.foggiatoday.it/economia/apertura-casello-foggia-zona-industriale.html|titolo=Mercoledì 20 dicembre ore 14: entra in funzione il casello autostradale 'Foggia Zona Industriale'|sito=FoggiaToday|accesso=2026-05-30}}</ref><ref>{{Cita web|lingua=it-it|autore=GrandApulia-Centro Commerciale GrandApulia|url=https://www.grandapulia.it/|titolo=GrandApulia - Centro Commerciale GrandApulia|sito=www.grandapulia.it|accesso=2026-05-30}}</ref>
+
+È in definizione il progetto di costruzione di un raccordo tra [[Taranto]] e l'autostrada aggirando il centro abitato di [[Massafra]] collegandola con la Taranto-Reggio Calabria ([[Strada statale 106 Jonica|SS 106 Jonica]]) tramite la [[Strada statale 106 dir Jonica|SS 106 dir.]]<ref>{{Cita web|url=https://buonasera24.it/news/cronaca/865472/l-autostrada-arrivera-sino-a-taranto-l-intesa-tra-fitto-ed-emiliano.html|titolo=«L'autostrada arriverà sino a Taranto»: l'intesa tra Fitto ed Emiliano|autore=Giovanni Di Meo|sito=buonasera24.it|lingua=it|accesso=2024-10-09}}</ref><ref>{{Cita web|url=https://ledicoladelsud.it/news/taranto-autostrada-fino-alle-porte-della-citta-dal-governo-45-milioni-di-euro/|titolo=Taranto, autostrada fino alle porte della città: dal Governo 4,5 milioni di euro|autore=Vittorio Ricapito|sito=L'Edicola del Sud|data=2024-09-01|lingua=it-IT|accesso=2024-10-09}}</ref><ref>{{Cita web|url=https://buonasera24.it/news/home/865523/ecco-i-soldi-cosi-cambiera-la-massafra-taranto.html|titolo="Ecco i soldi: così cambierà la Massafra-Taranto"|autore=Giovanni Di Meo|sito=buonasera24.it|lingua=it|accesso=2024-10-09}}</ref>, agevolando quindi i transiti sia per chi è diretto verso la città, evitando il traffico che congestiona l'abitato e di chi è diretto verso la Basilicata, Calabria e la [[Autostrada A2 (Italia)|A2 del Mediterraneo]].
+
+== Note ==
+{{Note strette}}
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Napoli - Bari |autore = Luigi Tocchetti |rivista = Le Strade |volume = anno XLIV |numero = 1 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1964 |mese = gennaio |pp = 32-35 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1556#page/54/mode/2up }}
+* {{Cita pubblicazione |titolo = L'autostrada Bologna Rimini Ancona |autore = Agostino Sajeva |rivista = Le Strade |volume = anno XLVIII |numero = 11 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = novembre |pp = 554-562 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/772/mode/2up }}
+
+== Voci correlate ==
+* [[Viadotto Moro]]
+* [[Viadotto Salinello]]
+
+== Altri progetti ==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.autostrade.it|titolo=Autostrade per l'Italia}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrada A14| ]]

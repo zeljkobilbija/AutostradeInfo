@@ -1,0 +1,200 @@
+{{Strada
+|nome = Autostrada A26
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada dei Trafori<br />Genova Voltri-Gravellona Toce
+|simbolo = Autostrada A26 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LIG}}<br />{{IT-PIE}}
+|divisione amm 2 = {{IT-GE}}<br/>{{IT-AL}}<br/>{{IT-VC}}<br/>{{IT-NO}}<br/>{{IT-VB}}
+|inizio = [[Genova Voltri]]
+|fine = Innesto su [[Strada statale 33 del Sempione|SS 33 del Sempione]] presso [[Ornavasso]] ([[provincia del Verbano-Cusio-Ossola|VB]])
+|lunghezza = 197,2<ref>{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=36&ramo=36&code=A26&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente -->|accesso=8 dicembre 2009|dataarchivio=12 gennaio 2014|urlarchivio=https://web.archive.org/web/20140112192220/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=36&ramo=36&code=A26&link=&tipo=|urlmorto=sì}}</ref>
+|direzione = 
+|apertura = [[1977]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy<!-- Titolo generato automaticamente --> |accesso=22 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore =[[Autostrade per l'Italia]] 
+|pedaggio = [[pedaggio|sistema chiuso]], gratis nell'alto [[Vergante]] e nel [[Verbano-Cusio-Ossola]]
+|città servite = 
+|intersezioni = [[Autostrada A10 (Italia)|A10]], [[Autostrada A7 (Italia)|A7]], [[Autostrada A21 (Italia)|A21]], [[Autostrada A4 (Italia)|A4]], [[Autostrada A8 (Italia)|A8]], [[Strada statale 33 del Sempione|SS 33 del Sempione]]
+|europea1 = 25
+|europea2 = 62
+|mappa = Italia - mappa autostrada A26.svg
+|tracciato = Mappa A26.svg
+}}
+L''''autostrada A26''' è un'[[Autostrade in Italia|autostrada italiana]] che da [[Voltri]], quartiere all'estremità occidentale di [[Genova]], in [[Liguria]], scorre verso nord, giungendo a [[Gravellona Toce]], nella [[provincia del Verbano-Cusio-Ossola]], in [[Piemonte]]. 
+
+Viene chiamata '''Autostrada dei Trafori'''<ref>{{cita testo|url=http://www.aiscat.it/inautostrada/tratta.htm?ck=1&nome=autostrade&idl=4&aut_id=A26|titolo=Scheda dell'A26 Genova Voltri - Gravellona Toce|urlarchivio=https://web.archive.org/web/20081012070805/http://www.aiscat.it/inautostrada/tratta.htm?ck=1&nome=autostrade&idl=4&aut_id=A26 }}, dal sito dell'[[Associazione italiana società concessionarie autostrade e trafori]]</ref> perché, oltre ad avere un elevato numero di gallerie lungo il tracciato, mette in comunicazione il [[porto di Genova]] e il resto d'Italia con i più importanti trafori di valico alpini: il [[Traforo stradale del Frejus|traforo del Frejus]] (tramite l'[[Autostrada A21 (Italia)|A21]] e l'[[Autostrada A32|A32]]), i trafori [[Traforo del Monte Bianco|del Monte Bianco]] e [[traforo del Gran San Bernardo|del Gran San Bernardo]] (entrambi tramite la diramazione A26/A4), il [[Galleria stradale del San Gottardo|traforo del San Gottardo]] in [[Svizzera]] (tramite l'interconnessione A26/A8 e la [[Autostrada A9 (Italia)|A9]]) e il [[Passo del Sempione]], con l'[[Traforo del Sempione|omonimo tunnel ferroviario]] nel quale è presente il servizio di trasporto vetture (proseguendo sulla [[Strada statale 33 del Sempione|SS 33]] dalla fine dell'autostrada).
+
+Lunga 197,1&nbsp;km, è interamente gestita da [[Autostrade per l'Italia]]<ref name="autogenerato12">{{Cita web|url=http://www.autostrade.it/it/la-nostra-rete|titolo=La rete - Autostrade per l'Italia|accesso=9 dicembre 2016}}</ref>.
+
+==Storia==
+I lavori di costruzione dell'autostrada iniziarono nel [[1971]] per il tronco da Genova Voltri ad [[Alessandria (Italia)|Alessandria]],<ref>{{Cita pubblicazione |titolo = Autostrada dei Trafori: esito gare d'appalto del 22 dicembre 1971 |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XIII |numero = 11 |città = Roma |anno = 1971 |mese = novembre |p = 31 |ISSN = 0005-1756 }}</ref> e il 28 marzo [[1973]] per il tronco da Alessandria a [[Stroppiana]] compresa la diramazione da Stroppiana a [[Santhià]].<ref>{{Cita pubblicazione |titolo = Un passo avanti per la A-26, l'autostrada dei Trafori |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XV |numero = 3 |città = Roma |anno = 1973 |mese = marzo |p = 69 |ISSN = 0005-1756 }}</ref>
+
+Il 23 ottobre [[1976]] venne aperto al traffico il primo tratto dell'autostrada, da [[Ovada]] a [[Predosa]] ({{M|15|ul=km}}) e il raccordo da Predosa all'[[Autostrada A7 (Italia)|autostrada Milano-Serravalle]].<ref name = "Ovada Predosa">{{Cita pubblicazione |titolo = Trentadue chilometri significativi |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XVIII |numero = 10 |città = Roma |anno = 1976 |mese = ottobre |p = 3 |ISSN = 0005-1756 }}</ref> L'11 agosto dell'[[1977|anno successivo]] vi si aggiunsero le tratte da [[Genova Voltri]] a Ovada e da Predosa ad [[Alessandria (Italia)|Alessandria]].<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XIX |numero = 11-12 |città = Roma |anno = 1977 |mese = novembre-dicembre |p = 53 |ISSN = 0005-1756 }}</ref>
+
+Nel [[1978]] vennero aperte le tratte da Alessandria a [[Casale Monferrato|Casale]] nord (22 giugno)<ref>{{Cita pubblicazione |titolo = Con l'A26 più europea la Liguria |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XX |numero = 6 |città = Roma |anno = 1978 |mese = giugno |p = 46 |ISSN = 0005-1756 }}</ref> e da Casale nord a [[Stroppiana]] con il raccordo da Stroppiana a [[Santhià]] (27 luglio).<ref name = "Casale Stroppiana">{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XX |numero = 10 |città = Roma |anno = 1978 |mese = ottobre |p = 64 |ISSN = 0005-1756 }}</ref>
+
+Le tratte seguenti vennero aperte nelle seguenti date:<ref>{{cita testo|url=http://www.lotsberg.net/data/italia/autostrade.html|titolo=Autostrade in Italia|urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html }}, dal sito "The World's longest Tunnel Page"</ref>
+*il tratto Stroppiana-Romagnano il 14 dicembre [[1987]];
+*il tratto Romagnano-Arona il 20 dicembre [[1988]];
+*il tratto Gravellona Toce-SS 33 il 15 dicembre [[1994]];
+*il tratto Arona-Gravellona Toce il 14 luglio [[1995]].
+
+L'apertura della prima tratta ha garantito a Genova una connessione comoda e veloce con la zona dell'[[Ovadese]] e dell'[[Alessandrino (Piemonte)|Alessandrino]], fino ad allora connesse alla città solo tramite l'allora [[strada statale 456 del Turchino]], dal percorso particolarmente tortuoso; inoltre la presenza della diramazione che connette l'A26 con l'[[Autostrada A7 (Italia)|A7]] da e per [[Milano]] ha creato un percorso alternativo tra il capoluogo lombardo e la [[Liguria]], che rispetto al percorso diretto tramite l'autostrada dei Giovi è più lungo ma anche più rettilineo e spazioso.
+
+==L'autostrada oggi==
+[[File:Voltri bivio A10-A26.JPG|thumb|left|Inizio della A26 a Voltri: raccordo con [[Autostrada A10 (Italia)|A10]] da e per Genova]]
+Il percorso si snoda partendo dalla delegazione genovese di [[Voltri]], dove si distacca dall'[[Autostrada A10 (Italia)|autostrada A10]], ed inerpicandosi in appena 10&nbsp;km da meno di 70&nbsp;m di altitudine fino agli oltre {{m|420|ul=m slm}} della galleria del [[Passo del Turchino|Turchino]], in località [[Fado (Mele)|Fado Alto]], dove supera lo spartiacque dell'[[Appennino Ligure]]. Lungo questo tratto entrambe le [[carreggiata|carreggiate]] si trovano su grandi viadotti e sono presenti numerose [[galleria (ingegneria)|gallerie]]; per superare il forte dislivello in pochi km è stato necessario creare un'ansa lunga 4&nbsp;km per ridurre la pendenza, altrimenti proibitiva per i mezzi pesanti che dal porto di Genova salgono in direzione nord.
+
+[[File:Viadotto Gorsexio, autostrada A26.JPG|thumb|left|Il [[viadotto Gorsexio]] presso [[Genova]], uno dei più alti in Italia]]
+Oltrepassato il Turchino, serve i comuni della valle Stura con lo svincolo di Masone e con pendenze minori di quelle del versante ligure scende verso la [[Pianura Padana]].
+[[File:Alessandria-L'autostrada A-26-tratto appenninico.jpg|thumb|L'autostrada A26 in veste invernale nei pressi di [[Ovada]], appena prima del tratto appenninico in direzione [[Genova]]]]
+
+[[File:Gravellona Toce - Panorama.jpg|thumb|Lo svincolo di Gravellona Toce dell'autostrada]]
+Entrata in [[Piemonte]], proseguendo la discesa tra le ultime propaggini appenniniche e i primi rilievi del [[Monferrato]], oltrepassa l'abitato di [[Ovada]], attraversa l'intersezione con la bretella di [[Novi Ligure]] che la connette all'[[Autostrada A7 (Italia)|autostrada A7]], si congiunge all'[[Autostrada A21 (Italia)|autostrada A21]] nei pressi di [[Alessandria (Italia)|Alessandria]]. Nel tratto Genova-Alessandria-interconnessione [[Autostrada A4 (Italia)|A4]] la A26 possiede, sia nei tratti scoperti sia nelle gallerie, tre [[corsia di marcia|corsie]] per senso di marcia e la [[corsia di emergenza]], caratteristica che la rende la più grossa arteria di comunicazione tra la Pianura Padana e la costa ligure, nonché di tutta la [[Liguria]]. Il tracciato del tratto appenninico è fluido e con curve abbastanza larghe, tali da garantire un limite di velocità generalmente non inferiore a 100&nbsp;km/h.
+
+L'autostrada prosegue verso nord passando per [[Casale Monferrato]], dopodiché è presente l'interconnessione con la [[Autostrada A26 - A4 (Diramazione Santhià - Stroppiana)|diramazione A26/A4]] a sud di [[Vercelli]]. Continua intersecando l'Autostrada A4 a ovest di [[Novara]], restringendosi a due corsie per senso di marcia e mantenendosi tale fino al suo termine. Passa poi nei pressi di [[Romagnano Sesia]] e [[Ghemme]], dove si trova l'uscita per la [[Valsesia]].
+
+Nei pressi di [[Gattico]] l'autostrada prosegue senza soluzione di continuità come A8/A26 e prosegue attraverso rampe di accelerazione e decelerazione come autostrada A26 verso nord costeggiando il Lago Maggiore. Prosegue quindi verso nord est continuando a costeggiare le sponde del [[Lago Maggiore]], seppur mantenendosi in posizione elevata rispetto al lago, con uscite ad [[Arona]], [[Meina]], [[Brovello-Carpugnino]], [[Baveno]] - [[Stresa]], [[Verbania]] e [[Gravellona Toce]]. Termina poco dopo [[Gravellona Toce]], precisamente allo svincolo di [[Ornavasso]], innestandosi sulla [[strada statale 33 del Sempione]], classificata da questo punto in poi come strada extraurbana secondaria con limite di velocità di 90&nbsp;km/h, la quale permette il collegamento con [[Domodossola]] e con la [[Svizzera]].
+
+===Controllo elettronico della velocità===
+Nel tratto appenninico di entrambe le carreggiate la velocità media è monitorata dal sistema [[Tutor (dispositivo)|Tutor]], installato tra l'innesto con l'[[Autostrada A10 (Italia)|A10]] e la [[Autostrada A26 (Italia)#A26.2FA7 Diramazione Predosa-Bettole|diramazione A26/A7]] in direzione nord e tra la [[Autostrada A26 (Italia)#A26.2FA7 Diramazione Predosa-Bettole|diramazione A26/A7]] e l'innesto con l'A10 in direzione sud.
+
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''Carreggiata sud'''
+|-
+|-
+!!align="center"|'''Dal km'''!!align="center"|'''Al km'''!!align="center"|'''Limite'''!!align="center"|'''Tempo di percorrenza'''!!align="center"|'''Aree di servizio/Parcheggi/Uscite'''
+|-
+|-
+| 43+000 ||align="center"|31+750 ||align="center"|130 || align="center"|5' 12"|| align="center"|NO
+|-
+| 31+750 ||align="center"|16+200 ||align="center"|130 || align="center"|7' 11"|| align="center"|Parcheggio Tagliolo (31+400), Uscita Ovada (29+900), Parcheggio Betulle (28+000), Area di servizio Stura (25+500)
+|-
+| 16+200 ||align="center"|7+270 ||align="center"|110 || align="center"|4' 52"|| align="center"|Uscita Masone (14+000)
+|-
+| 7+270 ||align="center"|6+000 ||align="center"|110 || align="center"|0' 42"|| align="center"|Area di servizio Turchino (6+800)
+|-
+| 6+000 ||align="center"|1+700 ||align="center"|110 || align="center"|2' 21"|| align="center"|NO
+|-
+|}
+
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''Carreggiata nord'''
+|-
+|-
+!!align="center"|'''Dal km'''!!align="center"|'''Al km'''!!align="center"|'''Limite'''!!align="center"|'''Tempo di percorrenza'''!!align="center"|'''Aree di servizio/Parcheggi/Uscite'''
+|-
+|-
+| 3+150 ||align="center"|14+360 ||align="center"|110 || align="center"|6' 07"|| align="center"|Area di servizio Turchino (6+800), Uscita Masone (14+000)
+|-
+| 14+360 ||align="center"|21+620 ||align="center"|130 || align="center"|3' 21"|| align="center"|Parcheggio Anzema (19+900)
+|-
+| 21+620 ||align="center"|28+900 ||align="center"|110 || align="center"|3' 58"|| align="center"|Parcheggio Betulle (28+000)
+|-
+| 28+900 ||align="center"|44+500 ||align="center"|130 || align="center"|7' 12"|| align="center"|Uscita Ovada (29+900), Parcheggio Tagliolo (31+400)
+|-
+|}
+
+===Tabella percorso===
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A26 Italia.svg|30}} GENOVA Voltri- GRAVELLONA TOCE'''<br />Autostrada dei trafori
+|-
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+|{{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A10 Italia.svg|23}} [[Autostrada A10 (Italia)|Genova - Ventimiglia]]<br /><small>{{simbolo|Autostrada A12 Italia.svg|18}} [[Autostrada A12 (Italia)|Livorno]]</small>||align="right"|0,0 ||align="right"|197,1 ||rowspan=3 align="center"|[[Città metropolitana di Genova|GE]]||rowspan=13 align="center"|[[File:Italian traffic signs - strada europea 25.svg|50px|link=Strada europea E25]]
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di  servizio "Turchino"||align="right"|6,8 ||align="right"|190,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Masone]] || align="right"|14 ||align="right"|183
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Stura"||align="right"|25,5 ||align="right"|171,5 ||rowspan=9 align="center"|[[Provincia di Alessandria|AL]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Ovada]] || align="right"|29,9 ||align="right"|167,1
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A26-A7 Italia.svg|23}} [[Autostrada A26 - A7 (Diramazione Predosa - Bettole)|Diramazione Predosa -  Bettole di Tortona]]|| align="right" |45,2 ||align="right"| 151,8
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Bormida"||align="right"|52,9 ||align="right"|144,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Alessandria (Italia)|Alessandria]] Sud || align="right"|59,5 ||align="right"|137,5
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A21 Italia.svg|22}} [[Autostrada A21 (Italia)|Torino - Piacenza - Brescia]] || align="right"|69,3 ||align="right"| 127,7
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Monferrato"||align="right"|83,5 ||align="right"|113,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Casale Monferrato]] Sud || align="right"|89,6 ||align="right"|107,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Casale Monferrato]] Nord || align="right"|94,1 ||align="right"|102,9
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A26-A4 Italia.svg|23}} [[Autostrada A26 - A4 (Diramazione Santhià - Stroppiana)|Diramazione Stroppiana - Santhià]]|| align="right" |103,5|| align="right" | 93,5|| rowspan="3" align="center" |[[Provincia di Vercelli|VC]]
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Sesia"||align="right"|108,2 ||align="right"|88,8||rowspan=6 align=”center”|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vercelli]] Est|| align="right"|116,8 ||align="right"|80,2
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 64.svg|27}} {{simbolo|Autostrada A4 Italia.svg|22}} [[Autostrada A4 (Italia)|Torino - Trieste]]|| align="right"|128,5 ||align="right"| || rowspan="8" align="center" |[[Provincia di Novara|NO]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Romagnano Sesia]] - [[Ghemme]] || align="right"|145,1 ||align="right"|51,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Borgomanero]]|| align="right"|153,4 ||align="right"|43,6
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Agogna"||align="right"|154,8 ||align="right"|42,2
+|-
+|[[File:AB-Kreuz-grün.svg]]
+| {{simbolo|Italian traffic signs - strada europea 62.svg|27}} {{simbolo|Autostrada A8-A26 Italia.svg|23}} [[Autostrada A8 (Italia)|Gallarate - Gattico]] 
+| align="right"| 160,2
+| align="right"| 34,3
+| rowspan="8" align="center" |[[File:Italian traffic signs - strada europea 62.svg|50px|link=Strada europea E62]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Arona]]|| align="right" |165,5 || align="right" |31,5
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Lago Maggiore]]|| align="right"|166,6 ||align="right"|30,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Meina]] || align="right"|171,1 ||align="right"|25,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Brovello-Carpugnino|Carpugnino]]|| align="right"|181,3 ||align="right"|15,7 || rowspan="4" align="center" |[[Provincia del Verbano-Cusio-Ossola|VB]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Baveno]] - [[Stresa]]|| align="right" | 190,0 ||align="right"|7,0
+|-
+| rowspan=2 | [[File:AB-AS-grün.svg]]|| [[Verbania]]<br /><small> {{simbolo|Strada Statale 34 Italia.svg|35}} ''[[Strada statale 34 del Lago Maggiore|Lago Maggiore]]''<br />{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Lago Maggiore]] </small> || align="right"|194,0 ||align="right"|3,0
+|-
+| [[Gravellona Toce]]<br /><small> {{simbolo|Strada Statale 34 Italia.svg|35}} ''[[Strada statale 34 del Lago Maggiore|del Lago Maggiore]]''</small><br /><small> {{simbolo|Strada Statale 229 Italia.svg|35}} ''[[Strada statale 229 del Lago d'Orta|del Lago d'Orta]]: [[Omegna]]''<br />{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Lago d'Orta]] </small> || align="right"| 194,2||align="right"|2,8
+|-
+|[[File:Italian traffic signs - fine autostrada (figura II 346).svg|35x35px]]
+|{{simbolo|Italian traffic signs - strada europea 62.svg|27}} {{simbolo|Strada Statale 33 Italia.svg|45}} ''[[Strada statale 33 del Sempione|Sempione]]''
+| align="right" |197,1
+| align="right" |0,0
+| align="center" |[[Provincia del Verbano-Cusio-Ossola|VB]]
+| align="center" |[[File:Italian traffic signs - strada europea 62.svg|50px|link=Strada europea E62]]
+|-
+|}
+
+== Obblighi ==
+Sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile su tutta la tratta, su tutta la ''Diramazione'' ''Stroppiana-Santhià'' e su tutta la ''Diramazione'' ''Predosa-Bettole''.<ref>{{Cita web|lingua=it-IT|url=https://www.autostrade.it/it/obbligo-catene|titolo=Obbligo catene a bordo|sito=Autostrade per l'Italia|accesso=2025-05-22}}</ref>{{clear}}
+
+==Note==
+<references />
+
+== Voci correlate ==
+* [[Sistema viario di Genova]]
+* [[Viadotto Gorsexio]]
+
+==Altri progetti==
+{{Interprogetto|preposizione=sull'}}
+
+==Collegamenti esterni==
+*{{cita web|url=http://www.autostrade.it|titolo=Autostrade per l'Italia}}
+*{{cita web|url=http://www.lotsberg.net/data/italia/A26.html|titolo=Gallerie e viadotti della A26|accesso=3 agosto 2009|dataarchivio=25 ottobre 2020|urlarchivio=https://web.archive.org/web/20201025230429/http://www.lotsberg.net/data/italia/A26.html|urlmorto=sì}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrada A26 (Italia)| ]]
+[[Categoria:Trasporti in Liguria]]
+[[Categoria:Trasporti in Piemonte]]

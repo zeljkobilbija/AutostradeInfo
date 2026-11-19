@@ -1,0 +1,222 @@
+{{nota disambigua|la società del gruppo [[ASTM (azienda)|ASTM]]|Autostrada dei Fiori (azienda)|Autostrada dei Fiori}}
+{{Strada
+|nome = Autostrada A10
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada dei Fiori<br/>Autofiori<br/>Genova-Ventimiglia
+|simbolo = Autostrada A10 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LIG}}
+|divisione amm 2 = {{IT-GE}}<br/>{{IT-SV}}<br/>{{IT-IM}}
+|inizio = Innesto in [[Autostrada A7 (Italia)|A7]] presso [[Genova]]
+|fine = Confine di Stato con la {{FRA}} nei pressi di [[Ventimiglia]] ([[Provincia di Imperia|IM]])
+|lunghezza = 158,1<ref>{{Cita web|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=39&ramo=39&code=A10&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali}}</ref>
+|direzione = 
+|apertura = [[1967]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = * [[Autostrade per l'Italia]] (Genova-Savona)
+* [[Concessioni del Tirreno]] (Savona-Ventimiglia)
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]
+|città servite = [[Genova]], [[Savona]], [[Imperia]], [[Sanremo]], [[Ventimiglia]]
+|intersezioni = [[Autostrada A7 (Italia)|A7]], [[Autostrada A12 (Italia)|A12]], [[Autostrada A26 (Italia)|A26]], [[Autostrada A6 (Italia)|A6]]
+|europea1 = 25
+|europea2 = 74
+|europea3 = 80
+|europea altro =
+|mappa = Italia - mappa autostrada A10.svg
+|tracciato = Tracciato A10.svg
+}}
+
+L{{'}}'''autostrada A10''', conosciuta anche come '''Autostrada dei Fiori''' o '''AutoFiori''', è un'[[autostrada]] [[Italia|italiana]] che corre interamente in territorio [[Liguria|ligure]], collegando [[Genova]] a [[Ventimiglia]] (in prossimità del [[Confine|confine di Stato]] con la [[Francia]]) attraverso tutta la [[Riviera di Ponente]], per una [[lunghezza]] di 158,1&nbsp;[[chilometro|km]]. Fa parte per tutta la sua estensione della [[strada europea E80]], la quale prosegue in territorio [[Francia|francese]] fino ad [[Aix-en-Provence]] come [[autoroute A8 (Francia)|autoroute A8]].[[File:Viadotto Polcevera collapsed 04.jpg|miniatura|Parte del vecchio [[viadotto Polcevera]], tratto terminale verso Genova della A10, crollato il 14 agosto 2018|270x270px]]
+[[File:Mediterranean Sea 1167.jpg|thumb|L'autostrada A10 presso [[Cogoleto]]: ponte del vecchio tracciato visto dalla carreggiata nord|270x270px]]
+
+==Storia==
+{{F|strade d'Italia|marzo 2023}}
+=== Primo tratto: Prà-Albisola ===
+L'autostrada A10 che collega Genova con il confine di stato di Ventimiglia ha una lunga storia, poiché l'arteria fu costruita per tronchi in più di un decennio. Il primo tratto fu realizzato alla fine degli anni cinquanta, a carreggiata unica con 3 corsie a senso alternato, ed era limitato al collegamento tra [[Pra']], quartiere del ponente genovese, e [[Albisola]]. Nei primi anni '60 questa costituiva una delle poche autostrade presenti in Italia, insieme all'Autostrada dei Laghi, alla Torino-Milano-Brescia, Padova-Venezia, Savona-Ceva, Genova-Milano, Firenze-Pisa, Roma-Ostia e Napoli-Salerno. Nel 1964 il tratto venne prolungato di pochi chilometri fino alla successiva uscita di [[Pegli|Genova Pegli]],<ref>{{cita news|url=https://www.ilsecoloxix.it/genova/2021/02/17/news/dicembre-1964-l-autostrada-libera-pegli-e-sestri-dal-traffico-1.39912632|editore=Il secolo XIX|titolo=Dicembre 1964: l'autostrada libera Pegli e Sestri dal traffico}}</ref> sempre a carreggiata unica e con una sola corsia larga per senso di marcia. Successivamente, il 5 settembre 1967 venne aggiunto il prolungamento da Genova Pegli a [[Cornigliano|Genova Cornigliano]], e da [[Savona]] ad [[Albisola]], con due carreggiate e due corsie per senso di marcia.<ref>{{cita web|url=https://www.pandorarivista.it/articoli/nodo-autostradale-genova/|autore=Walter Rapetti|titolo=Il nodo autostradale di Genova: storia di una viabilità complessa|data=29 settembre 2018}}</ref> Con il completamento del [[viadotto Polcevera]] sul torrente omonimo, l'autostrada raggiungeva [[Sampierdarena|Genova Sampierdarena]] e il casello di Genova Ovest, collegando così [[Genova]] e [[Savona]] e raccordandosi altresì con la [[Autostrada A7 (Italia)|A7]].
+
+Come detto, inizialmente tra Albisola e Genova Pegli l'autostrada era a carreggiata unica con 2 o 3 corsie e risultò subito evidente la necessità di ampliare questo tratto. Per alcuni anni vi fu un dibattito tra i sostenitori del raddoppio della tratta e i sostenitori della costruzione di una nuova tratta a due carreggiate. Venne scelta la prima soluzione e così nel corso degli anni '70 tra Albisola e Genova Pegli l'[[autostrada]] fu ampliata aggiungendo una carreggiata nuova a quella già esistente: la [[carreggiata]] ovest, in direzione Ventimiglia fu costruita ex novo, con 3 corsie da Genova Pegli fino a [[Varazze]] e 2 corsie da [[Varazze]] ad Albisola; per quella in direzione Genova centro si usò invece la tratta originaria usando le 3 corsie su cui precedentemente scorrevano entrambi i sensi di marcia.
+
+Da ciò deriva che la carreggiata vecchia, cioè in direzione Genova, è molto più tortuosa dell'altra, un po' come si verifica sulla Genova-[[Serravalle Scrivia|Serravalle]] ([[Autostrada A7 (Italia)|A7]]) per lo stesso motivo; l'ampliamento a 3 corsie ha determinato inoltre, su questo tracciato, la cancellazione della [[corsia di emergenza]] e una riduzione di tutte le corsie a una larghezza inferiore ai 3,75&nbsp;m previsti dal [[codice della strada]] per le autostrade: ciò ha determinato una riduzione della velocità consentita al limite degli 80&nbsp;km/h per quasi tutta la tratta compresa tra [[Albisola]] e Genova [[Pra']]. La terza corsia, più precisamente, è presente tra l'allacciamento con la A26 e Varazze, direzione Savona/Ventimiglia, mentre per chi è diretto verso Genova troviamo la 3ª corsia tra Albisola e l'A26.
+
+=== Ultimo Tratto: Savona-Ponte San Luigi ===
+Verso la fine degli anni 50, con il continuo crescere del trasporto su gomma e il forte incremento del turismo rivierasco, risultò subito evidente la necessità dell'ampliamento dell'autostrada verso il confine di Stato. Così, tramite l'aiuto dell'allora ministro [[Paolo Emilio Taviani]], venne studiato un primo piano progettuale, dal costo stimato di 118 miliardi di lire, con una bozza del percorso che avrebbe compiuto, e il 30 luglio [[1960]] venne costituita la società [[Autostrada dei Fiori (azienda)|''Autostrada dei Fiori S.p.A.'']], che ebbe la prima concessione [[Anas (azienda)|Anas]] sul tratto allora denominato [[Savona]]-[[Ponte San Ludovico|Ponte San Luigi]].
+
+Nel [[1963]] presso l'allora [[Excelsior Hotel Gallia|Hotel Gallia]] di Milano tutti i [[Sindaco (Italia)|sindaci]] dei [[Comune (Italia)|Comuni]] interessati dall'attraversamento della futura autostrada vennero invitati a visionare il progetto definitivo dalla società Alpina, che ebbe l'appalto per la progettazione del tracciato. In quell'occasione vennero presentati i lotti di costruzione (50 circa), il cronoprogramma ipotetico, le uscite autostradali e venne spiegato cosa avrebbero dovuto compiere i comuni sotto l'aspetto normativo ed edilizio, come ad esempio [[Delibera comunale|delibere comunali]] ''ad hoc'' e strade di accesso ai [[Manufatti edilizi|manufatti]], per la buona riuscita dell'opera. In quell'occasione alcuni comuni protestarono per la mancata uscita autostradale senza alcun esito e il comune di [[Alassio]], ai tempi ricca di un turismo d'élite, chiese di non avere lo svincolo previsto al fine di rimanere isolata dall'arteria stradale, definita dal sindaco di allora, "di massa". La motivazione la si poteva ritrovare nell'aumento esponenziale del traffico veicolare transitorio che avrebbe paralizzato le vie cittadine senza portare alcun esito positivo per la cittadina.
+
+I cantieri iniziarono nel [[1965]] con una cerimonia della posa della prima pietra il 12 febbraio a [[Ventimiglia]], dinanzi la presenza del ministro Paolo Emilio Taviani, il quale diede inizio ai lavori del primo lotto ''Ventimiglia-[[Latte (Ventimiglia)|Latte]].''
+
+Dopo tre anni di lavori e cantieri, il 13 luglio 1969 venne aperta una barriera all'altezza dell'uscita di [[Spotorno]] (si può ancora notare il locale di controllo rialzato in direzione [[Genova]]), e vennero così aperti i primi tratti autostradali carrabili insieme a degli svincoli provvisori senza barriera posti dove previsti, e in taluni casi dove non previsti per bypassare i tratti interrotti dai cantieri.<ref>{{cita web|url=https://www.autostradadeifiori.it/la-storia/|titolo=La storia}}</ref>
+
+Questa apertura provvisoria permise uno sviluppo turistico non indifferente, complice anche la curiosità per il "traffico veloce", con un conseguente incremento delle presenze durante il periodo estivo nelle località rivierasche. Negli anni il tragitto cambia e vengono aggiunti svincoli non previsti e eliminati quelli superflui o non voluti, come quello di [[Alassio]]. L'autostrada venne aperta definitivamente il 6 novembre 1973 e costò 271 miliardi di lire rispetto ai 118 preventivati. Negli anni successivi all'apertura definitiva vennero aperti ulteriori caselli come quelli di [[Finale Ligure]] e [[Pietra Ligure]].
+
+Nella primavera del [[2000]] venne creato il collegamento con l'[[Autostrada A6 (Italia)|Autostrada Torino-Savona]] evitando l'obbligo di uscita dall'autostrada per entrare nell'[[Autostrada A6 (Italia)|A6]] e proseguire verso [[Tangenziale di Torino|Torino]]
+
+Nei primi anni 90 l'allora assessore alla viabilità e trasporti della [[Provincia di Savona]], [[Pierluigi Pesenti]] ebbe l'intuizione che l'apertura di un ulteriore svincolo nel tratto tra [[Albenga]] e [[Pietra Ligure]] avrebbe aiutato a decongestionare il traffico e fu così che il [[23 (numero)|23]] [[Luglio]] [[2005]] dinanzi al Ministro [[Claudio Scajola]] e al presidente della [[Regione Liguria]] [[Claudio Burlando]] venne aperto lo svincolo autostradale di [[Borghetto Santo Spirito]]. In quell'occasione il Ministro ha sottolineato come l'Autostrada difficilmente verrà ampliata per via del territorio. Tale svincolo ha come numero progressivo 497 poiché è l'ultimo casello aperto. infatti il progressivo precedente (496) riguarda il casello ''Barriera-Confine di Stato-Mentone''
+
+[[Viadotto Polcevera#Il crollo parziale|Parte del viadotto Polcevera è crollata]] nella mattina del 14 agosto 2018, inghiottendo i mezzi in transito facendoli precipitare in basso e travolgendo le costruzioni sottostanti<ref>{{Cita web|url=http://genova.repubblica.it/cronaca/2018/08/14/news/genova_crolla_il_ponte_dell_autostrada-204085390/?ref=RHPPTP-BL-I0-C12-P1-S1.12-T1|titolo=Genova, Crolla il ponte sull'Autostrada}}</ref>; il bilancio delle vittime fu di 43 morti e svariati feriti<ref name="Ansa 18 agosto">{{Cita web|url=http://www.ansa.it/liguria/notizie/2018/08/18/-le-43-vittime-del-crollo-del-ponte-morandi_9f53cd46-1b85-45ae-a23a-dc92c9c5cef3.html|titolo=Genova, le 43 vittime del crollo del ponte Morandi - FOTO|editore=[[ANSA]]|data=24 agosto 2018|accesso=2 novembre 2018|urlarchivio=https://web.archive.org/web/20180901033542/http://www.ansa.it/liguria/notizie/2018/08/18/-le-43-vittime-del-crollo-del-ponte-morandi_9f53cd46-1b85-45ae-a23a-dc92c9c5cef3.html|urlmorto=no}}</ref>.
+
+=== Il caso di Andora e la creazione di un precedente ===
+
+A causa di condizioni meteorologiche molto avverse, la costruzione della galleria Marino (galleria precedente il viadotto [[Merula]]) non venne completata nei tempi previsti, e per via di un accordo con l'Amministrazione comunale presieduta dal [[Sindaco (Italia)|sindaco]] Walter Momigliano i cantieri si dovettero fermare durante il periodo estivo dell’anno 1969. Questo accordo portò la [[Ferrobeton]], allora impegnata nella costruzione di quella parte di tracciato, alla decisione di chiudere il tratto autostradale [[Albenga]]-[[Andora]]. Questa scelta avrebbe creato un enorme disagio alla cittadina di Andora, allora in forte espansione turistica. Il sindaco fece allora pressione affinché venisse aperta una rampa provvisoria in località Metta (ancora oggi si può notare la piazzola adibita a ingresso e uscita in direzione Confine di Stato, subito dopo la galleria "Bric Arpicella"), visto anche il rifiuto della città di [[Alassio]] di possedere una propria uscita autostradale (ci sarebbe dovuto essere uno svincolo in galleria con sistemi di aerazione per permetterne l'utilizzo). Questo permise di avere un'uscita provvisoria, che consentì di incrementare il turismo locale in attesa di poter utilizzare lo svincolo definitivo.
+
+Al completamento della galleria Marino l’anno successivo, con tanto di inaugurazione dinanzi al ministro [[Paolo Emilio Taviani]], lo svincolo provvisorio venne spostato dopo la galleria. Non essendo ancora completato il viadotto Merula, venne inoltre aperto un secondo svincolo in prossimità dell'attuale area di servizio ''Rinovo Nord'' per bypassare il cantiere e proseguire il tragitto. Durante il completamento del viadotto il comune fece pressione affinché lo svincolo divenisse permanente e l'approvazione da parte della società [[Autostrada dei Fiori (azienda)|Autostrada dei Fiori S.p.A.]] portò gli altri comuni, come ad esempio [[San Bartolomeo al Mare]], a richiedere la trasformazione dello svincolo da provvisorio a permanente visto il precedente creatosi.
+
+==L'autostrada oggi==
+[[File:Genova-quartiere delle Lavatrici.jpg|thumb|L'autostrada A10 in corrispondenza del complesso residenziale detto delle Lavatrici (ufficialmente ''quartiere san Pietro'', a volte indicato come ''Pegli 3''<ref>[http://www.ilsecoloxix.it/p/genova/2008/03/27/ALfLU6fB-dentro_le_lavatrici.shtml Dentro le “Lavatrici”], articolo del Secolo XIX, del 27 marzo 2008</ref>), a Genova [[Pra']]|270x270px]]
+
+Gestita da [[Autostrade per l'Italia]] per il tratto da [[Genova]] a [[Savona]], e da Concessioni del Tirreno (Gruppo [[ASTM (azienda)|ASTM]]) per il tratto da [[Savona]] al [[confine|confine di Stato]] (subentrata nel giugno 2024 ad [[Autostrada dei Fiori (azienda)|Autostrada dei Fiori]])<ref>{{Cita web|url=https://www.concessionideltirreno.it/concessioni-del-tirreno-subentra-a-salt-nella-gestione-delle-tratte-a12-sestri-levante-livorno-a11-a12-viareggio-lucca-a15-diramazione-per-la-spezia-e-ad-autostrada-dei-fiori-per-la-a10-savona/|titolo=Concessioni del Tirreno subentra a Salt nella gestione delle tratte A12 Sestri Levante - Livorno, A11/A12 Viareggio - Lucca, A15 diramazione per La Spezia e ad Autostrada dei Fiori per la A10 Savona - Ventimiglia|accesso=3 luglio 2024|data=6 giugno 2024}}</ref>, conta ventitré stazioni di ingresso.
+
+Il casello di [[Borghetto Santo Spirito]] è una realizzazione più recente, tanto da avere un numero progressivo (497) successivo a quello del confine di Mentone (496).
+Otto sono le [[area di servizio|aree di servizio]] e dodici quelle di sosta.
+[[File:Autostrada A 10 - Diano Marina - Foto di Tony Frisina - Alessandria - DSC06856.JPG|thumb|L'autostrada A10 nei pressi di [[San Bartolomeo al Mare]]|360x360px]]
+Gran parte del tracciato è costruito a mezza costa con un susseguirsi di [[galleria (ingegneria)|gallerie]] e [[viadotto|viadotti]]. Per questo il [[pedaggio]] dell'autostrada, applicato su tutta la tratta ad eccezione degli ultimi 6&nbsp;km prima del confine di Stato, è uno dei più cari d'[[Italia]].
+
+L'autostrada, superata [[Savona]], tocca le città di [[Albenga]], [[Imperia]], [[Sanremo]] e [[Ventimiglia]]. Dopo 6&nbsp;km da quest'ultimo svincolo, immediatamente dopo la barriera finale, all'interno della galleria ''Cima della Giralda'', c'è il confine di stato con la Francia. Attualmente la segnaletica stradale riporta, in direzione Francia, sul viadotto ''Del Passo'', prima della galleria ''Cima della Giralda'', un cartello che annuncia il confine di stato a 250&nbsp;m, mentre nella direzione opposta l'ingresso in Italia viene segnalato, erroneamente, sempre sul viadotto ''Del Passo'', quando in realtà la linea di confine si trova nella galleria precedente. Fino agli anni novanta sia il cambio del colore delle strisce laterali dal giallo al bianco sia un cartello luminoso posto all'interno della galleria indicavano l'esatta posizione del confine, che oggi è ancora riconoscibile dal cambiamento dei sistemi d'illuminazione e dal diverso spessore dell'asfalto.
+
+Procedendo da Ventimiglia verso Genova, la A10 interseca in successione la [[Autostrada A6 (Italia)|A6]], utilizzabile da chi è diretto verso [[Cuneo]] e [[Torino]], e la [[Autostrada A26 (Italia)|A26]], diretta verso la [[Pianura Padana]], la [[Svizzera]] e tutte le principali città del nord, per terminare infine innestandosi sul tratto terminale della [[Autostrada A7 (Italia)|A7]]: il tratto di estremità settentrionale della A10 coincide, in pratica, con il viadotto sul Polvecera. Arrivando a Genova da Ventimiglia, dopo aver percorso un tratto di circa 3&nbsp;km sull'A7 si può proseguire lungo tale autostrada verso [[Milano]] oppure immettersi sull'[[Autostrada A12 (Italia)|A12]] per raggiungere la [[Riviera di Levante]], [[La Spezia]] e la [[Toscana]].
+
+La stazione di Feglino, una tra le più piccole in Italia (ha una sola corsia in entrata e una sola in uscita), ha anche la particolarità unica di non consentire sia l'entrata che l'uscita in entrambe le direzioni: ha infatti l'uscita solo in direzione Ventimiglia e l'entrata solo in direzione Genova.<ref>{{Cita web|autore = Augusto Tembado|url = http://www.lastampa.it/2014/03/25/edizioni/savona/riaprire-il-casello-di-orco-feglino-anche-in-direzione-del-ponente-smMqZ5Wlm42RmWlT5NiAYK/pagina.html|titolo = Riaprire il casello di Orco Feglino anche in direzione del Ponente|accesso = 9 settembre 2014|data = 25 marzo 2014}}</ref>
+
+Dal 14 agosto 2018 al 4 agosto 2020, a causa del crollo del [[viadotto Polcevera]] (inaugurato nel [[1967]]), nel quale hanno perso la vita 43 persone, la viabilità dell'A10 è stata interrotta nel tratto tra l'allacciamento con l'[[Autostrada A7 (Italia)|A7 per Milano]] e lo svincolo dell'[[aeroporto di Genova-Sestri|aeroporto ''Cristoforo Colombo'']]<ref>{{cita web | url = https://www.autostrade.it/autostrade-gis/ricercaPercorso.do?tipo=P&dtxpDa=3824&dtxpA=11168&dtxpPer=&dtxpEsc=&dscDa=3824&dscA=11168&dscPer=&dscEsc=&soloAuto=on&equivalenzaClassi=A | titolo = Calcolo del percorso | sito = autostrade.it | accesso = 23 ottobre 2018 | urlarchivio = | urlmorto = no}}</ref><ref>{{cita web | url = https://www.poliziadistato.it/articolo/105b730cd37294f172094539 | titolo = Genova: aggiornamenti sulla viabilità e itinerari alternativi | sito = poliziadistato.it | data = 17 agosto 2018 | citazione = Le informazioni all'utenza sono rese note sui Pannelli a Messaggio Variabile delle autostrade liguri e confinarie. | accesso = 23 ottobre 2018 | urlarchivio = | urlmorto = no}}</ref>, obbligando chi doveva spostarsi tra la Riviera di Ponente e [[Riviera di Levante|quella di Levante]] a utilizzare la diramazione Predosa-Bettole tra le autostrade A26 e A7, quindi a salire verso il [[Piemonte]] per poi ridiscendere; anche per muoversi tra la Pianura Padana e la Riviera di Ponente si doveva necessariamente utilizzare tale diramazione. Il 3 agosto 2020 è stato inaugurato il nuovo ponte, chiamato [[Viadotto Genova San Giorgio|Genova San Giorgio]] e aperto al traffico alle ore 22 del giorno successivo<ref>{{cita web | url = https://www.rainews.it/dl/rainews/articoli/genova-ponte-san-giorgio-al-lavoro-per-riapertura-stasera-83462716-0c06-4138-90fb-efb6d7301b25.html | titolo = Ponte San Giorgio aperto al traffico questa sera alle ore 22 | sito = rainews.it | accesso = 4 agosto 2020 | urlarchivio = | urlmorto = no}}</ref><ref>{{cita web | url = https://www.genova24.it/2020/08/il-nuovo-ponte-genova-san-giorgio-e-aperto-al-traffico-il-viaggio-e-iniziato-240309/ | titolo = Il nuovo ponte Genova San Giorgio è aperto al traffico: il viaggio è iniziato | sito = genova24.it | accesso = 4 agosto 2020 | urlarchivio = | urlmorto = no}}</ref>; esso differisce dal viadotto precedente per le dimensioni generali e per le corsie, che sono tre per senso di marcia (due di marcia regolare e una di emergenza) anziché due solo di marcia come sul vecchio ponte.
+[[File:Costruzione Viadotto Merula.jpg|miniatura|Viadotto Merula in costruzione]]
+
+==Tabella percorso==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''A10 GENOVA - VENTIMIGLIA'''<br />Autostrada dei Fiori
+|-
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}} || | {{simbolo|Autostrada A7 Italia.svg|23}} [[Autostrada A7 (Italia)|Milano]]-[[Genova]] ovest<br />{{simbolo|Autostrada A12 Italia.svg|23}} [[Autostrada A12 (Italia)|Livorno]]<br />{{simbolo|Italian traffic signs - icona traghetto.svg}} [[Autostrada A7 (Italia)|Genova Sampierdarena]] 
+| align="right"|0|| align="right"|158,1 ||rowspan=7 align="center"|[[Provincia di Genova|GE]]||rowspan=5align="center"|[[File:Italian traffic signs - strada europea 80.svg|50px|link=Strada europea E80]][[File:Italian traffic signs - strada europea 25.svg|50px|link=Strada europea E25]]
+|-
+| [[File:AB-AS-grün.svg]]||[[Cornigliano|Genova Cornigliano - Aeroporto]] || align="right" |2|| align="right"|156
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pegli|Genova Pegli]]|| align="right"|6|| align="right"|152
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pra'|Genova Pra']] <ref>{{Cita web|url=https://www.autostrade.it/autostrade-gis/rete.do?op=caselli&cod=A10|titolo=Caselli della A10 Genova-Savona-Ventimiglia}}</ref><ref>Ex "Voltri"</ref><br/>{{simbolo|Strada Statale 1 Italia.svg|27}} <small>''[[Strada statale 1 Via Aurelia|Via Aurelia]]''</small>|| align="right" |11|| align="right"|147
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 25.svg|27}}{{simbolo|Autostrada A26 Italia.svg|23}} [[Autostrada A26 (Italia)|Alessandria - Gravellona Toce]]
+| align="right"|13|| align="right"|145
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Terrarossa"<ref name="e">solo direzione est</ref> || ||align="right"|140,3||rowspan=35 align="center"|[[File:Italian traffic signs - strada europea 80.svg|50px|link=Strada europea E80]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Arenzano]]<br/>{{simbolo|Strada Statale 1 Italia.svg|27}} <small>''[[Strada statale 1 Via Aurelia|Via Aurelia]]''|| align="right"|20|| align="right"|138
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Piani d'Invrea"|| align="right"|26 || align="right"|132 || rowspan="22" align="center" |[[Provincia di Savona|SV]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Varazze]]<br/>{{simbolo|Strada Statale 1 Italia.svg|27}} <small>''[[Strada statale 1 Via Aurelia|Via Aurelia]]''|| align="right"|27|| align="right"|131 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Celle Ligure]]|| align="right"|32|| align="right"|126
+|-
+| [[File:AB-AS-grün.svg]]|| [[Albisola Superiore|Albisola]]|| align="right"|36|| align="right"|120
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "S.Cristoforo"
+[[File:Fig. 28 - Divieto di transito nei due sensi - 1959.svg|20x20px]] ''dismessa in direzione Genova''
+| align="right" |42 || align="right"|116 
+|-
+| [[File:AB-AS-grün.svg]]|| Complanare [[Savona]]<br />[[File:AB-Kreuz-grün.svg]]{{simbolo|Italian traffic signs - strada europea 717.svg|27}}{{simbolo|Autostrada A6 Italia.svg|23}} [[Autostrada A6 (Italia)|Torino]]<br />[[File:AB-AS-grün.svg]][[Savona]]<br />{{simbolo|Italian traffic signs - icona rifornimento.svg}} [[Area di servizio|Area di Servizio]] "Aurelia sud"
+| align="right"|44,721|| align="right" |113
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Valleggia nord"<ref name="d">solo direzione ovest</ref>|| align="right" | 46,772|| align="right" | 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Spotorno]]|| align="right"|52,705|| align="right" |106
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio|Area di Servizio]] "Borsana sud"<ref name="e" />|| align="right" | 55,702|| align="right" |
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Borsana nord"<ref name="d" />|| align="right" |55,600|| align="right" |
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Feglino sud"<ref name="e" />|| align="right" | 58,000|| align="right" |100
+|-
+|[[File:AB-AS-grün.svg]]{{simbolo|Italian traffic signs - divieto di transito.svg|15}}||[[Orco Feglino]]<br />|| align="right"|59,396|| align="right" |99
+|-
+| [[File:AB-AS-grün.svg]] ||[[Orco Feglino|Feglino]]<br /><small>''casello più piccolo d'Italia aperto in uscita in direzione [[Ventimiglia]] e in entrata in direzione [[Genova]] ''</small> || align="right"|59,396|| align="right" |99
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Aquila sud"<ref name="e" />|| align="right" | 59,300|| align="right" |98,7
+|-
+| [[File:AB-AS-grün.svg]] ||[[Finale Ligure]]|| align="right"|63,982|| align="right" |95
+|-
+| [[File:AB-AS-grün.svg]] ||[[Pietra Ligure]]|| align="right"|67,666|| align="right" |90
+|-
+| [[File:AB-AS-grün.svg]]|| [[Borghetto Santo Spirito]]|| align="right"|72,643|| align="right" |86
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Piccaro nord"<ref name="d" />|| align="right" |75,400 || align="right" | 
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Ceriale"|| align="right"|77,478 || align="right" |87
+|-
+| [[File:AB-AS-grün.svg]]|| [[Albenga]]|| align="right"|81,211|| align="right" |83
+|-
+| [[File:AB-AS-grün.svg]] ||[[Andora]]|| align="right"|93,230|| align="right" |71
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Rinovo nord"|| align="right" |95,066 || align="right" |69
+|-
+| {{simbolo|AB-Tank.svg}}||[[Area di servizio]] "Valle Chiappa sud"|| align="right" | 97,606|| align="right" |60
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Valle Chiappa nord" || align="right" |98,100|| align="right" |65,9
+|
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Bartolomeo al Mare]]|| align="right"|99,972|| align="right" |58 ||rowspan=13 align="center"|[[Provincia di Imperia|IM]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Gorleri sud"<ref name="e" />|| align="right" | 103,900|| align="right" |54,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Imperia]] est|| align="right"|106,297|| align="right" |52
+|-
+| [[File:AB-AS-grün.svg]]|| [[Imperia]] ovest|| align="right"|112,235|| align="right" |46
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Conioli sud"|| align="right" | 120,313
+| align="right" |38
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Castellaro nord" || align="right" |123,114 || align="right" | 
+|-
+| [[File:AB-AS-grün.svg]] ||[[Taggia|Arma di Taggia]]|| align="right"|128,412|| align="right" |30
+|-
+| [[File:AB-AS-grün.svg]] ||[[Sanremo]]|| align="right"|139,370|| align="right" |19
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Bordighera"|| align="right"|143,544 || align="right" |15
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bordighera]]|| align="right"|145,797 || align="right" |12
+|-
+| [[File:AB-AS-grün.svg]]|| [[Ventimiglia]]|| align="right"|151,849|| align="right" |6||rowspan=3 align="center"|[[File:Italian traffic signs - strada europea 80.svg|50px|link=Strada europea E80]][[File:Italian traffic signs - strada europea 74.svg|50px|link=Strada europea E74]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Mentone|Confine di Stato]]|| align="right" |152,000 || align="right" |6
+|-
+|{{simbolo|Italian traffic signs - preavviso di confine di Stato tra paesi della Comunità Europea (Francia).svg|22}}|| Confine di Stato <small>{{bandiera|EUR|dim=18}} {{bandiera|FRA|dim=18}}[[Francia]]</small><ref>Per i mezzi che transitano alla barriera di "Ventimiglia-Confine di Stato" è compreso il pedaggio fino all'uscita di [[Mentone]] sulla [[Autoroute A8 (Francia)|Autoroute A8 francese]]. L'ingresso sulla A8 in direzione [[Italia]] è infatti segnalato, per gli ultimi due svincoli di [[Roquebrune-Cap-Martin]] e Mentone, da cartelli autostradali italiani. Un apposito accordo regola la liquidazione forfettaria all'amministrazione transalpina del pedaggio per la tratta di sua competenza.</ref>{{simbolo|Autoroute française 8.svg|28}} [[Autoroute A8 (Francia)|Nizza]]<br /><small>[[Mentone]] 4&nbsp;km<br />[[Roquebrune-Cap-Martin]] 10&nbsp;km</small>
+| align="right" |158,107|| align="right" |0
+|-
+|}
+[[File:Galleria marino in costruzione.jpg|miniatura|Costruzione del Portale della Galleria Marino in territorio andorese]]
+
+==Note==
+<references/>
+[[File:Cantiere Svincolo Andora direz. Savona.jpg|miniatura|Cantiere nei pressi dello svincolo di Andora in direzione Savona]]
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Ponte S. Luigi-Savona |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 4 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = aprile |pp = 183-191 |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/264/mode/2up }}
+
+== Voci correlate ==
+* [[Sistema viario di Genova]]
+* [[Viadotto Borghetto]]
+* [[Viadotto Genova San Giorgio]]
+* [[Viadotto Polcevera]]
+* [[Viadotto San Lorenzo]]
+* [[Viadotto Sasso]]
+
+==Altri progetti==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+* {{cita web|url=http://www.autostrade.it|titolo=Autostrade per l'Italia}}
+* {{cita web|url=https://www.concessionideltirreno.it/|titolo=Concessioni del Tirreno}}
+* {{cita web|url=http://www.lotsberg.net/data/italia/A10.html|titolo=Gallerie e viadotti della A10}}
+* {{cita web|url=http://www.stradeeautostrade.it/online/articolo.php?id=1024002|titolo="I viadotti Rio Gozzo e San Lorenzo sull'Autostrada dei Fiori" - Strade & Autostrade online|urlmorto=sì}}
+
+{{Autostrade italiane}}
+{{Portale|Liguria|trasporti}}
+
+[[Categoria:Autostrada A10| ]]
+[[Categoria:Trasporti in Liguria]]

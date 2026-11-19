@@ -1,0 +1,126 @@
+{{Strada
+|nome = Autostrada A50
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale Ovest di Milano
+|simbolo = Autostrada A50 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-MI}}
+|inizio = [[autostrada A8 (Italia)|A8]] presso [[Terrazzano]] ([[Provincia di Milano|MI]])
+|fine = Innesto su [[Autostrada A1 (Italia)|A1]] presso [[San Giuliano Milanese]] ([[Provincia di Milano|MI]])
+|lunghezza = 33<ref>{{Cita web |url=http://www.serravalle.it/pag.php?pg=2&autostrada=2 |titolo=La A50 sul sito del gestore |accesso=10 aprile 2010 |urlarchivio=https://web.archive.org/web/20100609105542/http://www.serravalle.it/pag.php?pg=2&autostrada=2 |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1968]]<ref>{{Cita web |url=http://www.serravalle.it/Storia-43.html |titolo=Storia della A50 sul sito del gestore |accesso=10 aprile 2010 |urlarchivio=https://web.archive.org/web/20090612082531/http://www.serravalle.it/Storia-43.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Milano Serravalle - Milano Tangenziali]]
+|pedaggio = sistema aperto
+|città servite = 
+|intersezioni =[[Autostrada A8 (Italia)|A8]]/[[Autostrada A9 (Italia)|A9]]•[[Autostrada A52 (Italia)|A52]]•[[Strada Statale 33 del Sempione|SS33]]•[[Autostrada A7 (Italia)|A7]]•[[Strada statale 35 dei Giovi|SP ex SS 35]]•[[Strada Statale 412 della Val Tidone|SP ex SS 412]]•[[Autostrada A1 (Italia)|A1]] 
+|europea1 = 35
+|europea2 = 62
+|mappa = Italia - mappa autostrada A50.svg
+|tracciato = Mappa autostrada A50.svg
+}}
+L{{'}}'''autostrada A50''', chiamata anche ''tangenziale Ovest di Milano''<ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |titolo=A pag. 8 |accesso=8 maggio 2010 |dataarchivio=16 ottobre 2013 |urlarchivio=https://web.archive.org/web/20131016102523/http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |urlmorto=sì }}</ref>, è un raccordo [[autostrada]]le [[italia]]no tangente l'area suburbana di [[Milano]] da sud-est a nord-ovest, gestito dalla [[Milano Serravalle - Milano Tangenziali]].<br />
+Insieme alla [[Autostrada A51|A51]] (tangenziale Est di Milano), alla [[Autostrada A58|A58]] (tangenziale Est Esterna di Milano) e alla [[Autostrada A52 (Italia)|A52]] (tangenziale Nord di Milano), compone il più esteso sistema Italiano di tangenziali intorno a una città, per una lunghezza complessiva maggiore di 100&nbsp;[[Chilometro|km]]. Aggiungendo alle tre tangenziali il tratto urbano della [[Autostrada A4 (Italia)|A4]], che corre parallelo alla tangenziale Nord collegando A50 e A52, si ottiene un sistema di autostrade urbane che circonda totalmente la città.
+
+== Storia ==
+La Tangenziale Ovest di Milano fu la seconda grande opera e la prima [[tangenziale]] [[Milano|milanese]], realizzata dalla società concessionaria autostradale che un tempo prendeva il nome di ''SpA per l'Autostrada Serravalle-Milano-Ponte Chiasso'', oggi chiamata [[Milano Serravalle-Milano Tangenziali]].
+
+La prima pietra fu posata nel [[1965]] e i lavori si conclusero nel [[1968]]. Inizialmente era costituita da sole due [[corsia di marcia|corsie per senso di marcia]] più la [[corsia di emergenza]]; in seguito ai lavori di ampliamento terminati nei primi [[Anni 1980|anni ottanta]] le corsie sono diventate tre più una [[Corsia di emergenza|di emergenza]] in entrambe le direzioni.
+
+Lo scopo fondamentale per cui venne costruita fu quello di collegare direttamente le autostrade che giungevano a Milano, evitando a numerosi mezzi di passare per le vie interne della città.
+
+La sua costruzione rientrava nel progetto della società concessionaria di unire senza discontinuità l'[[Europa]] con le zone industrializzate della [[Liguria]] e con il sud Italia.
+
+L'ultima tratta della tangenziale, compresa fra le autostrade [[Autostrada A7 (Italia)|per Genova]] e [[Autostrada A1 (Italia)|per Bologna]], venne aperta al traffico l'11 aprile [[1968]].<ref>{{Cita pubblicazione |titolo = Ultimata la Tangenziale Ovest di Milano |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 5 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = maggio |pp = 246-247 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/350/mode/2up }}</ref>
+
+== L'autostrada oggi ==
+L'A50 si snoda per una lunghezza di {{M|31.5|u=km}}. Il km 0 è posto in corrispondenza della connessione con l'[[Autostrada A8 (Italia)|A8 - Autostrada dei Laghi]], nel comune di [[Rho]], zona in cui è posizionata la [[Pedaggio|barriera autostradale]] di [[Terrazzano]]. Essa prosegue in direzione sud seguendo un percorso sinuoso, attraversando il comune di [[Pero (Italia)|Pero]], dove si trovano gli svincoli con l'[[Autostrada A4 (Italia)|A4 Torino-Trieste]], e il comune di Milano. Nel comune di [[Assago]] incrocia l'autostrada [[Autostrada A7 (Italia)|A7 Milano-Genova]]. Giunta nel comune di [[San Giuliano Milanese]] termina immettendosi nell'[[Autostrada A1 (Italia)|A1 autostrada del Sole]].
+
+È dotata di 12 svincoli liberi, per mezzo dei quali si unisce a importanti strade ordinarie come la [[strada statale 494 Vigevanese|SS 494]], la [[strada statale 11 Padana Superiore|SP ex SS 11]] e la [[strada statale 35 dei Giovi|SP ex SS 35]].
+
+Il limite di velocità massimo consentito sulla A50 alle autovetture è di 90 [[Chilometro orario|km/h]].
+
+Oggi la tangenziale non ha la sola funzione di semplice raccordo autostradale. Già negli ultimi anni è diventata parte integrante della viabilità interna dell'area metropolitana milanese.
+
+La poetessa milanese [[Alda Merini]] ha parlato della strada nella poesia ''Tangenziale dell'ovest''<ref>{{Cita web|url=http://www.aldamerini.it/Poesie/Poesie-di-Alda-Merini/tangenziale-dell-ovest.html|titolo=Tangenziale dell'ovest|autore=[[Alda Merini]]|sito=Arkeba|accesso=22 dicembre 2020|urlarchivio=https://archive.is/20120722164021/http://www.aldamerini.it/Poesie/Poesie-di-Alda-Merini/tangenziale-dell-ovest.html|dataarchivio=22 luglio 2012}}</ref>.
+
+==Tabella percorso==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="7" | '''{{simbolo|Autostrada A50 Italia.svg|30}} TANGENZIALE OVEST DI MILANO'''
+|-
+!n°!!Tipo!!Uscita!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+| ||{{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}}{{simbolo|Italian traffic signs - strada europea 62.svg|27}}{{simbolo|Autostrada A8 Italia.svg|23}} [[Autostrada A8 (Italia)|Varese]] 
+|align="right"|0,0 ||align="right"|31,8 || align="center" rowspan=19|[[Provincia di Milano|MI]]|| align="center" rowspan=12|[[File:Italian traffic signs - strada europea 35.svg|link=Strada europea E35|50px|Simbolo dell'autostrada E35]][[File:Italian traffic signs - strada europea 62.svg|link=Strada europea E62|50px|Simbolo dell'autostrada E62]]
+|-
+| ||{{simbolo|Italian traffic signs - stazione.svg}} ||Barriera [[Terrazzano]]<br /><small>''pedaggio 3,40[[euro|€]]''</small> ||align="right"|0,8 ||align="right"|31,0 
+|-
+| {{simbolo|MA Route 1.svg}} ||[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| {{simbolo|Strada Statale 33 Italia.svg|45}} ''[[Strada statale 33 del Sempione|del Sempione]]''<br /><small>{{simbolo|Autostrada A52 Italia.svg|23}} [[Autostrada A52 (Italia)|tangenziale nord]] - [[Pero (Italia)|Pero]] - {{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Fiera di Milano]]</small><br /><small>{{simbolo|Milano linea M1.svg}} [[Linea M1 (metropolitana di Milano)|MM1]] [[Rho Fieramilano]]</small> || align="right"|2,5 ||align="right"|29,3 
+|-
+| ||[[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]|| {{simbolo|Italian traffic signs - strada europea 64.svg|27}}{{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Torino - Trieste]] 
+| align="right"|4,0 ||align="right"|27,8 
+|-
+| ||[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Rho]] Cascina Ghisolfa<br /><small>svincolo solo in uscita direzione [[Genova]]-[[Bologna]]</small>|| align="right"| 5,0 ||align="right"| --
+|-
+| {{simbolo|MA Route 2.svg}}|| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]] || {{simbolo|Strada Statale 11 Italia.svg|45}} ''[[Strada statale 11 Padana Superiore|Padana Superiore]]''<br /><small>{{simbolo|Italian traffic signs - icona centro.svg|18}} [[Gallaratese (Milano)|Milano Gallaratese]]<br />{{simbolo|Milano linea M1.svg}} [[Linea M1 (metropolitana di Milano)|MM1]] [[Molino Dorino (metropolitana di Milano)|Molino Dorino]]</small>
+{{simbolo|Strada Regionale 1 Italia.svg|40}}[[Strada Regionale 1 Raccordo di Cascina Merlata|SR1]]
+| align="right" |6,0 ||align="right"|25,8 
+|-
+| {{simbolo|MA Route 3.svg}} ||[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Settimo Milanese]]<br /><small>{{simbolo|Italian traffic signs - icona centro.svg|18}} [[San Siro (Milano)|Milano San Siro]]<br />{{simbolo|Italian traffic signs - icona stadio.svg}} [[Stadio Giuseppe Meazza]]<br />{{simbolo|Italian traffic signs - icona esposizione-fiera.svg}} [[Fiera di Milano|Fiera Milanocity]]</small>|| align="right"|7,0 ||align="right"|24,8 
+|-
+| {{simbolo|MA Route 4.svg}} ||[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| {{simbolo|Strada Provinciale 114 Italia.svg|45}} [[Cusago]]<br /><small>{{simbolo|Italian traffic signs - icona centro.svg|18}} [[Baggio (Milano)|Milano Baggio]]<br />{{simbolo|Milano linea M1.svg}} [[Linea M1 (metropolitana di Milano)|MM1]] [[Bisceglie (metropolitana di Milano)|Bisceglie]]</small> || align="right"|10,5 ||align="right"|21,3 
+|-
+| ||{{simbolo|AB-Tank.svg}} ||Area Servizio "Muggiano"||align="right"|11,9 ||align="right"|19,9
+|-
+| {{simbolo|MA Route 5.svg}} ||[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]||{{simbolo|Strada Statale 494 Italia.svg|45}} ''[[Strada statale 494 Vigevanese|Nuova Vigevanese]]''<br /><small>{{simbolo|Italian traffic signs - icona centro.svg|18}} [[Lorenteggio|Milano Lorenteggio]]</small><br /><small>[[Abbiategrasso]] - [[Vigevano]] - [[Cesano Boscone]]</small>|| align="right"|14,0 ||align="right"|17,8 
+|-
+| {{simbolo|MA Route 6.svg}}|| [[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| {{simbolo|Strada Provinciale 59 Italia.svg|45}} [[Corsico]] - [[Gaggiano]]<br /><small>[[Trezzano sul Naviglio]] - [[Buccinasco]]</small>|| align="right"|15,0 ||align="right"|16,8 
+|-
+| ||{{simbolo|AB-Tank.svg}}|| Area Servizio "Assago ovest"<br /><small>Inversione di marcia mediante soprelevata</small>||align="right"|19,0 ||align="right"|--
+|-
+| ||[[File:AB-Kreuz-grün.svg|Simbolo di incrocio autostradale con altra autostrada]]|| {{simbolo|Italian traffic signs - strada europea 62.svg|27}}{{simbolo|Autostrada A7 Italia.svg|23}} [[Autostrada A7 (Italia)|Genova]]<br /><small>[[Assago]]<br />{{simbolo|Milano linea M2.svg|16}} [[Linea M2 (metropolitana di Milano)|MM2]] [[Famagosta (metropolitana di Milano)|Famagosta]]</small> ||align="right"|20,0 ||align="right"|11,8 || align="center" rowspan=7|[[File:Italian traffic signs - strada europea 35.svg|link=Strada europea E35|50px|Simbolo dell'autostrada E35]]
+|-
+| {{simbolo|MA Route 7.svg}}||[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| {{simbolo|Strada Provinciale exSS35 Italia.svg|45}} ''[[Strada statale 35 dei Giovi|dei Giovi]]''<br /><small> [[Pavia]] - [[Rozzano]]</small>|| align="right"|21,0 ||align="right"|10,8 
+|-
+| {{simbolo|MA Route 7.svg}} BIS ||[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| [[Rozzano]]/Quinto de' Stampi<br /><small>{{simbolo|Italian traffic signs - icona centro.svg|18}} [[Gratosoglio|Milano Gratosoglio]]</small><br />|| align="right"|23,8 ||align="right"|8,0 
+|-
+| ||{{simbolo|AB-Tank.svg}}|| Area Servizio "Rozzano est"||align="right"|-- ||align="right"|7,3
+|-
+| {{simbolo|MA Route 8.svg}} ||[[File:AB-AS-grün.svg|Simbolo di uscita autostradale]]|| {{simbolo|Strada Provinciale exSS412 Italia.svg|45}} ''[[Strada statale 412 della Val Tidone|della Val Tidone]]''<br /><small>[[Opera (Italia)|Opera]] - [[Locate Triulzi]]</small>|| align="right"|26,0 ||align="right"|5,8 
+|-
+| ||{{simbolo|AB-Tank.svg}}|| Area Servizio "San Giuliano"||align="right"|29,4 ||align="right"|2,4
+|-
+| ||{{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}}{{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Bologna]]<br />{{simbolo|Autostrada A51 Italia.svg|18}} <small>[[Autostrada A51|Tangenziale Est]]</small> 
+| align="right"|31,8 ||align="right"|0,0 
+|-
+|}
+
+==Note==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = Tangenziale autostradale ovest per la città di Milano |autore = Giuseppe Centolani |rivista = [[Le Strade]] |volume = anno XLV |numero = 2 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1965 |mese = febbraio |pp = 43-50 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1557#page/84/mode/2up }}
+
+== Voci correlate ==
+* [[Milano Serravalle-Milano Tangenziali]]
+* [[Autostrada A51|Tangenziale Est]]
+* [[Autostrada A52 (Italia)]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+*{{cita web|http://www.serravalle.it|Milano Serravalle - Milano Tangenziali}}
+*{{cita web | 1 = http://traffico.octotelematics.it/ | 2 = (Octotelematics): Monitoraggio in tempo reale del traffico sulle tangenziali di Milano. | accesso = 10 aprile 2008 | dataarchivio = 27 aprile 2020 | urlarchivio = https://web.archive.org/web/20200427183531/http://traffico.octotelematics.it/ | urlmorto = sì }}
+*{{cita web|http://www.lotsberg.net/data/italia/A50.html|Gallerie e viadotti della A50}}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}{{Portale|Milano|trasporti}}
+
+[[Categoria:Autostrade in Italia|A50]]
+[[Categoria:Tangenziali di Milano]]

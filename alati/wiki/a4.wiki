@@ -1,0 +1,577 @@
+{{nd|la società concessionaria|[[Autostrada Brescia Verona Vicenza Padova]]|Autostrada Brescia-Padova}}
+{{nd|la società concessionaria|[[Autostrada Torino–Milano S.p.A.]]|Autostrada Torino-Milano}}
+{{Strada
+|nome = Autostrada A4
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada Serenissima<br />Torino-Trieste
+|simbolo = Autostrada A4 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}<br />{{IT-LOM}}<br />{{IT-VEN}}<br />{{IT-FVG}}
+|divisione amm 2 = {{IT-TO}}<br />{{IT-VC}}<br />{{IT-NO}}<br />{{IT-MI}}<br />{{IT-MB}}<br />{{IT-BG}}<br />{{IT-BS}}<br />{{IT-VR}}<br />{{IT-VI}}<br />{{IT-PD}}<br />{{IT-VE}}<br />{{IT-TV}}<br />{{IT-UD}}<br />{{IT-GO}}<br />{{IT-TS}}
+|inizio = [[Torino]] ([[città metropolitana di Torino|TO]])
+|fine = [[Duino-Aurisina]] ([[provincia di Trieste|TS]])
+|lunghezza = 524<ref>{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=5&ramo=5&code=A04&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali}}</ref>
+|direzione = [[ovest]]-[[est]]
+|apertura = [[1927]]<ref>{{cita testo|url=http://www.ilgiornale.it/a.pic1?ID=210072|titolo=Aperta al traffico la quarta corsia della A4 tra Milano e Bergamo - Milano - ilGiornale.it del 01-10-2007}}</ref>
+|provvedimento istituzione = 
+|gestore = *[[SATAP]] (Torino-Milano)
+*[[Autostrade per l'Italia]] (Milano-Brescia) 
+*[[Autostrada Brescia - Verona - Vicenza - Padova]] (Brescia-Padova) 
+*[[Concessioni Autostradali Venete]] (Padova-Venezia) 
+*[[Società Autostrade Alto Adriatico]] (Venezia-Trieste).
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|Sistema chiuso]] (gratuita tra la A50 e Cinisello Balsamo, nel tratto iniziale Torino-Rondissone e nel tratto finale a Trieste)
+|città servite = [[Torino]], [[Novara]], [[Milano]], [[Monza]], [[Bergamo]], [[Brescia]], [[Verona]], [[Vicenza]], [[Padova]], [[Venezia]], [[Treviso]], [[Udine]], [[Gorizia]], [[Trieste]]
+|intersezioni = [[Autostrada A55 (Italia)|A55]], [[Autostrada A5 (Italia)|A5]], [[Autostrada A26 (Italia)|A26]], [[Autostrada A50 (Italia)|A50]], [[Autostrada A52 (Italia)|A52]], [[Autostrada A8 (Italia)|A8]], [[Autostrada A51 (Italia)|A51]], [[Autostrada A58|A58]], [[Autostrada A35 (Italia)|A35]], [[Autostrada A21 (Italia)|A21]], [[Autostrada A22 (Italia)|A22]], [[Autostrada A31 (Italia)|A31]], [[Autostrada A13 (Italia)|A13]], [[Autostrada A57 (Italia)|A57]], [[Autostrada A27 (Italia)|A27]], [[Autostrada A28 (Italia)|A28]], [[Autostrada A23 (Italia)|A23]], [[Autostrada A34 (Italia)|A34]], [[Raccordo autostradale 13|RA13]] 
+|europea1 = 55
+|europea2 = 64
+|europea3 = 70
+|europea altro =
+|mappa = Italia - mappa autostrada A4.svg
+|tracciato = 
+}}
+L{{'}}'''autostrada A4''' '''Torino-Trieste''', chiamata anche '''Autostrada Serenissima''', è un'[[rete autostradale italiana|autostrada italiana]] che collega [[Torino]] a [[Trieste]]<ref>Precisamente terminando a [[Sistiana]], frazione del comune sparso di [[Duino-Aurisina]] ([[Provincia di Trieste|TS]]), da cui prosegue verso [[Trieste]] con la classificazione [[Raccordo autostradale 13|RA 13]]</ref>, attraversando da [[ovest]] a [[est]] l'intera [[pianura padana]], passando per [[Milano]] e [[Venezia]]. Lunga {{m|523,1|ul=km}}, è gestita da cinque gestori: [[SATAP]] per la tratta Torino-Milano, [[Autostrade per l'Italia]] per la tratta Milano-Brescia, [[Autostrada Brescia Verona Vicenza Padova|Autostrada Brescia-Verona-Vicenza-Padova]] per la tratta Brescia-Padova, [[Concessioni Autostradali Venete]] per la tratta Padova-Venezia e [[Società Autostrade Alto Adriatico]] per la tratta finale Venezia-Trieste.
+
+È la terza autostrada italiana per lunghezza dopo la [[Autostrada A1 (Italia)|A1]] e la [[Autostrada A14 (Italia)|A14]].
+
+== Storia ==
+Il primo tratto è stato quello tra [[Milano]] e [[Bergamo]], realizzato e aperto da [[Società Bergamasca Autovie]] il 24 settembre [[1927]] e prolungato fino a [[Brescia]] nel [[1931]].
+[[File:Fondaz. Bergamo nella Storia, Autostrada Milano-Bergamo 01.jpg|thumb|L'ingresso di [[Bergamo]] dell'allora autostrada Milano-Bergamo, nel [[1928]]|sinistra]]
+
+La tratta [[Torino]]-[[Milano]] è anch'essa una delle più vecchie autostrade italiane. I lavori furono iniziati dalla [[ASTM (azienda)|Società anonima autostrada Torino-Milano]] nell'aprile del [[1930]] e terminarono con l'inaugurazione il 25 ottobre [[1932]], sotto forma di autostrada a singola carreggiata di 8 metri di larghezza, con una corsia per senso di marcia.<ref>{{cita|Vandone (1933)|p. 1}}.</ref> In quel periodo si pensò ad un'unica arteria del nord Italia che potesse collegare le maggiori città: Torino, Milano, Brescia, Padova, Venezia, Trieste e [[Fiume (Croazia)|Fiume]], allora in Italia. Dopo la guerra, ristrettisi i confini di stato, il progetto fu ripreso col termine dell'autostrada fino al confine con il vecchio [[Territorio Libero di Trieste]], nei pressi di [[Duino]], termine attuale dell'autostrada.
+
+La tratta Brescia-Padova nasce il 9 giugno 1952  congiungendo quindi le due autostrade esistenti, la Milano-Brescia e la Padova-Venezia, collegando le province di Lombardia e Veneto e favorendo lo sviluppo del tessuto socio-economico locale.
+
+In seguito all'aumento del traffico, sempre in quell'anno nella tratta Torino-Milano la carreggiata fu allargata a 10 metri, e a fine anni cinquanta si mise in cantiere il completo raddoppio; la seconda carreggiata aprì completamente al traffico nel [[1962]], con due corsie per senso di marcia. Alla fine di quel decennio, fu abolita la corsia di emergenza in modo da realizzare una terza corsia, riducendo però la larghezza delle corsie rispetto alla norma. Il risultato fu un'autostrada estremamente pericolosa, specie nei frequenti giorni di nebbia, per cui sin dagli anni ottanta si decisero ulteriori ampliamenti; l'occasione venne quando si decise di costruire parallelamente all'autostrada la nuova linea ferroviaria ad [[Treno ad alta velocità|alta velocità]]. I lavori, approvati nel [[2000]], dovevano permettere prima dell'apertura dei [[XX Giochi olimpici invernali]] del [[2006]] l'adeguamento dell'intero tracciato autostradale, con allargamento delle corsie di marcia e introduzione della corsia di emergenza nei tratti ancora dotati di piazzole di sosta ad intermittenza. Il tratto tra Torino e Novara è stato completato nel [[2013]], nel [[2017]] quello tra Novara e Milano.
+
+Il tratto Brescia-Padova è stato aperto al traffico il 10 febbraio 1962<ref name="inaugurazioni">{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=Date aperture |accesso=19 maggio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>.
+
+Il tratto Venezia-Padova è stato inaugurato il 15 ottobre 1933<ref name="inaugurazioni" />, mentre il tratto Venezia-Sistiana è stato completato il 22 febbraio [[1970]]<ref name="inaugurazioni" /> (il tratto da Palmanova a Monfalcone è stato aperto al traffico il 30 luglio [[1966]], insieme al tratto Palmanova-Udine Sud dell'A23, quello da [[Latisana]] a [[Palmanova]] il 25 giugno [[1967]],<ref>{{Cita pubblicazione |titolo = Il tratto Palmanova - Latisana dell'Autostrada Trieste - Venezia |rivista = [[Le Strade]] |volume = anno XLVII |numero = 7 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1967 |mese = luglio |p = 587 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1559#page/730/mode/2up }}</ref> quello da [[Portogruaro]] a Latisana l'8 maggio [[1968]]<ref>{{Cita pubblicazione |titolo = Inaugurato il tratto Latisana-Portogruaro dell'autostrada Venezia-Trieste |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 6 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = giugno |p = 325 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/450/mode/2up }}</ref> e il 22 febbraio 1970 sono stati aperti i rimanenti tratti [[Mestre]]-Portogruaro e [[Monfalcone]]-[[Sistiana]], quest'ultimo realizzato raddoppiando un tratto della "camionale" costruita negli anni '40).
+
+Dall'8 febbraio 2009 i due tratti autostradali sono collegati dal Passante di Mestre, mentre il vecchio tracciato è stato riclassificato come [[autostrada A57 (Italia)|autostrada A57]].
+
+Fino all'apertura del Passante di Mestre i tre tronchi Torino-Milano, Milano-Venezia e Venezia-Trieste avevano progressive chilometriche indipendenti, con il km 0 della tratta Milano-Venezia situato all'altezza del quadrivio Fiorenza, mentre il km 0 della tratta Venezia-Trieste era situato nei pressi dello svincolo Mestre via Terraglio dell'attuale A57. Dall'apertura del Passante le tre tratte hanno una progressiva chilometrica unica.
+
+== L'autostrada oggi ==
+Nel tratto [[Milano]]-[[Brescia]] il transito dei veicoli è in media attorno alle 100.000 unità al giorno, con punte di 140.000, di cui una parte notevole (fino a 40.000 al giorno) di mezzi di grandi dimensioni (autobus, camion ed autotreni).
+L'indice degli incidenti dal 1999 al maggio 2007 è passato da 51 a 43,5, contro la media nazionale passata da 59 a 44 (il numero indica il numero di incidenti/100 milioni di km percorsi).
+
+Nel tratto [[Venezia]]-[[Trieste]] il transito di mezzi pesanti nel [[2008]] è aumentato del 16% (circa 913&nbsp;000 mezzi pesanti), mentre l'aumento del traffico complessivo è stato del 105% dal 2004 al 2008<ref name="gazzettino.it">{{cita testo|url=http://www.gazzettino.it/articolo_app.php?id=19561&sez=NORDEST&npl=&desc_sez=|titolo=L'articolo del Gazzettino del 4 luglio 2009}}</ref>.
+
+Da sempre questa autostrada è considerata uno dei punti nevralgici della rete viaria [[italia]]na facendo parte di uno dei più importanti "corridoi" [[Europa|europei]] che collegano l'estremità della [[Penisola iberica]] con le [[Nazione|nazioni]] dei [[Penisola balcanica|Balcani]].
+
+Il suo percorso di {{m|524|ul=km}} è gestito da società diverse: [[SATAP]] (Torino-Milano), [[Autostrade per l'Italia]] (Milano-Brescia), [[Autostrada Brescia - Verona - Vicenza - Padova]] (Brescia-Padova), [[Concessioni Autostradali Venete]] (Padova-Venezia e Passante di Mestre) e [[Società Autostrade Alto Adriatico]] (Venezia-Trieste).<ref>{{cita testo|url=http://www.autostrade.it/la-nostra-rete/index.html|titolo=La rete Autostrade per l'Italia - Autostrade per l'Italia S.p.A|urlarchivio=https://web.archive.org/web/20100106151229/http://www.autostrade.it/la-nostra-rete/index.html }}</ref>
+
+Differentemente dalle altre due più grandi autostrade italiane, la [[Autostrada A1 (Italia)|A1]] e la [[Autostrada A14 (Italia)|A14]], la A4 presenta un tratto senza pedaggio, quello che attraversa l'area urbana di [[Milano]].
+
+Numerose sono le interconnessioni con le altre grandi arterie [[autostrada]]li. L'A4 è costituita principalmente, nel tratto tra [[Settimo Torinese]] e l'[[Autostrada A23 (Italia)|autostrada A23]], da tre corsie più la corsia d'emergenza (ad eccezione di pochi tratti in concomitanza del passaggio sopra [[fiume|fiumi]] e dei tratti a quattro corsie tra Marcallo-Mesero e Milano-Ghisolfa e tra Milano Est e Bergamo). Il tratto dal nodo di [[Palmanova]] a Sistiana invece è ancora a due corsie, essendo la terza attualmente in fase di realizzazione (da Portogruaro a San Donà di Piave) o in progetto (da Palmanova a Villesse). Il tratto Villesse-Sistiana resterà a due corsie per senso di marcia.
+
+== I singoli tratti ==
+=== Torino-Milano ===
+Questo tratto, gestito dalla concessionaria [[SATAP]] del gruppo [[Marcello Gavio|Gavio]], si snoda per 125&nbsp;km (circa 100&nbsp;km in territorio [[piemonte]]se, il resto in [[Lombardia]]), è pianeggiante e presenta un tracciato pressoché rettilineo. Il tracciato è a due corsie per senso di marcia più corsia di emergenza fino allo svincolo di Torino Abbadia di Stura; da qui in poi l'autostrada è costituita da tre corsie per senso di marcia più corsia di emergenza fino all'uscita [[Marcallo]]-[[Mesero]] (interconnessione per l'aeroporto della Malpensa) e quindi, da Marcallo-Mesero alla barriera di Milano, a quattro corsie più corsia d'emergenza per senso di marcia.
+
+A Torino, l'inizio della A4 coincide col termine di [[corso Giulio Cesare]], proprio sulla grande rotonda in corrispondenza della rampa di accesso posta a nord; arrivando in città, il lungo corso torinese è in pratica un asse di penetrazione. In questa rotonda, tra l'altro, nel ramo a est si dipartiva anche la ex [[strada statale 11 Padana Superiore]], il cui tratto iniziale coincide appunto con il lungo corso torinese.
+
+Gli svincoli da Torino-Abbadia di Stura a [[Rondissone]], passando per le tre uscite di [[Chivasso]], sono liberi da pedaggio dal [[1993]], anno in cui, dopo accordi con gli enti locali tesi a ridurre il traffico nei centri abitati della zona e sul [[Strada statale 11 Padana Superiore#Superstrada Torino-Chivasso|raccordo Torino-Chivasso]], la barriera d'entrata fu spostata da [[Settimo Torinese|Settimo]] a Rondissone. I primi 1,8&nbsp;km di A4, ossia da [[Corso Giulio Cesare|Torino - C.so Giulio Cesare]] all'interconnessione di Settimo con la [[Autostrada A5 (Italia)|A5]] sono in comune con la A5 Torino - Aosta. Lo svincolo di [[Cigliano]] al km 33 fu soppresso durante il riammodernamento dell'arteria.
+
+In questo tratto si trovano le intersezioni con i raccordi verso la [[Autostrada A5 (Italia)|A5]] e la [[Autostrada A26 (Italia)|A26]] (Torino-[[Aosta]]-[[Monte Bianco]] e Genova Voltri-Gravellona Toce) nei pressi di [[Santhià]], con l'autostrada A26 ([[Voltri]]-[[Gravellona Toce]]) nei pressi di [[Biandrate]] e con la [[Autostrada A50|tangenziale Ovest di Milano]] nei pressi della barriera autostradale di Milano-Ghisolfa. I lavori per portare a 4 corsie il tratto fra la [[Superstrada Malpensa 2000|superstrada della Malpensa]] e il casello meneghino si sono ultimati nel 2017. Il tratto Torino-Milano ha termine nei pressi dello svincolo di Milano-Certosa.
+
+I circa 4&nbsp;km di autostrada tra lo svincolo per la tangenziale ovest di Milano (barriera di Milano Ghisolfa) e lo svincolo di Milano Certosa, che scorrono a lato dell'area del [[Fieramilano|polo fieristico]] di Rho-Pero, sostengono ogni giorno un importante volume di traffico.
+
+La tratta [[Torino]]-[[Milano]] è stata soggetta ad un lungo e ampio rifacimento (i cui lavori sono cominciati il 18 ottobre 2002<ref>{{Cita web |url=http://www.otipiemonte.it/Allegati/AllegatoAutostrTOMI.pdf |titolo=Copia archiviata |accesso=8 settembre 2016 |urlarchivio=https://web.archive.org/web/20160914061342/http://www.otipiemonte.it/Allegati/AllegatoAutostrTOMI.pdf |urlmorto=sì }}</ref>), contestuale alla realizzazione della [[Ferrovia Torino-Milano (alta velocità)|linea ferroviaria ad alta velocità]], per allargare le tre corsie e aggiungere quella d'emergenza; il costo totale dei lavori è stato interamente a carico di [[SIAS (azienda)|SIAS]]/Satap per un importo pari a 1,03 miliardi di euro, finanziati al 50% da un prestito di [[Banca europea degli investimenti]] e al 50% da [[UniCredit]], [[Mediobanca]], [[Centrobanca]] e [[SACE]]<ref>{{Cita web|url=https://st.ilsole24ore.com/art/finanza-e-mercati/2011-05-25/unicredit-intesa-infrastrutture-064310_PRN.shtml|titolo=UniCredit con Intesa nelle - MILANO «Siamo molto interessanti alle - Il Sole 24 ORE|sito=st.ilsole24ore.com|accesso=2024-04-30}}</ref><ref>{{cita testo|titolo=ansa.it|url=http://www.ansa.it/motori/notizie/rubriche/istituzioni/2011/05/24/visualizza_new.html_845926642.html|urlmorto=X}}</ref><ref>{{Cita web|url=https://www.gazzettaeconomica.it/unicredit-e-mediobanca-finanziano-il-piano-di-investimenti-del-gruppo-sias/|titolo=UNICREDIT E MEDIOBANCA FINANZIANO IL PIANO DI INVESTIMENTI DEL GRUPPO SIAS|autore=introw|sito=Gazzetta Economica|data=2020-09-09|lingua=it-IT|accesso=2024-04-30}}</ref>. Il completamento dell'opera sarebbe dovuto avvenire entro la fine del 2014<ref>{{cita testo|url=http://torino.repubblica.it/cronaca/2014/08/29/news/autostrada_torino-milano_neppure_per_l_expo_ultimata_la_quarta_corsia-94610877/|titolo=torino.repubblica.it}}</ref>, successivamente spostato a novembre 2015<ref>{{cita testo|url=http://www.satapweb.it/a4-torino-milano/a4-cantieri/|titolo=Satap}}</ref>. Nel maggio 2016 Satap annunciò che l'intero progetto (ovvero tutti i lotti) sarebbero stati completati per maggio 2017<ref>{{Cita web|url=https://www.lastampa.it/novara/2016/05/19/news/l-annuncio-di-satap-a-maggio-2017-addio-ruspe-sull-a4-1.35006011/|titolo=L’annuncio di Satap: “A maggio 2017 addio ruspe sull’A4”|sito=La Stampa|data=2016-05-19|lingua=it|accesso=2024-04-30}}</ref>. A giugno 2017 i lavori di ammodernamento e ampliamento della tratta sono stati completati<ref>{{Cita web|url=http://bimag.it/imprese/milano-e-torino-piu-vicine-con-a4-finita-asse-del-nord-ovest-piu-forte_440825/|titolo=}}</ref>, ad eccezione del lotto 2.3.
+
+In occasione dei lavori sopra descritti, il tracciato dell'autostrada compreso nel territorio di [[Bernate Ticino]] ha subito un considerevole spostamento, essendo stato creato un nuovo sedime traslato rispetto all'esistente di circa 200 metri verso sud (verso [[Boffalora sopra Ticino]]), creando una curva, denominata "Variante di Bernate" nei documenti di progettazione<ref>{{cita testo|url=https://lombardia.portale-infrastrutture.it/data/documenti/scheda%20A4%20variante%20Bernate.pdf|titolo=Scheda A4 variante Bernate|accesso=27 aprile 2025}}</ref>, di minore raggio rispetto a quella già esistente; la variante comprende la galleria artificiale Bernate, lunga 400 metri. Il tracciato dismesso è in parte utilizzato, con carreggiata singola a doppio senso di circolazione, per la viabilità locale, unitamente a una pista ciclabile, ed in parte abbandonato alla vegetazione dopo la demolizione del corpo stradale. Il vecchio ponte sul Ticino del tracciato dismesso è stato demolito, mentre è stato mantenuto il ponte storico sul [[Naviglio Grande]] risalente al 1932, ora utilizzato per viabilità ordinaria a doppio senso di circolazione; la parte di ponte sul Naviglio Grande costruita in occasione del raddoppio del 1962 è ora utilizzata invece dalla già menzionata pista ciclabile.
+
+Nel 2019 hanno avuto inizio i lavori del lotto 2.3 (dalla barriera di Milano Ghisolfa allo svincolo di Milano-Certosa)<ref>{{Cita web|url=http://www.otinordovest.it/progetti/autostrada_torino_milano__ammodernamento_ed_adeguamento|titolo=OTI NORDOVEST - Autostrada Torino-Milano: ammodernamento ed adeguamento|sito=OTI NORDOVEST|lingua=it|accesso=29 dicembre 2019}}</ref>, che sono stati successivamente conclusi nel 2022<ref>{{Cita web|url=https://www.otinord.it/progetti/autostrada_torino_milano__ammodernamento_ed_adeguamento#:~:text=Nel%202022%20si%20sono%20conclusi,(125+125%20km).|titolo=OTI NORD - Autostrada Torino-Milano: ammodernamento ed adeguamento|accesso=31 marzo 2023}}</ref>.
+
+=== Milano-Brescia ===
+[[File:A4 uscita Bergamo.jpg|thumb|A4 all'uscita di [[Bergamo]]]]
+
+Dall'allacciamento del quadrivio di Fiorenza (in corrispondenza dello svincolo per viale Certosa), dove vi è l'innesto con l'[[Autostrada A8 (Italia)|Autostrada A8]], ha inizio il tratto gestito dalla società [[Autostrade per l'Italia]]; proseguendo in direzione [[Brescia]] l'A4 attraversa le zone fortemente urbanizzate di [[Cormano]], [[Cinisello Balsamo]], [[Sesto San Giovanni]] e [[Brugherio]]. Nei pressi del comune di [[Monza]], dove è situata la barriera autostradale di Milano est, si collega con la [[Autostrada A52 (Italia)|tangenziale nord di Milano]]. All'altezza del casello di [[Agrate Brianza]] l'A4 si allaccia con la [[Autostrada A51|tangenziale est di Milano]] e poco dopo si collega con la [[Tangenziale Est Esterna|tangenziale est esterna di Milano]] che lì prende avvio (Agrate) e che consente di raggiungere l’[[Autostrada A35 (Italia)|Autostrada BreBeMi]]. La gestione da parte di Autostrade per l'Italia termina tra il casello di Brescia Ovest e quello di Brescia Centro (quest'ultimo però appartiene per intero alla gestione di Autovie Padane S.p.A. che è concessionaria del tratto Brescia-Piacenza della [[Autostrada A21 (Italia)|A21]]).
+
+Il tratto compreso tra le barriere autostradali di Milano Ghisolfa e Milano est (Monza) viene denominato ''tratto urbano dell'A4''<ref>Spesso, impropriamente, denominato "tangenziale" (in realtà è l'autostrada A4 che attraversa la fascia urbana/industriale settentrionale di Milano e non ha nulla a che fare con le quattro tangenziali milanesi)</ref> e i due svincoli intermedi di Cormano e Cinisello Balsamo-Sesto San Giovanni sono liberi, cioè privi di casello.
+
+Il percorso Milano - Brescia, lungo circa 90&nbsp;km, è completamente pianeggiante e rettilineo, ad eccezione del "curvone" in concomitanza con il casello autostradale di [[Bergamo]]. In pratica, il tratto è una specie di triangolo con il casello di Bergamo al vertice superiore.
+
+Nel tratto urbano di Milano, fra l'interconnessione con l'A8 e l'uscita per Cinisello Balsamo dal 12 Dicembre 2024 è stata interamente attivata la quarta corsia dinamica (dove la corsia di emergenza viene impiegata come normale corsia di scorrimento in caso di volumi di traffico elevati, similmente a quanto già accade per il tratto bolognese dell'[[Autostrada A14 (Italia)|A14]] e la tangenziale di Mestre [[A57 Tangenziale di Mestre|A57]]). La tratta [[Bergamo]]-[[Milano]] invece, è stata ampliata a quattro corsie più corsia d'emergenza, aperte il 22 luglio [[2007]] in direzione [[Brescia]] e il 23 settembre [[2007]] in direzione [[Milano]]. In concomitanza coi lavori di ampliamento il casello di [[Trezzo sull'Adda]] è stato ingrandito e spostato di circa due km verso [[Milano]]. Il tratto Bergamo-Brescia è a 3 corsie, più corsia di emergenza.
+
+Sul tratto Milano-Brescia è in funzione il sistema di rilevamento della velocità media con dispositivo [[Tutor (dispositivo)|Tutor]].
+
+Dal luglio 2014 esiste un percorso autostradale tra Brescia e Milano più meridionale rispetto a quello dell'A4, non passante per Bergamo: la [[Autostrada A35 (Italia)|A35]] BreBeMi. Da novembre 2017, nel versante bresciano, le due autostrade sono connesse direttamente (barriera di [[Castegnato]] situata qualche chilometro prima di Brescia ovest).
+
+=== Brescia-Venezia ===
+[[File:A4-Passante di Mestre a 3 km.JPG|thumb|left|Il tratto autostradale dell'A4 Brescia-Venezia in direzione Venezia, a 3&nbsp;km dal bivio per l'[[Autostrada A57 (Italia)|A57-Tangenziale di Mestre]]]]
+Passata l'interconnessione con la A35 alla barriera di Castegnato (che qui ha inizio) e il successivo casello di Brescia ovest, alla progressiva chilometrica 217+700<ref name="chilometrica">'''Ord. 5009''' (1 aprile 2026): ''"inizio competenza km 217+700 (tratto tra i caselli di Brescia Ovest e Brescia Centro) al km 363+723 (fine competenza)''
+
+https://inviaggio.autobspd.it/ordinanze</ref> (tra Brescia ovest e Brescia centro) cambia la società di gestione autostradale, passando da ''[[Autostrade per l'Italia]]'' ad ''[[Autostrada Brescia Verona Vicenza Padova]]''.
+
+In corrispondenza dello svincolo di ''Brescia centro'' s'innesta l'[[autostrada A21 (Italia)|autostrada A21]], anch'essa originata a Torino, ma con un percorso più meridionale rispetto alla A4 attraverso [[Asti]], [[Alessandria (Italia)|Alessandria]], [[Voghera]], [[Piacenza]] e [[Cremona]]. Il primo casello che rientra nella gestione della nuova società concessionaria è Brescia est, che si trova al km 227, dopo l’area di servizio “San Giacomo”.<ref>Il casello di Brescia centro è l'ultimo della A21 ed è gestito da Centro Padane.</ref>
+
+Questo tratto di circa 170&nbsp;km si sviluppa parzialmente in territorio lombardo e per la maggior parte in [[Veneto]] con la presenza, nei primi chilometri tra ''Brescia est'' e ''[[Sommacampagna]]'', di alcuni saliscendi in presenza dell'attraversamento dell'anfiteatro morenico del [[Lago di Garda]].
+
+Nelle vicinanze di [[Verona]] si interseca l'[[autostrada A22 (Italia)|autostrada A22]] ([[Brennero]]-[[Modena]]) mentre nel tratto successivo, arrivando a [[Vicenza]], si incontra anche l'unico tratto con la presenza di [[galleria (ingegneria)|gallerie]] (2) di tutto il percorso (all'altezza dei [[Colli Berici]], tra i caselli di Vicenza Ovest ed Est). Sempre nei pressi di Vicenza si incontra lo svincolo per l'[[autostrada A31 (Italia)|autostrada A31]] verso [[Piovene Rocchette]] e [[Rovigo]].
+
+Dal 25 giugno 2024, con l'inaugurazione del nuovo casello di [[Montecchio Maggiore]], A4 e [[Pedemontana Veneta]] sono connesse direttamente. Tramite la SPV si sono aggiunte altre interconnessioni con la A27 e la A31 nonché (ramo superiore dell'anello) con la A4 stessa nel punto d'intersezione tra A27 e Passante di Mestre.
+
+A [[Padova]] c'è l'innesto dell'[[Autostrada A13 (Italia)|autostrada A13]] (Padova-[[Bologna]]) e un nuovo cambiamento nella gestione, che passa a ''[[Concessioni Autostradali Venete]]'' al km 363,724<ref name="abcd">{{cita testo|url=http://www.cavspa.it/files/la%20carta%20dei%20servizi.pdf|titolo=Carta dei servizi|urlarchivio=https://web.archive.org/web/20140826133743/http://www.cavspa.it/files/la%20carta%20dei%20servizi.pdf }}</ref>.
+
+=== Passante di Mestre ===
+{{vedi anche|Passante di Mestre}}
+[[File:Sistema autostradale venezia.svg|upright=1.4|thumb|Il tracciato del [[Passante di Mestre]] (in blu) e il sistema autostradale di Venezia-Mestre]]
+Il cosiddetto ''passante di Mestre'' è il tratto autostradale dell'A4, lungo 32,3&nbsp;km, che permette di evitare l'attraversamento dell'ex tratto urbano dell'A4, ora ridenominato [[Autostrada A57 (Italia)|A57 - tangenziale di Mestre]].
+
+Aperto l'8 febbraio [[2009]], è gestito da [[Concessioni Autostradali Venete|CAV S.p.A.]] (50% [[ANAS]], 50% [[Regione del Veneto]]).
+
+Lungo il percorso vi sono gli svincoli di [[Preganziol]] (aperto il 18 febbraio [[2009]]<ref>{{Cita web |url=http://tribunatreviso.gelocal.it/dettaglio/apre-a-preganziol-la-porta-trevigiana-del-passante/1592222 |titolo=Apre a Preganziol la "porta" trevigiana del Passante {{!}} la tribuna di Treviso |accesso=3 agosto 2009 |urlarchivio=https://archive.is/20120714200543/http://tribunatreviso.gelocal.it/dettaglio/apre-a-preganziol-la-porta-trevigiana-del-passante/1592222 }}</ref>), quello di [[Spinea]] (entrato in funzione il 15 luglio [[2009]]<ref>{{cita testo|url=http://corrieredelveneto.corriere.it/veneto/notizie/cronaca/2009/14-luglio-2009/passante-apre-casello-spinea-1601568175420.shtml|titolo=Passante, apre il casello di Spinea - Corriere del Veneto}}</ref>) e quello di [[Martellago]]-[[Scorzè]] (aperto il 1º aprile [[2015]]); vi sono inoltre le due interconnessioni con l'[[Autostrada A57 (Italia)|A57-tangenziale di Mestre]] (alle estremità est e ovest) e l'interconnessione (aperta il 24 maggio [[2009]]<ref>{{Cita web |url=http://nuovavenezia.gelocal.it/dettaglio/lo-svincolo-che-libera-la-tangenziale/1638795 |titolo=Lo svincolo che libera la tangenziale {{!}} la Nuova di Venezia e Mestre |accesso=3 agosto 2009 |urlarchivio=https://web.archive.org/web/20091109235852/http://nuovavenezia.gelocal.it/dettaglio/lo-svincolo-che-libera-la-tangenziale/1638795 |urlmorto=sì }}</ref>) con l'[[autostrada A27 (Italia)|autostrada A27]].
+
+L'apertura del passante ha comportato [[Autostrada A57 (Italia)#Lavori.2C idee.2C progetti e controversie|l'arretramento verso Venezia]] della precedente barriera di Venezia Est e dello svincolo di Quarto d'Altino (questi ultimi ora si trovano nell'A57), così come l'arretramento, sempre verso Venezia, della barriera di Venezia Nord della A27; questo per consentire il transito diretto, senza barriere, senza soluzione di continuità, sul tratto autostradale tra Milano e Trieste, nonché tra la A4 e la A27.
+[[File:Autostrada A4 per A27. Passante di Mestre.JPG|thumb|left|Il [[Passante di Mestre]] in direzione Trieste nei pressi dell'interconnessione con l'A27]]
+
+Con l'apertura del passante è stata decongestionata l'attuale [[Autostrada A57 (Italia)#L'emergenza traffico, il Passante di Mestre e la Terza corsia dinamica|tangenziale di Mestre]], tratto ora affiancato dal passante, e nella stessa A57 sono diminuiti gli incidenti stradali<ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=770708&Data=20090901&CodSigla=VE|titolo=L'articolo del Gazzettino del 1º settembre 2009|urlarchivio=https://web.archive.org/web/20150323064935/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=770708&Data=20090901&CodSigla=VE }}</ref><ref>{{cita testo|url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=414603&Data=20090314&CodSigla=PG|titolo=L'articolo del Gazzettino|urlarchivio=https://web.archive.org/web/20150323074526/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=414603&Data=20090314&CodSigla=PG }}</ref>.
+
+=== Venezia-Trieste ===
+[[File:A4 Meolo.jpg|thumb|L'A4 all'uscita di Meolo]]
+Il tratto, di lunghezza complessiva di circa 120&nbsp;km, è interamente gestito da [[Società Autostrade Alto Adriatico]] e presenta per due tratti a 3 corsie, il primo naturale proseguimento del Passante di Mestre fino al casello di San Donà di Piave/Noventa di Piave, mentre il secondo tratto è tra Portogruaro e fino al Nodo di Palmanova con la A23. Al momento il tratto tra San Donà di Piave e Portogruaro è in fase di ampliamento per adeguarlo alla terza corsia. Il tratto è per sessanta chilometri in territorio veneto, la cui ultima uscita di [[Portogruaro]] coincide con la parte iniziale della [[autostrada A28 (Italia)|autostrada A28]], sino ad entrare in [[Friuli-Venezia Giulia]] in [[provincia di Udine]].
+
+A partire da inizio anni Duemila, in seguito alla notevole crescita economica dei paesi dell'Europa orientale, l'autostrada ha registrato il più rapido aumento di traffico di mezzi pesanti rispetto a tutti gli altri valichi autostradali italiani. A questo si è sommato l'aumento del traffico estivo in direzione delle coste slovene e croate. L'inadeguatezza dell'autostrada a far fronte al progressivo aumento di traffico fu evidente in seguito a numerosi gravi incidenti<ref>{{Cita web|autore =|url =http://www.iltempo.it/cronache/2003/03/14/maxitamponamento-sulla-venezia-trieste-13-morti-78-feriti-1.936029|titolo =Maxitamponamento 14/03/2003|accesso =|editore =|data =|urlmorto =sì|urlarchivio =https://web.archive.org/web/20150402093848/http://www.iltempo.it/cronache/2003/03/14/maxitamponamento-sulla-venezia-trieste-13-morti-78-feriti-1.936029}}</ref><ref>{{Cita web|autore = |url = https://www.youtube.com/watch?v=vNO7zQ0FcPA|titolo = Incidente 08/08/2008|accesso = |editore = |data = }}</ref><ref>{{Cita web|autore = |url = http://www.romagnaoggi.it/cronaca/chiusa-la-a4-venezia-trieste-per-maxi-tamponamenti-in-entrambe-le-direzioni.html|titolo = Maxitamponamento 14/05/2010|accesso = |editore = |data = |urlarchivio = https://web.archive.org/web/20150325211605/http://www.romagnaoggi.it/cronaca/chiusa-la-a4-venezia-trieste-per-maxi-tamponamenti-in-entrambe-le-direzioni.html|urlmorto = sì}}</ref>. Nel 2005 il [[CIPE]] approva il progetto di ampliamento a tre corsie per un tratto totale di 95&nbsp;km dal [[Passante di Mestre]] alla diramazione dell'[[Autostrada A34 (Italia)|autostrada A34]] a [[Villesse]]. Il 5 settembre 2008 il Presidente della regione autonoma [[Friuli-Venezia Giulia]] [[Renzo Tondo]] viene nominato Commissario delegato per l'emergenza in A4<ref>{{Cita web|autore = |url = http://www.commissarioterzacorsia.it/|titolo = http://www.commissarioterzacorsia.it/|accesso = |editore = |data = }}</ref>, carica che viene poi assunta dal successore [[Debora Serracchiani]]. Il 17 novembre 2014 viene inaugurato il primo lotto di 18&nbsp;km da Quarto d'Altino a San Donà di Piave<ref>{{Cita web|autore = |url = http://messaggeroveneto.gelocal.it/udine/cronaca/2014/11/17/news/terza-corsia-a4-inaugurato-il-primo-tratto-1.10328154|titolo = Inaugurazione primo lotto|accesso = |editore = |data = }}</ref>. A Ottobre 2024<ref>{{Cita web|autore = |url = https://www.pordenonetoday.it/cronaca/terza-corsia-a4-portogruaro-alvisopoli.html|titolo = A4, aperta la terza corsia tra Portogruaro e Alvisopoli|accesso = |editore = |data = }}</ref> sono stati completati i lavori di allargamento fra [[Portogruaro]] e [[Palmanova]], rendendo l'autostrada ora interamente percorribile a tre corsie e sono di conseguenza iniziati i lavori propedeutici al completamento dei lavori sul tratto tra [[San Donà di Piave]] e Portogruaro che in una prima fase prevederanno il solo adeguamento di tutti i cavalcavia mediante abbattimento e ricostruzione<ref>{{Cita web|autore = |url = https://www.veneziatoday.it/attualita/terza-corsia-a4-abbattimento-cavalcavia-cessalto.html|titolo = Terza corsia A4: nel fine settimana sarà demolito il secondo cavalcavia|accesso = |editore = |data = }}</ref>. L'aggiudicazione della gara d'appalto per questo tratto è prevista nel 2025 con inizio lavori nel 2026, i quali dovrebbero procedere in maniera più celere rispetto ai precedenti tratti essendo, per quella data, già stati rifatti e adeguati tutti i cavalcavia della tratta, con previsione di conclusione entro il 2029<ref>{{Cita web|autore = |url = https://www.ilnordest.it/economia/infrastrutture/a4-lultimo-tratto-della-terza-corsia-vale-870-milioni-di-euro-pk72mc12|titolo = A4: l’ultimo tratto della terza corsia vale 870 milioni di euro|accesso = |editore = |data = }}</ref>. La progettazione e i conseguenti lavori tra Palmanova e [[Villesse]] non sono ancora iniziati. [[File:A4-A23 direzione Venezia.JPG|thumb|left|Il bivio per l'A23 in direzione Venezia prima dei lavori di ammodernamento]] Nelle vicinanze di [[Palmanova]] dalla A4 si dirama l'[[autostrada A23 (Italia)|autostrada A23]] diretta in [[Austria]] attraverso il confine di [[Tarvisio]]; da qui è possibile raggiungere [[Udine]].
+
+Nell'ultimo tratto si incontrano le uscite di [[Villesse]] (destinata a chi vuole uscire dall'[[Italia]] verso la [[Slovenia]] attraverso la [[Confine|frontiera]] di [[Gorizia]] utilizzando la nuova [[Autostrada A34 (Italia)|autostrada A34]]), di [[Ronchi dei Legionari]] (per l'[[Aeroporto di Trieste-Ronchi dei Legionari|aeroporto di Trieste e del Friuli-Venezia Giulia]] e il [[sacrario militare di Redipuglia]]) e il casello terminale di Trieste-Lisert. L'autostrada, non a pedaggio, prosegue con le uscite di [[Duino]] (solo da e per [[Venezia]]) e [[Sistiana]], con connessione con la [[strada statale 14 della Venezia Giulia|SR 14]] e il [[raccordo autostradale 13]], quest'ultimo naturale proseguimento dell'A4 verso Trieste e la Slovenia. Nel tratto compreso tra Venezia est e Redipuglia sono stati installati alcuni dispositivi ''safety tutor'' per il controllo della velocità media.
+
+=== Strade europee ===
+La A4 nei suoi vari tratti fa parte di diverse [[strade europee]]:
+
+* per il tratto [[Torino]] - [[Brescia]] coincide nella totalità al percorso dell'[[Strada Europea E64|E64]];
+* per il tratto Brescia - [[Trieste]] fa parte invece dell'[[Strada Europea E70|E70]] che unisce [[La Coruña]] in [[Spagna]] con [[Trebisonda]] in [[Turchia]];
+* per il tratto dall'Interconnessione Est con l'[[Autostrada A57 (Italia)|A57-tangenziale di Mestre]] sino all'Interconnessione con l'[[Autostrada A23 (Italia)|autostrada A23]], l'autostrada A4 fa anche parte della dorsale nord-sud dell'[[Strada Europea E55|E55]], che unisce [[Helsingborg]] in [[Svezia]] a [[Kalamáta]] in [[Grecia]].
+
+== Tabella percorso ==
+{| class="wikitable" 
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="6" | '''{{simbolo|Autostrada A4 Italia.svg|30}} TORINO - TRIESTE'''<br />''Serenissima''
+|-
+!Tipo!!Indicazione!!km<ref>{{cita testo|url=http://www.satapweb.it/a4-torino-milano/|titolo=Dati chilometrici ufficiali SATAP S.p.A. per la Torino-Milano}}</ref>!!Area!!Strada europea
+|-
+| {{simbolo|Italian traffic signs - città.svg}}|| [[Torino]] [[Corso Giulio Cesare (Torino)|corso Giulio Cesare]]||align="right"| 0 ||rowspan=15 align="center"|[[Provincia di Torino|TO]]|| rowspan="63" align="center" |[[File:Italian traffic signs - strada europea 64.svg|50px]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A55 Italia.svg|23}} [[Autostrada A55|tangenziale di Torino]]<br /><small>[[File:AB-AS-grün.svg]] [[Torino]] Abbadia di Stura</small><br /><small> {{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Torino-Caselle|Torino-Caselle]]</small> <br /><small>{{simbolo|Italian traffic signs - strada europea 612.svg|27}} {{simbolo|Autostrada A5 Italia.svg|18}} [[Autostrada A5 (Italia)|Torino - Aosta - Traforo del Monte Bianco]] </small>|| align="right" | 1,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Settimo Torinese" <br /><small>({{simbolo|Italian traffic signs - divieto di transito.svg|18}} ''area di servizio dismessa)''</small>|| align="right" | 2,6
+|-
+|[[File:AB-AS-grün.svg]]|| [[Settimo Torinese]] ovest<ref name="eusoloTO">entrata ed uscita solo in direzione Torino</ref>|| align="right"| 2,9 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Settimo Torinese sud"<ref name="soloMI">Solo direzione Milano</ref>|| align="right" |3,6 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Settimo Torinese]] ||align="right"| 4,7
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Settimo Torinese nord" <br /><small>({{simbolo|Italian traffic signs - lavori.svg}} ''in costruzione''<ref name="soloTO" />)</small> || align="right" |
+|-
+| [[File:AB-AS-grün.svg]]|| [[Volpiano]] sud - [[Brandizzo]] ovest||align="right"| 9,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Brandizzo]] est<ref name="eusoloTO" />||align="right"| 11,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chivasso]] ovest ||align="right"| 13,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chivasso]] centro<br/>{{simbolo|Strada Statale 26 Italia.svg|40}} <small>''[[strada statale 26 della Valle d'Aosta|della Valle d'Aosta]]''</small> ||align="right"| 17,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chivasso]] est<br /><small>[[File:AB-Kreuz-grün.svg]] Raccordo Chivasso est </small>||align="right"| 20,6 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rondissone]] || align="right"| 24,0
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Torino]] Rondissone||align="right"| 24,3 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "San Rocco"<ref name="soloMI" />||align="right"| 24,4
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Cigliano"<ref name="soloTO">Solo direzione Torino</ref>|| align="right" | 31,9 ||rowspan=8 align="center"|[[Provincia di Vercelli|VC]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Borgo d'Ale]]||align="right"| 36,8
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 25.svg|24}} {{simbolo|Autostrada A4-A5 Italia.svg|23}} [[Autostrada A4 - A5 (Diramazione Ivrea - Santhià)|Diramazione Ivrea - Santhià]]<br />{{simbolo|Italian traffic signs - strada europea 25.svg|24}} {{simbolo|Autostrada A26-A4 Italia.svg|23}} [[Autostrada A26 - A4 (Diramazione Santhià - Stroppiana)|Diramazione Stroppiana - Santhià]]|| align="right" | 43,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Santhià]] <br /><small>[[File:Strada Statale 230 Italia.svg|36px]] [[Biella]]</small>||align="right"| 45,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Carisio]] <br /><small>[[File:Strada Statale 230 Italia.svg|36px]] [[Biella]]</small> ||align="right"| 54,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Balocco (Italia)|Balocco]] || align="right"| 60,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Villarboit" ||align="right"| 64,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Greggio (Italia)|Greggio]] || align="right"| 67,5
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A26 Italia.svg|23}} [[Autostrada A26 (Italia)|Genova - Gravellona Toce]] ||align="right"| 72,4||rowspan=5 align="center"|[[Provincia di Novara|NO]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Biandrate]] - [[Vicolungo]] ||align="right"| 73,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Novara]] ovest ||align="right"| 82,9
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio bidirezionale "Novara" ||align="right"| 88,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Novara]] est||align="right"| 90,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Marcallo con Casone|Marcallo]] - [[Mesero]]<br /><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|18}} {{simbolo|Strada Statale 336 Italia.svg|40}} [[Superstrada Malpensa 2000]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Milano-Malpensa|Milano-Malpensa]] </small> ||align="right"| 105,4||rowspan=13 align="center"|[[Provincia di Milano|MI]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Arluno]] ||align="right"| 110,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rho]]<ref>l’uscita in direzione Torino non esiste, essendo presente - invero non segnalata - sullo svincolo con la tangenziale ovest, e quindi esente da pedaggio</ref>|| align="right" | 118,4
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio unidirezionale "Rho Sud"<ref name="soloMI" />|| align="right" | 119,0
+|-
+| |{{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Milano]] Ghisolfa||align="right"| 120,9
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 35.svg|24}} {{simbolo|Autostrada A50 Italia.svg|23}} [[Autostrada A50|Tangenziale ovest di Milano]]|| align="right"| 121,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio unidirezionale "Pero Nord"<ref name="soloTO" /> || align="right" | 122,7
+|-
+| [[File:AB-AS-grün.svg]] || [[Pero (Italia)|Pero]]<br /><small>{{simbolo|Italian traffic signs - icona esposizione-fiera.svg|15}} [[Fiera di Milano]] - {{simbolo|Milano linea M1.svg}} [[Rho Fieramilano]]<br />{{simbolo|Autostrada A52 Italia.svg|15}} [[Autostrada A52 (Italia)|Tangenziale nord di Milano]]</small> ||align="right"| 123,0
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A8 Italia.svg|23}} [[Autostrada A8 (Italia)|Milano - Varese]]<ref>''Interconnessione non disponibile da e per [[Torino]], per cui bisogna utilizzare lo svincolo di [[Pero (Italia)|Pero]].''</ref><br /><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|18}} [[Milano]] [[Cavalcavia del Ghisallo|viale Certosa]]<br />{{simbolo|Italian traffic signs - icona esposizione-fiera.svg|15}} [[Fieramilanocity]]</small>|| align="right" | 125,5
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio unidirezionale "Novate Nord"<ref name="soloTO" />|| align="right" |126,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cormano]]<br /><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|18}} {{simbolo|Strada Statale 35 Italia.svg|40}} [[Strada statale 35 dei Giovi|Superstrada Milano-Meda-Cermenate]]</small> || align="right"| 129,5
+|-
+|[[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Lambro" || align="right"| 133,5
+|-
+|[[File:AB-AS-grün.svg]]|| [[Cinisello Balsamo]]-[[Sesto San Giovanni]]<br /><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|18}} {{simbolo|Strada Statale 36 Italia.svg|40}} [[Strada statale 36 del Lago di Como e dello Spluga|Superstrada Milano-Monza-Lecco]]<br/>[[Milano]] [[viale Zara]]</small> || align="right"| 136,5
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Milano]] est || align="right"| 138,0 || rowspan="7" align="center" |[[Provincia di Monza-Brianza|MB]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A52 Italia.svg|23}} [[Autostrada A52 (Italia)|Tangenziale nord di Milano]]<br /><small>{{simbolo|AB-AS-grün.svg|15}} [[Monza]]</small> || align="right"| 138,1
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A51 Italia.svg|23}} [[Autostrada A51|Tangenziale est di Milano]] <br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Milano-Linate|Milano-Linate]]</small>|| align="right"| 144,5
+|-
+|[[File:AB-AS-grün.svg]]||[[Agrate Brianza|Agrate]] - [[Monza]]|| align="right" | 145,5
+|-
+|[[File:AB-Kreuz-grün.svg]]||[[File:Autostrada A58 Italia.svg|frameless|23x23px]] [[Autostrada A58|Tangenziale est esterna di Milano]] <br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Milano-Linate|Milano-Linate]]</small>|| align="right" |146,3
+|-
+|[[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Brianza" ||align="right"| 146,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cavenago di Brianza|Cavenago]] - [[Cambiago]] || align="right"| 149,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Trezzo sull'Adda]] || align="right"| 156,8|| align="center"|[[Provincia di Milano|MI]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Capriate San Gervasio|Capriate]] || align="right"| 160,3||rowspan=7 align="center"|[[Provincia di Bergamo|BG]]
+|-
+|[[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio bidirezionale "Brembo" || align="right"| 165,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Dalmine]] || align="right"| 167,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bergamo]]<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto internazionale Orio al Serio|Bergamo-Orio al Serio]] </small>|| align="right"| 172,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Seriate]] || align="right"| 178,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Grumello del Monte|Grumello]] - [[Telgate]] || align="right"| 187,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cividino|Ponte Oglio]] || align="right"| 190,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Palazzolo sull'Oglio|Palazzolo]] || align="right"| 192,8||rowspan=14 align="center"|[[Provincia di Brescia|BS]]
+|-
+|[[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio bidirezionale "Sebino" || align="right"| 197,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rovato]] || align="right"| 201,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Ospitaletto]] || align="right"| 206,0
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A35 Italia.svg|23}} [[Autostrada A35 (Italia)|BreBeMi]]<ref>Accessibile in entrata solo in direzione Milano e in uscita solo in direzione Venezia.</ref> <br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Milano-Linate|Milano-Linate]]</small>|| align="right"| 210,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Val Trompia" || align="right"| 213,7
+|-
+| [[File:AB-AS-grün.svg]]||[[Brescia]] ovest<br /><small>{{simbolo|Italian traffic signs - icona esposizione-fiera.svg|15}} Fiera di Brescia</small>
+| align="right" | 214,9
+|-
+|[[File:AB-AS-grün.svg]][[File:AB-Kreuz-grün.svg]]|| [[Brescia]] centro <br />{{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A21 Italia.svg|23}} [[Autostrada A21 (Italia)|Torino - Piacenza - Brescia]] <br /><small> [[File:AB-AS-grün.svg]] [[Brescia]] sud</small>
+<small>[[File:Logo Metropolitane Italia.svg|senza_cornice|19x19px]] [[Poliambulanza (metropolitana di Brescia)|Poliambulanza]]</small>
+| align="right" | 222,3||align="center" rowspan=37|[[File:Italian traffic signs - strada europea 70.svg|50px]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "San Giacomo" || align="right"| 226,5
+|-
+| [[File:AB-AS-grün.svg]][[File:AB-Kreuz-grün.svg]]|| [[Brescia]] est<br /><small> {{simbolo|Autostrada A21racc Italia.svg|23}} [[Raccordo autostradale Ospitaletto-Montichiari|Raccordo Ospitaletto-Montichiari]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Brescia-Montichiari|Brescia-Montichiari]]</small>|| align="right"| 227,8
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Campagnola" ||align="right"| 232,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Desenzano del Garda|Desenzano]] || align="right"| 243,9
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Monte Alto" || align="right"| 244,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sirmione]] || align="right"| 251,3
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Frassino"<ref name="soloVE">solo direzione Venezia</ref>|| align="right"| 256,4||rowspan=11 align="center"|[[Provincia di Verona|VR]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Peschiera del Garda|Peschiera]] 
+[[Strada statale 249 Gardesana Orientale|SS249 Gardesana Orientale]] 
+[[Gardaland]]/[[Canevaworld]] || align="right" | 258,8
+|-
+|bgcolor="FFE5B4"|[[File:AB-AS-grün_geschlossen.svg|23px]]||bgcolor="FFE5B4"|[[Castelnuovo del Garda]] 
+SS450 di Affi 
+A22/E45 Brennero 
+[[Gardaland]]/[[Canevaworld]] <br /><small>({{simbolo|Italian traffic signs - lavori.svg}} ''in costruzione'')</small>
+| align="right" bgcolor="FFE5B4" | ~262,3
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Val di Sona" || align="right"| 268,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sommacampagna]]<br /><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Verona-Villafranca|Verona-Villafranca]] </small>|| align="right"| 270,4
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|'|30x30px]]|| Area di servizio "Monte Baldo" || align="right"| 271,7
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 45.svg|27}} {{simbolo|Autostrada A22 Italia.svg|23}} [[Autostrada A22 (Italia)|Modena - Brennero]]<br /><small>[[File:AB-AS-grün.svg]] [[Verona]] nord <br /> {{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Verona-Villafranca|Verona-Villafranca]]</small>
+| align="right" | 275,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Verona]] sud || align="right"| 279,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Verona]] est<br /><small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg|15}} {{simbolo|Strada Statale 434 Italia.svg|40}} ''[[Strada statale 434 Transpolesana|Transpolesana]]'': [[Legnago]] - [[Rovigo]]</small>|| align="right"| 289,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio bidirezionale "Scaligera" || align="right"| 300,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Soave]] - [[San Bonifacio (Italia)|San Bonifacio]]|| align="right" | 302,4
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "San Lorenzo" || align="right"| 303,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Montebello Vicentino|Montebello]] || align="right"| 311,4||rowspan=9 align="center"|[[Provincia di Vicenza|VI]]
+|-
+| {{simbolo|AB-Kreuz-grün.svg}}|| {{simbolo|Autostrada SPV Italia.svg|23}} [[Pedemontana Veneta]] <br /><small>[[File:AB-AS-grün.svg]] [[Montecchio Maggiore]] sud  - [[Brendola]]</small>|| align="right" |318,0
+|-
+| [[File:AB-AS-grün.svg]]|| Montecchio <br /><small>({{simbolo|Italian traffic signs - divieto di transito.svg|18}} ''uscita dismessa in seguito all’apertura della Pedemontana Veneta)''</small>|| align="right"| 321,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Villa Morosini"<ref name="soloMI" /> ( Direzione Milano )|| align="right" | 324,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vicenza]] ovest || align="right"| 326,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vicenza]] est || align="right"| 334,2
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A31 Italia.svg|23}} [[Autostrada A31 (Italia)|Rovigo - Piovene Rocchette]] <br /><small>[[File:AB-AS-grün.svg]] [[Vicenza]] nord</small> || align="right" | 335,6
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Tesina"<ref name="soloVE" />|| align="right"| 336,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Grisignano di Zocco|Grisignano]] || align="right"| 343,3
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio bidirezionale "Limenella"
+<small>([[File:Italian_traffic_signs_-_icona_chiesa.svg|20x20px]] ''Chiesa del Viaggiatore'' all’interno dell'area di servizio)</small>
+| align="right" | 355,5||rowspan=4 align="center"|[[Provincia di Padova|PD]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Padova]] ovest || align="right"| 356,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Padova]] est || align="right"| 363,3
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A13 Italia.svg|23}} [[Autostrada A13 (Italia)|Bologna - Padova]]<br /><small>[[File:AB-AS-grün.svg]] [[Padova]] {{simbolo|Italian traffic signs - icona industria.svg}} zona industriale</small>|| align="right"| 364,5
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Arino" || align="right"| 372,5||rowspan=4 align="center"|[[Provincia di Venezia|VE]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| [[Venezia]]<br /><small> {{simbolo|Autostrada A57 Italia.svg|23}} [[Autostrada A57 (Italia)|tangenziale di Mestre]] <br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Venezia Tessera|Venezia-Tessera]]</small> || align="right" | 374,6
+|-
+|[[File:AB-AS-grün.svg]]|| [[Spinea]]|| align="right"| 380,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Martellago]] - [[Scorzè]] || align="right"| 389,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Preganziol]] || align="right"| 400,0||rowspan=2 align="center"|[[Provincia di Treviso|TV]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A27 Italia.svg|23}} [[Autostrada A27 (Italia)|Venezia - Belluno]] <br /><small> {{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Venezia-Tessera|Venezia-Tessera]]</small>|| align="right"| 402,0 
+|-
+| [[File:AB-Kreuz-grün.svg]]|| [[Venezia]] est<br /><small>{{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Autostrada A57 Italia.svg|23}} [[Autostrada A57 (Italia)|tangenziale di Mestre]] <br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Venezia Tessera|Venezia-Tessera]]</small> ||align="right"| 407,0 ||align="center"|[[Provincia di Venezia|VE]]||align="center" rowspan=13|[[File:Italian traffic signs - strada europea 55.svg|50px]][[File:Italian traffic signs - strada europea 70.svg|50px]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Roncade"<ref>ex barriera di Venezia est</ref>|| align="right"| 413,6 ||align="center"|[[Provincia di Treviso|TV]]
+|-
+|[[File:AB-AS-grün.svg]]|| [[Meolo]] - [[Roncade]] || align="right"| 416,0 ||align="center"| [[Provincia di Venezia|VE]]/[[Provincia di Treviso|TV]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Donà di Piave|San Donà]] - [[Noventa di Piave|Noventa]] || align="right"| 424,0 ||align="center"|[[Provincia di Venezia|VE]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Calstorta" || align="right"| 431,0 ||rowspan=2 align="center"|[[Provincia di Treviso|TV]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cessalto]] || align="right"| 432,0
+|-
+| [[File:AB-AS-grün.svg]] || [[San Stino di Livenza]] || align="right"| 439,0 ||rowspan=3 align="center"|[[Provincia di Venezia|VE]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A28 Italia.svg|23}} [[Autostrada A28 (Italia)|Portogruaro - Pordenone - Conegliano]]<br /><small>[[File:AB-AS-grün.svg]] [[Portogruaro]]</small>|| align="right" | 452,0 
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Fratta" || align="right"| 456,0
+|-
+| [[File:AB-AS-grün.svg]] || [[Latisana]] || align="right"| 467,0 ||rowspan=5 align="center"|[[Provincia di Udine|UD]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Giorgio di Nogaro]] - [[Porpetto]] || align="right"| 483,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Gonars" || align="right"| 487,0
+|-
+| [[File:AB-Vzw-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Autostrada A23 Italia.svg|23}} [[Autostrada A23 (Italia)|Udine - Tarvisio]] || align="right"| 490,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Palmanova]] || align="right"| 491,0 ||rowspan=9 align="center"|[[File:Italian traffic signs - strada europea 70.svg|50px]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A34 Italia.svg|23}} [[Autostrada A34 (Italia)|Villesse - Gorizia]]  <br /><small>[[File:AB-AS-grün.svg]] [[Villesse]]</small>|| align="right"| 501,0 ||rowspan=4 align="center"|[[Provincia di Gorizia|GO]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Redipuglia]] - [[Monfalcone]] ovest<small><br />[[File:Strada_Statale_677_Italia.svg|36px]] [[Strada statale 677 di Ronchi dei Legionari|di Ronchi dei Legionari]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Trieste-Ronchi dei Legionari|Trieste-Ronchi dei Legionari]] </small>|| align="right"| 506,0
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Trieste]] - [[Monfalcone|Lisert]]|| align="right" | 515,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Monfalcone]] est||align="right"| 515,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Duino" || align="right"| 519,0 ||rowspan=4 align="center"| [[Provincia di Trieste|TS]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Duino|Duino / Devin]]<ref>uscita solo in direzione Trieste, entrata solo in direzione Venezia; in costruzione uscita in direzione Venezia</ref>|| align="right"| 520,0 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sistiana|Sistiana / Sesljan]]<br /><small>[[File:Strada Statale 14 Italia.svg|36px|link=Strada statale 14 della Venezia Giulia]] [[Trieste|Trieste / Trst]]</small> || align="right"| 523,0
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Italian traffic signs - raccordo autostradale 13.svg|27}} [[Raccordo autostradale 13|Sistiana - Padriciano / Sesljan - Padriče]]<br /><small> {{simbolo|Italian traffic signs - raccordo autostradale 14.svg}} [[Raccordo autostradale 14|Opicina - Fernetti / Opčine - Fernetiči]]<br />{{bandiera|EUR}} {{bandiera|SVN}} Confine di Stato - [[Slovenia|Slovenia / Slovenija]]</small> || align="right"| 523,1
+|-
+|}
+
+== Lavori e progetti ==
+* Nel ''tratto urbano della A4'', tra lo svincolo di [[Sesto San Giovanni]] e quello di Cormano, sono in corso i lavori per l'inserimento della [[Corsia dinamica|Quarta Corsia Dinamica]]; a luglio 2023 è stato completamente aperto il tratto tra gli svincoli di Cormano e di Milano Viale Certosa.<ref>{{cita web|url=https://www.autostrade.it/it/quarta-corsia-dinamica|titolo=La quarta corsia dinamica in A4|accesso=13 luglio 2023}}</ref> I lavori sono stati coordinati dalla società che gestisce il tratto, ovvero [[Autostrade per l'Italia|Autostrade per l'Italia S.p.A.]]<ref>{{Cita web|url = http://www.ilsole24ore.com/art/notizie/2013-11-05/una-corsia-marcia-piu-la-a4-064650.shtml?uuid=ABCnhVb&refresh_ce=1|titolo = Una corsia di marcia in più lungo la A4|accesso=13 luglio 2015}}</ref> 
+* Il tratto compreso tra San Donà di Piave e Trieste è in parte a due corsie per senso di marcia più corsia di emergenza. L'ampliamento a tre corsie del tratto ''Venezia est-Villesse'' dell'autostrada A4 è considerato parte integrante del cosiddetto "Corridoio V", che si sviluppa con un'estesa di circa 94,5&nbsp;km dal Passante di Mestre ad ovest, con il quale si collega, fino a Villesse. La società autostradale [[Autovie Venete]] aveva formalizzato la proposta di costruire la terza corsia nel [[1998]]. Nel settembre [[2002]], in base alla ''Legge Obiettivo'' del [[2001]], venne firmata un'intesa tra lo Stato e la Regione Friuli-Venezia Giulia. Il [[progetto preliminare]] è stato approvato dal [[CIPE]] con delibera n. 13/2005 (con fondi disponibili). La delibera del [[CIPE]] prevede che i lavori per la terza corsia siano armonizzati con la rete ferroviaria ad alta velocità<ref>{{cita testo|url=http://www.ilgazzettino.it/articolo_app.php?id=20551&sez=NORDEST&npl=&desc_sez=|titolo=Altre cinque estati di disagi poi, forse, arriverà la terza corsia dell'A4 - Il Gazzettino}}</ref>. L'[[ANAS]] ha approvato il progetto definitivo il 13 aprile [[2007]]<ref>{{Cita web |url=http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=718235&Data=20090804&CodSigla=VE |titolo=IL GAZZETTINO Online: il quotidiano del NordEst |accesso=4 agosto 2009 |urlarchivio=https://web.archive.org/web/20140320204040/http://carta.ilgazzettino.it/MostraOggetto.php?TokenOggetto=718235&Data=20090804&CodSigla=VE |urlmorto=sì }}</ref>. Il costo complessivo preventivato ammonta a 2,3 miliardi di euro, più alto rispetto alle prime previsioni a causa dell'andamento dei prezzi delle materie prime, a causa di nuove norme antisismiche e nuove norme per le opere idrauliche, a causa di nuove opere accessorie indicate dal territorio (come cavalcavia, piste ciclabili) e a causa della progettazione compatibile con una futura realizzazione della quarta corsia<ref>{{collegamento interrotto|1={{cita testo|url=http://www.friulinews.it/modules.php?op=modload&name=News&file=article&sid=3920&mode=thread&order=0&thold=0|titolo=Lavori eccellenti:: Friuli news, cronaca, notizie, attualità, economia e politica: il giornale online del Friuli::}} |data=aprile 2018 |bot=InternetArchiveBot }}</ref>. La terza corsia sarà realizzata entro il [[2021]], con la modalità dell'appalto integrato: l'impresa che si aggiudicherà l'appalto, curerà anche la stesura del progetto esecutivo dell'opera. I lavori per il primo lotto (tra [[Quarto d'Altino]] e oltre lo svincolo di [[San Donà di Piave|San Donà-Noventa]]) sono partiti il 25 ottobre [[2011]], con una spesa di 448 milioni di euro per 18,55 chilometri<ref>{{cita testo|url=http://ricerca.gelocal.it/nuovavenezia/archivio/nuovavenezia/2009/03/27/VMAPO_VMA03.html|titolo=La Nuova Venezia}}</ref> e sono stati conclusi nel 2014. In totale i lotti sono 4 e comprendono anche la costruzione dei nuovi caselli di Meolo-Roncade (aperto completamente il 15 ottobre [[2014]] e dotato di 15 porte (la larghezza totale è ai 100 metri): 9 in uscita, 4 in entrata, 2 porte per i trasporti eccezionali<ref>{{cita testo|url=http://www.autovie.it/code/17732/Apre-mercoledi-15-ottobre-il-casello-di-Meolo-dopo-l-ultimazione-dei-lavori-relativi-alla-terza-corsia?UrlBack=aHR0cDovL3d3dy5hdXRvdmllLml0L2l0LzE0MTE5L0NvbXVuaWNhdGktU3RhbXBh|titolo=Apre mercoledì 15 ottobre il casello di Meolo, dopo l'ultimazione dei lavori relativi alla terza corsia|accesso=25 novembre 2014|dataarchivio=22 ottobre 2014|urlarchivio=https://web.archive.org/web/20141022182706/http://www.autovie.it/code/17732/Apre-mercoledi-15-ottobre-il-casello-di-Meolo-dopo-l-ultimazione-dei-lavori-relativi-alla-terza-corsia?UrlBack=aHR0cDovL3d3dy5hdXRvdmllLml0L2l0LzE0MTE5L0NvbXVuaWNhdGktU3RhbXBh|urlmorto=sì}}</ref>) e di Alvisopoli. È stato poi completato e reso operativo nel giugno 2009 il nuovo casello di Latisana (posizionato 1,5&nbsp;km più a est rispetto al precedente) con annessa la nuova viabilità della zona completata nel febbraio 2010.<ref>{{cita testo|url=http://www.autovie.it/cms/data/pages/000124.aspx|titolo=La terza corsia|urlarchivio=https://web.archive.org/web/20090717095055/http://www.autovie.it/cms/data/pages/000124.aspx }}</ref> Risultano così conclusi i tratti [[Autostrada A57 (Italia)|A57]] - [[San Donà di Piave]] e [[Latisana]] - [[Autostrada A23 (Italia)|A23]]; in fase di costruzione il tratto [[San Donà di Piave]] - [[Latisana]] con il [[Palmanova|nodo di Palmanova]]; ed in progetto il tratto tra [[Palmanova]] e [[Villesse]] ([[Autostrada A34 (Italia)|A34]]).
+* È allo studio l'ampliamento della barriera di Trieste Lisert a causa delle sempre più frequenti code dovute all'aumento di traffico, in particolare quello pesante (il transito di mezzi pesanti è aumentato del 40% dal 2005 al 2008), da e verso l'Europa orientale. Attualmente la barriera di Trieste Lisert ha quattro piste in entrata e sette in uscita<ref name="gazzettino.it" />.
+* È in fase di progettazione nel tratto autostradale tra [[Brescia]] e [[Padova]] la quarta corsia, diventata ormai fondamentale, come affermato nel PRT della [[Regione del Veneto]] 2020/2030<ref>{{Cita web|url=https://www.prtveneto2030.it/il-nuovo-piano-2/|titolo=Piano Regionale dei Trasporti del Veneto}}</ref>, dato l'elevato flusso di traffico specialmente di [[Autoarticolato|autoarticolati]], soprattutto in transito presso [[Verona]] che con l'''[[Autobrennero]]'' [[Autobrennero|A22]] rappresenta uno dei crocevia infrastrutturali più importanti d'Europa<ref>{{Cita web|url=https://www.confindustria.vr.it/confindustria/verona/istituzionale.nsf/($linkacross)/A5F8C17203AFFBA2C12583D3003A992B?opendocument|titolo=Verona crocevia di infrastrutture (Confindustria)}}</ref>. La sua costruzione sarà dell'attuale gestore [[Autostrada Brescia Verona Vicenza Padova]], tuttavia il prezzo da pagare dovrà essere l'accantonamento del progetto della [[Autostrada Valdastico|Valdastico Nord (A31)]] che anch'essa gioverebbe nel dirottare il traffico diretto al [[Passo del Brennero|Brennero]] dal nodo di Verona.<ref>{{Cita news|autore=Martina Zambon|url=https://corrieredelveneto.corriere.it/veneto/politica/19_novembre_09/a4-ormai-satura-quarta-corsiasolo-se-salta-valdastico-nord-60f8a5a4-02e6-11ea-8a7b-b36c863aac1f.shtml|titolo=A4 ormai satura, la quarta corsia solo se salta la Valdastico Nord|pubblicazione=[[Corriere del Veneto]]|data=9 novembre 2019}}</ref>
+
+== Raccordo Est di Chivasso ==
+{{Strada
+|nome = Autostrada A4
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Raccordo Est di Chivasso
+|simbolo = Autostrada A4 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}
+|divisione amm 2 = {{IT-TO}}
+|inizio = [[Chivasso]]
+|fine = [[Verolengo]]
+|lunghezza = 5
+|direzione = 
+|apertura = [[2000]]
+|provvedimento istituzione = 
+|gestore = [[SATAP]]
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+Nei primi anni novanta del [[XX secolo]] e nell'ambito della riqualificazione dell'autostrada [[Torino]]-[[Milano]], tra le opere connesse la concessionaria [[SATAP]] ricevette l'appalto per il potenziamento dell'ex SP91 che convogliava verso l'autostrada il traffico dei paesi della cintura orientale di [[Chivasso]]. Essa integrò l'arteria al suo sistema autostradale, considerandola un prolungamento dell'uscita di Chivasso est.
+
+Il raccordo è lungo cinque chilometri, è dotato di un'unica uscita intermedia, e sui pannelli integrativi che identificano i cavalcavia viene indicata come A4, autostrada da cui dipende.
+
+{| class="wikitable" 
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="5" | '''RACCORDO EST DI CHIVASSO'''<br />
+|-
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia
+|-
+|{{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|18}}|| [[Chivasso]]||align="right"| || align="right"| || align="center" rowspan="4"|[[Provincia di Torino|TO]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 64.svg|27}}{{simbolo|Autostrada A4 Italia.svg|23}} [[Torino]] - [[Milano]]<br /><small>Svincolo [[Chivasso]] [[Est]]</small>||align="right"|0,0 ||align="right"|5,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rondissone]] Ovest<br /><small>{{simbolo|Strada Statale 11 Italia.svg|35}} ''[[Strada statale 11 Padana Superiore|Padana Superiore]]''</small>|| align="right"| 1,6||align="right"|3,4
+|-
+| {{simbolo|Italian traffic signs - fine autostrada.svg|18}}|| [[Verolengo]]<br /><small>{{simbolo|Strada Statale 31bis Italia.svg|35}} ''[[Strada statale 31 del Monferrato|del Monferrato]]''</small>|| align="right"| 5,0||align="right"|0,0
+|}
+
+== Bretella di Latisana ==
+{{Strada
+|nome = Autostrada A4
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Bretella di Latisana
+|simbolo = Autostrada A4 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-FVG}}
+|divisione amm 2 = {{IT-UD}}
+|inizio = A4 - Svincolo Latisana
+|fine = [[Strade provinciali della provincia di Udine|SP75]]
+|lunghezza = 1,5
+|direzione = 
+|apertura = [[2010]]
+|provvedimento istituzione = 
+|gestore = [[Società Autostrade Alto Adriatico]]
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+In occasione dell'apertura del nuovo casello di Latisana nel 2010 è stata aperta questa breve bretella che collega l’uscita medesima alla [[Strada statale 14 della Venezia Giulia|SS14]]. È lunga complessivamente 2,6&nbsp;km<ref>{{Cita web|url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2|titolo=TE Trasporti Eccezionali|accesso=8 dicembre 2020|dataarchivio=13 marzo 2013|urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2|urlmorto=sì}}</ref>, ma solo dalla chilometrica 0 a 1,5&nbsp;km<ref>{{Cita web|url=https://www.google.it/maps/@45.8030079,13.0212605,3a,75y,153.23h,78.92t/data=!3m6!1e1!3m4!1ssSNlgLh9xQUCPRmIc-lIXg!2e0!7i16384!8i8192?hl=it-it|titolo=Google maps}}</ref> è classificata come autostrada. È dotata di un’uscita al km 1,6&nbsp;km per la SP75.
+
+{| class="wikitable" 
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="5" | '''BRETELLA DI LATISANA'''<br />
+|-
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 64.svg|27}}{{simbolo|Autostrada A4 Italia.svg|23}} <br /><small>Svincolo Latisana</small>|| align="right" |0,0 || align="right" |2,6
+| rowspan="3" |[[Provincia di Udine|UD]]
+|-
+| [[File:AB-AS-grün.svg]]{{simbolo|Italian traffic signs - fine autostrada.svg|18}}|| Rotonda SP75|| align="right" | 1,6|| align="right" |1,0
+|-
+| || [[File:Strada_Statale_14_Italia.svg|61x61px]]|| align="right" | 2,6|| align="right" |0,0
+|}
+
+== Incidenti ==
+La maggior parte degli incidenti più gravi è avvenuta come conseguenza della scarsa visibilità dovuta alle frequenti e fitte nebbie della Pianura Padana.
+
+Il 23 dicembre 1987 nel tratto compreso tra Bergamo e Brescia persero la vita sei persone.<ref name="rep-inc-A4">{{cita news|url=https://www.repubblica.it/online/cronaca/aquattro/precedenti/precedenti.html?refresh_ce|titolo=Gravi incidenti per nebbia, tutti i precedenti|pubblicazione=[[La Repubblica (quotidiano)|La Repubblica]]|data=13 marzo 2003}}</ref>
+
+Il 25 gennaio 1989 un maxi-tamponamento avvenuto nei pressi del casello di [[Grumello del Monte]] in condizioni di fitta nebbia causò la morte di otto persone.<ref name="rep-inc-A4" />
+
+Il 9 febbraio 1993 un maxi-tamponamento dovuto alla nebbia tra [[Santhià]] e [[Carisio]] coinvolse oltre 200 veicoli e provocò nove morti e 97 feriti.<ref name="rep-inc-A4" /><ref>{{cita web|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1993/02/10/ore-30-cala-la-nebbia-ed.html|titolo=Ore 8.30: cala la nebbia ed è di nuovo strage|pubblicazione=[[La Repubblica (quotidiano)|La Repubblica]]|data=10 febbraio 1993}}</ref>
+
+Il 12 febbraio 1996 la scarsa visibilità dovuta a una nebbia molto fitta (venti metri di visibilità) provocò tre incidenti quasi in contemporanea su entrambe le carreggiate nella tratta compresa tra Montebello e Soave, coinvolgendo 300 veicoli; morirono 12 persone e vi furono oltre cento feriti e il tratto autostradale tra Vicenza e Verona venne chiuso al traffico per l'intera giornata.<ref name="rep-inc-A4" /><ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/02/13/un-chilometro-di-orrore-sulla-strada-della.html|titolo=Un chilometro di orrore sulla strada della nebbia|pubblicazione=[[La Repubblica (quotidiano)|La Repubblica]]|data=13 febbraio 1996}}</ref>
+
+Il 13 marzo [[2003]] il tratto [[Cessalto]]-[[Noventa di Piave|Noventa]] della A4 è stato teatro di uno dei più gravi maxi tamponamenti della storia stradale italiana, con 13 morti e 98 feriti. La causa fu la scarsa visibilità dovuta alla nebbia che causò alcuni ribaltamenti di autovetture e l'innesco di un incendio subito domato da un elicottero dei vigili del fuoco.<ref>{{Cita web|url=https://www.repubblica.it/online/cronaca/aquattro/aquattro/aquattro.html|titolo=La Repubblica/cronaca: Nebbia e fuoco sull'autostrada Sull'A4 13 morti e molti feriti|accesso=3 novembre 2020}}</ref>
+
+L'8 agosto [[2008]] avvenne la strage di Cessalto: un camion proveniente da Venezia sterzò improvvisamente facendo sbandare e ribaltare un camper in sorpasso, sfondando poi il guardrail e finendo nella carreggiata opposta dove investì 2 autovetture e un altro camion e provocò lo scoppio dei serbatoi che causarono un imponente incendio. Si contarono 7 morti. Nonostante la causa ufficiale dello sbandamento del mezzo pesante sia stata attribuita a un malore dell'autista, non è stato mai chiarito cosa successe all'interno del camion prima dell’incidente. Il caso fu archiviato nel 2013.
+
+Domenica 27 luglio 2025, nel tratto dell'autostrada Torino-Milano, tra i caselli di Novara Est e Marcallo Mesero, un automobilista di 80 anni ha imboccato l'autostrada contromano e innescato un incidente con un'altra auto. Nello schianto, sono morte quattro persone, tutti uomini, mentre un'altra è rimasta gravemente ferita, ed è stata trasportata con l'elisoccorso all'ospedale Niguarda di Milano.
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Milano - Bergamo |autore = Italo Vandone |rivista = [[Le Strade]] |volume = anno VIII |numero = 9 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1926 |mese = settembre |pp = 296-302 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1520#page/454/mode/2up }}
+* {{cita pubblicazione| url = https://digit.biblio.polito.it/3354/1/11_novembre.pdf| data = novembre 1932| titolo = L'Autostrada Torino-Milano| rivista = Atti del Sindacato Provinciale Fascista degli Ingegneri di Torino e del Sindacato Regionale Fascista degli Architetti del Piemonte| numero = 11| anno = 6|accesso=19 novembre 2022| pp = 25-33| autore = Carlo Daviso| città = Torino| via = Politecnico di Torino - Biblioteche di ateneo}}
+* {{Cita pubblicazione |titolo = L'autostrada Torino - Milano |autore = Italo Vandone |rivista = [[Le Strade]] |volume = anno XVII |numero = 1 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1933 |mese = gennaio |pp = 1-7 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1527#page/18/mode/2up |cid = Vandone (1933)}}
+* {{Cita pubblicazione |titolo = Il raddoppio dell'autostrada Torino - Milano |autore = Vittorio Bonadè Bottino |rivista = [[Le Strade]] |volume = anno XLII |numero = 2 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1962 |mese = febbraio |pp = 53-60 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1554#page/92/mode/2up }}
+* {{Cita pubblicazione |titolo = L'autostrada Venezia Udine Trieste |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 12 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = dicembre |pp = 611-623 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/848/mode/2up }}
+
+== Voci correlate ==
+* [[Strada europea E55]]
+* [[Strada europea E64]]
+* [[Strada europea E70]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+=== Gestori ===
+* {{cita testo|url=http://www.satapweb.it/|titolo=S.A.T.A.P.}} (gestore della tratta Torino-Milano dell'autostrada A4 e della tratta Torino Piacenza dell'[[autostrada A21 (Italia)|autostrada A21]]). Sito specifico della tratta Milano - Torino: {{cita testo|url=http://www.a4torinomilano.it/|titolo=A4 Torino Milano|accesso=18 novembre 2018|dataarchivio=2 maggio 2012|urlarchivio=https://web.archive.org/web/20120502125914/http://www.a4torinomilano.it/|urlmorto=sì}}
+* {{cita web|url=http://www.autostrade.it|titolo=Autostrade per l'Italia}}
+* {{cita web|url=http://www.autobspd.it/|titolo=Autostrada Brescia-Verona-Vicenza-Padova}}
+* {{cita web|url=http://www.cavspa.it|titolo=Concessioni Autostradali Venete}}
+* {{cita web |url=http://www.autovepd.it/index.html |titolo=Società delle Autostrade di Venezia e Padova (vecchio gestore) |accesso=27 settembre 2007 |urlarchivio=https://web.archive.org/web/20070927132127/http://www.autovepd.it/index.html |urlmorto=sì }}
+* {{cita web|url=https://www.autostradealtoadriatico.it/|titolo=Autostrade Alto Adriatico}}
+
+=== Passante di Mestre ===
+* {{cita web |url=http://passante.provincia.venezia.it/ |titolo=Sito della provincia |urlmorto=sì |accesso=10 febbraio 2009 |urlarchivio=https://web.archive.org/web/20090213163531/http://passante.provincia.venezia.it/ }}
+* {{cita web |url=http://www.passantedimestre.org/ |titolo=Monitoraggio ambientale del Passante |accesso=10 febbraio 2009 |urlarchivio=https://web.archive.org/web/20090203082410/http://passantedimestre.org/ |urlmorto=sì }}
+* {{cita web|url=http://www.urbanfile.it/index.asp?ID=3&SID=679|titolo=Da Urbanfile}}
+* {{cita web | url = http://www.comune.mirano.ve.it/passante/docs/SI036P-PD-PG-PL-01.pdf | titolo = Planimetria generale Passante di Mestre tav. 1 (8,3 MB) | urlmorto = sì | accesso = 10 febbraio 2009 | urlarchivio = https://web.archive.org/web/20090219130227/http://www.comune.mirano.ve.it/passante/docs/SI036P-PD-PG-PL-01.pdf }}
+* {{cita web | url = http://www.comune.mirano.ve.it/passante/docs/SI036P-PD-PG-PL-02.pdf | titolo = Planimetria generale Passante di Mestre tav. 2 (7 MB) | urlmorto = sì | accesso = 10 febbraio 2009 | urlarchivio = https://web.archive.org/web/20090219131429/http://www.comune.mirano.ve.it/passante/docs/SI036P-PD-PG-PL-02.pdf }}
+* {{cita web|url=http://www.passanteverde.it|titolo=Passante Verde, sito ufficiale}}
+
+=== Altro ===
+* {{cita web|url=http://www.commissarioterzacorsia.it|titolo=Sito ufficiale dedicato ai lavori riguardanti la terza corsia Venezia-Trieste}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrada A4 (Italia)| ]]
+[[Categoria:Autostrade in Friuli-Venezia Giulia]]
+[[Categoria:Trasporti in Lombardia]]
+[[Categoria:Trasporti in Piemonte]]
+[[Categoria:Trasporti in Veneto]]

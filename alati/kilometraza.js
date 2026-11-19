@@ -73,7 +73,7 @@ console.log(`table: ${table.length}, uz autoput: ${dodeljeno}`);
 
 // ---- 3. Po deonici: projekcija na liniju kroz izlaze/odmorišta i provera sa susedima ----
 
-const MAX_RUPA = 40;
+const MAX_RUPA = +(process.env.MAX_RUPA || 40);   // km_izlazi.js: MAX_RUPA=100000 (sve table, proverava ih Vikipedija)
 const saTablama = [], bezTabli = [];
 let ukupnoStavki = 0, pokriveno = 0;
 for (const f of fs.readdirSync(ASSETS).filter(f => f.endsWith('.json'))) {

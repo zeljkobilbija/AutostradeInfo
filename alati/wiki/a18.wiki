@@ -1,0 +1,556 @@
+{{Strada
+|nome = Autostrada A18
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Messina-Catania 
+|simbolo = Autostrada A18 Italia.svg
+|nome precedente =
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 = {{IT-ME}}<br />{{IT-CT}}
+|inizio = [[Autostrada A20 (Italia)|A20]] presso [[Messina Sud]]  (Tremestieri)
+|fine = [[Raccordo autostradale 15|RA15]] presso [[Catania]]
+|lunghezza = 76,8
+|direzione = nord-sud 
+|apertura = [[1971]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref> (primo tratto)
+|provvedimento istituzione = 
+|gestore = [[Consorzio per le Autostrade Siciliane]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]
+|città servite =[[Messina]] e [[Catania]] 
+|intersezioni =[[Autostrada A20 (Italia)|A20]] a [[Messina]], [[Raccordo autostradale 15|RA15]] a [[Catania]] 
+|europea1 = 45
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A18 2023.svg
+|tracciato = 
+}}
+[[File:A18 me-ct.jpg|miniatura|Un tratto della A18 Messina-Catania nei pressi di ''Barriera Catania Nord.'' Dicembre 2023]]
+L{{'}}'''autostrada A18 Messina-Catania''' è un'[[autostrada]] [[Italia|italiana]] della [[Sicilia orientale]]. Lunga 77&nbsp;km, è gestita dal [[Consorzio per le Autostrade Siciliane]].  
+
+La denominazione A18 è stata anche assegnata all'[[Autostrada A18 Siracusa-Gela]] poiché originariamente fu previsto di unire i due tronchi in un'unica autostrada, da Messina fino a Gela, che permettesse di ottimizzare i collegamenti con le aree turistiche e quelle all'epoca in fase di industrializzazione della zona orientale della Sicilia. 
+
+I due tronchi dell'autostrada A18 sono collegati tra di loro, senza soluzione di continuità, attraverso la [[Raccordo autostradale 15|tangenziale di Catania]] (da Catania Nord a contrada Passo Martino), l'[[autostrada Catania-Siracusa]] (da contrada Passo Martino ad [[Augusta (Italia)|Augusta]]-[[Villasmundo]]) e la [[Strada statale 114 Orientale Sicula#Da Augusta a Siracusa|strada statale 114]] (da [[Augusta (Italia)|Augusta]]-[[Villasmundo]] a [[Siracusa]], [[strada extraurbana principale]]).
+
+L'autostrada fa parte dell'[[itinerario europeo E45]].
+
+== Storia ==
+Il tronco Messina-Catania è stato costruito tra il [[1965]] e il [[1971]], anno in cui l'allora nota ''Autostrada delle Zagare''<ref>{{Cita web|url=https://patrimonio.archivioluce.com/luce-web/detail/IL5000046498/2/inaugurato-primo-tratto-autostrada-zagare-fino-roccalumera-1.html|titolo=Inaugurato il primo tratto dell'autostrada delle zagare fino a Roccalumera|accesso=17 marzo 2023}}</ref> venne progressivamente aperta al traffico iniziando dalla tratta [[Messina]] [[Tremestieri]]-[[Roccalumera]]. Venne costruita come ''autostrada montana'' nel tratto messinese a causa delle notevoli difficoltà orografiche e non ha subito modifiche nel corso dei decenni, ad eccezione dell'apertura degli svincoli di [[Fiumefreddo di Sicilia|Fiumefreddo]] (marzo [[1991]]) e dei ''Paesi Etnei'' (luglio [[2007]]).
+
+Negli [[Anni 2010|anni '10]] si propose la realizzazione dello svincolo di [[Mascali]] per snellire la viabilità locale, previsto tra Giarre e Fiumefreddo. Tuttavia l'ex Consorzio non presentò mai alcun progetto, perdendo così il finanziamento che potesse permettere l'avvio dei lavori.<ref>{{Cita web|url=https://livesicilia.it/autostrada-catania-messina-persi-18-milioni-di-euro-svincolo-di-mascali-bloccato-per-carenze-progettuali/|titolo=Persi 18 milioni di euro {{!}}Bloccato lo svincolo di Mascali|autore=Maria Bella|data=12 agosto 2013|accesso=26 giugno 2024}}</ref><ref>{{Cita web|url=https://www.gazzettinonline.it/2019/09/18/casello-autostradale-di-mascali-inutile-perdere-tempo-occasione-persa_134834.html|titolo=Casello autostradale di Mascali: "Inutile perdere tempo, occasione persa"|sito=Gazzettino online {{!}} Notizie, cronaca, politica, attualità di Catania, Messina e province|data=2019-09-18|lingua=it-IT|accesso=2024-06-26}}</ref>
+
+=== L'autostrada oggi ===
+L'autostrada è lunga 77 chilometri, larga 24 metri con uno spartitraffico di 3 metri e con due corsie per senso di marcia oltre a una corsia di emergenza, non presente nelle gallerie. Soggetta al pagamento di un [[Pedaggio#Sistema autostradale chiuso|pedaggio a sistema chiuso]], è priva di piazzole per la sosta di emergenza ed è interessata da un volume di traffico crescente da Messina a Catania. Nel 2003 si sono registrati 28 milioni di veicoli in transito. L'autostrada ha inizio dall'innesto con l'[[autostrada A20 (Italia)|autostrada A20 Messina-Palermo]] in prossimità dello svincolo di Messina Tremestieri e ha termine con l'innesto sulla [[Raccordo autostradale 15|tangenziale di Catania (RA15)]].
+
+Dal 2020 circa, l'autostrada è in fase di riqualificazione. Tra gli interventi già attuati, spiccano le nuove colonnine SOS, l'installazione di [[pannelli a messaggio variabile]] nei vari svincoli in entrata e lungo l'autostrada stessa, la sostituzione delle [[Guard rail|barriere metalliche]] in entrambi i lati delle due carreggiate su tutto il tratto, la posa di nuove reti parasassi e di [[Giunto strutturale|coprigiunti]] sui vari cavalcavia, la parziale ripavimentazione in alcuni tratti e la parziale sostituzione dei corpi illuminanti nelle aree di servizio e in alcune gallerie presenti nel messinese.
+
+Inoltre è stata realizzata una galleria nella carreggiata a monte nel tratto Taormina-Roccalumera, a seguito di una frana avvenuta a ridosso del territorio di Letojanni nel 2015, che investì un tratto autostradale<ref>{{Cita web|url=https://palermo.repubblica.it/cronaca/2015/10/05/foto/frana_sulla_messina-catania_traffico_in_tilt_e_caos_anche_sui_treni-124396271/1/|titolo=Frana sulla Messina-Catania, traffico in tilt e caos anche sui treni|data=5 ottobre 2015|accesso=17 marzo 2023}}</ref>. L'evento franoso non coinvolse persone, ma causò l'interruzione al traffico veicolare della carreggiata in direzione Catania, costringendo ad usare una parte della carreggiata a valle in doppio senso di marcia per circa 8 anni, fino ad agosto del 2023<ref>{{Cita web|url=https://messina.gds.it/articoli/cronaca/2023/07/22/autostrada-messina-catania-riapre-dopo-otto-anni-la-galleria-letojanni-e54de3a3-d2b8-4c8c-9e07-6f92de82f32b/|titolo=Autostrada Messina-Catania, riapre dopo otto anni la galleria Letojanni|data=22 luglio 2023|accesso=06 agosto 2023}}</ref>.
+
+In via provvisoria, oltre al pagamento del pedaggio classico con carte e contanti, in [[Telepedaggio|modalità di esazione dinamica]] è possibile pagare la suddetta autostrada soltanto con [[Telepass]] e [[MooneyGo]]<ref>Basato a sua volta su hardware Telepass</ref>. È in fase di attivazione il sistema di [[UnipolMove]]<ref>{{Cita web|url=https://www.unipoltech.com/it/Documents/UnipolMove_Mezzi%20Leggeri_Tratte%20in%20attivazione_v6.0.pdf|titolo=Tratte autostradali dove è in fase di attivazione UnipolMove}}</ref> e il sistema di interoperabilità con il telepedaggio europeo a seguito di varie denunce presentate da [[Cittadinanzattiva]] e [[Confconsumatori]] Sicilia.<ref>{{Cita web|url=https://www.autostradesiciliane.it/servizi/telepedaggio/|titolo=Autostrade Siciliane|sito=www.autostradesiciliane.it|accesso=2023-06-28}}</ref><ref>{{Cita web|url=https://www.paeseitaliapress.it/terza-fila/magazine/2022/08/28/confconsumatori-sicilia-annuncia-diffida-al-cas-autostrade-a18-e-a20-prive-del-servizio-europeo-di-telepedaggio-set/|titolo=Confconsumatori Sicilia annuncia diffida al Cas: Autostrade A18 e A20 prive del Servizio Europeo di Telepedaggio SET|autore=Mimma Cucinotta|sito=Paese Italia Press|data=2022-08-27|lingua=it-IT|accesso=2023-06-28}}</ref><ref>{{Cita web|url=https://www.lasiciliaweb.it/2022/08/telepedaggi-obsoleti-il-cas-intervenga/|titolo=“Telepedaggi obsoleti, intervenga il Cas”|sito=lasiciliaweb|data=2022-08-28|lingua=it-IT|accesso=2023-06-28}}</ref><ref>{{Cita web|url=https://www.mobilitasostenibile.it/set-il-servizio-europeo-di-telepedaggio-non-e-ancora-arrivato-in-sicilia/|titolo=SET, il Servizio Europeo di Telepedaggio, non è ancora arrivato in Sicilia|autore=MobilitaSostenibile.it|sito=Mobilità Sostenibile|data=2022-08-28|lingua=it-IT|accesso=2023-06-28}}</ref>
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="6" | {{simbolo|Autostrada A18 Italia.svg|35}}<br />''Messina - Catania''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}} || {{simbolo|Italian traffic signs - strada europea 45.svg|40}} {{simbolo|Autostrada A20 Italia.svg|24}} [[Autostrada A20 (Italia)|Messina-Palermo]] || align="right"| 0,0 || align="right"| 77,0 || rowspan="18" align="center" |[[Provincia di Messina|ME]] || rowspan="29" align="center" |[[File:Italian traffic signs - strada europea 45.svg|45px|link=Strada europea E45]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg|18}} || Barriera [[Messina]] Sud Tremestieri|| align="right"|0,6 || align="right"| 76,4
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Canale" || align="right" | 3,5 || align="right"| -
+|- bgcolor="ffe4e1"
+|{{simbolo|AB-AS-grün geschlossen.svg}}
+|[[Itala (Italia)|Itala]] <small>(''in progetto)''</small><ref>{{Cita web|url=https://www.messinatoday.it/cronaca/lavori-raddoppio-messina-catania-viabilita-svincoli-autostrada.html|titolo=Raddoppio Messina-Catania, nuovi svincoli autostradali per non mandare la viabilità nel caos|sito=MessinaToday|accesso=13 dicembre 2023}}</ref>
+| align="right" | 11,0 || align="right"| 66,0
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || <small>Area di parcheggio "Mastroguglielmo ovest"</small> || align="right"| 17,1 || align="right"| -
+|-bgcolor="ffe4e1"
+| {{simbolo|AB-AS-grün geschlossen.svg}} || [[Alì Terme]] <small>''(in progetto)''</small><ref name=":0">{{Cita web|url=https://www.autostradesiciliane.it/news/in-primo-piano/2023/09/08/81f500d39577436c9eb26717b9f1e79d-2156/|titolo=Nuovi svincoli a Santa Teresa di Riva e ad Alì Terme|data=8 settembre 2023|accesso=13 settembre 2023}}</ref>|| align="right" | 17,7 || align="right"| 59,3
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Allume"<ref name=":1">Solo direzione Messina.</ref>|| align="right" | - || align="right"| 56,9
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Roccalumera"<ref name=":2">Solo direzione Catania.</ref>|| align="right" | 20,8 || align="right"| -
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Roccalumera]] <br/> {{simbolo|Strada Statale 114 Italia.svg|35}} <small>[[Strada statale 114 Orientale Sicula|Orientale Sicula]]</small> || align="right"| 22,1 || align="right"| 54,9
+|-bgcolor="ffe4e1"
+| {{simbolo|AB-AS-grün geschlossen.svg}} || [[Santa Teresa di Riva]] - [[Valle d'Agrò|Val d'Agrò]] <small>''(in progetto)''</small><ref name=":0" />|| align="right" | 26,4 || align="right" | 50,5
+|- 
+| {{simbolo|Italian traffic signs - simbolo area servizio.svg}} ||Area di servizio "[[Santa Teresa di Riva]]"<ref>Dismessa il 26 maggio 2015 in direzione a Catania a causa di riorganizzazione dei punti vendita di [[Autogrill]]</ref><ref>{{Cita web|url=https://messina.gds.it/articoli/economia/2015/04/25/chiude-autogrill-sulla-messina-catania-otto-addetti-perdono-il-lavoro-1520efcc-fe91-4836-898a-56375c102d5a/|titolo=Chiude autogrill sulla Messina-Catania, otto addetti perdono il lavoro|sito=Giornale di Sicilia|data=2015-04-25|lingua=it|accesso=2024-06-27}}</ref>|| align="right" | - || align="right" | 50,3
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Sant'Alessio"<ref name=":2" />|| align="right" | 27,7 || align="right"| -
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Parrino"<ref name=":1" />|| align="right" | - || align="right"| 45,6
+|- bgcolor="D0C9CF"
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} {{simbolo|Mandatory road sign - Type B.svg|13}} || Area di parcheggio "Silemi"<ref name=":2" />|| align="right" | 32,9 || align="right"| -
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Papale"<ref name=":1" />|| align="right" | - || align="right"| 42,8
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Taormina]] <br/> {{simbolo|Strada Statale 114 Italia.svg|35}} <small>[[Strada statale 114 Orientale Sicula|Orientale Sicula]]</small> || align="right"| 36,2 || align="right"| 40,8
+|-
+|{{simbolo|AB-AS-grün.svg}}|| [[Giardini-Naxos]] <br/> {{simbolo|Strada Statale 185 Italia.svg|35}} <small>[[Strada statale 185 di Sella Mandrazzi|di Sella Mandrazzi]]</small> {{simbolo|Strada Statale 114 Italia.svg|35}} <small>[[Strada statale 114 Orientale Sicula|Orientale Sicula]]</small>
+| align="right" | 41,3 || align="right"| 35,7
+|-
+| {{simbolo|Italian traffic signs - simbolo area servizio.svg}} || Area di servizio "Calatabiano" || align="right"| 42,9 ||align="right"| 34,1
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Calatabiano"<ref name=":1" />|| align="right" | - || align="right"| 29,3 || rowspan="11" align="center" |[[Provincia di Catania|CT]]
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Fiumefreddo di Sicilia|Fiumefreddo]] || align="right"| 48,5 || align="right"| 28,5
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Giarre]]
+{{simbolo|Strada Statale 114 Italia.svg|35}} <small>[[Strada statale 114 Orientale Sicula|Orientale Sicula]]</small>
+| align="right" | 59,3 || align="right"| 17,7
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Linera"<ref name=":1" />|| align="right" | - || align="right"| 12,3
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Zirmelli"<ref name=":1" />|| align="right" | - || align="right"| 8,5
+|-
+| {{simbolo|AB-AS-grün.svg}}|| [[Acireale]]|| align="right"| 69,8 || align="right"| 7,2
+|-
+| {{simbolo|Italian traffic signs - simbolo area servizio.svg}} || Area di servizio "Aci Sant'Antonio" || align="right"| 71,9 ||align="right"| 5,1
+|-
+| {{simbolo|Italian traffic signs - stazione.svg|18}}|| Barriera [[Catania]] Nord|| align="right"| 76,3 || align="right" | 0,7
+|-
+| {{simbolo|AB-AS-grün.svg}} || Paesi Etnei <br/><small>(uscita solo in direzione Messina)</small>|| align="right"| 76,7 || align="right"| 0,3
+|-
+| {{simbolo|AB-AS-grün.svg}} || [[Catania|Catania centro]] {{simbolo|Autostrada A18dir Italia.svg|24}} Diramazione per Catania - [[San Gregorio di Catania|San Gregorio]] || rowspan=2 align="right"| 77,0 || rowspan="2" align="right" | 0,0
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}} || {{simbolo|Italian traffic signs - strada europea 45.svg|40}} {{simbolo|Italian traffic signs - raccordo autostradale 15.svg|40}} [[Raccordo autostradale 15|Tangenziale di Catania]]
+|}
+
+== A18 dir Diramazione Catania ==
+{{Strada
+|nome = Autostrada A18 dir
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Catania
+|simbolo = Autostrada A18dir Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 ={{IT-SIC}} 
+|divisione amm 2 ={{IT-CT}} 
+|inizio = A18
+|fine = [[Catania]]
+|lunghezza = 3,7
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = [[Anas (azienda)|Anas]]
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+L{{'}}'''A18 dir Diramazione Catania,''' di competenza [[Anas (azienda)|Anas]]''',''' ha inizio presso l'ultimo svincolo dell'A18 Messina-Catania (Catania centro A18 dir - San Gregorio), immediatamente prima che questa si congiunga senza soluzione di continuità con la tangenziale ovest di Catania. Si sviluppa per 3,7&nbsp;km scendendo verso sud da [[San Gregorio di Catania|San Gregorio]] fino ad arrivare nel centro di [[Catania]], nella zona settentrionale della città presso ''Via Vincenzo Giuffrida'' o in [[Circonvallazione di Catania|Circonvallazione]]. È gestita dall'[[ANAS|Anas]] fino a prima della galleria Viale Mediterraneo (del comune di Catania). La sigla alfanumerica ''A18&nbsp;dir'' compare anche nei cartelli d'identificazione dei cavalcavia.
+
+Questa piccola, ma fondamentale, diramazione autostradale permette ai veicoli provenienti da Catania di raggiungere immediatamente l'autostrada A18 in direzione Messina per i veicoli provenienti da Catania, e a quelli provenienti da nord di raggiungere velocemente la città di Catania, evitando completamente la tangenziale in entrambi i casi. A causa del notevole dislivello tra il territorio del capoluogo etneo e quello della sua città metropolitana, unito alla brevità del percorso, quest'autostrada presenta un'accentuata pendenza, pertanto è opportuno procedere con cautela; nella carreggiata verso sud in direzione centro sono presenti anche diverse [[Rampa di emergenza per autocarri|rampe di emergenza per autocarri]].
+
+Dal novembre 2023, la A18&nbsp;dir è stata interessata da un cantiere dedito alla posa di nuove [[Barriera Jersey|barriere Jersey]] NDBA tra le due carreggiate, che hanno rimpiazzato i precedenti [[guardrail]], analogamente a come avvenuto su altre strade e autostrade di competenza Anas ([[Tangenziale di Catania]], [[Autostrada Catania-Palermo]], etc). e le precedenti obsolete barriere laterali metalliche sono state sostituite con nuovi guardrail per tutto il tratto. 
+
+Infine, sono stati installati dei nuovi portali, ove mancanti, volti a segnalare gli svincoli. 
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="6" | {{simbolo|Autostrada A18dir Italia.svg|35}}<br />''Diramazione di Catania''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Tronco
+|-
+| {{simbolo|AB-Vzw-grün.svg}} ||{{simbolo|Italian traffic signs - strada europea 45.svg|40}} {{simbolo|Autostrada A18 Italia.svg|24}} Messina-Catania <br />{{simbolo|Italian traffic signs - strada europea 45.svg|40}} {{simbolo|Italian traffic signs - raccordo autostradale 15.svg|40}} [[Raccordo autostradale 15|Tangenziale di Catania]]<br />|| align="right"| 0,0 || align="right"|3,7 || rowspan="10" align="center" |[[Provincia di Catania|CT]]|| rowspan=6 align="center"| [[File:Autostrada A18dir Italia.svg|50px]]
+|-
+| {{simbolo|AB-AS-grün.svg}} ||[[San Gregorio di Catania|San Gregorio]] 
+| align="right" | 0,1 || align="right"| 3,6
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || <small>Area di parcheggio </small> || align="right"| 1,0 || align="right"| 1,9
+|-
+| {{simbolo|AB-AS-grün.svg}} ||[[Tremestieri Etneo]] - [[Canalicchio (Catania)|Catania Canalicchio]] - [[San Gregorio di Catania|San Gregorio]]<br><small>(solo in direzione Catania Centro)</small>
+| align="right" | 2,0 || align="right"| --
+|-
+| {{Simbolo|Italian traffic signs - galleria.svg}}
+|<small>Galleria Canalicchio (200m)</small>
+| align="right" | -- || align="right"| --
+|-
+| {{simbolo|AB-AS-grün.svg}} ||[[Canalicchio (Catania)|Canalicchio]]<br><small>(solo in direzione [[Raccordo autostradale 15|RA 15]]-A18)</small>
+| align="right" | -- || align="right"| 1,2
+|-
+| {{Simbolo|Italian traffic signs - galleria.svg}} ||<small>Galleria (230 m)</small>
+| align="right" | 3,7 || align="right"| -0,7 || rowspan=4 align="center"| [[File:Strada Comunale Italia.svg|50px]]<br>Viale Mediterraneo 
+|-
+| {{simbolo|AB-AS-grün.svg}} || [[Catania|Catania ovest]]<br><small>{{simbolo|Strada_Statale_121_Italia.svg|40}} [[Strada statale 121 Catanese|Paternò]] - {{simbolo|Italian traffic signs - simbolo aeroporto (figura II 116).svg|20}} [[Aeroporto di Catania-Fontanarossa|Fontanarossa]]<br>(uscita solo in direzione Catania Centro, entrata solo in direzione RA15-A18)
+| align="right" | -0,3 || align="right" | -- 
+|-
+| {{simbolo|AB-AS-grün.svg}} || [[Catania|Catania est]]<br><small>{{simbolo|Strada_Statale_114_Italia.svg|40}} [[Strada statale 114 Orientale Sicula|Messina]]
+| align="right" | -0,5 || align="right" | -0,1
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg}} || {{simbolo|Sinnbild Innerorts.svg|17}} [[Catania]]<br><small>Via Vincenzo Giuffrida
+| align="right" | -0,7 || align="right" | -0,0 
+|-
+|}
+
+== Note ==
+<references/>
+
+== Voci correlate ==
+* [[Autostrada Catania-Siracusa]]
+* [[Autostrada A18 Siracusa-Gela]]
+* [[Strada statale 114 Orientale Sicula]]
+
+== Altri progetti ==
+{{Interprogetto}}
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+* {{cita web|https://www.autostradesiciliane.it/|Consorzio Autostrade Siciliane}}
+* {{cita web | 1 = http://www.lotsberg.net/data/italia/A18.html | 2 = Gallerie e viadotti della A18 | accesso = 3 agosto 2009 | dataarchivio = 4 novembre 2009 | urlarchivio = https://web.archive.org/web/20091104022028/http://www.lotsberg.net/data/italia/A18.html | urlmorto = sì }}
+
+{{Controllo di autorità}}
+{{autostrade italiane}}
+{{Portale|Sicilia|trasporti}}
+
+[[Categoria:Autostrade in Italia|A18]]
+[[Categoria:Autostrade in Sicilia]]{{Strada
+|nome=Autostrada A18
+|tipo=[[Autostrada]]
+|stato=ITA
+|nome secondario=Siracusa-Gela
+|simbolo=Autostrada A18 Italia.svg
+|nome precedente=Siracusa-Gela 
+|divisione amm 1={{IT-SIC}}
+|divisione amm 2={{IT-SR}}<br />{{IT-RG}}<br />{{IT-CL}}
+|inizio= [[Siracusa]]
+|fine= [[Strada Statale 194 Ragusana|SS194]] presso [[Modica]]<br ><small>''(fine provvisoria)''</small>
+|lunghezza=59,0
+|direzione=est-ovest
+|apertura=*[[1983]] <small>([[Siracusa]]–[[Cassibile]])</small>
+*14 marzo [[2008]] <small>([[Cassibile]]–[[Noto (Italia)|Noto]])</small>
+*24 ottobre [[2008]] <small>([[Noto (Italia)|Noto]]–[[Rosolini]])</small>
+*3 agosto [[2021]] <small>([[Rosolini]]–[[Ispica]]-[[Pozzallo]])</small>
+*7 dicembre [[2023]] <small>([[Ispica]]-[[Pozzallo]]–[[Modica]])</small>
+|gestore=[[Consorzio per le Autostrade Siciliane]]
+|pedaggio=provvisoriamente gratuita|città servite=[[Siracusa]], [[Avola]], [[Noto (Italia)|Noto]], [[Rosolini]], [[Pachino]], [[Ispica]], [[Pozzallo]], [[Modica]]
+|intersezioni=
+|europea1=45
+|europea2=
+|europea3=
+|europea altro=
+|mappa=Italia - mappa autostrada A18 2023.svg
+|tracciato=Autostrada A18 Siracusa-Gela.png
+}}
+
+L{{'}}'''autostrada A18 Siracusa-Gela''' è un'[[autostrada]] [[italia]]na della [[Sicilia orientale]], completata solo parzialmente per i suoi primi 59 chilometri.
+
+Ha inizio nei pressi di Siracusa, dove nasce come prolungamento della [[strada statale 114 Orientale Sicula|SS114 Orientale Sicula]], e ha temporaneamente termine presso lo svincolo di [[Modica]], dove si innesta nella [[Strada statale 194 Ragusana|SS194 Ragusana]]. I rimanenti 72&nbsp;km, da Modica a [[Gela]], sono allo stato di progetto. L'autostrada è gestita dal Consorzio per le Autostrade Siciliane. Nonostante tutti gli svincoli siano stati realizzati con caselli per l'esazione del pedaggio, ad oggi l'uso dell'autostrada rimane gratuito.
+
+La denominazione A18 è analoga all'[[autostrada A18 Messina-Catania|autostrada Messina-Catania]] poiché originariamente fu previsto di unire le due tratte autostradali in un unico asse autostradale, che collegasse Messina a Gela. Le due tratte dell'A18 sono collegate tra loro, senza soluzione di continuità, dalla [[Strada statale 114 Orientale Sicula#Da Augusta a Siracusa|SS 114 Orientale sicula]] (nel tratto da [[Siracusa]] allo svincolo di [[Augusta (Italia)|Augusta]]-[[Villasmundo]]), dall'[[autostrada Catania-Siracusa]] (nel tratto da Augusta-Villasmundo a contrada Passo Martino) e dalla [[Raccordo autostradale 15|tangenziale di Catania]] (nel tratto da contrada Passo Martino a [[Catania|Catania Nord]]).
+
+L'autostrada fa parte dell'itinerario europeo [[Strada europea E45|E45]].
+
+[[File:Autostrada A18 Siracusa-Gela (primo tratto).png|thumb|Primo tronco dell'autostrada, da Siracusa a Rosolini]]
+[[File:Autostrada A18 Siracusa-Gela (secondo tratto).png|thumb|Secondo tronco dell'autostrada, da Rosolini a Ragusa<br>(In tratteggio il percorso ancora in progetto)]]
+[[File:A18_Noto.jpg|miniatura|L'A18 nei pressi di [[Noto (Italia)|Noto]] nel 2009]]
+[[File:Il viadotto Salvia nei pressi dello svincolo di Ispica-Pozzallo.jpg|miniatura|Il viadotto Salvia nei pressi dello svincolo di Ispica-Pozzallo nel 2024]]
+[[File:La galleria Mandriavecchia in direzione Modica.jpg|miniatura|Tratto in direzione Modica in prossimità della galleria ''Mandravecchia'' nel 2024]]
+
+== Storia ==
+Il primo progetto fu redatto verso la fine degli [[Anni 1960|anni sessanta]] prevedendo un collegamento autostradale di 114,6&nbsp;km<ref name=":0">{{Cita web|url=https://www.autostradesiciliane.it/autostrade-siciliane/storia/|titolo=Storia - Autostrade Siciliane|sito=Autostrade Siciliane|accesso=2023-12-13}}</ref> tra Siracusa e Gela per favorire lo sviluppo industriale della Sicilia sud-orientale, stabilendo un rapido collegamento tra i poli industriali di Siracusa, Ragusa e di Gela. Nel progetto iniziale era previsto un costo di sessantasei miliardi di lire e la data di completamento era fissata per il 1973.<ref>{{cita news|url=https://www.lacivettapress.it/wp-content/uploads/2019/04/images_-aa3_1-.jpg|titolo=La Siracusa-Gela dovrebbe essere pronta nel 1973|pubblicazione=lacivettapress.it, documento originario da La Sicilia|data=1968|accesso=13 luglio 2023|formato=jpg}}</ref> Nel 1974 il progetto definitivo fu approvato dal [[Ministero dei lavori pubblici]]. Tuttavia, solo nel 1983 fu aperto al traffico veicolare un primo breve segmento di autostrada lungo 9,5&nbsp;km, da Siracusa a Cassibile. Al momento dell'apertura il breve tratto autostradale aveva origine dalla SP14 Siracusa-Canicattini Bagni e solo in seguito, verso la fine degli anni Novanta, venne collegata alla [[strada statale 114 Orientale Sicula|SS114]] tramite un tratto di 2&nbsp;km di strada statale, all'epoca denominato [[Nuova strada Anas 240 - di Siracusa|NSA240]] ed oggi parte integrante della SS114.
+
+Il proposito di completare l'arteria stradale fu accantonato per più di un decennio, fin quando, nel 1998, il dibattito sulla prosecuzione dei lavori si riaccese in seguito ad un parere interlocutorio espresso dalla [[soprintendenza]] di Ragusa. Fu ben presto chiaro che era necessario ridisegnare il percorso, in quanto il progetto iniziale prevedeva di passare da aree naturalistiche che negli anni precedenti erano state messe sotto vincoli ambientali ([[Cava d'Ispica]], [[riserva naturale Macchia Foresta del Fiume Irminio]], [[riserva naturale orientata Pino d'Aleppo]]); inoltre, la costruzione e il successivo sviluppo del [[porto di Pozzallo]] comportarono l'esigenza di dotare anche il comune marittimo di una stazione autostradale. Il nuovo progetto riguardò principalmente il tratto da Rosolini a Gela, e ciò che ne risultò fu un percorso particolarmente tortuoso.
+
+===1° Tronco (Siracusa-Rosolini)===
+Verso la fine del 2002 partirono i lavori per i 30&nbsp;km circa (Cassibile-Rosolini) che mancavano per il completamento del ''1°&nbsp;Tronco''<ref>{{Cita web|url=https://www.ilpost.it/2023/05/08/ritardi-autostrada-siracusa-gela/|titolo=Non sono bastati 50 anni per finire l’autostrada tra Siracusa e Gela|sito=Il Post|data=2023-05-08|lingua=it-IT|accesso=2023-08-07}}</ref> iniziato nel 1983. I lavori durarono 6 anni con il tratto Cassibile-Noto (14&nbsp;km circa) aperto al traffico il 14 marzo 2008. Un ulteriore tratto, da Noto a Rosolini (16&nbsp;km circa), fu sequestrato dalla procura di Siracusa per cedimenti anomali pericolosi e una fessura di circa venti centimetri in un viadotto, per poi essere aperto al traffico il 24 ottobre successivo. In previsione del completamento del tronco autostradale fino a Rosolini, era stata eretta all'inizio del 2008 una barriera provvisoria nel tratto autostradale tra Cassibile e Avola (al km&nbsp;10,9), che però non fu mai messa in funzione in attesa del completamento definitivo dell'autostrada. L'11 agosto 2010 iniziarono i lavori per la costruzione dello svincolo autostradale di ''Siracusa sud'', all'altezza della SP14 Fusco-Canicattini-Passoladro (nota anche come ''Strada provinciale Maremonti'') che collega il capoluogo a [[Canicattini Bagni]]. Lo svincolo fu aperto il 29 luglio 2015 ed è stato rinominato ''Canicattini Bagni''. Nel 2019 il CAS ha deciso di rinviare l'attivazione del pedaggio procedendo alla demolizione della barriera di Cassibile, mai entrata in funzione e teatro di diversi gravi incidenti stradali, uno dei quali aveva visto coinvolto, nel 2013, l'allora presidente della Regione [[Rosario Crocetta]].<ref>{{Cita web|url=https://www.siracusaoggi.it/barriera-di-cassibile-avanzano-i-lavori-di-demolizione-falcone-rispettata-tabella-di-marcia/|titolo=Barriera di Cassibile, avanzano i lavori di demolizione: Falcone, "rispettata tabella di marcia"|sito=SiracusaOggi.it|data=13 settembre 2019|lingua=it|accesso=23 novembre 2019}}</ref><ref>{{cita web|url=https://www.siracusaoggi.it/cassibile-lincidente-dellauto-di-crocetta-al-casello-romano-giu-quella-barriera/|titolo=Cassibile. L’incidente dell’auto di Crocetta al casello, Romano: “Giù quella barriera”|sito=SiracusaOggi.it|accesso=10 dicembre 2023}}</ref>
+
+===2° Tronco (Rosolini-Ragusa)===
+Il progetto del secondo tronco (Rosolini-Ragusa, lotti 6-11) e del terzo tronco (Ragusa-Gela, lotti 12-16) risulta significativamente modificato rispetto al progetto iniziale, al fine di evitare aree archeologiche e naturalistiche. Nel novembre del 2014 sono iniziati i lavori di costruzione dei lotti 6, 7 e 8 del tratto da Rosolini a [[Modica]] (19,5&nbsp;km), passando per Ispica e Pozzallo. Il lotto 7 ha visto la realizzazione dei viadotti ''Scardina'' (638&nbsp;m) e ''Salvia'' (1544&nbsp;m),<ref>{{Cita web|url=https://www.stradeeautostrade.it/ponti-e-viadotti/consorzio-autostrade-siciliane-nuovi-viadotti-sulla-siracusa-gela/|titolo=Consorzio Autostrade Siciliane: nuovi viadotti sulla Siracusa-Gela|autore=Redazione SeA|sito=Strade & Autostrade Online|data=2014-07-30|lingua=it-IT|accesso=2023-12-13}}</ref> ed il lotto 8 la galleria naturale ''Mandravecchia'' (820&nbsp;m)<ref>{{Cita web|url=https://www.ansfisa.gov.it/documents/20142/1497831/DELIBERA+N.+23-2022+del+29+novembre+2022+-+CAS+-+A18+SIRACUSA+-+GELA+-+PE+MANDRIAVECCHIA.pdf/6e8a1052-e409-dfa9-bc0d-efe0a2edae09|titolo=Commissione Permanente per le Gallerie DELIBERA N. 23/2022 in data 29 novembre 2022|editore=anfisa.gov.it|formato=pdf}}</ref>. Il termine dei lavori, inizialmente previsto per la fine del 2019,<ref>{{Cita web|url=https://www.lasicilia.it/siracusa/siracusa-gela-nel-2019-riaprira-ma-solo-fino-a-modica-1005120/|titolo=Siracusa-Gela: nel 2019 riaprirà. Ma solo fino a Modica|autore=Ottavio Gintoli|sito=La Sicilia|data=2017-03-06|lingua=it-IT|accesso=2023-12-13}}</ref> è slittato più volte, anche a causa della [[pandemia di COVID-19]] e del rincaro del prezzo dei materiali in seguito alla [[Invasione russa dell'Ucraina del 2022|guerra in Ucraina]], posticipando l'apertura alla fine del 2023. Un primo tratto di 10&nbsp;km tra Rosolini e lo svincolo Ispica-Pozzallo è stato aperto alla circolazione il 3 agosto 2021,<ref>{{Cita web|url=https://www.regione.sicilia.it/la-regione-informa/nuova-autostrada-rosolini-ispica-pozzallo-oggi-inaugurazione-apertura-al-traffico|titolo=Nuova autostrada Rosolini-Ispica-Pozzallo, oggi inaugurazione e apertura al traffico|sito=Regione Siciliana|lingua=it|accesso=2022-01-30}}</ref><ref>{{Cita web|url=https://www.siracusaoggi.it/ufficiale-il-3-agosto-aperto-al-transito-il-tratto-rosolini-ispica-dellautostrada-del-sud-est/|titolo=Ufficiale, il 3 agosto aperto al transito il tratto Rosolini-Ispica dell’autostrada del Sud-Est|sito=SiracusaOggi.it|data=2021-07-28|lingua=it-IT|accesso=2023-12-13}}</ref> mentre la restante parte fino allo svincolo di Modica è stata inaugurata il 7 dicembre 2023, portando l'autostrada a innestarsi nella [[strada statale 194 Ragusana]] nei pressi della località di Zappulla.<ref>{{Cita web|url=https://mobilita.org/2022/09/20/autostrada-siracusa-gela-pronto-il-tratto-fino-a-modica/|titolo=Autostrada Siracusa-Gela, pronto il tratto fino a Modica|autore=Roberto Lentini|sito=Mobilita.org|data=2022-09-20|lingua=it-IT|accesso=2023-02-21}}</ref>
+
+== Tabella percorso ==
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="6" | {{simbolo|Autostrada A18 Italia.svg|35}}<br />''Siracusa-Gela''<br />(tratta in esercizio '''SIRACUSA-MODICA''')
+|-
+!Tipo
+!Indicazione
+!↓km↓
+!↑km↑
+!L. consorzio
+!Strada europea
+|-
+|{{simbolo|Italian traffic signs - simbolo strada extraurbana principale (figura II 161).svg}}<br />{{simbolo|Italian traffic signs - simbolo autostrada (figura II 161).svg}}
+|[[Siracusa]] - {{simbolo|Strada Statale 114 Italia.svg|35}} <small>[[Strada statale 114 Orientale Sicula|Orientale Sicula]]</small> <br/>Autostrada A18 Siracusa-Gela
+| align="right" |0,0
+| align="right" |132,7
+| rowspan="8" align="center" |[[Libero consorzio comunale di Siracusa|SR]]
+| rowspan="12" align="center" |[[File:Italian_traffic_signs_-_strada_europea_45.svg|link=Strada europea E45|45x45px]]
+|-
+|{{simbolo|AB-AS-grün.svg|20}}
+|[[Canicattini Bagni]]
+| align="right" |0,1
+| align="right" |132,6
+|-
+|{{simbolo|AB-AS-grün.svg|20}}
+|[[Cassibile]]
+| align="right" |9,5
+| align="right" |123,2
+|-
+|{{simbolo|AB-AS-grün.svg|20}}
+|[[Avola]]
+| align="right" |14,9
+| align="right" |117,8
+|-
+|{{simbolo|AB-AS-grün.svg|20}}
+|[[Noto (Italia)|Noto]]<br /><small>{{simbolo|Italian traffic signs - icona polizia.svg}} ''Polizia Stradale''</small>
+| align="right" |24,6
+| align="right" |108,1
+|-
+|{{simbolo|Italian traffic signs - galleria.svg}}
+|Galleria Cozzo Inferno (398m)
+| align="right" | 30,1
+| align="right" | 102,2
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|Italian_traffic_signs_-_simbolo_area_servizio.svg}}
+|Area di servizio "Tellaro" <small>''(in progetto)''</small>
+| align="right" |36,8
+| align="right" | -
+|-
+|{{simbolo|AB-AS-grün.svg|20}}
+|[[Rosolini]]
+| align="right" |40,0
+| rowspan="1" align="right" | 92,7
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg}}
+|Area di parcheggio "Ispica"
+| align="right" |46,5
+| align="right" |85,7
+| rowspan="4" align="center" |[[Libero consorzio comunale di Ragusa|RG]]
+|-
+|{{simbolo|AB-AS-grün.svg|20}}
+|[[Ispica]] - [[Pozzallo]] <br />{{simbolo|Italian traffic signs - icona traghetto.svg}} <small>Traghetti per [[Malta]]</small> {{bandiera|EUR}} {{bandiera|MLT}}
+| align="right" |47,5
+| align="right" |85,2
+|- bgcolor=
+|{{simbolo|Italian traffic signs - galleria.svg}} 
+|Galleria Mandravecchia (820m)
+| align="right" | 51,5
+| align="right" | 80,3
+|-
+|- bgcolor=
+|{{simbolo|AB-AS-grün.svg|20}}<br />{{simbolo|AB-ende-grün.svg}}
+|[[Modica]] - {{simbolo|Strada Statale 194 Italia.svg|35}} <small>[[Strada statale 194 Ragusana|Ragusana]]</small><br />''fine autostrada in esercizio''
+| align="right" |59,1
+| align="right" |73,6
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg}}
+|Area di sosta "San Bartolomeo" (dir. Ovest)
+| align="right" |67,2
+| align="right" | -
+| rowspan="10" align="center" |[[Libero consorzio comunale di Ragusa|RG]]
+| rowspan="12" align="center" |{{simbolo|Edit-copy green.svg|30}}<br />'''''in progetto'''''<br> [[File:Italian_traffic_signs_-_strada_europea_45.svg|link=Strada europea E45|45x45px]]
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg}}
+|Area di sosta "Timpa Rossa" (dir. Est)
+| align="right" | -
+| align="right" |69,7
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|AB-AS-grün geschlossen.svg}}
+|[[Scicli]]
+| align="right" |70,5
+| align="right" | 62,2
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|Italian traffic signs - galleria.svg}}
+|Galleria Caddame (2.200m)
+| align="right" | -
+| align="right" | -
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|Italian traffic signs - simbolo area servizio.svg}}
+|Area di servizio "Irminio"
+| align="right" | 81,0
+| align="right" | -
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|AB-AS-grün geschlossen.svg}}
+|[[Ragusa (Italia)|Ragusa]]
+| align="right" | 84,4
+| align="right" | 48,3
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|AB-AS-grün geschlossen.svg}}
+|[[Santa Croce Camerina]] - [[Vittoria (Italia)|Vittoria sud]]
+| align="right" | 93,8
+| align="right" | 38,9
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|AB-AS-grün geschlossen.svg}}
+|[[Vittoria (Italia)|Vittoria nord]] - [[Comiso]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg|17}} <small> [[Aeroporto di Comiso]] </small>
+| align="right" | 106,7
+| align="right" | 26,0
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|Italian traffic signs - simbolo area servizio.svg}}
+|Area di servizio "Acate nord"
+| align="right" | 118,0
+| align="right" | -
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|AB-AS-grün geschlossen.svg}}
+|[[Acate]]
+| align="right" | 120,6
+| align="right" | 12,1
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|Italian traffic signs - stazione.svg}}
+|Barriera di Gela est
+| align="right" | 132,5
+| align="right" | 0,2
+| rowspan="2" align="center" |[[Libero consorzio comunale di Caltanissetta|CL]]
+|-
+|- bgcolor="FFE4E1"
+|{{simbolo|AB-ende-grün.svg}}
+|[[Gela|Gela est]] -  {{simbolo|Italian traffic signs - strada europea 45.svg|35}} {{simbolo|Strada Statale 115 Italia.svg|35}} <small>[[Strada statale 115 Sud Occidentale Sicula|Sud Occidentale Sicula]]</small>{{simbolo|AB-AS-grün geschlossen.svg}} <br> {{simbolo|Strada Statale 626 Italia.svg|50}} per [[Caltanissetta]]<ref>{{Cita web|url=https://www.stradeanas.it/it/ss-626-ss-115-lotti-7-e-8-e-completamento-tangenziale-di-gela|titolo=Completamento lotti 7-8 e Tangenziale di Gela; itinerario Caltanissetta-Ragusa}}</ref>
+| align="right" | 132,7
+| align="right" | 0,0
+|}
+
+== Lavori e progetti ==
+Il tratto rimanente dell'autostrada, da Modica a Gela, è allo stato di progetto. Superata [[Modica]] il progetto prevede l'allontanamento del tracciato dall'attuale principale direttrice di traffico, la [[Strada statale 115 Sud Occidentale Sicula|strada statale 115]], indirizzandosi verso sud e lambendo l'[[altopiano ibleo]] passando per [[Scicli]], [[Marina di Ragusa]], [[Santa Croce Camerina]] e [[Comiso]]. Tale percorso manterrebbe l'autostrada a quote altimetriche costanti, ma non si destinerebbe ai collegamenti tra i principali centri della [[provincia di Ragusa]] ([[Vittoria (Italia)|Vittoria]], Ragusa, Modica) privilegiando invece i collegamenti commerciali da e per l'autoporto di Vittoria, l'[[aeroporto di Comiso]] e il [[porto di Pozzallo]]. Nel tratto finale (Vittoria-Gela) l'autostrada si svilupperebbe a sud dell'attuale, tortuoso, tracciato della vecchia statale per innestarsi nella futura circonvallazione gelese.
+
+===2° Tronco===
+Il nuovo progetto per la rimanente parte del ''Secondo tronco'' (lotti 9-10-11) prevede uno sviluppo di 24&nbsp;km, 1 [[area di parcheggio]] (nei pressi di Scicli al km&nbsp;68), 2 [[Casello autostradale|stazioni]], 1 [[area di servizio]] (''Irminio'' al km&nbsp;81), 5 gallerie e 2 viadotti. Per il lotto ''Scicli'' sono previste la galleria artificiale ''Scicli'' (1430&nbsp;m) ed il viadotto ''Modica'' (270&nbsp;m), per il lotto ''Irminio'' sono previste la galleria ''Cozzo Troncafila'' (1000&nbsp;m), la galleria artificiale ''Cottonari'' (425&nbsp;m) ed il viadotto ''Irminio'' (272&nbsp;m), mentre per il lotto ''Ragusa'' sono in progetto le gallerie naturali ''Caddami'' (2130&nbsp;m) e ''Occhipinti'' (1985&nbsp;m)<ref>{{Cita web|url=https://va.mite.gov.it/File/Documento/757527|titolo=Valutazione ambientale, Variante Plano Altimetrica lotti 9 - 10 - 11.|editore=Ministero della Transizione Ecologica|formato=pdf}}</ref>. I lotti 9-10-11 sono in fase di progettazione esecutiva e il lotto 9 "Scicli" è già finanziato.<ref>{{Cita web|url=https://www.mit.gov.it/comunicazione/news/sicilia-marzo-gia-erogati-al-cas-237-mln-per-la-siracusa-gela|titolo=Sicilia: a marzo già erogati al Cas 2,37 mln per la Siracusa - Gela|sito=Ministero delle Infrastrutture e dei Trasporti|accesso=07 agosto 2023}}</ref>
+
+===3° Tronco===
+La parte finale dallo svincolo di Ragusa a Gela prevede uno sviluppo di 48&nbsp;km, 3 [[Casello autostradale|stazioni]], 1 [[area di servizio]] (''Acate nord'' al km&nbsp;118) ed una barriera (''Gela est'').
+
+=== Tabella Lotti ===
+{| class="wikitable" style="font-size:90%;width:55%;text-align:center;"
+|- bgcolor="#EFEFEF"
+! Tronco
+! Lunghezza 
+! Nr Lotto
+! Nome Lotto<ref name=":0" />
+! Lunghezza Lotto
+! Anno apertura
+|-
+| rowspan="5"| '''1° Tronco <br /> Siracusa-Rosolini'''
+| rowspan="5"| 42,0 Km
+| 1
+| Cassibile
+|
+| 1983
+|-
+| 2
+| Avola
+|
+| rowspan="4"| 2008
+|-
+| 3
+| Noto
+|
+|-
+| 4
+| Tellaro
+|
+|-
+| 5
+| Rosolini
+|
+|-
+| rowspan="6"| '''2° Tronco <br /> Rosolini-Ragusa'''
+| rowspan="6"| 43,4 Km
+| 6
+| Ispica
+|
+| 2021
+|-
+| 7
+| Scardina e Salvia
+|
+| 2021/23
+|-
+| 8
+| Modica
+|
+| 2023
+|-
+|-bgcolor="d5ffff"
+| 9
+| Scicli
+| 11,2&nbsp;Km
+| --
+|-
+|-bgcolor="ffe4e1"
+| 10
+| Irminio 
+| 5,0&nbsp;Km
+| --
+|-
+|-bgcolor="ffe4e1"
+| 11
+| Ragusa 
+| 7,7&nbsp;Km
+| --
+|-
+| rowspan="6"| '''3° Tronco <br /> Ragusa-Gela'''
+| rowspan="6"| 47,4 Km
+|-bgcolor="ffe4e1"
+| 12
+| Santa Croce Camerina 
+| 9,2&nbsp;Km
+| --
+|-
+|-bgcolor="ffe4e1"
+| 13
+| Comiso 
+| 12,6&nbsp;Km
+| --
+|-
+|-bgcolor="ffe4e1"
+| 14
+| Vittoria 
+| 14,5&nbsp;Km
+| --
+|-
+|-bgcolor="ffe4e1"
+| 15
+| Dirillo 
+| 5,1&nbsp;Km
+| --
+|-
+|-bgcolor="ffe4e1"
+| 16
+| Gela est 
+| 5,9&nbsp;Km
+| --
+|}
+
+== Note ==
+<references />
+
+==Voci correlate==
+* [[Autostrada Catania-Siracusa]]
+* [[Autostrada A18 Messina-Catania]]
+* [[Strada statale 114 Orientale Sicula]]
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+* {{cita web|http://www.autostradesiciliane.it/|Consorzio Autostrade Siciliane}}
+
+{{Controllo di autorità}}
+{{Trasporti del libero consorzio comunale di Siracusa}}
+{{autostrade italiane}}
+{{Portale|Sicilia|trasporti}}
+
+[[Categoria:Autostrade in Sicilia|A18 Siracusa-Gela]]
+[[Categoria:Autostrade in Italia|A18 Siracusa-Gela]]
+[[Categoria:Autostrade in Italia in progetto|A18 Siracusa-Gela]]

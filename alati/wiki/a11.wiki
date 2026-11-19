@@ -1,0 +1,215 @@
+{{Strada
+|nome = Autostrada A11
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada Firenze-Mare<br />Firenze-Pisa Nord
+|simbolo = Autostrada A11 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-TOS}}
+|divisione amm 2 = {{IT-FI}}<br />{{IT-PO}}<br />{{IT-PT}}<br />{{IT-LU}}<br />{{IT-PI}}
+|inizio = [[Firenze]]
+|fine = [[Pisa]] nord
+|lunghezza = 81,7<ref>{{Cita web|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=44&ramo=44&code=A11&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali}}</ref>
+|direzione = 
+|apertura = [[1933]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]
+|città servite = 
+|intersezioni = 
+|europea1 = 76
+|europea2 = 
+|europea3 = 
+|europea altro = (coincidente)
+|mappa = Italia - mappa autostrada A11.svg
+|tracciato = Tracciato A11.svg
+}}
+L''''autostrada A11''', nota anche come '''Firenze-Mare''', collega [[Firenze]] fino a [[Pisa]] presso il [[litorale]] tirrenico centro settentrionale, attraversando la [[pianura]] dell'[[Arno]], densamente popolata e industrializzata con la [[Piana di Firenze-Prato-Pistoia|piana]] di [[Prato (Italia)|Prato]] e [[Pistoia]], la [[Valdinievole]] e la piana di [[Lucca]]. Lunga 81,2&nbsp;[[chilometro|km]], è interamente gestita da [[Autostrade per l'Italia]].<ref name="autogenerato12">{{Cita web|url=http://www.autostrade.it/it/la-nostra-rete|titolo=La rete - Autostrade per l'Italia|accesso=9 dicembre 2016}}</ref> 
+
+Una diramazione di 18&nbsp;km, la cosiddetta bretella, costruita negli [[anni 1970]], si innesta a [[Lucca]] e arriva a [[Viareggio]], agevolando il collegamento con l'[[Autostrada A12 (Italia)|autostrada A12]] in direzione [[Genova]]. 
+
+Nella numerazione delle [[strada europea|strade europee]] la A11 è la [[Strada europea E76|E76]]. {{cn|L'arteria è la più trafficata della [[Toscana]].}}
+
+==Storia==
+[[File:Inaugurazione autostrada A11.jpg|thumb|Cerimonia di posa della prima pietra dell'Autostrada nel [[1928]]|left]]
+Cronologicamente, è la nona [[autostrada]] [[italia]]na, costruita durante il [[ventennio fascista]] dopo l'[[autostrada dei laghi]] Milano-Varese del 1924 (oggi A8), l'autostrada dei laghi Lainate-Como del giugno 1925 (oggi A9), il raccordo Gallarate-Sesto Calende del settembre 1925 (oggi A8/A26), l'[[Autostrada A4 (Italia)|autostrada Milano-Bergamo]] del 1927 (oggi tratta dell'A4), la Roma-Lido di Ostia del 1928 (oggi declassificata a Strada Statale n. 8), la Napoli-Pompei del 1929 (tratta A3), la Bergamo-Brescia del 1931 (tratta A4) e la Torino-Milano del 1932 (tratta A4)
+
+Fu realizzata negli anni dal [[1928]] al [[1932]] per iniziativa dell'''EAT'' ([[Ente per le Attività Toscane]]), che aveva l'appoggio del Sottosegretario alle Comunicazioni [[Alessandro Martelli]], del federale di [[Lucca]] [[Carlo Scorza]] e di [[Alessandro Pavolini]], allora segretario della federazione provinciale del [[Partito Nazionale Fascista|PNF]] di [[Firenze]].
+
+Scopo della nuova arteria autostradale era, oltre a migliorare la rete viaria regionale, quello di creare un collegamento turistico veloce tra [[Firenze]], [[Montecatini Terme]] (allora località molto in voga) e la costa della [[Versilia]]. La progettazione del tracciato fu opera di tre "luminari" del tempo, ossia gli ingegneri ''Bartolini'' del [[Genio Civile]] di Firenze; ''Frosali'', capo dell'ufficio tecnico della [[Provincia di Firenze]] e ''Marrucchi''.
+
+La nuova autostrada fu costruita dalla società "''Le autostrade toscane''" e i lavori furono effettuati dalle ditte degli imprenditori [[Saverio Parisi]] e [[Piero Puricelli]] (quest'ultimo tra gli ideatori della Milano-Laghi). La realizzazione, sebbene effettuata in tempi veloci per l'epoca, vide però anche alcuni fatti di malcostume e qualche scontro con i proprietari dei terreni tagliati dalla nuova arteria: in alcuni casi, qualche possidente particolarmente potente riuscì persino a fare modificare il progetto originale per tutelare i propri interessi.
+Non mancarono proteste da parte della popolazione locale: a [[Prato (Italia)|Prato]] si disse che l'autostrada avrebbe impedito lo sviluppo a sud della città e che avrebbe sottratto terre fertili alle attività agricole, utili in piena "[[battaglia del grano]]" mentre l'autostrada sarebbe stata a vantaggio solo dei ricchi che andavano in ferie a [[Viareggio]] o a [[Forte dei Marmi]].
+
+Il costo della Firenze-Mare fu di 120 milioni di lire dell'epoca, quasi tutto a carico degli enti locali e di alcuni privati: lo Stato assicurò poi solo una cifra modesta per i lavori di manutenzione, che ricadevano sempre sugli enti locali (anche quelli senza casello) attraversati dall'autostrada.
+
+[[File:Bretella lucca-viareggio 03.JPG|thumb|left|Cavalcavia della bretella A11/A12 presso [[Massarosa]]]]
+L'inaugurazione "ufficiale" si ebbe il 5 agosto [[1933]] con l'apertura dell'ultimo tratto tra [[Lucca]] e [[Migliarino Pisano]]; l'autostrada allora era a una sola [[carreggiata]] di otto metri di larghezza (il raddoppio avverrà tra il [[1961]] e il [[1962]]) e collegava Firenze con Migliarino Pisano, seguendo l'attuale tracciato, con due eccezioni.
+
+Una è il tratto nel comune di [[Prato (Italia)|Prato]] tra il ponte sul [[Bisenzio]] e quello sul [[Calice (torrente)|Calice]]: nel 1961 in occasione del raddoppio, furono infatti ascoltate le osservazioni dell'amministrazione comunale pratese, che rinnovò le lamentele del periodo fascista che accusavano l'autostrada di impedire l'espansione della città laniera a sud (allora in pieno boom economico e demografico) e fu realizzato un nuovo percorso più a mezzogiorno, in aree ancora a conduzione agricola e lontane dall'abitato. Il vecchio tracciato è oggi il ''Viale Leonardo da Vinci'', noto anche come "''la declassata''", che parte dal confine comunale con [[Campi Bisenzio]] e termina a quello con [[Agliana]], e fa parte della [[Strada statale 719 Prato-Pistoia|SS 719]].
+
+L'altra eccezione è un tratto nei pressi di [[Ripafratta]], tra Lucca e Migliarino Pisano: sempre in occasione del raddoppio nel [[1962]] il vecchio ponte sul Serchio e circa 1&nbsp;km di strada prima e dopo di esso sono stati chiusi al traffico e mai più riaperti, e sostituiti da un nuovo percorso, comprendente un nuovo ponte, a poca distanza, a nord-ovest di quello originale. Il 2 agosto 2020, il ponte del vecchio tracciato insistente sulla [[ferrovia Lucca-Pisa]] è stato fatto brillare<ref>{{Cita web|lingua=it|url=https://www.pisatoday.it/cronaca/informazioni-pratiche-demolizione-cavalcavia-ripafratta-san-giuliano-terme-ferrovie.html|titolo=San Giuliano Terme: domenica la demolizione del cavalcavia di Ripafratta|sito=PisaToday|accesso=2022-02-18}}</ref><ref>{{Cita web|lingua=it-IT|url=https://iltirreno.gelocal.it/pisa/cronaca/2020/08/02/news/fatto-esplodere-il-ponte-di-ripafratta-residenti-evacuati-e-stop-ai-treni-1.39151048|titolo=Ripafratta, fatto esplodere il ponte sulla ferrovia: residenti evacuati e stop ai treni - Video|sito=Il Tirreno|data=2020-08-02|accesso=2022-02-18}}</ref>, mentre è tutt'ora presente sulla [[Strada statale 12 dell'Abetone e del Brennero|SS 12]]. [[File:Autostrada-A11.JPG|thumb|L'autostrada in direzione Firenze al km 9.]]
+Al momento dell'apertura, la Firenze-Mare annoverava i caselli di Firenze (la rampa di accesso era l'attuale [[Viale Luigi Gori]] e il casotto del pedaggio era esattamente all'altezza dell'aeroporto), [[Prato (Italia)|Prato]], [[Pistoia]], [[Monsummano Terme]] (poi soppresso), [[Montecatini Terme]], [[Chiesina Uzzanese]], [[Altopascio]], [[Lucca]] e [[Migliarino Pisano|Migliarino]], dove l'autostrada si connetteva alla [[strada statale 1 Via Aurelia|statale Aurelia]].
+
+Nonostante le pompose aspettative dei promotori, l'autostrada ebbe all'inizio un debutto molto difficile: il progetto era indubbiamente valido e intelligente, ma forse un po' troppo avanti con i tempi, data l'ancora debole motorizzazione dell'Italia e il relativamente scarso movimento turistico degli italiani, salvo le fasce sociali medio-alte. A ciò si aggiungevano i prezzi dei pedaggi, non propriamente economici: una vettura di media potenza, per percorrere il tratto Firenze-Migliarino sola andata, pagava un pedaggio di 78 lire. I bilanci della società che gestiva l'autostrada conobbero pertanto all'inizio periodi bui e fu necessario un intervento del Duce in persona per evitare peggiori conseguenze amministrative e gestionali, dati anche i nomi degli illustri notabili fascisti legati alla via di comunicazione. Nel [[1939]], ultimo anno di pace e che vide il massimo afflusso di mezzi, la Firenze-Mare fu percorsa mediamente da soli 1145 mezzi giornalieri, ovviamente con forti oscillazioni tra i mesi invernali e quelli estivi.
+
+Nonostante questo si può oggi affermare che l'Autostrada Firenze - Mare fu opera altamente innovativa; essa fu la prima e per ora l'unica grande infrastruttura regionale realizzata collegando gli sviluppati bacini posti a Sud dell'Appennino (direttrice Firenze - Prato - Pistoia - Montecatini - Lucca - Pisa o Lucca - Viareggio). Durante l'epoca granducale infatti, in considerazione del fatto che Lucca non faceva parte della Toscana, la direttrice principale era quella Firenze - Empoli - Pontedera - Pisa - Livorno. Ancor oggi la principale linea ferroviaria passa per il Valdarno. Dopo la seconda guerra mondiale questa autostrada consentì il grande sviluppo del turismo in [[Versilia]].
+
+==Tabella percorso==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A11 Italia.svg|30}} FIRENZE - PISA NORD'''<br />Autostrada Firenze Mare
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}||[[Firenze|Firenze Ovest]] - [[Peretola]]<br/><small>{{simbolo|Italian traffic signs - icona aeroporto.svg}} Aeroporto di [[Firenze]]-[[Peretola]]</small>
+| align="right" | 0,0||align="right"|81,7 || align="center" rowspan=6|[[Città metropolitana di Firenze|FI]]||align="center" rowspan=21|[[File:Italian traffic signs - strada europea 76.svg|50px|link=Strada europea E76]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sesto Fiorentino]] || align="right"| 2,0||align="right"|79,2
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Peretola" || align="right"| 3,0||align="right"|78,2
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Firenze]] Ovest || align="right"| 4,2||align="right"|77,0
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Firenze Nord"<br /><ref>solo per il traffico in direzione della A1</ref>|| align="right"| 4,6||align="right"|76,6
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Bologna - Roma]] <ref>Provenendo da Firenze l’accesso all’Autosole è precedente e avviene attraverso il casello di [[Firenze]] nord.</ref>
+| align="right"| 4,9||align="right"|76,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Prato (Italia)|Prato]] Est || align="right"| 9,0||align="right"|72,2 || align="center" rowspan=2|[[Provincia di Prato|PO]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Prato (Italia)|Prato]] Ovest || align="right"| 16,8||align="right"|64,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pistoia]] || align="right"| 27,4||align="right"|53,8 || align="center" rowspan=4|[[Provincia di Pistoia|PT]]
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Serravalle" || align="right"| 35,5||align="right"|45,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Montecatini Terme]] || align="right"| 39,0||align="right"|42,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chiesina Uzzanese]] || align="right"| 46,4||align="right"|34,8
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Sibolla" || align="right"| 47,9||align="right"|33,3 || align="center" rowspan=5|[[Provincia di Lucca|LU]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Altopascio]] || align="right"| 49,3||align="right"|31,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Capannori]] ||align="right"| 57,2||align="right"|24,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lucca]] Est ||align="right"| 63,5||align="right"|17,7
+|-
+| [[File:AB-Kreuz-grün.svg]]|| [[Lucca]] Ovest<br /><small>{{simbolo|Autostrada A11-A12 Italia.svg|19}} [[Viareggio]]<br />{{simbolo|Autostrada A12 Italia.svg|19}} [[Autostrada A12 (Italia)|Genova]]</small>||align="right"| 66,0||align="right"|15,2
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Migliarino Pisano|Migliarino]]" || align="right"| 79,1||align="right"|2,1 || align="center" rowspan=4|[[Provincia di Pisa|PI]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 80.svg|24}} {{simbolo|Autostrada A12 Italia.svg|23}} [[Autostrada A12 (Italia)|Genova - Cecina]]<br /><small> [[Pisa]] {{simbolo|Italian traffic signs - centro città.svg|17}}<br />{{simbolo|Italian traffic signs - icona aeroporto.svg|17}} [[Aeroporto di Pisa|G. Galilei]]</small> ||align="right"| 80,7||align="right"|0,5
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Pisa]] Nord || align="right"| 81,0||align="right"|0,2
+|-
+| {{simbolo|Italian traffic signs - fine autostrada.svg}}|| [[Pisa]] Nord<br />{{simbolo|Strada Statale 1 Italia.svg|35}} ''[[Strada statale 1 Via Aurelia|Via Aurelia]]''
+|align="right"| 81,7||align="right"|0,0 
+|-
+|}
+
+== Bretella A11/A12 ==
+{{Strada
+|nome = Autostrada A11/A12
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Lucca ovest - Viareggio
+|simbolo = Autostrada A11-A12 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-TOS}}
+|divisione amm 2 = {{IT-LU}}
+|inizio = [[Lucca]]
+|fine = [[Viareggio]]
+|lunghezza = 20<ref>{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2|titolo=TE - Trasporti Eccezionali - Mappe<!-- Titolo generato automaticamente -->|accesso=7 dicembre 2009|dataarchivio=13 marzo 2013|urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2|urlmorto=sì}}</ref>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = [[Concessioni del Tirreno]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Mappa autostrada A11-12 Italia.svg
+|tracciato = 
+}}
+
+La bretella '''A11/A12''', o diramazione Lucca-Viareggio, è un breve tratto autostradale di 18 chilometri, aperto al traffico nel [[1973]], che permette un più rapido percorso nella direttrice fra [[Firenze]] e [[Genova]].
+
+La bretella è a carreggiate separate a doppia corsia, senza corsia di emergenza. La segnaletica stradale è a fondo verde e presenta i segnali di inizio e fine autostrada. Il limite di velocità sull'intera bretella è di 110&nbsp;km/h, mentre la progressiva chilometrica è una prosecuzione di quella dell'A11.
+
+Nel 2007 è stato inaugurato il nuovo assetto dell'intersezione tra la bretella e l'autostrada A12, eliminando le barriere di Lucca Ovest e Viareggio, in modo che sia possibile percorrere le autostrade senza fermate.
+
+Il decreto legislativo del 29 ottobre 1999 n. 461<ref>{{cita testo|url=http://gazzette.comune.jesi.an.it/288-99/099G053399990104.pdf|titolo=Comune di Jesi - Gazzette, Leggi e Normativa<!-- Titolo generato automaticamente -->|accesso=23 gennaio 2010|dataarchivio=27 settembre 2013|urlarchivio=https://web.archive.org/web/20130927175230/http://gazzette.comune.jesi.an.it/288-99/099G053399990104.pdf|urlmorto=sì}}</ref> ha classificato questa diramazione come A11/A12, tuttavia nei pannelli integrativi di identificazione dei cavalcavia è indicata come A11.
+
+È gestita da [[Concessioni del Tirreno]].
+
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''A11/A12 LUCCA OVEST - VIAREGGIO'''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Provincia'''
+|-
+| [[File:AB-Kreuz-grün.svg]]|| [[File:Italian traffic signs - strada europea 76.svg|27px|link=Strada europea E76]] {{simbolo|Autostrada A11 Italia.svg|23}} Firenze-Pisa Nord||align="right"| 67,3 ||align="right"| 18,2 || align="center" rowspan=6|[[Provincia di Lucca|LU]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lucca]] Ovest||align="right"| 68,0 ||align="right"| 17,5 
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Monte Quiesa"<ref>solo direzione A12</ref>|| align="right"| 77,0 ||align="right"| 8,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Massarosa]] || align="right"| 79,3 ||align="right"| 6,2
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 80.svg|27}}{{simbolo|Autostrada A12 Italia.svg|23}} [[Autostrada A12 (Italia)|Genova - Roma]]
+|align="right"| 85,3 ||align="right"| 0,2
+|-
+|[[File:AB-AS-grün.svg]]|| [[Viareggio]] || align="right"| 85,5 ||align="right"| 0,0
+|-
+|}
+{{clear}}
+
+== Obblighi ==
+Sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile su tutta la tratta.<ref>{{Cita web|lingua=it-IT|url=https://www.autostrade.it/it/obbligo-catene|titolo=Obbligo catene a bordo|sito=Autostrade per l'Italia|accesso=2025-05-22}}</ref>
+
+== Progetti futuri ==
+=== Terza corsia ===
+Da tempo è aperto il confronto sia tra i vertici di [[Autostrade per l'Italia]] (concessionario) sia da parte degli [[Ente locale (Italia)|enti locali]] interessati ([[Comune (Italia)|comuni]], province di [[Provincia di Firenze|Firenze]], di [[Provincia di Prato|Prato]] e [[Provincia di Pistoia|Pistoia]] e [[Toscana|Regione Toscana]]) per la realizzazione di una terza corsia per senso di marcia dall'inizio dell'autostrada a [[Peretola|Firenze Peretola]] fino al casello autostradale di [[Pistoia]], passando quindi per l'uscita di [[Sesto Fiorentino]] (nel tratto aperto di [[Firenze]]), l'innesto A11/[[Autostrada A1 (Italia)|A1]] di [[Firenze]] Nord e i caselli di [[Prato (Italia)|Prato]] Est e [[Prato (Italia)|Prato]] Ovest<ref>{{Cita web|url=http://s24ore.it/v1i443|titolo=«Toscana strategica, la terza corsia dell'A11 si farà» {{!}} Toscana24|sito=Toscana24 - Il Sole 24 Ore|data=|lingua=en|accesso=13 aprile 2021}}</ref>.
+
+=== Casello di Campi Bisenzio ===
+Più volte è stata lanciata la proposta di realizzare nel tratto compreso fra l'innesto con l'[[Autostrada A1 (Italia)|A1]] di [[Firenze]] Nord e [[Prato (Italia)|Prato]] Est un nuovo casello autostradale<ref>{{Cita web|url=https://www.lanazione.it/firenze/cronaca/casello-sull-autostrada-del-sole-campi-bisenzio-ci-riprova-incontro-con-la-regione-1.5390019|titolo=Casello sull'Autostrada del Sole, Campi Bisenzio ci riprova. Incontro con la Regione|autore=La Nazione|sito=La Nazione|data=6 agosto 2020|lingua=it|accesso=13 aprile 2021}}</ref> nel comune di [[Campi Bisenzio]].
+
+== Curiosità ==
+{{Curiosità}}
+{{cn|L'autostrada A11, inizialmente a una carreggiata, fu predisposta per attraversare nei pressi della città di [[Lucca]] l'opera ottocentesca dell'[[Acquedotto Nottolini]]. Per questa operazione fu rimossa una colonna modificando la struttura di una arcata per mantenere la funzionalità del trasporto dell'acqua. Quando furono realizzate le opere di ampliamento della carreggiata negli anni sessanta, furono abbattute altre cinque arcate, tagliando in modo definitivo l'acquedotto non più utilizzato.}}
+
+== Avvenimenti storici ==
+{{cn|Il 15 giugno 1935 [[Tazio Nuvolari]] tenta di battere (nel tratto del rettilineo di 8&nbsp;km presso Altopascio), due primati mondiali di velocità utilizzando l'[[Alfa Romeo 16C Bimotore]], creata da [[Enzo Ferrari]] per resistere alle competitive [[Mercedes]] e [[Auto Union]].
+
+La giornata scelta per il tentativo è poco felice poiché tira un forte vento, Nuvolari però prova ugualmente e parte. Mentre la macchina viaggia a circa 320&nbsp;km/h, viene investita lateralmente da una forte raffica di vento che causa una brusca sbandata di oltre 200 metri. Il mantovano riesce comunque con freddezza a controllare l'auto dimostrando sensibilità al volante nonostante l'auto pesasse 1300&nbsp;kg e fosse già molto difficile da controllare a 150&nbsp;km/h.
+
+A dispetto dell'imprevisto Tazio prosegue, neutralizzando un'altra analoga sbandata poco dopo e stabilisce due primati: percorre in 11 secondi il chilometro lanciato alla media di 321,420&nbsp;km/h e in 17 secondi il miglio lanciato con media di 323,125&nbsp;km/h (con una punta, nell'ultimo tratto percorso, di oltre 360&nbsp;km/h). ''"Non avevo mai affrontato un pericolo così tremendo, nemmeno il giorno in cui presi fuoco a Pau''" dichiarerà anni dopo ricordando l'episodio.}}
+
+==Note==
+<references />
+
+==Voci correlate==
+*[[Trasporti a Firenze]]
+
+==Altri progetti==
+{{interprogetto}}
+
+==Collegamenti esterni==
+* {{Collegamenti esterni}}
+* {{cita web|http://www.autostrade.it/|Autostrade per l'Italia}}
+* {{cita web|http://www.lotsberg.net/data/italia/A11.html|Gallerie e viadotti della A11}}
+* {{cita web|https://distanzechilometriche.net/traffico/A11/|Traffico e incidenti sulla A11 in tempo reale}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A11]]

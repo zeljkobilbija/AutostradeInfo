@@ -1,0 +1,181 @@
+{{Strada
+|nome = Autostrada A7
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada dei Giovi<br />Serravalle<br />Milano-Genova
+|simbolo = Autostrada A7 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}<br />{{IT-PMN}}<br />{{IT-LIG}}
+|divisione amm 2 = {{IT-MI}}<br />{{IT-PV}}<br />{{IT-AL}}<br />{{IT-GE}}
+|inizio = [[Milano]]
+|fine = [[Genova]]
+|lunghezza = 133,6 + 1,9<ref>{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=23&ramo=23&code=A07&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali|accesso=8 dicembre 2009|dataarchivio=16 dicembre 2012|urlarchivio=https://web.archive.org/web/20121216060237/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=23&ramo=23&code=A07&link=&tipo=|urlmorto=sì}}{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=23&ramo=25&code=R35&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali|accesso=8 dicembre 2009|dataarchivio=16 dicembre 2012|urlarchivio=https://web.archive.org/web/20121216060244/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=23&ramo=25&code=R35&link=&tipo=|urlmorto=sì}}</ref>
+|direzione = 
+|apertura = [[1935]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy<!-- Titolo generato automaticamente --> |accesso=26 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = *[[Milano Serravalle-Milano Tangenziali]] (Milano-Serravalle)
+*[[Autostrade per l'Italia]] (Serravalle-Genova)
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]<br /><small>(gratuito nella tratta [[Lombardia|lombarda]] [[Milano]]-[[Assago]])</small>
+|città servite = 
+|intersezioni = [[Autostrada A50 (Italia)|A50]], [[Autostrada A53 (Italia)|A53]], [[Autostrada A21 (Italia)|A21]], [[Autostrada A26 (Italia)|A26]], [[Autostrada A12 (Italia)|A12]], [[Autostrada A10 (Italia)|A10]]
+|europea1 = 25
+|europea2 = 62
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A7.svg
+|tracciato = Tracciato A7.svg
+}}
+L{{'}}'''autostrada A7''', nota più comunemente come "Autostrada dei Giovi" (poiché attraversa [[Passo dei Giovi|tale valico appenninico]] e concorre per buona parte alla [[strada statale 35 dei Giovi]]) o anche come '''Serravalle''' (da uno dei comuni attraversati, [[Serravalle Scrivia]]) e a volte in passato '''dei Fiori'''<ref>{{cita testo|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,11/articleid,1575_02_1960_0152_0011_21976096/|titolo=L'autostrada da Serravalle a Milano inaugurata stamane dall'on. Gronchi}}, articolo de La Stampa Sera, del 26 Giugno 1960</ref><ref>{{cita testo|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,5/articleid,1575_02_1960_0155_0005_21976089/|titolo=II transito da Ponte S. Luigi è diventato una prova di pazienta e di resistenza}}, articolo de La Stampa Sera, del 29 Giugno 1960</ref><ref>Paola Pucci, ''{{cita testo|url=http://archivio.comune.pv.it/museicivici/pdf/annali28/30%20Pucci.pdf|titolo=Il processo di trasformazione delle reti infrastrutturali e della struttura insediativa tra Milano e Pavia nel XIX secolo}}'', in {{cita testo|url=http://www.museicivici.pavia.it/paviainweb/bibliografia/libro.php?id=2|titolo=Dentro e fuori le mura. Spazio urbano ed extraurbano a Pavia dall'età classica alle soglie del Duemila. N.28|urlarchivio=https://web.archive.org/web/20210627004236/http://www.museicivici.pavia.it/paviainweb/bibliografia/libro.php?id=2 }},  Terza sessione. Atti del Convegno di Studi, Pavia, 3-5 dicembre 1998. - p. 147-159</ref><ref>{{cita testo|url=http://www.stagniweb.it/mappe/atm975.jpg|titolo=Mappa dei trasporti di Milano dell'ATM del 1975}}</ref><ref>{{Cita libro|nome=Touring club|cognome=italiano|titolo=Piemonte (non compresa Torino)|url=https://books.google.it/books?id=KjttelynsZEC&dq=%22autostrada+dei+fiori%22&hl=it&source=gbs_navlinks_s|accesso=2024-02-10|data=1976|editore=Touring Editore|lingua=it|p=187|ISBN=978-88-365-0001-7}}</ref> (nome che tuttavia è caduto in disuso dopo gli anni '70 e ora identifica solitamente l'[[Autostrada A10 (Italia)|A10]]), è la principale e più diretta arteria stradale che collega [[Milano]] e [[Genova]].
+
+È gestita da due concessionarie: da Milano a [[Serravalle Scrivia|Serravalle]] dalla [[Milano Serravalle-Milano Tangenziali]], società che gestisce anche le [[tangenziale|tangenziali]] milanesi [[Autostrada A50|A50]], [[Autostrada A51|A51]], [[Autostrada A52 (Italia)|A52]], il [[Autostrada A53 (Italia)|raccordo autostradale Pavia-Bereguardo]] e la [[Autostrada A54 (Italia)|tangenziale]] di [[Pavia]], e da Serravalle a [[Genova]] dalla società [[Autostrade per l'Italia]] S.p.A.
+
+==Storia==
+=== La Camionale Genova-Serravalle ===
+Nella prima metà del XX secolo la strada napoleonica che valicava il passo dei Giovi, presa in carico nel [[1928]] dall'[[Azienda Autonoma Statale della Strada]] (AASS), risultava ormai insufficiente a smaltire il crescente traffico di mezzi pesanti che dal porto di Genova si dirigevano verso la [[pianura padana]]. Il governo italiano, con lettera al prefetto di Genova datata 10 febbraio 1932, dispose perciò la costruzione di ''una via di grande comunicazione per Milano e Torino con caratteristiche di alto e pesante traffico, indipendente dalle altre arterie stradali e col tracciato più breve e comodo possibile compatibilmente con le condizioni del terreno''<ref>R. Genova, C. Serra, ''80 anni'', op. cit., pp. 3-4.</ref>.
+
+Alla direzione dell'opera fu posto l'ingegner Giovanni Pini. Vi lavorarono 16 imprese specializzate per la parte stradale (suddivisa in 22 lotti), più 12 per la parte relativa all'impiantistica e all'illuminazione. Per la costruzione dell'opera vennero impiegati (non contemporaneamente) quasi 30.000 operai, per un totale di 4,5 milioni di giornate lavorative. Il costo di realizzazione, a causa della difficile orografia e delle intersezioni con la ferrovia e le strade già esistenti, fu di molto superiore rispetto a quello di altre autostrade costruite nello stesso periodo.<ref name=casana>Alessio Schiavi, "''{{cita testo|url=http://www.gruppocarige.it/gruppo/html/ita/arte-cultura/la-casana/2006_3/pdf/38_47.pdf|titolo=La chiamavano "la camionale"|accesso=4 luglio 2016|dataarchivio=7 agosto 2016|urlarchivio=https://web.archive.org/web/20160807075007/http://gruppocarige.it/gruppo/html/ita/arte-cultura/la-casana/2006_3/pdf/38_47.pdf|urlmorto=sì}}''", in {{cita testo|url=http://www.gruppocarige.it/wpsgrp/portal/istituzionale/carige-ist-ita/eventi-arte/la-casana/numeri/!ut/p/z1/jY_BDoIwGIMfaZ0ydccR4VcYWxCNsIvZiSxR9GB8fsli4gm0tyZfm5Y51jI3-Ffo_TPcB38dfedWl42iZEcNtD0KBZWlYiuLdJkVgp0joImIUwlNtclHoDkowytUhjP3Tx4TUviddxGZWEB2_QG-HRYcStalkDkWQDLfED9EYGbk43ZqEfb9GxXEc-I!/?1dmy&urile=wcm%3apath%3a%2FCarige_IST_ITA%2FHome%2FArte%2Be%2BCultura%2FLa%2BCasana%2FNumeri%2FContenuto%2FAnno2006%2FLaCasanaN32006|titolo=La Casana n. 3/2006|urlarchivio=https://web.archive.org/web/20160820100511/http://www.gruppocarige.it/wpsgrp/portal/istituzionale/carige-ist-ita/eventi-arte/la-casana/numeri/!ut/p/z1/jY_BDoIwGIMfaZ0ydccR4VcYWxCNsIvZiSxR9GB8fsli4gm0tyZfm5Y51jI3-Ffo_TPcB38dfedWl42iZEcNtD0KBZWlYiuLdJkVgp0joImIUwlNtclHoDkowytUhjP3Tx4TUviddxGZWEB2_QG-HRYcStalkDkWQDLfED9EYGbk43ZqEfb9GxXEc-I!/?1dmy&urile=wcm%3apath%3a%2FCarige_IST_ITA%2FHome%2FArte%2Be%2BCultura%2FLa%2BCasana%2FNumeri%2FContenuto%2FAnno2006%2FLaCasanaN32006}}, pag 38 e seg, edito da [[Banca Carige]]</ref>
+
+La tratta [[Genova]]-[[Serravalle Scrivia|Serravalle]] venne inaugurata il 29 ottobre [[1935]] dal re [[Vittorio Emanuele III]]<ref name=casana />, fu considerata una delle avanguardie della rete stradale europea all’epoca, ed è anche considerabile la prima autostrada montana della storia italiana.
+
+Inoltre, rimpiazzò la [[strada statale 35 dei Giovi]] nel ruolo di strada più rapida che collegasse la città [[Liguria|ligure]] e il mare con [[Milano]] e [[Torino]]. All'epoca della sua realizzazione venne denominata ''Autocamionale Genova-Valle del Po'' o semplicemente ''Camionale'', a indicarne la sua principale funzione commerciale. La gestione venne affidata all'AASS<ref name="casana" />.
+
+=== L'autostrada Milano-Serravalle ===
+Nel 1951, sei anni dopo la fine della [[seconda guerra mondiale]],  venne creata la società [[Milano Serravalle-Milano Tangenziali|Milano-Serravalle]], avente come membri le amministrazioni locali (comune e provincia) e le camere di commercio di Como, Genova, Milano e Pavia, con lo scopo di prolungare la Camionale dei Giovi fino al capoluogo lombardo.<ref>{{cita pubblicazione |nome=Alberto|cognome=Sirtori|titolo=L'autostrada Serravalle-Milano|rivista=Autostrade: rivista di tecnica e di informazioni autostradali: pubblicazione mensile della Soc. Concessioni e costruzioni autostrade|volume= 2|numero= 8|anno= 1960|mese=agosto}}</ref>
+
+Nel 1956 l'ANAS approvò l'opera autostradale proposta dalla società, che aveva come obiettivo da una parte collegare Milano con la [[riviera ligure]] e dall'altra prolungare un percorso stradale che potesse facilitare la connessione col nord Europa fino ad Amsterdam, via [[Svizzera]] e [[Germania]].
+
+L'inizio dei lavori venne celebrato a [[Tortona]] il 29 settembre [[1956]] con una cerimonia di posa di un [[cippo (stele)|cippo]] inaugurale alla presenza del Ministro dei Lavori Pubblici [[Giuseppe Romita]].<ref>{{Cita pubblicazione |titolo = Cerimonia per l'inizio dei lavori dell'autostrada Milano - Serravalle |autore = R. A. |rivista = [[Le Strade]] |volume = anno XXXVI |numero = 11 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1956 |mese = novembre |p = 492 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1548#page/804/mode/2up }}</ref>
+
+La tratta tra Serravalle e Tortona divenne operativa il 26 luglio [[1958]],<ref>{{Cita pubblicazione |titolo = Il tronco Serravalle - Tortona dell'autostrada Serravalle - Milano - Ponte Chiasso è stato aperto al traffico |rivista = [[Le Strade]] |volume = anno XXXVIII |numero = 9 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1958 |mese = settembre |pp = 380-381 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1550#page/580/mode/2up }}</ref> mentre la tratta finale, tra Tortona e Milano, venne inaugurata dal [[Presidente della Repubblica Italiana|Presidente della Repubblica]] [[Giovanni Gronchi]] nel giugno del [[1960]].<ref>"{{cita testo|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,11/articleid,1575_02_1960_0152_0011_21976096/|titolo=L'autostrada da Serravalle a Milano inaugurata stamane dall'on. Gronchi}}", articolo de [[La Stampa]], del 25 giugno 1960</ref>
+
+=== Il raddoppio della tratta Genova-Serravalle ===
+Nello stesso periodo (1958) venne deciso il raddoppio del primo tratto tra Genova e Serravalle: i lavori iniziarono nel luglio 1962 e terminarono tre anni dopo, nel luglio 1965. Sempre nel 1965, o secondo altra fonte il 18 marzo [[1967]]<ref>{{Cita pubblicazione |titolo = Raccordo e sopraelevata a Genova |rivista = [[Le Strade]] |volume = anno XLVII |numero = 4 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1967 |mese = aprile |p = 352 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1559#page/434/mode/2up }}</ref>, vennero collegati il casello di Genova con l'accesso di ponente della neocostruita [[Sopraelevata Aldo Moro|strada sopraelevata]] che attraversa il centro del capoluogo ligure, mentre nel 1967 avvenne l'allacciamento con il [[viadotto Polcevera]] sull'[[Autostrada A10 (Italia)|Autostrada A10]].<ref name=casana />
+
+[[File:Genova Bolzaneto 02.jpg|thumb|L'autostrada all'altezza di [[Bolzaneto|Genova Bolzaneto]]: si nota come le carreggiate nelle due direzioni seguano percorsi differenti.]]
+Nel tratto fra [[Genova]] e [[Serravalle Scrivia|Serravalle]] la carreggiata Est, costruita negli anni sessanta mediante l'uso di importanti opere ingegneristiche quali gallerie e viadotti, ha un andamento più diretto e meno tortuoso della carreggiata Ovest, che corrisponde alla vecchia Camionale di epoca [[fascismo|fascista]]. Da ciò deriva che il percorso da Genova a [[Milano]] è più breve di quello da Milano a Genova, sul quale è calcolato il chilometraggio ufficiale.
+
+=== Sviluppi successivi ===
+Soltanto nel [[1987]] fu realizzata l'interconnessione diretta tra la A7 e la [[Autostrada A21 (Italia)|A21 Torino-Piacenza-Brescia]], con la contemporanea chiusura del casello di Tortona di quest'ultima<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,21/articleid,0972_01_1987_0089_0029_13358467/|titolo=Verrà aperto fra 8 giorni il "raccordo" di Tortona|pubblicazione=La Stampa|data=16 aprile 1987|p=29}}</ref>. In precedenza, le due autostrade si incrociavano con un sovrappasso senza essere collegate e per passare da una all'altra era necessario uscire al casello di Tortona dell'una, percorrere un tratto di viabilità ordinaria e rientrare al casello dell'altra. Nel [[1999]] il casello Tortona dell'A7 fu poi spostato e ricostruito in una posizione più vicina all'interconnessione stessa<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,33/articleid,0503_01_1999_0211_0056_9338582/|titolo=Tortona, apre il casello unico|pubblicazione=La Stampa|data=4 agosto 1999|p=56}}</ref>.
+
+Gli ultimi due km (precisamente 1,9&nbsp;km) prima di arrivare in piazza Maggi a [[Milano]] sono stati aggiunti successivamente e ancora oggi non sono identificati con un numero ma con le lettere A e B. Questo tratto dell'A7 è identificato dalle società concessionarie come ''raccordo R35 A7-Piazza Maggi''.<ref>{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=23&ramo=25&code=R35&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente -->|accesso=8 dicembre 2009|dataarchivio=16 dicembre 2012|urlarchivio=https://web.archive.org/web/20121216060244/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=23&ramo=25&code=R35&link=&tipo=|urlmorto=sì}}</ref>
+
+==Descrizione==
+[[File:Autogrill Dorno - vista su A7.jpg|thumb|L'autostrada A7 all'altezza della stazione di servizio di [[Dorno]].]]
+
+L'[[autostrada]] inizia a [[Milano]] con gli svincoli sopraelevati di piazza Maggi, nei pressi della fermata di [[Famagosta (metropolitana di Milano)|Famagosta]] della [[metropolitana di Milano|metropolitana]], dove si trova anche un grande parcheggio di interscambio. I primi chilometri costituiscono il ''tratto urbano'' della A7 che si congiunge con le strade ordinarie per mezzo di svincoli liberi ed è senza pedaggio fino alla barriera di Milano Ovest, posta nel comune di [[Assago]] in corrispondenza dell'intersezione con la [[Autostrada A50|tangenziale ovest (A50)]], dalla quale comincia il calcolo del pedaggio; la prima uscita in questa direzione è quella di [[Binasco]].
+
+La seconda parte del tragitto si svolge attraverso la [[provincia di Pavia]] con un andamento pressoché rettilineo che attraversa gran parte della [[Lomellina]]. Oltrepassati i caselli di [[Bereguardo]], [[Gropello Cairoli]] e [[Casei Gerola]] si entra nella [[provincia di Alessandria]], in territorio [[piemonte]]se. Poco dopo si incontrano dapprima l'intersezione con l'[[autostrada A21 (Italia)|autostrada A21]] ([[Torino]]-[[Piacenza]]-[[Brescia]]) all'altezza di [[Tortona]] e, subito dopo, il raccordo Predosa-Bettole verso l'[[autostrada A26 (Italia)|autostrada A26]] ([[Voltri|Genova Voltri]]-[[Gravellona Toce]]), dove termina la carreggiata a tre corsie e comincia quella a due corsie per senso di marcia. Fino al 2008 anche la tratta fra il ponte sul [[Po]] e [[Tortona]] aveva due corsie per senso di marcia, mentre ora è percorribile interamente su tre corsie fino al raccordo con la A26.
+
+Superato il casello ''[[Vignole Borbera]]/[[Arquata Scrivia]]'' (precisamente al km 93+400) inizia il percorso montano che entra in territorio [[Liguria|ligure]] in direzione del [[Passo dei Giovi]]. Il tratto finale dell'autostrada si snoda verso [[Genova]], che viene raggiunta attraverso un percorso in discesa, ed è caratterizzato dal seguire la morfologia del territorio, con numerose [[galleria (ingegneria)|gallerie]] e molte curve dallo stretto raggio. Una particolarità di questa parte autostradale è che le due [[carreggiata|carreggiate]] quasi mai corrono parallele. Come già accennato, a causa della conformazione del terreno e poiché è costituito dal percorso della vecchia camionale costruita in epoca [[fascismo|fascista]], il tratto in discesa verso Genova è molto più curvilineo rispetto alla carreggiata opposta, costruita circa trent'anni dopo. Dopo due bivi, in corrispondenza dei quali hanno inizio prima la [[Autostrada A12 (Italia)|A12 per Livorno]] e poi la [[Autostrada A10 (Italia)|A10 per Ventimiglia]], l'autostrada termina nel capoluogo [[Liguria|ligure]] nel quartiere di [[Sampierdarena]], nei pressi del [[porto di Genova|porto]], innestandosi direttamente nella [[sopraelevata Aldo Moro]].
+
+==Tabella percorso==
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A7 Italia.svg|30}} MILANO - GENOVA'''<br />"Autostrada dei Giovi"
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Area!!Strada europea
+|-
+| {{simbolo|Italian traffic signs - città.svg}}|| [[Milano]] centro || align="right" | -1,9||align="right"| +1,9|| align="center" rowspan=8|[[Città metropolitana di Milano|MI]] ||align="center" rowspan=5|—
+|-
+| [[File:AB-AS-grün.svg]]|| [[Milano]] Viale Famagosta<ref>direzione Milano: solo uscita; direzione Genova: solo ingresso</ref><br /><small>{{simbolo|Milano linea M2.svg}} [[Linea M2 (metropolitana di Milano)|MM2]] [[Famagosta (metropolitana di Milano)|Famagosta]] </small> ||align="right"| -1,1||align="right"| +1,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Milano]] Via del Mare||align="right"| 0||align="right"| 133
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Cantalupa" ||align="right"| 0,5||align="right"|132,8 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Assago]] - Milanofiori||align="right"| 2,0||align="right"| 131
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Italian traffic signs - strada europea 62.svg|27}} {{simbolo|Autostrada A50 Italia.svg|23}} [[Autostrada A50|Tangenziale ovest di Milano]]||align="right"| 3,2||align="right"| 130 || rowspan=27 align="center"|[[File:Italian traffic signs - strada europea 62.svg|47px|link=Strada europea E62]]
+|-
+|{{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Milano]] ovest ||align="right"| 4,0||align="right"| 129,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Binasco]] ||align="right"| 10,5||align="right"| 123
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}||Area di parcheggio "Battuda"<ref name="dirgen">solo direzione Genova</ref>||align="right"| 17,1||align="right"|—|| rowspan=6 align="center"|[[Provincia di Pavia|PV]]
+|-
+| [[File:AB-AS-grün.svg]] [[File:AB-Kreuz-grün.svg]]|| [[Bereguardo]] - [[Pavia]] nord<br />{{simbolo|Autostrada A53 Italia.svg|23}} [[Autostrada A53 (Italia)|Bereguardo - Pavia]]||align="right"| 21,5||align="right"|112 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Gropello Cairoli]] - [[Pavia]] sud ||align="right"| 30,6||align="right"| 103
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio bidirezionale "Dorno" ||align="right"| 33,6||align="right"| 100
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}||Area di parcheggio "Corana"<ref name="dirgen"/>||align="right"| 43,6||align="right"|—
+|-
+| [[File:AB-AS-grün.svg]]|| [[Casei Gerola]] ||align="right"| 50,0||align="right"| 83
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castelnuovo Scrivia]] ||align="right"| 54,0||align="right"| 79|| rowspan=10 align="center"|[[Provincia di Alessandria|AL]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Castelnuovo Scrivia" ||align="right"| 60,6||align="right"| 73
+|-
+| [[File:AB-Kreuz-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A21 Italia.svg|22}} [[Autostrada A21 (Italia)|Torino - Piacenza - Brescia]]<br />||align="right"| 63,0||align="right"| 70
+|-
+| [[File:AB-AS-grün.svg]]|| [[Tortona]] ||align="right"| 63,5||align="right"| 69,5
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A26-A7 Italia.svg|23}} [[Autostrada A26 - A7 (Diramazione Predosa - Bettole)|Diramazione Predosa - Bettole]]<br /><small> {{simbolo|Italian traffic signs - strada europea 25.svg|22}} {{simbolo|Autostrada A26 Italia.svg|18}} [[Autostrada A26 (Italia)|Genova - Gravellona Toce]]</small>|| align="right" | 72,0||align="right"| 61
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Bettole di Novi" || align="right" | 80,3||align="right"| 53
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}||Area di parcheggio "Scrivia"<ref name="dirmil">solo direzione Milano</ref>||align="right"|— ||align="right"|48,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Serravalle Scrivia]] ||align="right"| 84,5||align="right"| 48
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vignole Borbera]] - [[Arquata Scrivia]] ||align="right"| 88,6||align="right"| 44
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}||Area di parcheggio "Vocemola"<ref name="dirmil"/>||align="right"|— ||align="right"|40,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Isola del Cantone]] ||align="right"| 100,7||align="right"| 32|| rowspan=12 align="center"|[[Città metropolitana di Genova|GE]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Giovi" ||align="right"| 106,1||align="right"| 26,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Ronco Scrivia]] ||align="right"| 106,5||align="right"| 26
+|-
+| [[File:AB-AS-grün.svg]]|| [[Busalla]] ||align="right"| 111,5||align="right"| 22
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}||Area di parcheggio "Giovi"<ref name="dirgen"/>||align="right"|113,8 ||align="right"|—
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Campora"<ref name="dirmil"/> ||align="right"| —||align="right"| 16
+|-
+| [[File:AB-AS-grün.svg]]|| [[Genova]] [[Bolzaneto]] ||align="right"| 125,8||align="right"| 7
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A12 Italia.svg|23}} [[Autostrada A12 (Italia)|Genova - Livorno]] <br /> [[File:AB-AS-grün.svg]] [[Genova]] est||align="right"| 128,7||align="right"| 4
+|-
+|[[File:AB-Kreuz-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Italian traffic signs - strada europea 25.svg|27}} {{simbolo|Autostrada A10 Italia.svg|23}} [[Autostrada A10 (Italia)|Genova - Ventimiglia]] <br /> [[File:AB-AS-grün.svg]] [[Genova]] aeroporto||align="right"| 131,7||align="right" | 2||rowspan=4 align="center"|[[File:Italian traffic signs - strada europea 62.svg|37px|ling=Strada europea E62]][[File:Italian traffic signs - strada europea 25.svg|37px|link=Strada europea E25]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Genova]] ovest ||align="right"| 132,8 ||align="right"| 0,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "La Lanterna"<ref>solo direzione Milano, accessibile anche verso Genova</ref> ||align="right"| —||align="right"| 0,4
+|-
+|[[File:AB-Kreuz-blaugrün.svg]]|| [[Genova]] [[Sampierdarena]] <br />{{simbolo|Italian traffic signs - strada europea 25.svg|27}} {{simbolo|Strada Statale 1 Italia.svg|27}} [[Sopraelevata Aldo Moro]]<br />{{simbolo|Italian traffic signs - icona centro.svg|18}} [[Genova]] centro <br />{{simbolo|Italian traffic signs - icona porto.svg}} [[Porto di Genova]]||align="right"| 133,6||align="right"| 0
+|-
+|}
+
+==Note==
+<references />
+
+== Bibliografia ==
+* {{Cita libro |titolo=Da Genova alla valle del Po. Storia illustrata dei trasporti pubblici da Genova alla Valle Scrivia |autore=Corrado Bozzano |autore2=Claudio Serra |autore3=Roberto Pastore |editore=Compagnia dei Librai |città=Genova |anno=2002 |ISBN=88-86620-91-8 }}
+* Riccardo Genova, Claudio Serra, ''80 anni di autocamionale da Genova alla valle del Po'', pubblicazione distribuita in occasione dell'omonimo convegno, Genova, 2015.
+* {{Cita pubblicazione|titolo = L'autostrada Serravalle - Milano - Ponte Chiasso|autore = Enrico Di Tempora|rivista = [[Le Strade]]|volume = anno XXXIX|editore = [[Touring Club Italiano]]|città = Milano|numero = 9|anno = 1959|mese = settembre|pp = 449-457|url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1551#page/636/mode/2up}}
+
+== Voci correlate ==
+* [[Sistema viario di Genova]]
+
+==Altri progetti==
+{{Interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+*{{cita web|url=http://www.autostrade.it|titolo=Autostrade per l'Italia}}
+*{{cita web|url=http://www.serravalle.it|titolo=Milano Serravalle - Milano Tangenziali}}
+*{{cita web|url=http://www.retrofutur.org/retrofutur/app/main?DOCID=100004993|titolo=Storia dell'Autocamionale Genova - Serravalle|accesso=3 luglio 2008|urlarchivio=https://web.archive.org/web/20090212012140/http://www.retrofutur.org/retrofutur/app/main?DOCID=100004993|urlmorto=sì}}
+*{{cita web|url=http://www.lotsberg.net/data/italia/A07.html|titolo=Gallerie e viadotti della A7}}
+*{{cita web|url=https://genova.repubblica.it/cronaca/2015/10/03/news/il_ricordo_e_il_corteo_storico_oggi_a_serravalle_una_cermonia_per_i_lavoratori_caduti_e_poi_i_mezzi_d_epoca_scenderanno_vers-124195013/|titolo=Gli 80 anni della "Camionale", quelle curve legarono Genova al Nord}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrada A7 (Italia)|A07]]
+[[Categoria:Trasporti nella città metropolitana di Genova]]
+[[Categoria:Trasporti in provincia di Alessandria]]
+[[Categoria:Trasporti in Lombardia]]

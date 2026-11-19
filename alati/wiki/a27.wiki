@@ -1,0 +1,261 @@
+{{Strada
+|nome = Autostrada A27
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada d'Alemagna<br />Venezia-Belluno
+|simbolo = Autostrada A27 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-VEN}}
+|divisione amm 2 ={{IT-VE}}<br>{{IT-TV}}<br>{{IT-BL}} 
+|inizio = [[Venezia]]
+|fine = [[Pian di Vedoia]]
+|lunghezza = 82,5<ref>{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=31&ramo=31&code=A27&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali}}</ref>
+|direzione = 
+|apertura = [[1972]]<ref name=autogenerato1>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Autostrade per l'Italia]]
+|pedaggio = sistema chiuso tra Casale sul Sile e Belluno
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A27.svg
+|tracciato = 
+|obbligo dotazioni invernali = intera tratta
+}}
+L''''autostrada A27 d'Alemagna''' o, più semplicemente, '''A27''', è un'[[Autostrade in Italia|autostrada italiana]]. Ha inizio a [[Venezia]] sulla [[autostrada A57 (Italia)|tangenziale di Mestre]], incontra poi l'[[autostrada A4 (Italia)|A4]] nei pressi di [[Mogliano Veneto]] e prosegue verso nord, terminando a [[Pian di Vedoia]] ([[Belluno]]), dove si congiunge alla [[strada statale 51 di Alemagna|SS 51 di Alemagna]]. È interamente gestita da [[Autostrade per l'Italia]].
+
+Il tratto a pagamento comincia dalla barriera di Venezia Nord, dopo lo svincolo di Casale sul Sile, e arriva fino alla barriera di Belluno.
+
+==Storia e descrizione==
+[[File:Autostrada A27 nei pressi di Molgiano in direzione Belluno.JPG|thumb|left|L'A27 nei pressi dello svincolo di Mogliano Veneto in direzione Treviso-Belluno]]
+[[File:Ponti A, autostrada Venezia-Belluno.jpg|thumb|left|I viadotti in [[val Lapisina]].]]
+La prima tratta dell'autostrada, da [[Mestre]] a [[Conegliano]], venne aperta al traffico il 29 settembre [[1972]];<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XIV |numero = 8 |editore = |città = Roma |anno = 1972 |mese = agosto |p = 57 |ISSN = 0005-1756 }}</ref> il successivo 1º dicembre si aprirono altri {{M|11.1|ul=km}}, da Conegliano a [[Vittorio Veneto]],<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XV |numero = 2 |editore = |città = Roma |anno = 1973 |mese = febbraio |p = 94 |ISSN = 0005-1756 }}</ref> e il 16 marzo dell'[[1973|anno successivo]] il breve tratto terminale da Vittorio Veneto alla [[Strada statale 51 di Alemagna|SS 51]].<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XV |numero = 5 |editore = |città = Roma |anno = 1973 |mese = maggio |p = 58 |ISSN = 0005-1756 }}</ref>
+
+L'autostrada tocca i principali centri della [[Marca Trevigiana]] ([[Mogliano Veneto]], [[Treviso]] stessa, [[Conegliano]] e [[Vittorio Veneto]]), collegandoli rapidamente all'A4 e offrendo una più comoda alternativa alla [[Strada statale 51 di Alemagna|SS 51]] per chi vuole raggiungere le località turistiche delle [[Dolomiti]]. Dal [[1995]] è stato aperto il prolungamento che da Vittorio Veneto Nord raggiunge Pian di Vedoia ([[Ponte nelle Alpi]]). Il tratto iniziale tra l'ingresso di Pian di Vedoia e la barriera di Belluno è libero, rappresentando una breve alternativa alla trafficata viabilità locale.
+
+Con quest'ultimo tratto dopo l'uscita di ''Vittorio Veneto Nord'', l'autostrada abbandona la Pianura Padano Veneta e si addentra tra le Prealpi scavalcando con alcuni arditi [[viadotto|viadotti]] la [[val Lapisina]], superando con due [[galleria (ingegneria)|gallerie]] la [[sella di Fadalto]] e la zona del [[Lago di Santa Croce]] e terminando quindi a Pian di Vedoia, località di [[Ponte nelle Alpi]]. Da Mestre a [[Conegliano]] è a tre [[corsia di marcia|corsie]], oltre alla [[corsia di emergenza]]; è stata la prima autostrada in Italia a essere costruita originariamente a tre corsie.
+
+Tra lo svincolo di ''Vittorio Veneto Sud'' e la galleria ''Monte Baldo'' si trova un altro breve tratto a tre [[corsia di marcia|corsie]] realizzato per snellire il traffico in corrispondenza di una pendenza piuttosto accentuata. Tra gli svincoli "Vittorio Veneto Nord" e "Belluno" le due carreggiate si discostano l'una dall'altra: la carreggiata nord è stata ottenuta riutilizzando alcune gallerie e ponti originariamente realizzati come variante alla strada statale 51, mentre la carreggiata sud fu progettata appositamente per l'autostrada. La galleria "Le Cave Ovest" dovette essere riprogettata in corso d'opera perché attaccava l'instabile versante della montagna troppo in superficie: è visibile l'abbandonato portale sud.
+
+Lungo l'itinerario sono presenti quattro [[area di servizio|aree di servizio]]: Piave Est e Piave Ovest (a servizio delle due carreggiate, ora sostituite dalle aree Sile, posizionate più a sud), Cervada Est (solo per la carreggiata nord) e Ponte nelle Alpi Ovest (solo per la carreggiata sud, anche se fu costruito un apposito svincolo con un ponte pedonale per renderla accessibile anche dall'altra carreggiata). Il percorso è molto panoramico e le corsie di marcia ampie rendono il tracciato più sicuro e comodo.
+
+La gestione di questo tratto autostradale è di competenza di ''[[Autostrade per l'Italia]]''.
+
+Il tratto terminale (la diramazione per l'[[Aeroporto di Venezia-Tessera|aeroporto Marco Polo]]) in direzione Mestre, inaugurato nel [[1991]], dell'A27 è classificato come [[Autostrada A57 (Italia)#Diramazione aeroporto|A57-Diramazione aeroporto]] dall'8 febbraio [[2009]], data dell'apertura del ''[[Passante di Mestre]]''. Questo tratto non è stato comunque mai classificato come A27<ref>{{Cita web|url=http://www.aiscat.it/pubblicazioni/downloads/Gennaio.pdf|titolo=|urlmorto=sì}}</ref>.
+
+Nel dicembre [[2012]] è stata aperta una nuova uscita per [[Mogliano Veneto]] (più vicina al centro abitato rispetto a quella precedente, che però rimane attiva da/per Venezia e per Belluno e ha assunto la nuova denominazione di [[Casale sul Sile]])<ref>{{cita web|url=http://tribunatreviso.gelocal.it/cronaca/2012/12/08/news/aperta-la-bretella-per-l-a27-un-opera-da-11-milioni-di-euro-1.6167383|titolo=L'articolo de La Tribuna di Treviso|accesso=8 dicembre 2012|urlmorto=sì}}</ref>.
+
+Dato che il lungo viadotto traversante la Val Lapisina non è dotato di un sistema di raccolta delle acque reflue, le autocisterne trasportanti prodotti suscettibili di contaminare le acque sono costrette a uscire allo svincolo [[Vittorio Veneto]] Nord, percorrere la [[strada statale 51 di Alemagna]] e rientrare in autostrada a [[Ponte nelle Alpi|Cadola]]; nel senso contrario devono uscire da [[Belluno]] e rientrare dallo svincolo Vittorio Veneto Nord.
+
+==Prolungamento verso l'Austria==
+
+Il progetto originario ideato nel 1960 e presentato nel 1966 prevedeva il collegamento da [[Mestre]], attraverso Conegliano, Vittorio Veneto, Ponte nelle Alpi, passando per Tai di Cadore, [[Auronzo di Cadore]], il [[Passo di Monte Croce di Comelico|Passo Monte Croce]], [[Dobbiaco]], [[Brunico]] e Tures e San Giovanni in [[Valle Aurina]] attraverso un traforo <ref>{{cita testo|url=https://nordesteconomia.gelocal.it/infrastrutture/2020/10/22/news/grandi-incompiute-il-sogno-d-asfalto-dell-autostrada-venezia-monaco-1.39447160}}</ref><ref>{{cita testo|url=https://ricerca.gelocal.it/corrierealpi/archivio/corrierealpi/2011/02/02/BR1PO_BR102.html}}</ref> e la Zillertal o la Brixental alle autostrade austriache per [[Kufstein]] e poi a quelle tedesche in modo da raggiungere [[Monaco di Baviera]] (da cui la denominazione ''autostrada d'Alemagna'')<ref>{{cita web|url=http://www.senato.it/service/PDF/PDFServer/BGT/00008275.pdf|titolo=Disegno di legge N. 250|accesso=9 ottobre 2008}}</ref>. Ipotesi alternative prevedevano il passaggio da Dobbiaco per il Tirolo Orientale o il collegamento da Brunico a Fortezza con l'immissione sulla A22 verso il Brennero.
+Tale progetto è stato abbandonato dapprima per la legge del 1975 che sanciva il blocco della costruzione di nuove autostrade e successivamente per l'opposizione delle autorità altoatesine e ampezzane e del Tirolo austriaco in quanto ritenuto generatore di incremento di traffico su gomma nel contesto alpino. 
+
+Dal [[2010]] è stata fortemente rilanciata sia dalla giunta regionale veneta che dalle controparti bavaresi l'idea dell'autostrada [[Venezia]]-[[Monaco di Baviera|Monaco]], nonostante la perdurante opposizione della giunta provinciale di Bolzano e del land austriaco del [[Tirolo (Austria)|Tirolo]]<ref>{{cita testo|url=http://corrieredelveneto.corriere.it/veneto/notizie/politica/2010/28-giugno-2010/zaia-completiamo-venezia-monaco-reolon-promessa-vecchia-40-anni-1703284410084.shtml|titolo=Zaia rilancia la Venezia-Monaco}}</ref><ref>{{collegamento interrotto|1={{cita testo|url=http://www.padovanews.it/notizie-locali-veneto/economia/79007-veneto-intesa-tra-ance-e-ministero-trasporti-tedesco-su-opere-di-collegamento|titolo=Veneto: intesa tra ANCE e Ministero dei Trasporti tedesco sulle opere di collegamento}} |data=febbraio 2018 |bot=InternetArchiveBot }}</ref>; la giunta regionale veneta aveva dato inoltre parere favorevole al prolungamento dell'A27 fino a [[Pieve di Cadore]]<ref>{{cita testo|url=http://corrierealpi.gelocal.it/cronaca/2011/02/02/news/prolungamento-a27-nel-bellunese-via-libera-della-regione-veneto-3335810|titolo=Prolungamento A27 nel Bellunese: via libera della Regione Veneto|urlmorto=sì}}</ref>, coi seguenti svincoli: [[Pian di Vedoia]], [[Longarone]] e [[Perarolo di Cadore|Pian de l'Abate]].
+Nel 2016 una votazione del [[Parlamento europeo]] ha, unitamente alla sottoscrizione e alla ratifica da parte di Italia e Austria della [[Convenzione delle Alpi]], il cui protocollo trasporti vieta la realizzazione di nuovi attraversamenti delle Alpi, ha di fatto, bloccato ogni possibile estensione verso l'Alto Adige e il territorio austriaco<ref>{{Cita news|lingua=it|url=http://corrierealpi.gelocal.it/belluno/cronaca/2016/10/26/news/il-parlamento-europeo-boccia-la-a27-1.14307870|titolo=L'Europa cancella il prolungamento dell'A27  - Cronaca - Corriere delle Alpi|pubblicazione=Corriere delle Alpi|data=26 ottobre 2016|accesso=15 luglio 2017|urlarchivio=https://web.archive.org/web/20170908065624/http://corrierealpi.gelocal.it/belluno/cronaca/2016/10/26/news/il-parlamento-europeo-boccia-la-a27-1.14307870|urlmorto=sì}}</ref>.
+Dal 2011 al 2020 si valuta quindi da parte veneta e di alcuni movimenti austriaci la possibilità di deviare il prolungamento dell'asse stradale (non necessariamente un'autostrada) in solo territorio italiano attraverso il [[Cadore]], la [[Passo della Mauria|Mauria]] e [[Tolmezzo]], verso l'[[autostrada A23 (Italia)|autostrada A23]] ma nessun progetto è ancora elaborato al riguardo. Per il passaggio internazionale delle merci tra Italia e Germania si punta invece ormai al nuovo [[Galleria di base del Brennero|Tunnel ferroviario di base del Brennero]] tra Fortezza e Innsbruck.
+
+===Date di apertura===
+*Il 29 giugno [[1972]] venne aperto il primo tratto, da [[Mestre]] fino a [[Conegliano]].	
+*Il 2 dicembre [[1972]] venne aperto il tratto da [[Conegliano]] a [[Vittorio Veneto]].
+*Il prolungamento da Vittorio Veneto a [[Pian di Vedoia]] venne aperto il 30 novembre [[1994]] in due tronchi: il primo tronco iniziava a Pian di Vedoia e finiva allo svincolo di [[Cadola]]. Dopo tale svincolo si proseguiva l'itinerario presso la [[strada statale 51 di Alemagna]] e, appena raggiunto, si rientrava in autostrada tramite lo svincolo, originariamente provvisorio, del [[Lago di Santa Croce]].	
+*Il 28 giugno [[1995]] venne aperto il tratto da Cadola al Lago di Santa Croce.
+ 	
+Lo svincolo del Lago di Santa Croce è unidirezionale perché era uno svincolo provvisorio; questo svincolo avrebbe dovuto essere chiuso quando venne aperto il tratto da Cadola al Lago di Santa Croce. È rimasto aperto per via delle attività economiche del Lago di Santa Croce.
+
+== Obblighi ==
+Sono obbligatorie le dotazioni invernali dal 15 novembre al 15 aprile sull'intera tratta.<ref>{{Cita web|url=https://www.autostrade.it/it/|titolo=Prima di partire|sito=Autostrade per l'Italia|lingua=it-IT|accesso=2024-07-12}}</ref>
+
+==Tabella percorso==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''{{simbolo|Autostrada A27 Italia.svg|30}} VENEZIA - BELLUNO'''<br />Autostrada d'Alemagna
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''
+|-
+| {{simbolo|AB-grün.svg|17}} || {{simbolo|Autostrada AMP Italia.svg|23}} [[Autostrada A57 (Italia)#Diramazione Marco Polo|Raccordo Marco Polo]] || 0,0 || 82,5 ||
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}} || {{simbolo|Italian traffic signs - strada europea 55.svg|27}} {{simbolo|Autostrada A57 Italia.svg|23}} [[Autostrada A57 (Italia)|Tangenziale di Mestre]]<br /><small> {{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Venezia-Tessera|Venezia-Tessera]]</small>
+|align="right"|0,0 ||align="right"|82,5  ||rowspan=1 align="center"|[[Città metropolitana di Venezia|VE]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Mogliano Veneto]]|| align="right"| 4,0 ||align="right"| 78,5 || rowspan="13" align="center" |[[Provincia di Treviso|TV]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Casale sul Sile]] <ref>Uscita solo per la carreggiata verso [[Belluno]], entrata per ambo le tratte</ref>|| align="right"| 4,8 ||align="right"| 77,3
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Venezia]] Nord || align="right" |5 ||align="right"| 77,5
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Milano – Trieste]] || align="right"| 6,4 ||align="right"| 76,1
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] ||Area di servizio "Sile"<ref>Aperta in direzione Venezia dall'8/11/2020, aperta in direzione Belluno dal 21/12/2020</ref>|| align="right" |8 || align="right"|74,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Treviso]] Sud <br /> {{simbolo|Strada Statale 53 Italia.svg|40}} [[Tangenziale di Treviso]] <br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Treviso-Sant'Angelo|Treviso-Sant'Angelo]] || align="right" | 13,4||align="right"| 70,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Treviso]] Nord|| align="right" | 22,6||align="right"| 61,4
+|-
+| [[File:AB-Kreuz-grün.svg]]||{{Simbolo|Superstrada Pedemontana Veneta SPV.svg|23}} [[Pedemontana Veneta]] <br /> || align="right" | 26,0 || align="right" | 58,0
+|-
+| [[File:AB-AS-grün.svg]] [[File:AB-Kreuz-grün.svg]]|| [[Conegliano]]<br /><small>{{simbolo|Autostrada A28 Italia.svg|23}} [[Autostrada A28 (Italia)|Portogruaro - Pordenone - Conegliano]]</small>|| align="right"| 41,2||align="right"| 42,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Cervada" <ref>solo direzione Belluno</ref>|| align="right"|50,0||align="right"| 34,0
+|-
+| [[File:AB-AS-grün.svg]] ||[[Vittorio Veneto]] Sud|| align="right" | 52,3|| align="right" | 31,7
+|-
+| [[File:AB-AS-grün.svg]] ||[[Vittorio Veneto]] Nord|| align="right" | 58,9|| align="right" |25,1
+|-
+| [[File:AB-AS-grün.svg]] ||[[Sella di Fadalto|Fadalto]] – {{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Lago di Santa Croce]] <ref>Accessibile solo in uscita in direzione [[Belluno]] ed in entrata in direzione [[Venezia]]</ref>|| align="right"| 66,9||align="right"| 17,1
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera [[Belluno]]   || align="right"| 75,2||align="right"| 8,8  ||rowspan=5 align="center"|[[provincia di Belluno|BL]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Belluno]]|| align="right"| 77,2||align="right"|6,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di Servizio "Ponte nelle Alpi" <ref>Solo direzione Venezia</ref>||align="right"| 82,0||align="right"| 2,0
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area Parcheggio "Ponte nelle Alpi" <ref>solo direzione Cadore - Dolomiti</ref>||align="right"| 82,0||align="right"| 2,0
+|-
+| {{simbolo|AB-ende-grün.svg|17}}||[[Pian di Vedoia]]<br /><small>[[Cadore]] – [[Dolomiti]]<br />{{simbolo|Strada_Statale_51_Italia.svg|40}} ''[[Strada statale 51 di Alemagna|di Alemagna]]'' [[Cortina d'Ampezzo]]</small> || align="right"| 82,5||align="right"|0,0
+|}
+
+===Gallerie===
+L'autostrada presenta diverse gallerie:
+{| class="wikitable"  width=100%
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="9" | '''Autostrada A27 - Lista delle gallerie presenti sul tracciato'''
+|- align="center" bgcolor="C0C0C0" style="color: white"
+| '''Denominazione'''
+| '''Anno di inaugurazione'''
+| '''Lunghezza canna nord'''
+| '''Lunghezza canna sud'''
+| '''Imbocco canna nord (km)'''
+----
+'''Sbocco canna sud (km)'''
+| '''Imbocco canna sud (km)'''
+----
+'''Sbocco canna nord (km)'''
+| '''Note'''
+|- align="center"
+| '''Monte Baldo'''
+| [[1972]]
+| 1864 metri
+| 1865 metri
+| 55,9
+| 57,8
+|
+|- align="center"
+| '''San Floriano'''
+| [[1995]]
+| 207 metri
+| 207 metri
+| 62,5
+| 62,7
+|
+|- align="center"
+| '''Fadalto Est'''
+| [[1995]]
+| 1016 metri
+| <small>Solo carreggiata nord</small>
+| 67,6
+| 68,6
+|
+|- align="center"
+| '''Fadalto Ovest'''
+| [[1995]]
+| <small>Solo carreggiata sud</small>
+| 2055 metri
+| 67,9
+| 70,0
+|
+|- align="center"
+| '''Santa Croce Est'''
+| [[1995]]
+| 339 metri
+| <small>Solo carreggiata nord</small>
+| 68,4
+| 68,7
+|
+|- align="center"
+| '''Le Cave Est - Ovest'''
+| [[1995]]
+| 3153 metri
+| 3790 metri
+| 71,3
+| 75,1
+|
+|- align="center"
+| '''Paraschegge'''
+| [[1995]]
+| 600 metri
+| 600 metri
+| 76,5
+| 77,1
+|
+|-
+|}
+{| class="wikitable"  width=100%
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%; width=100%"
+| colspan="9" | '''Autostrada A27 - Lista delle gallerie presenti sugli svincoli'''
+|- align="center" bgcolor="C0C0C0" style="color: white"
+|'''Denominazione'''
+|'''Svincolo'''
+|'''Posizione nello svincolo'''
+|'''Anno di inaugurazione'''
+|'''Lunghezza'''
+|'''Note'''
+|- align="center"
+|'''''Senza denominazione'''''
+|[[Sella di Fadalto|Fadalto]]-[[Lago di Santa Croce]]
+|In uscita dalla carreggiata nord
+|[[1994]]
+|100 metri
+|<small>Il tunnel è privo della segnaletica di inizio galleria, perciò la lunghezza è tratta dal sito {{cita testo|url=http://www.lotsberg.net/data/italia/A27.html|titolo=www.lotsberg.net}}</small>
+|- align="center"
+|'''Svincolo Belluno'''
+|[[Belluno]]
+|In uscita dalla carreggiata sud
+|[[1994]]
+|100 metri
+|<small>Il tunnel è privo della segnaletica di inizio galleria, perciò la denominazione e lunghezza sono tratte dal sito {{cita testo|url=http://www.lotsberg.net/data/italia/A27.html|titolo=www.lotsberg.net}}</small>
+|- align="center"
+|'''Svincolo Belluno'''
+|[[Belluno]]
+|In entrata verso la carreggiata sud
+|[[1995]]
+|300 metri
+|<small>Il tunnel è privo della segnaletica di inizio galleria, perciò la denominazione e lunghezza sono tratte dal sito {{cita testo|url=http://www.lotsberg.net/data/italia/A27.html|titolo=www.lotsberg.net}}</small>
+|}
+
+La galleria San Floriano fino al [[2001]] era priva di illuminazione, data la breve lunghezza e dal momento che è completamente rettilinea. Le gallerie Fadalto Est/Ovest, Santa Croce Est e Le Cave Est/Ovest inizialmente avevano due file di lampade, ma nel [[2006]] la fila di destra è stata eliminata dal momento che nelle gallerie autostradali è obbligatoria una sola fila in quanto a senso unico a differenza delle gallerie su strade a doppio senso. Qualche anno dopo, la stessa sorte è anche accaduta alla galleria Monte Baldo.
+
+==Galleria d'immagini==
+<div align="center">
+<gallery>
+Castello Roganzuolo - Autostrada A27 + Area residenziale via XV aprile - Moranda.jpg|[[Castello Roganzuolo]]
+A27-3.jpg|Piloni in [[Val Lapisina]]
+A27-2.jpg|[[Lago del Restello]]
+Autostrada A27.jpg|[[Ponte nelle Alpi]]
+</gallery>
+</div>
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada di Alemagna |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno L |numero = 8-9 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1970 |mese = agosto-settembre |pp = 557-568 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1562#page/782/mode/2up }}
+
+==Altri progetti==
+{{Interprogetto}}
+
+==Collegamenti esterni==
+*{{cita web|url=http://www.autostrade.it|titolo=Autostrade per l'Italia}}
+*{{cita testo|url=http://www.peraltrestrade.it|titolo=Sito di Per Altre Strade Dolomiti}} comitato contrario al prolungamento della A27
+*{{cita web|url=http://www.lotsberg.net/data/italia/A27.html|titolo=Gallerie e viadotti della A27}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti|Veneto}}
+
+[[Categoria:Autostrade in Italia|A27]]

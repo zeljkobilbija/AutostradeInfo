@@ -1,0 +1,172 @@
+{{Strada
+|nome = Autostrada A33
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Asti-Cuneo
+|simbolo = Autostrada A33 Asti - Cuneo - Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}
+|divisione amm 2 ={{IT-AT}}<br />{{IT-CN}} 
+|inizio = [[Cuneo]]
+|fine = [[Asti]]
+|lunghezza = 67
+|direzione = 
+|apertura = [[2005]]<ref name=autogenerato3>{{Cita web |url=http://www.sicurauto.it/news/autostrada-asti-cuneo-inaugurati-altri-14-chilometri.html |titolo=Copia archiviata |accesso=25 maggio 2015 |urlarchivio=https://web.archive.org/web/20150525141918/http://www.sicurauto.it/news/autostrada-asti-cuneo-inaugurati-altri-14-chilometri.html |urlmorto=sì }}</ref> (primo tratto)
+|provvedimento istituzione = 
+|gestore = [[Autostrada Asti-Cuneo]]
+|pedaggio = [[pedaggio|sistema chiuso e aperto]]
+|città servite = [[Alba (comune italiano)|Alba]]
+|intersezioni = [[Autostrada A6 (Italia)|A6]], [[Autostrada A21 (Italia)|A21]]
+|europea1 = 74
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A33.svg
+|tracciato = Mappa A33.svg
+}}
+
+L{{'}}'''autostrada A33''', conosciuta anche come '''Asti-Cuneo''', è un'[[autostrada]] italiana che collega [[Asti]] a [[Cuneo]]. L'arteria è divisa in due tronchi per un totale di circa {{m|70|u=km}}<ref name="autogenerato2">{{Cita web|url=https://www.asticuneo.it/piano-completamento-autostradale/|titolo=Piano Completamento autostradale|data=30 aprile 2026|accesso=25 agosto 2026}}</ref>, collegati tra loro da un tratto dell'[[autostrada A6 (Italia)|autostrada A6]]. L'A33 è parte della [[strada europea E74]]<ref>{{Cita pubblicazione|autore=Working Party on Road Transport|data=5 aprile 2002|titolo=European Agreement on Main International Traffic Arteries (AGR)|p=16|lingua=inglese|accesso=25 agosto 2026|url=https://unece.org/fileadmin/DAM/trans/doc/2002/sc1agr/TRANS-SC1-AC5-2002-03e.pdf}}</ref> ed è gestita dalla società per azioni [[Autostrada Asti-Cuneo]]<ref>{{cita web|url=https://www.asticuneo.it/profilo/|titolo= Profilo|accesso=25 agosto 2026|data=13 ottobre 2025}}</ref>.
+
+== Storia ==
+3 agosto 1998: l'autostrada è finanziata con legge n. 295.<ref>{{cita testo|url=http://www.provincia.cuneo.it/llpp/grandi_infrastrutture/autostrade.jsp|titolo=Lavori Pubblici | Provincia di Cuneo<!-- Titolo generato automaticamente -->|urlarchivio=https://web.archive.org/web/20100327145645/http://www.provincia.cuneo.it/llpp/grandi_infrastrutture/autostrade.jsp }}</ref>
+
+31 luglio 2000: il collegamento autostradale è finanziato con legge n. 295 del 3 agosto 1998 ed oggetto di Protocollo d'intesa Presidente Consiglio dei ministri/Presidente della Giunta Regione Piemonte. Successivamente i lavori sono iniziati.
+
+Nel luglio [[2005]] è stato aperto il primo tratto di 11&nbsp;km compreso tra [[Carrù]] (frazione [[Carrù|Massimini]]) (interconnessione con l'A6) e [[Sant'Albano Stura]].
+
+La società di progetto Autostrada Asti-Cuneo S.p.A. viene costituita il 23 marzo 2006 e ha per oggetto la progettazione, costruzione, manutenzione e gestione del collegamento autostradale A33. La società è concessionaria del Ministero delle Infrastrutture e dei Trasporti per effetto della Convenzione di Concessione approvata con Decreto Interministeriale del 21/11/2007.<ref>{{Cita web|url=https://www.asticuneo.it/la-storia/|titolo=La storia|sito=Autostrada Asti-Cuneo|lingua=it|accesso=21 gennaio 2024}}</ref>
+
+Il lotto tra Isola d'Asti e Motta di Costigliole (tratta A21/Asti-A6) viene posto sotto sequestro per irregolarità il 27 marzo 2007.<ref>{{cita web|url=http://www.ilgiornale.it/news/sequestrati-13-chilometri-asti-cuneo.html|titolo=Sequestrati 13 chilometri della Asti-Cuneo}}</ref> Successivamente il 6 aprile 2007 è stato dissequestrato dopo gli accertamenti irripetibili eseguiti dalla Guardia di Finanza e dalla Procura di Asti.<ref>{{Cita web|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/2007/04/07/dissequestrata-asti-cuneo-il-16-ci-sara.html|titolo=Dissequestrata l'Asti-Cuneo il 16 ci sarà l'inaugurazione - la Repubblica.it|sito=Archivio - la Repubblica.it|data=7 aprile 2007|lingua=it|accesso=21 gennaio 2024}}</ref>
+
+16 aprile [[2007]]: nel tratto tra Asti/A21 e l'A6 viene aperto al traffico il tratto tra Isola d'Asti e Motta di Costigliole, tra Motta di Costigliole e [[Govone]] e tra Govone, [[Neive]] e [[Guarene]] (svincolo Castagnito)<ref>{{Cita web |url=http://archivio.lastampa.it/articolo?id=44f5c65702d1eb92cd6a096251b9e84f3897d2c0 |titolo=Archivio - LASTAMPA.it<!-- Titolo generato automaticamente --> |accesso=25 maggio 2015 |urlarchivio=https://web.archive.org/web/20150525162331/http://archivio.lastampa.it/articolo?id=44f5c65702d1eb92cd6a096251b9e84f3897d2c0 |urlmorto=sì }}</ref><ref>{{Cita web |url=http://www.regione.piemonte.it/notizie/piemonteinforma/archivio/scenari/2007/aprile/asticuneo.htm |titolo=Sito Ufficiale della Regione Piemonte: Piemonte Informa<!-- Titolo generato automaticamente --> |accesso=25 maggio 2015 |urlarchivio=https://web.archive.org/web/20150525182042/http://www.regione.piemonte.it/notizie/piemonteinforma/archivio/scenari/2007/aprile/asticuneo.htm |urlmorto=sì }}</ref>; dal 7 agosto [[2008]] viene introdotto il pedaggio<ref>{{Cita web |url=http://www.trail.unioncamere.it/scheda_infrastruttura.asp?id=890 |titolo=TRAIL - Portale nazionale delle infrastrutture di trasporto e logistica del sistema camerale<!-- Titolo generato automaticamente --> |accesso=25 maggio 2015 |urlarchivio=https://web.archive.org/web/20150525162636/http://www.trail.unioncamere.it/scheda_infrastruttura.asp?id=890 |urlmorto=sì }}</ref> che si paga dalla barriera di Govone.<ref name=autogenerato3 />
+
+7 maggio [[2007]]: firmata in Regione Piemonte la convenzione tra l'Anas e la società concessionaria [[Autostrada Asti-Cuneo|Autostrada Asti-Cuneo S.p.A.]] per la realizzazione degli ultimi 8 lotti (da Alba a Cherasco e da Sant'Albano Stura a Cuneo) dell'infrastruttura viaria e per la gestione dell'intera tratta stradale.
+
+23 maggio [[2007]]: il Comitato Interministeriale per la Programmazione Economica (CIPE) ha dato il via libera alla convenzione per l'autostrada Asti-Cuneo gestita dalla Sias, società del gruppo Gavio. L'investimento complessivo per il collegamento autostradale (lungo 93 chilometri) è di circa 2 miliardi di euro, dei quali 1,6 miliardi per i lotti ancora da realizzare e circa 400 milioni per quelli in via di completamento, per i quali il 31 gennaio [[2008]] è intervenuta la registrazione presso la Corte dei Conti della convenzione per la concessionaria e l'11 febbraio [[2008]], a seguito della comunicazione da parte dell'ANAS dell'avvenuta registrazione del decreto approvativo da parte della Corte dei Conti, è divenuta efficace la convenzione per la costruzione e la gestione della tratta autostradale.
+
+18 giugno 2007: nel tratto Asti/A21 e l'A6 viene aperto al traffico il tratto tra l'A6 all'altezza di Bra-Marene e Cherasco.<ref>{{Cita web|url=https://www.adnkronos.com/Archivio/AdnAgenzia/2007/06/18/Economia/INFRASTRUTTURE-INAUGURATI-ULTIMI-DUE-LOTTI-ANAS-DELLASTI-CUNEO_133041.php|titolo=INFRASTRUTTURE: INAUGURATI ULTIMI DUE LOTTI ANAS DELL'ASTI-CUNEO|autore=Adnkronos|sito=Adnkronos|data=18 giugno 2007|accesso=21 gennaio 2024}}</ref>
+
+21 febbraio [[2008]]: il Comitato Interministeriale per la Programmazione Economica (CIPE) ha approvato il progetto preliminare per il primo lotto funzionale della Tangenziale di Cuneo, di 7,5&nbsp;km, dal costo di 118,49 milioni di euro, di collegamento tra la città ed il costruendo tratto di autostrada Asti-Cuneo tra Massimini (Cuneo) e l'A6 Torino-Savona.
+
+31 marzo 2008: i lotti già realizzati dall'Anas (39,505&nbsp;km) sono consegnati alla società di progetto ''Autostrada Asti – Cuneo S.p.A''.<ref name=autogenerato1>{{cita testo|url=http://www.stradeanas.it/index.php?/content/index/arg/asti_cuneo/page/3|titolo=Anas S.p.A. - Asti - Cuneo<!-- Titolo generato automaticamente -->}}</ref>
+
+20 febbraio [[2012]]: viene inaugurato il tratto Sant'Albano Stura-Castelletto Stura (barriera a pagamento) e la tangenziale di Cuneo (gratuita) con due uscite: Cuneo Est (nei pressi della frazione Bombonina) e Cuneo Centro (nei pressi della frazione Ronchi). Grazie a questo nuovo allacciamento, [[Cuneo]] viene collegata alla rete autostradale italiana.<ref>{{Cita web|url=https://www.ansa.it/web/notizie/regioni/piemonte/2012/02/20/visualizza_new.html_101575153.html|titolo=Cuneo collegata alla rete autostradale, aperti 14 km A33 - Piemonte - ANSA.it|accesso=21 gennaio 2024}}</ref>
+
+23 luglio 2012: nel tratto Asti/A21-A6 viene aperta la tratta da Isola d'Asti a Rocca Schiavino (svincolo per la SP456 del Turchino) realizzata dalla concessionaria Autostrada Asti Cuneo S.p.a.<ref name=autogenerato1 />
+
+3 aprile 2023: nell'ottica del completamento del tratto compreso tra Cherasco e Alba viene aperto al traffico, seppur in modalità provvisoria, un ulteriore tratto di 3&nbsp;km compreso tra la tangenziale di Alba e il comune di Roddi (svincolo Alba ovest). Dal nuovo svincolo è altresì possibile raggiungere l'ospedale di Verduno. Importante opera d'arte del nuovo tratto è il viadotto "Talloria", che attraversa l'omonima area.<ref>{{Cita web|url=https://www.mit.gov.it/comunicazione/news/autostrada-a33-il-ministro-salvini-inaugura-il-penultimo-lotto|titolo=Autostrada A33, il ministro Salvini inaugura il penultimo lotto|editore=Ministero delle Infrastrutture e dei Trasporti|data=3 aprile 2023|accesso=24 aprile 2023}}</ref>
+
+=== Il completamento del tratto autostradale ===
+Dopo una serie di slittamenti e rinvii durati oltre trent'anni, l'iter di completamento dell'infrastruttura si è concluso tra la fine del 2025 e la primavera del 2026 con la realizzazione del Lotto 2.6 (sub-lotto 2.6a), relativo alla tratta mancante compresa tra [[Cherasco]] e lo svincolo di Alba Ovest (situato nel comune di [[Roddi]])<ref>{{Cita web |url=https://www.regione.piemonte.it/web/pinforma/notizie/lasti-cuneo-aperta-al-traffico-quattro-corsie |titolo=L'Asti-Cuneo aperta al traffico a quattro corsie |sito=regione.piemonte.it |data=20 aprile 2026 |accesso=5 giugno 2026}}</ref>. 
+
+L'apertura della tratta conclusiva è avvenuta in due fasi temporali distinte:
+* '''29 dicembre 2025''': attivazione del completamento funzionale dell'intero asse stradale, con l'apertura provvisoria della tratta a carreggiata unica in modalità cantiere per consentire la continuità del flusso di traffico<ref>{{Cita web |url=https://www.gazzettadalba.it/2026/04/cirio-il-20-aprile-lasti-cuneo-sara-interamente-fruibile/ |titolo=Cirio: «Il 20 aprile l'Asti-Cuneo sarà interamente fruibile» |sito=gazzettadalba.it |data=9 aprile 2026 |accesso=5 giugno 2026}}</ref>. Con questa inaugurazione l'autostrada viene dichiarata completata, seppure nel tratto Albese sfrutta i tratti a doppia carreggiata della Tangenziale di Alba, di cui è previsto l'adeguamento agli standard autostradali.<ref name=":0">{{Cita web|url=https://www.lastampa.it/cuneo/2025/12/29/news/asti_cuneo-15449423/|titolo=Cirio inaugura l’autostrada Asti-Cuneo: “Un giorno storico” - La Stampa}}</ref><ref name=":1">{{Cita web|url=https://www.asticuneo.it/piano-completamento-autostradale/|titolo=Piano completamento sul sito del gestore Asticuneo.it}}</ref>;
+* '''20 aprile 2026''': inaugurazione ufficiale alla presenza delle autorità ministeriali e regionali e contestuale apertura della seconda carreggiata. Da tale data l'intero tracciato di circa 90 km è diventato interamente operativo nella sua configurazione definitiva a quattro corsie (due per senso di marcia)<ref>{{Cita web |url=https://mit.gov.it |titolo=Piemonte, il Ministro Salvini partecipa all'apertura dell'A33 Asti – Cuneo |sito=mit.gov.it |data=20 aprile 2026 |accesso=5 giugno 2026}}</ref><ref>{{Cita web|lingua=it-IT|url=https://www.stradeeautostrade.it/notizie/2026/autostrada-asti-cuneo-apertura-completa-aprile-2026/|titolo=Completamento A33 Asti-Cuneo: apertura totale il 20 aprile 2026|sito=Strade & Autostrade Online|data=2026-04-20|accesso=2026-07-27}}</ref><ref>{{Cita web|lingua=it-IT|autore=Redazione Ideawebtv.it|url=https://www.ideawebtv.it/2026/04/20/lassociazione-commercianti-albesi-sul-completamento-della33-asti-cuneo-ora-piu-opportunita-e-sicurezza-per-il-territorio/|titolo=L'Associazione Commercianti Albesi sul completamento dell'A33 Asti-Cuneo: "Ora più opportunità e sicurezza per il territorio"|sito=www.ideawebtv.it - Quotidiano on line della provincia di Cuneo|data=2026-04-20|accesso=2026-07-27}}</ref>.
+
+Il 4 maggio 2026 è stato infine attivato il sistema di esazione dinamica senza barriere ''Free Flow'' tramite i portali P-06 e P-07 sull'ultimo tratto aperto, completando i sistemi di pedaggio dell'intera autostrada e introducendo le relative esenzioni locali per il raggiungimento del presidio ospedaliero di [[Verduno]]. Tuttavia in alcuni tratti, specificatamente tra Asti e la Strada Statale 456 e nella Tangenziale di Alba la strada extraurbana non è stata ancora convertita ad autostrada.
+
+== Percorso ==
+L'autostrada prevede [[Viadotto|viadotti]], [[Ponte|ponti]], [[galleria (ingegneria)|gallerie]] per oltre 20&nbsp;km e 11 svincoli.<ref>{{cita testo|url=http://www.stradeanas.it/index.php?/content/index/arg/asti_cuneo/page/2|titolo=Anas S.p.A. - Asti - Cuneo<!-- Titolo generato automaticamente -->}}</ref>
+
+Il collegamento autostradale Asti-Cuneo, della lunghezza di {{m|90|ul=km}}, è diviso in due tronchi, tra di loro connessi da un tratto di circa {{m|20|ul=km}} della [[Autostrada A6 (Italia)|A6]].
+
+L'autostrada è composta da due [[Corsia di marcia|corsie]] regolari larghe 3,75 metri più [[corsia di emergenza]] per ogni senso di marcia.
+
+===Tabella percorso===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="7" | '''{{simbolo|Autostrada A33 Italia.svg|30}} Asti - Cuneo'''
+|-
+!Tipo!!Indicazione!!km<ref name=":2">{{Cita web|url=https://www.asticuneo.it/wp-content/uploads/2024/02/Tracciato-Autostrada-A33.pdf|titolo=Tracciato Autostrada A33 sul sito del gestore Asticuneo.it}}</ref>!!Provincia!!Strada europea!!Note!!Tronco
+|-
+|bgcolor="ffe4e1"| {{simbolo|Italian traffic signs - città.svg}}||bgcolor="ffe4e1"|[[Cuneo#Infrastrutture e trasporti|Tangenziale di Cuneo]]||bgcolor="ffe4e1"| -7,5|| rowspan="21" align="center" |[[Provincia di Cuneo|CN]]|| rowspan=6 align="center"| [[File:Italian traffic signs - strada europea 74.svg|50x50px]]
+| bgcolor="ffe4e1" |<small>In progettazione</small>||rowspan=6 align="center"| [[File:Autostrada A33 Italia.svg|50px]]
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|15}}|| [[Cuneo|Cuneo Centro]] ||align="right"| 0,0
+|-
+|[[File:AB-AS-grün.svg]]|| [[Cuneo|Cuneo Est]]||align="right"| 2,0
+|-
+|{{simbolo|Italian traffic signs - stazione.svg|17}}|| Barriera Castelletto Stura|| align="right"| 4,1
+|-
+|[[File:AB-AS-grün.svg]]|| [[Sant'Albano Stura|Sant'Albano]]||align="right"| 12,6
+|-
+|bgcolor="ffe4e1"| {{simbolo|AB-AS-grün geschlossen.svg}}{{simbolo|AB-Tank.svg|16}} ||bgcolor="ffe4e1"| ''Area di servizio "Magliano Alpi"''||bgcolor="ffe4e1"| ||bgcolor="ffe4e1"|<small>In progettazione</small>
+|-
+|[[File:AB-Kreuz-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 717.svg|27}} {{simbolo|Autostrada A6 Italia.svg|23}} [[Autostrada A6 (Italia)|Savona]] ||align="right"| 23,0 ||rowspan=4 align="center"|[[File:Italian traffic signs - strada europea 717.svg|50px|link=Strada europea E717]]
+[[File:Italian traffic signs - strada europea 74.svg|50x50px]]
+| rowspan="7" align="center" | ||rowspan=4 align="center"| [[File:Autostrada A6 Italia.svg|50px]]
+|-
+|[[File:AB-AS-grün.svg]]|| [[Fossano]]<br /><small>{{simbolo|Italian traffic signs - autostrada.svg|15}} Raccordo di Fossano</small>|| align="right"| 
+|-
+| {{simbolo|AB-Tank.svg|16}}|| Area di servizio "Rio Ghidone"||align="right"| 
+|-
+|[[File:AB-Kreuz-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 717.svg|27}} {{simbolo|Autostrada A6 Italia.svg|23}} [[Autostrada A6 (Italia)|Torino]]||align="right"| 23
+|-
+|{{simbolo|Italian traffic signs - stazione.svg|17}} || Barriera Marene ||align="right"| 23,1 || rowspan="18" align="center" | [[File:Italian traffic signs - strada europea 74.svg|50x50px]]|| rowspan="18" align="center" | [[File:Autostrada A33 Italia.svg|50px]]
+|-
+|[[File:AB-AS-grün.svg]]|| [[Bra]] - [[Marene]]||align="right"| 25,2
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio [[Cherasco]] ||align="right"| 28
+|-
+|[[File:AB-AS-grün.svg|16x16px]]|| | [[Cherasco]] || align="right" |  30 
+|-
+|[[File:AB-AS-grün.svg|16x16px]]|| [[Alba (comune italiano)|Alba]] Ovest || align="right" |  39 
+|-
+|bgcolor="ffe4e1" | {{simbolo|Italian traffic signs - strada extraurbana principale.svg|16}} ||bgcolor="ffe4e1" | {{simbolo|Strada Provinciale 3bis Italia.svg|35}} ''[[Alba (comune italiano)#Infrastrutture e trasporti|Tangenziale di Alba]]'' || align="right" bgcolor="ffe4e1" |  41,9  || bgcolor="ffe4e1" |<small>Ammodernamento in progettazione</small>
+|-
+|bgcolor="ffe4e1" | {{simbolo|Italian traffic signs - strada extraurbana principale.svg|16}}
+|bgcolor="ffe4e1" | {{simbolo|Strada Statale 231 Italia.svg|35}} ''[[Alba (comune italiano)#Infrastrutture e trasporti|Tangenziale di Alba]]''
+| align="right" bgcolor="ffe4e1" |47,2  || bgcolor="ffe4e1" |<small>Ammodernamento in progettazione</small>
+|-
+|[[File:AB-AS-grün.svg]]|| [[Castagnito]] || align="right" | 50
+|-
+| || Punto ''P4'' || align="right"| 53,9
+|-
+|[[File:AB-AS-grün.svg]]|| [[Govone]] ||align="right"| 54,0 ||<small>Solo in entrata verso Cuneo e in uscita verso Asti</small>
+|-
+| || Punto ''P3'' ||align="right"| ~55,0
+|-
+|[[File:AB-AS-grün.svg]]|| [[Costigliole d'Asti|Costigliole]] - [[Govone]] || align="right"| 56,0 || rowspan="7" align="center" |[[Provincia di Asti|AT]] ||
+|-
+| || Punto ''P2'' || align="right" | 61,7
+|-
+|[[File:AB-AS-grün.svg]] || [[Isola d'Asti]] ||align="right"| 64,7
+|-
+|{{simbolo|AB-AS-grün.svg|15}} || {{simbolo|Strada Statale 456 Italia.svg|35}} ''[[Strada statale 456 del Turchino|del Turchino]]'' || align="right"| 65,0
+|-
+|
+|Punto ''P1''
+| align="right" |67,5
+| align="center" |
+|-
+| bgcolor="ffe4e1" | {{simbolo|Italian traffic signs - strada extraurbana principale.svg|16}} || bgcolor="ffe4e1" | {{simbolo|Strada Statale 231 Italia.svg|35}} ''[[Strada statale 231 di Santa Vittoria|Tangenziale Sud-Est di Asti]]'' || align="right" bgcolor="ffe4e1" | 67,6  || bgcolor="ffe4e1" |<small>Ammodernamento in progettazione</small>
+|-
+|bgcolor="ffe4e1" | [[File:AB-Kreuz-blaugrün.svg]] || bgcolor="ffe4e1" |{{simbolo|Autostrada A21 Italia.svg|23}} [[Autostrada A21 (Italia)|Torino - Piacenza]] || bgcolor="ffe4e1"align="right" | 73,0 ||bgcolor="ffe4e1"|<small>Ammodernamento in progettazione</small>
+|}
+
+Nei tratti autostradali compresi tra [[Asti]] (Rocca Schiavino) e [[Castagnito]] (Alba est) e tra [[Alba (comune italiano)|Alba]] ovest e [[Roddi]] è entrato in funzione il 1° settembre 2024 il sistema ''free-flow'' (flusso libero) basato sulla tecnologia S*GATE.<ref>{{Cita web|lingua=it|autore=Tgr Piemonte|url=https://www.rainews.it/tgr/piemonte/articoli/2024/08/asti-cuneo-ariva-il-free-flow-pedaggio-autostrade--724cf073-2448-454f-99f7-02f94c924935.html|titolo=Asti Cuneo, arriva il free flow|sito=RaiNews|data=2024-08-31|accesso=2026-07-27}}</ref><ref>{{Cita web|url=https://www.gazzettadalba.it/2024/08/asti-cuneo-tutto-quello-che-ce-da-sapere-sul-free-flow/|titolo=Asti- Cuneo / Tutto quello che c’è da sapere sul free flow – Gazzetta d'Alba – Dal 1882 il settimanale di Alba, Langhe e Roero|sito=www.gazzettadalba.it|accesso=2026-07-27}}</ref><ref>{{Cita web|lingua=it|url=https://www.lastampa.it/cuneo/2024/09/01/news/addio_casello_sullasti-cuneo_debutta_il_nuovo_sistema_free_flow_ecco_come_funziona-14596430/|titolo=Addio casello, sull’Asti-Cuneo debutta il nuovo sistema Free Flow: ecco come funziona|sito=La Stampa|data=2024-08-31|accesso=2026-07-27}}</ref> Tuttavia non scatterà per il tratto che va da Asti o dalla [[strada statale 456 del Turchino]] ed esce a [[Isola d'Asti]] o viceversa.
+
+Il tratto tra la [[Alba (comune italiano)#Infrastrutture e trasporti|tangenziale di Alba]] e [[Marene]] è progettato per divenire anch'esso con pedaggio di tipo ''free-flow''<ref>{{Cita web|url=https://www.asticuneo.it/applicazione-sulla-tratta/|titolo=Applicazione sulla tratta}}</ref>, con i punti di pedaggio seguenti: il punto 6 all'altezza di [[Roddi]]-Alba Ovest (già oggi attivo); il punto 7 nel tratto Alba ovest-[[Cherasco]]; e il punto 8 dopo fra Cherasco e [[Bra]]-Marene. Uno speciale punto di pedaggio è sito in direzione dell'ospedale di [[Verduno]], tale da rendere gratuito l'uso dell'autostrada se si entra dall'uscita più prossima (Alba Ovest o Cherasco) e si esce per l'ospedale o viceversa.<ref>{{Cita web|lingua=it-IT|autore=Redazione Corriere|url=https://ilcorriere.net/lospedale-di-verduno-e-il-pedaggio-autostradale/|titolo=L’ospedale di Verduno e il pedaggio autostradale|sito=Il Corriere di Alba Bra|data=2023-11-18|accesso=2026-07-27}}</ref> Verrà soggetta a pedaggio ''free-flow'', secondo i progetti, anche la tangenziale di Alba che adesso è considerata parte della [[strada statale 231 di Santa Vittoria]] ma che diverrà parte dell'autostrada.
+
+Il tronco fra la tangenziale di Cuneo e la [[Autostrada A6 (Italia)|A6]] rimarrà invece soggetto a pedaggio tradizionale con barriera.
+
+==Note==
+<references />
+
+==Altri progetti==
+{{interprogetto}}
+
+==Collegamenti esterni==
+*{{cita web|url=http://www.asticuneo.it/|titolo=Sito ufficiale Autostrada Asti-Cuneo S.p.A}}
+*{{Cita web|url=https://www.ilpost.it/2021/03/26/autostrada-asti-cuneo-cantiere-incompiuta/|titolo=Si muove di nuovo qualcosa per l’autostrada tra Asti e Cuneo|sito=Il Post|data=26 marzo 2021|lingua=it|accesso=21 gennaio 2024}}
+*{{cita web|url=http://www.lotsberg.net/data/italia/A33.html|titolo=Gallerie e viadotti della A33}}
+*{{cita web|url=http://www.stradeeautostrade.it/online/articolo.php?id=0911002|titolo="Il collegamento autostradale tra Asti e Cuneo" - S&A online n° 9|urlmorto=sì}}
+*{{cita web|url=http://www.stradeeautostrade.it/online/news/notizia.php?id=1202141|titolo=L'autostrada Asti-Cuneo è pronta|urlmorto=sì}}
+
+{{Autostrade italiane}}
+{{Portale|Piemonte|trasporti}}
+
+[[Categoria:Autostrade in Italia|A33]]
+[[Categoria:Autostrade in Italia in progetto]]

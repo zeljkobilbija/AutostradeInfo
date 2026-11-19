@@ -1,0 +1,137 @@
+{{Strada
+|nome = Autostrada A60
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale di Varese
+|simbolo =Autostrada A60 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-VA}}
+|inizio = [[Gazzada Schianno]]
+|fine =Attuale [[Vedano Olona]]<br />Prevista [[Gaggiolo (Cantello)|Gaggiolo]] - confine di Stato con la {{CHE}}
+|lunghezza = 11,5<ref>{{cita testo|url=http://pedemontana.com/progetto_definitivo_varese1.php|titolo=Tangenziale Sud di Varese sul sito del gestore|urlarchivio=https://web.archive.org/web/20140911170542/http://www.pedemontana.com/progetto_definitivo_varese1.php }}</ref>
+|direzione = Nord
+|apertura = 24 gennaio 2015<ref>{{Cita web |url=http://www3.varesenews.it/varese/sabato-apre-la-tangenziale-di-varese-304544.html# |titolo=Sabato apre la tangenziale di Varese - VareseNews |accesso=20 gennaio 2015 |urlarchivio=https://web.archive.org/web/20150120124550/http://www3.varesenews.it/varese/sabato-apre-la-tangenziale-di-varese-304544.html# |urlmorto=sì }}</ref> 
+|provvedimento istituzione = 
+|gestore = [[Autostrada Pedemontana Lombarda]]
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|sistema aperto]], free flow
+|città servite = [[Gazzada Schianno]], [[Morazzone]], [[Lozza]], [[Vedano Olona]]
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A60.svg
+|tracciato = 
+}}
+
+L''''autostrada A60 Tangenziale di Varese''' è un'[[autostrada]] [[italia]]na, tangente all'area suburbana di [[Varese]] nella sua parte [[sud]]. È gestita da [[Autostrada A36 (Italia)|Autostrada Pedemontana Lombarda s.p.a]].<ref name=autogenerato1>{{Cita web |url=http://www.pedemontana.com/il-progetto/progetto-definitivo/tangenziale-varese.html |titolo=Tangenziale Varese - Autostrada Pedemontana Lombarda S.p.A |accesso=26 gennaio 2015 |urlarchivio=https://web.archive.org/web/20150130060413/http://www.pedemontana.com/il-progetto/progetto-definitivo/tangenziale-varese.html |urlmorto=sì }}</ref>
+
+Insieme alla [[Strada statale 712 Tangenziale Est di Varese|tangenziale Est di Varese]] e alla prevista <nowiki>''A60 Tangenziale di Varese tratta nord''</nowiki> formano il [[sistema tangenziale di Varese]].
+
+==Storia==
+{{Vedi anche|Autostrada A36 (Italia)#Storia}}
+L'A60 insieme alla [[Autostrada A36 (Italia)|A36]] e alla [[Autostrada A59|tangenziale di Como]] è parte integrante del progetto ''Autostrada Pedemontana Lombarda''<ref name="pedemontana.com">{{cita web|url=http://www.pedemontana.com/a_che_punto_siamo.php|titolo=A che punto siamo - Autostrada Pedemontana Lombarda|urlarchivio=https://web.archive.org/web/20100210205128/http://www.pedemontana.com/a_che_punto_siamo.php# }}</ref>. I lavori di costruzione comprendenti la galleria Morazzone di 2177 m sono iniziati a febbraio [[2010]]. L'A60 è stata inaugurata il 24 gennaio 2015 ed è formalmente aperta al traffico dal 25 gennaio 2015<ref>{{cita testo|url=http://www.laprovinciadivarese.it/stories/Cronaca/cinquantanni-per-arrivare-quibuon-viaggio-a60_1101293_11/|titolo=Cinquant’anni per arrivare qui Buon viaggio, A60 - Cronaca Varese}}</ref><ref>{{Cita web|url=http://www.pedemontana.com/Binary/Documenti/OrdinanzeComunicati/ORDINANZA_n1-2015.pdf|titolo=}}</ref>.
+
+==I costi==
+I costi complessivi di costruzione dell'A60, della prima tratta dell'A36 (A8-A9) e della tangenziale di Como sono pari a 930 milioni di €.<ref name="www3.varesenews.it">{{Cita web |url=http://www3.varesenews.it/lombardia/apre-al-traffico-l-a36-maroni-pedaggio-durante-expo-paga-la-regione-305032.html# |titolo=Apre al traffico l'A36, Maroni: "Pedaggio? Durante Expo paga la Regione" - VareseNews |accesso=27 gennaio 2015 |urlarchivio=https://web.archive.org/web/20150129013031/http://www3.varesenews.it/lombardia/apre-al-traffico-l-a36-maroni-pedaggio-durante-expo-paga-la-regione-305032.html# |urlmorto=sì }}</ref>
+
+==Le società coinvolte==
+La società Autostrada Pedemontana Lombarda S.p.A. (68% Milano Serravalle - Milano Tangenziali S.p.A., 20% Equiter S.p.A., 6% Banca Infrastrutture Innovazione Sviluppo S.p.A., 5% UBI Banca S.p.A., 1% Par. Cop. Soc. Cons. Ar. L.) ha per oggetto la promozione, lo studio, la progettazione, la costruzione e l'esercizio dell'autostrada<ref>{{Cita web |url=http://www.pedemontana.com/profilo.php |titolo=Profilo - Autostrada Pedemontana Lombarda |accesso=26 gennaio 2015 |urlarchivio=https://web.archive.org/web/20100211153830/http://www.pedemontana.com/profilo.php |urlmorto=sì }}</ref> mentre la società [[Concessioni Autostradali Lombarde|Concessioni Autostradali Lombarde S.p.A]] (50% ANAS, 50% Infrastrutture Lombarde al 100% della regione Lombardia) ha per oggetto il ''monitoraggio dell'iter approvativo della Convenzione Unica di Concessione, coordinamento e supporto alla società Pedemontana per la redazione degli atti di gara per l'individuazione del Contraente Generale (lotti CO1 e VA1) e per l'affidamento della progettazione definitiva (lotti A, B1, B2, C, D, CO2, VA2), attività tecniche connesse all'accordo di Programma promosso dalla Regione Lombardia, rilascio/diniego attestazioni di compatibilità tecnica di interventi urbanistici in fascia di salvaguardia''.<ref>{{cita testo|url=http://www.calspa.it/Default.aspx|titolo=Concessioni Autostradali Lombarde|urlarchivio=https://web.archive.org/web/20100526050003/http://www.calspa.it/Default.aspx }}</ref>
+
+==Pedaggio==
+[[File:Segnaletica Pedaggio free flow A59 Pedemontana Lombarda.jpg|miniatura|left|Segnaletica stradale per il [[telepedaggio|pedaggio free-flow]]]]
+
+L'A60 è soggetta a pedaggio in modalità elettronica [[Pedaggio#Sistema esclusivamente free-flow|free-flow]].
+
+Il pedaggio fino al 31 ottobre 2015<ref>{{Cita web|url=http://www.laprovinciadivarese.it/stories/Cronaca/pedemontana-e-arrivato-il-pedaggio-e-ce-subito-la-coda-per-non-pagarlo_1149271_11/|titolo=}}</ref> non è stato riscosso<ref name="www3.varesenews.it" /><ref>{{Cita web |url=http://www.pedemontana.com/in-viaggio/sistemi-di-pedaggio.html |titolo=Il nuovo sistema Free Flow - Autostrada Pedemontana Lombarda S.p.A |accesso=27 gennaio 2015 |urlarchivio=https://web.archive.org/web/20150526082332/http://www.pedemontana.com/in-viaggio/sistemi-di-pedaggio.html |urlmorto=sì }}</ref>.
+
+==Percorso==
+È compresa tra l'interconnessione con l'A8 nel comune di [[Gazzada Schianno]] e lo svincolo di [[Vedano Olona]], al confine con il comune di Varese. L'unico svincolo nel tratto autostradale della A60 è quello di Ponte di [[Vedano Olona|Vedano]]; quello di Gazzada-Morazzone seppur di competenza della società di gestione dell'A60 si trova nel tratto di raccordo con l'interconnessione A8 a viabilità ordinaria. Il percorso prosegue a est senza soluzione di continuità verso la [[Strada statale 712 Tangenziale Est di Varese|tangenziale Est]] gestita da [[ANAS]].
+
+I comuni attraversati dal tracciato sono tutti in [[provincia di Varese]]: [[Brunello (Italia)|Brunello]], [[Gazzada Schianno]], [[Buguggiate]], [[Morazzone]] e [[Lozza]].
+
+== Tabella percorso ==
+{| class="wikitable"
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A60 Italia.svg|30}}'''<br />''Tangenziale di Varese''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''Provincia'''
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg}}|| {{simbolo|Strada Provinciale 1 Italia.svg|35}} ''del Chiostro di Voltorre''<ref>La SP1 prosegue in direzione N come A60 Tangenziale Sud di Varese, senza soluzione di continuità</ref><br /><small>[[Gavirate]]<br />[[Laveno]]<br />[[Luino]]</small>|| align="center" rowspan="12"|[[Provincia di Varese|VA]]
+|-
+| [[File:AB-Kreuz-blaugrün.svg]]|| {{simbolo|Autostrada A8 Italia.svg}} ''[[Autostrada A8 (Italia)|dei Laghi]]'' ramo [[Milano]]-[[Varese]]<small><br />{{simbolo|Strada Statale 707 Italia.svg|35}} [[Strada statale 707 Raccordo Gazzada-Varese|Raccordo Gazzada-Varese]]</small>
+|-
+| {{simbolo|Autostrada A60 Italia.svg}}|| Inizio Competenza<br />[[Autostrada Pedemontana Lombarda]]
+|-
+| {{simbolo|AB-AZ-blau.svg}} ||[[Gazzada Schianno|Gazzada]]- [[Morazzone]]<ref>Monodirezionale: uscita dir. N e ingresso dir. S</ref><br /><small> {{simbolo|Strada Provinciale 57 Italia.svg|35}} ''[[Strada provinciale 57 de La Selvagna|de La Selvagna]]'': [[Gazzada]]<br />{{simbolo|Strada Provinciale 20 Italia.svg|35}} ''per la Pianura Padana'' [[Morazzone]]</small> 
+|-
+|{{simbolo|Italian traffic signs - variazione corsie disponibili (figura II 342).svg}}
+|Passaggio a due corsie
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg}}
+|Inizio tratto [[autostrada]]le
+|-
+|{{simbolo|Italian traffic signs - galleria.svg}}
+|Galleria [[Morazzone]] 2177 m
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Varco [[Pedaggio#Sistema esclusivamente free-flow|free flow]]<ref>{{Cita web |url=http://www3.varesenews.it/varese/strade-svincoli-e-caselli-ecco-come-sara-pedemontana-292898.html |titolo=Articolo di VareseNews |accesso=9 novembre 2014 |urlarchivio=https://web.archive.org/web/20141109174911/http://www3.varesenews.it/varese/strade-svincoli-e-caselli-ecco-come-sara-pedemontana-292898.html |urlmorto=sì }}</ref><ref>disattivato per tutto il 2015</ref> 
+|-
+|{{simbolo|Italian traffic signs - galleria.svg}}
+|Galleria artificiale 75 m
+|-
+|{{simbolo|Italian traffic signs - galleria.svg}}
+|Galleria artificiale [[Lozza]] 423 m
+|-
+| {{simbolo|AB-AS-grün.svg}} || [[Vedano Olona]]<ref>Solo uscita dir. N e entrata dir. S sono poste sulla A60 Tangenziale Sud di Varese; uscita dir. S e entrata dir. N sono poste sulla SS712 Tangenziale Est di Varese</ref><br /><small> {{simbolo|Strada Provinciale 233 Italia.svg|35}} [[Strada statale 233 Varesina|Varesina]]<br />{{simbolo|Strada Provinciale 3 Italia.svg|35}} ''della Elvetia'' [[Gurone|Gurone di Malnate]]<br />{{simbolo|Strada Provinciale 57 Italia.svg|35}} ''[[Strada provinciale 57 de La Selvagna|de La Selvagna]]'': [[Lozza]]<br />{{simbolo|Italian traffic signs - icona centro.svg|18}} [[Bizzozero|Varese Bizzozero]] - {{simbolo|Italian traffic signs - icona centro.svg|18}} [[Varese]]<br />{{simbolo|Italian traffic signs - ospedale.svg|18}} [[Ospedale di Circolo e Fondazione Macchi]]<br />{{simbolo|Italian traffic signs - icona università.svg|18}} [[Università degli Studi dell'Insubria]], campus Bizzozero </small> 
+|-
+| {{simbolo|Italian traffic signs - fine autostrada.svg}}<br />{{simbolo|Italian traffic signs - strada extraurbana principale.svg}}|| Fine competenza [[Autostrada Pedemontana Lombarda|APL]]
+{{simbolo|Strada Statale 712 Italia.svg|35}} ''[[Tangenziale Est di Varese]]''
+|}
+
+== Ampliamenti in progetto ==
+A completamento del [[sistema tangenziale di Varese]] è prevista la costruzione di una tratta a nord.
+
+Il progetto denominato lotto VA2 prevede la costruzione con caratteristiche autostradali di un raccordo senza soluzione di continuità dal fornice nord della galleria Valle sulla [[Strada statale 712 Tangenziale Est di Varese|tangenziale est ANAS]] per portarsi poi attraverso viadotti e tunnel sulla piana di Cantello dove riqualificando il tratto terminale della attuale SP3 terminerà nei pressi del confine di stato di Gaggiolo.
+
+Il percorso avrà uno sviluppo di circa {{m|6|ul=km}} e gli svincoli previsti saranno tre, uno alla [[Malnate|Folla di Malnate]], uno a [[Cantello]] e uno a [[Gaggiolo (Cantello)|Gaggiolo]] confine di stato oltre al possibile innesto senza soluzione di continuità in territorio elvetico sul prolungamento dell'attuale superstrada Mendrisio-Stabio Est qualora la Svizzera dovesse deciderne il completamento fino a Gaggiolo<ref name=autogenerato1 />.
+
+== Tabella percorso in progetto ==
+{| class="wikitable"
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A60 Italia.svg|30}}'''<br />''Tangenziale di Varese''<br />Tratta nord in progetto
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''Provincia'''
+|-
+|{{simbolo|Italian traffic signs - fine strada extraurbana principale.svg}}<br />{{simbolo|Italian traffic signs - autostrada.svg}}|| {{simbolo|Strada Statale 712 Italia.svg|35}} ''[[Tangenziale Est di Varese]]''||rowspan=6 align="center"|[[Provincia di Varese|VA]]
+|-
+| {{simbolo|AB-AS-grün geschlossen.svg}} ||[[Varese|Varese Est]]<ref>Ingresso direzione Sud e Uscita direzione Nord attualmente attivi su tratta competenza ANAS Tangenziale est di Varese SS712</ref><br /><small>{{simbolo|Strada Statale 712 Italia.svg|35}} ''[[Tangenziale Est di Varese|Tangenziale Nord-Est di Varese]]''<br />Ex{{simbolo|Strada Statale 342 Italia.svg|35}} ''[[Strada statale 342 Briantea|Briantea]]'':[[Como]]<br />{{simbolo|Italian traffic signs - icona centro.svg|18}}Varese</small>
+|-
+|{{simbolo|Italian traffic signs - galleria.svg}}
+|Galleria 
+|-
+|{{simbolo|Italian traffic signs - galleria.svg}}
+|Galleria 
+|-
+| {{simbolo|AB-AS-grün geschlossen.svg}} ||[[Cantello]]<br /><small> {{simbolo|Strada Provinciale 3 Italia.svg|35}} ''della Elvetia''</small> 
+|-
+| {{simbolo|AB-AS-grün geschlossen.svg}} ||[[Gaggiolo (Cantello)|Gaggiolo]]-Confine di Stato (CH)<br /><small> {{simbolo|Strada Provinciale 3 Italia.svg|35}} ''della Elvetia'': [[Clivio]]<br />Dogana Turistica di Gaggiolo<br />Dogana Commerciale di Gaggiolo</small>
+|}
+
+== Note ==
+<references/>
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}
+{{portale|Lombardia|trasporti}}
+
+[[Categoria:Autostrade in Italia|A60]]
+[[Categoria:Tangenziali in Italia|Varese]]

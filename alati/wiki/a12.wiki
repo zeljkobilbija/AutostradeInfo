@@ -1,0 +1,748 @@
+{{Strada
+|nome = Autostrada A12
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada Tirrenica<br />Genova-Roma
+|simbolo = Autostrada A12 Italia.svg
+|nome precedente = Autostrada A16 (nel tratto Roma-Civitavecchia)
+|nome successivo = 
+|divisione amm 1 = {{IT-LIG}}<br />{{IT-TOS}}<br />{{IT-LAZ}}
+|divisione amm 2 = {{IT-GE}}<br/>{{IT-SP}}<br/>{{IT-MS}}<br/>{{IT-LU}}<br/>{{IT-PI}}<br/>{{IT-LI}}<br/>{{IT-GR}}<br/>{{IT-VT}}<br/>{{IT-RM}}
+|inizio = [[Genova]]
+|fine = [[Roma]]
+|lunghezza = 210 + 79,414<ref>{{cita testo|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=40&ramo=40&code=A12&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali|accesso=8 dicembre 2009|dataarchivio=16 dicembre 2012|urlarchivio=https://web.archive.org/web/20121216010521/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=40&ramo=40&code=A12&link=&tipo=|urlmorto=sì}}</ref><ref name="Punti della strada A92">{{cita testo|url=https://www2.autostrade.it/BVS/portale/rete/punti.jsp?strada=40&ramo=46&code=A92&link=&tipo=|titolo=Punti della strada A92: A12 Roma-Civitavecchia}}</ref>
+|direzione = 
+|apertura = [[1967]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy<!-- Titolo generato automaticamente --> |accesso=26 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref> (ampliata fino al 2015)
+|provvedimento istituzione = 
+|gestore = *[[Autostrade per l'Italia]] nei tratti Genova - Sestri Levante e Civitavecchia - Roma
+*[[Concessioni del Tirreno]] (gruppo [[SIAS (azienda)|SIAS]]) nel tratto Sestri Levante - Livorno
+*[[Società Autostrada Tirrenica|SAT]] (gruppo [[Autostrade per l'Italia]]) nei tratti Livorno - Cecina e Tarquinia - Civitavecchia
+|pedaggio = 
+*[[Pedaggio#Sistema autostradale chiuso|sistema chiuso]] tra [[Genova]] e Cecina Nord
+*[[Pedaggio#Sistema autostradale aperto|sistema aperto]] tra [[Roma]] e [[Tarquinia]]
+*gratuita tra [[Santa Severa (Santa Marinella)|Santa Severa]]-[[Santa Marinella]] e [[Cerveteri]]-[[Ladispoli]] e tra [[Monte Romano]] e Civitavecchia Nord
+|città servite = 
+|intersezioni = 
+|europea1 = 80
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A12.svg
+|tracciato = 
+}}
+L''''autostrada A12''' è un tracciato che collega [[Genova]] con [[Cecina (Italia)|Cecina]] e [[Tarquinia]] con [[Roma]] attraverso il litorale tirrenico.
+
+== Storia ==
+L'autostrada A12 è stata aperta al traffico in più fasi funzionali:<ref>Corrado Bozzano, Roberto Pastore, Claudio Serra, ''Tra mare e monti da Genova alla Spezia'', op. cit., p. 366.</ref>
+
+{| class="wikitable unsortable" style="font-size:90%"
+! style="text-align:center;background:lightsteelblue;" | Data
+! style="text-align:center;background:lightsteelblue;" | Tratta
+! style="text-align:center;background:lightsteelblue;" | Lunghezza
+|-
+|15 dicembre 1965<ref>{{Cita pubblicazione |titolo = Notiziario della Società “Autostrade„ |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno VIII |numero = 2 |editore = |città = Roma |anno = 1966 |mese = febbraio |p = 74 |ISSN = 0005-1756 }}</ref>
+|Recco-Rapallo
+|5,6&nbsp;km
+|-
+|18 dicembre 1966<ref>{{Cita pubblicazione |titolo = La rete autostradale IRI - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno IX |numero = 2 |editore = |città = Roma |anno = 1967 |mese = febbraio|p = 51 |ISSN = 0005-1756 }}</ref>
+|Genova Nervi-Recco
+|11,3&nbsp;km
+|-
+|31 gennaio 1967
+|Roma-Civitavecchia Porto
+|65,1&nbsp;km
+|-
+|11 giugno 1967<ref>{{Cita pubblicazione |titolo = Aperto al traffico il tronco Viareggio - Pisa Nord dell'autostrada Sestri Levante - Livorno |rivista = [[Le Strade]] |volume = anno XLVII |numero = 7 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1967 |mese = luglio |p = 586 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1559#page/730/mode/2up }}</ref>
+|Viareggio - Pisa Nord
+|16,9 km
+|-
+|18 dicembre 1967<ref>{{Cita pubblicazione |titolo = Inaugurato il tratto Rivarolo-Nervi della "Autostrada Azzurra" |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 1 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = gennaio |p = 48 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/64/mode/2up }}</ref>
+|Interconnessione con A7-Genova Nervi
+|11,5&nbsp;km
+|-
+|27 ottobre 1968<ref>{{Cita pubblicazione |titolo = A Chiavari in autostrada |autore = Enrico Benvenga |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno X |numero = 11 |editore = |città = Roma |anno = 1968 |mese = novembre |p = 7 |ISSN = 0005-1756 }}</ref>
+|Rapallo-Chiavari
+|9,9&nbsp;km
+|-
+|1º marzo 1969<ref>{{Cita pubblicazione |titolo = La rete della società Autostrade - Dati e notizie |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XI |numero = 8 |editore = |città = Roma |anno = 1969 |mese = agosto |p = 293 |ISSN = 0005-1756 }}</ref>
+|Lavagna-Sestri Levante
+|7,6&nbsp;km
+|-
+|9 luglio 1969
+|Brugnato Borghetto Vara-Carrara
+|34&nbsp;km
+|-
+|2 agosto 1969
+|Chiavari-Lavagna
+|2,8&nbsp;km
+|-
+|31 luglio 1970
+|Casello di Genova Est
+|
+|-
+|18 marzo 1971
+|Sestri Levante-Brugnato Borghetto Vara
+|27&nbsp;km
+|-
+|7 gennaio 1975
+|diramazione Fornola-La Spezia
+|
+|-
+|7 gennaio 1975
+|Carrara-Livorno
+|63&nbsp;km
+|-
+|3 luglio 1993
+|Livorno-Rosignano Marittimo
+|35&nbsp;km
+|-
+|8 giugno 2012
+|Rosignano Marittimo-San Pietro in Palazzi
+|4,5&nbsp;km
+|-
+|1º aprile 2016
+|Civitavecchia Porto-Tarquinia 
+|14,6&nbsp;km
+|}
+
+Il 7 agosto [[1981]] fu definitivamente soppressa la barriera di pedaggio di [[Sestri Levante]], che fino ad allora separava i tronchi di pertinenza delle società [[Autostrade per l'Italia|Autostrade]] e [[Società Autostrada Ligure Toscana|SALT]]. Il 26 settembre [[1983]] fu aperto il casello di [[Carrodano]], in seguito rinominato "[[Carrodano]]-[[Levanto]]"<ref>{{Cita news|titolo=Nicolazzi inaugura domani a Carrodano il sospirato svincolo dell'autostrada|pubblicazione=La Stampa|data=25 settembre 1983|p=46}}</ref>.
+
+La tratta [[Roma]]-[[Civitavecchia]], che originariamente non aveva nulla che vedere col resto dell'opera ed era catalogata come A16 (ora l'A16 è la [[Autostrada A16 (Italia)|Napoli - Canosa]] che prima si chiamava A17), venne aperta al traffico il 31 gennaio 1967 dopo cinque anni di lavori. Il 17 luglio 2015 fu aperto al traffico un prolungamento di 4&nbsp;km fino al ponte sul fiume [[Mignone]]. Il 31 luglio 2015 venne aperto anche il tratto successivo fino a [[Tarquinia]] (ulteriori 10,5&nbsp;km), anche se con una configurazione provvisoria e limite di 60&nbsp;km/h. Il 22 marzo 2016 viene aperta provvisoriamente la tratta [[Civitavecchia]] Porto-Tarquinia (adattamento a sede autostradale della strada statale [[Strada statale 1 Via Aurelia|Aurelia]] esistente), con apertura al traffico definitiva avvenuta il 1º aprile 2016. Dal 2 aprile 2016 il limite di velocità tra Civitavecchia Porto e Tarquinia è stato definitivamente alzato a 130&nbsp;km/h.
+
+== L'autostrada oggi ==
+=== Tratto Genova-Livorno ===
+[[File:Genova - viadotto Bagnara.jpg|miniatura|Viadotto autostradale sulla A12 nei pressi del casello di [[Nervi (Genova)|Genova Nervi]]]]
+[[File:Autostrada A12 km 151.jpg|miniatura|Svincolo A12 al km 151 verso [[Genova]] e connessione con la [[Autostrada A11 (Italia)|A11 Firenze-Mare]]]]
+Ha origine dall'[[Autostrada A7 (Italia)|autostrada A7]], nel quartiere [[Bolzaneto]] a Genova, e con una serie di [[Galleria (ingegneria)|gallerie]] e [[viadotto|viadotti]] oltrepassa l'abitato urbano, quindi percorre a mezza costa tutta la [[Riviera di Levante]] con uscite a Genova Est, [[Nervi (Genova)|Genova-Nervi]], [[Recco]], [[Rapallo]], [[Chiavari]], [[Lavagna (Italia)|Lavagna]] e [[Sestri Levante]]. Qui si stacca dalla costa e s'insinua nella [[val di Vara]] per giungere a [[La Spezia]], dove incrocia l'[[Autostrada A15 (Italia)|autostrada A15]] a Santo Stefano Magra, per poi arrivare a Sarzana e proseguire verso il confine toscano.
+
+Entra in territorio [[Toscana|toscano]] e, parallela alla costa, serve gli abitati di [[Carrara]], [[Massa (Italia)|Massa]], [[Versilia]] e [[Viareggio]]. Dopo le due intersezioni con la bretella di [[Lucca]] e con l'[[Autostrada A11 (Italia)|autostrada A11]] arriva a [[Pisa]], (uscite Nord e Centro) e prosegue fino all'uscita di [[Livorno]], posta alle porte di [[Stagno (Collesalvetti)|Stagno]], che fino al 1993 è stata il termine della tratta e da dove parte il raccordo con la [[variante Aurelia]], a sua volta in diretta comunicazione con la [[strada di grande comunicazione Firenze-Pisa-Livorno]].
+
+=== Tratto Livorno-San Pietro in Palazzi ===
+Dopo l'uscita di Livorno, l'autostrada prosegue per un tratto in viadotto verso l'interno, toccando [[Collesalvetti]] (località [[Mortaiolo]]), dove si allaccia alla suddetta superstrada Firenze-Pisa-Livorno, per giungere quindi alla barriera di [[Rosignano Marittimo|Rosignano]]; dalla barriera l'autostrada prosegue per un tratto di circa 3 km, raccordandosi quindi alla [[variante Aurelia]] in prossimità dell'uscita di [[Cecina (Italia)|Cecina]] Nord, nei pressi di [[San Pietro in Palazzi]], frazione nord di Cecina. 
+
+Il tratto Genova - Sestri Levante è gestito da [[Autostrade per l'Italia]], il successivo fino a Livorno dalla [[Società Autostrada Ligure Toscana|S.A.L.T.]] (gruppo [[ASTM (azienda)|ASTM]]) e quello breve e conclusivo Livorno - San Pietro in Palazzi è concesso alla società [[Società Autostrada Tirrenica|S.A.T.]] ([[Autostrade per l'Italia]]).
+
+=== Tratto Tarquinia-Roma ===
+Il tratto da Roma a Civitavecchia, in origine classificato "A16", venne aperto al traffico nel dicembre [[1966]] e inaugurato il 18 gennaio dell'[[1967|anno successivo]] alla presenza dei ministri [[Giulio Andreotti|Andreotti]], [[Giorgio Bo|Bo]] e [[Giacomo Mancini|Mancini]].<ref>{{Cita pubblicazione |titolo = Aperta al traffico la Roma-Civitavecchia |rivista = [[Le Strade]] |volume = anno XLVII |numero = 2 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1967 |mese = febbraio |pp = 115-116 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1559#page/154/mode/2up }}</ref>
+
+Si snoda dall'[[Autostrada A91|autostrada A91 Roma-Fiumicino]] e corre accanto a una delle piste dell'[[Aeroporto di Roma-Fiumicino|aeroporto internazionale Leonardo da Vinci]] fino a [[Fregene]]. Seguono le uscite di [[Torrimpietra]], [[Cerveteri]]-[[Ladispoli]], [[Santa Marinella]]-[[Santa Severa (Santa Marinella)|Santa Severa]], [[Civitavecchia]] (Sud e Nord) e i nuovi svincoli di [[Civitavecchia]] Porto, [[Monte Romano]] e [[Tarquinia]]. L'autostrada finisce a nord di Tarquinia innestandosi sulla [[strada statale 1 Via Aurelia|Aurelia]].
+
+[[File:A12 (Civitavecchia sud).JPG|miniatura|L'uscita di Civitavecchia sud in direzione SS1 Aurelia]]
+Questo tratto era originariamente numerato A16 e solo in seguito si è deciso di riconsiderarlo assieme al tratto [[Genova]]-[[Rosignano Marittimo]] come parte di un'autostrada tirrenica: la numerazione A16 è stata quindi assunta dall'[[Autostrada A16 (Italia)|autostrada Napoli-Canosa]], nota fino ad allora come A17. Forse il cambio dei nomi è dovuto a motivi scaramantici.<ref>{{Cita web |url=http://www.teletransport.it/newweb/ita/pagine/Strade7.asp |titolo=Copia archiviata |accesso=11 maggio 2010 |dataarchivio=13 dicembre 2004 |urlarchivio=https://web.archive.org/web/20041213140106/http://www.teletransport.it/newweb/ita/pagine/Strade7.asp |urlmorto=sì }}</ref>
+
+Il tratto Roma-Civitavecchia Porto è gestito da [[Autostrade per l'Italia]], mentre il restante Civitavecchia Porto-Tarquinia da [[Società Autostrada Tirrenica|S.A.T.]]
+
+Attualmente alla tratta Roma-Civitavecchia è attribuita anche la classificazione interna di Autostrade per l'Italia A92<ref>{{cita testo|url=https://webcache.googleusercontent.com/search?q=cache:yPcfHuZPH_0J:https://teonline.autostrade.it/BVS/portale/limitazioni/prescrizioni.jsp?Societa%3D6%26Tronco%3D5+autostrada+a92+roma&cd=6&hl=it&ct=clnk&gl=it|titolo=Sito dei trasporti eccezionali autostradali}}</ref><ref>{{cita testo|url=https://www.motorways-exits.com/europe/i/italy.html|titolo=Motorways-exits}}</ref>. Tale classificazione però non è presente né sulla segnaletica né nei pannelli integrativi in prossimità dei cavalcavia.
+
+Una particolarità riguarda un tratto non soggetto a pagamento, comune anche ad altre [[autostrada|autostrade]], a causa di un sistema di pedaggio aperto (dove cioè si paga un forfait quando si passa un casello, indipendentemente dalla distanza percorsa). Per quanto riguarda la [[Roma]]-[[Civitavecchia]] sono presenti due svincoli interni alle due barriere, in corrispondenza dei quali non sono presenti strutture di pagamento di pedaggio<ref>Le strutture di pagamento sono 3 barriere (di Roma Ovest, di Civitavecchia Sud e di Tarquinia) e 3 caselli (di Maccarese-Fregene, di Torrimpietra e di Civitavecchia Sud)</ref>: questo fa sì che il tratto compreso tra gli svincoli di [[Santa Severa (Santa Marinella)|Santa Severa]]-[[Santa Marinella]] e [[Cerveteri]] possa essere percorso in entrambe le direzioni a costo zero. Inoltre allo svincolo di Civitavecchia Nord il casello per il pagamento del pedaggio non è mai entrato in funzione, fino a essere smantellato nel gennaio del 2009, quindi esso risulta essere uno svincolo a costo zero. Conseguentemente anche il tratto tra svincolo di Tarquinia, svincolo di Monte Romano, svincolo di Civitavecchia Porto e svincolo di Civitavecchia Nord è a costo zero. Una situazione simile si ha sulle autostrade [[Autostrada A8 (Italia)|A8]] e [[Autostrada A9 (Italia)|A9]].
+
+=== Tratto San Pietro in Palazzi-Tarquinia ===
+{{vedi anche|Variante Aurelia|Strada statale 1 Via Aurelia}}
+
+Il collegamento tra San Pietro in Palazzi e Tarquinia è affidato fino a Grosseto alla [[variante Aurelia]], una superstrada a quattro corsie, mentre da Grosseto a Tarquinia è necessario percorrere la [[Strada statale 1 Via Aurelia|via Aurelia]], che presenta quindi incroci a raso, tratti alberati e l'attraversamento di numerosi centri abitati.
+
+==== La mancata realizzazione del tratto autostradale ====
+Il 15 dicembre [[2009]] venne inaugurato il cantiere del primo lotto di circa {{TA|4 km}} della tratta verso Civitavecchia, tra Rosignano Marittimo e [[San Pietro in Palazzi]] (verso l'uscita di [[Cecina (Italia)|Cecina]] Nord della Variante Aurelia), il cui completamento avvenne nel 2012.
+
+Il 27 giugno [[2011]] furono inaugurati i primi {{M|1,5|ul=km}} e la nuova barriera di Vada-Rosignano che consentono l'ingresso diretto dalla Variante Aurelia in A12 senza passare per le rampe di svincolo.<ref>{{Cita web|url=https://www.tirrenica.it/index.php?option=com_content&view=article&id=153:inaugurata-la-nuova-barriera-di-rosignano&catid=4:news-homepage&Itemid=1|titolo=sat|accesso=18 febbraio 2022}}</ref>
+
+Il 6 maggio 2011 il CIPE approvò la delibera sul tratto di {{TA|16,5 km}} [[Civitavecchia]] Porto - [[Tarquinia]], i cui lavori partirono nell'ottobre 2011 e consistono nell'ampliamento della sede stradale dell'attuale SS 1 Aurelia, a opera di [[Pavimental]].<ref>{{Cita web|url=http://www.corriereetrusco.it/2011/10/17/a12-al-via-i-lavori-da-tarquinia-a-civitavecchia-nord/|titolo=A12: AL VIA I LAVORI DA TARQUINIA A CIVITAVECCHIA NORD|autore=Roberto|sito=Corriere Etrusco|data=17 ottobre 2011|lingua=it|accesso=18 febbraio 2022}}</ref><ref>{{Cita web|url=https://stradafacendo.tgcom24.it/2011/10/18/autostrada-tarquinia-civitavecchia-partiti-i-lavori-le-prime-auto-fra-tre-anni/|titolo=Autostrada Tarquinia-Civitavecchia, partiti i lavori: le prime auto fra tre anni|autore=Alessandro Cicuta|sito=Strada Facendo|lingua=it|accesso=18 febbraio 2022}}</ref><ref>{{cita testo|url=http://www.lestradedellinformazione.it/acm-on-line/Home/ServizidInformazione/Approfondimenti/articolo8092.html|titolo=lestradedellinformazione.it}}</ref> I primi 4 km, tra Civitavecchia Porto e il ponte sul fiume Mignone, furono aperti al traffico il 17 luglio 2015. L'intera tratta è operativa dal 1º aprile 2016.
+
+Il 27 settembre [[2013]] il CIPE ha approvato il progetto definitivo della tratta Tarquinia-San Pietro in Palazzi, comprendente i lotti 2, 3, 5A, 6B, e sbloccato 2 miliardi di euro di finanziamento privato.<ref>{{Cita web |url=http://www.lestradedellinformazione.it/site/home/primo-piano/articolo13551.html |titolo=Cipe, via libera all'autostrada Tirrenica - Le Strade dell'Informazione<!-- Titolo generato automaticamente --> |accesso=1º ottobre 2013 |urlarchivio=https://web.archive.org/web/20131004214002/http://www.lestradedellinformazione.it/site/home/primo-piano/articolo13551.html |urlmorto=sì }}</ref><ref>{{Cita web|url=http://ricerca-delibere.programmazioneeconomica.gov.it/68-27-settembre-2013/|titolo=Delibera Cipe n. 68/2013}}</ref>
+
+Il 13 maggio 2015 è stato firmato il protocollo per completare il tracciato.<ref>{{Cita web|url=http://iltirreno.gelocal.it/grosseto/cronaca/2015/05/13/news/autostrada-tirrenica-firmato-il-protocollo-per-completare-il-tracciato-1.11412836|titolo=Autostrada Tirrenica, firmato il protocollo per completare il tracciato|sito=Il Tirreno|data=13 maggio 2015|lingua=it|accesso=18 febbraio 2022}}</ref> Per il tratto Nord, da San Pietro in Palazzi a Grosseto, era previsto l'ampliamento della Variante Aurelia, mentre per il tratto Sud, da Grosseto a Tarquinia, il tracciato sarebbe stato posto il più possibile in sovrapposizione all'asse della statale Aurelia.<ref>{{cita web |url=http://www.tirrenica.it/testing/files/nota%20stampa.pdf |titolo=Copia archiviata |accesso=1º luglio 2011 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20120328124027/http://www.tirrenica.it/testing/files/nota%20stampa.pdf }}</ref> L'autostrada sarebbe rimasta in concessione a SAT S.p.A. fino al 31 dicembre 2046, dopodiché lo Stato avrebbe acquisito per 3,77 miliardi l'autostrada stessa (delibera CIPE 78/2010).
+
+Nel marzo 2019 il CIPE, nella relazione di bilancio 2018, presentò una modifica del progetto nell'ottica di ''project review'' del governo. Da San Pietro in Palazzi a Grosseto la Variante Aurelia, che sarebbe rimasta una strada extraurbana principale, sarebbe stata adeguata agli standard autostradali; da Grosseto ad Ansedonia sarebbero stati eliminati tutti gli incroci a raso dal tracciato, che sarebbe stato a quattro corsie in sede protetta; infine da Ansedonia a Tarquinia sarebbe stata costruita ''ex novo'' una nuova autostrada senza soluzione di continuità con quella attuale. Il costo previsto per l'intera opera era di 270 milioni di euro<ref>{{Cita web|url=https://silos.infrastrutturestrategiche.it/Home/Scheda/777|titolo=Scheda - SILOS|sito=silos.infrastrutturestrategiche.it|accesso=2025-05-23}}</ref>. 
+
+Il 13 febbraio 2020 il decreto Milleproroghe ha tuttavia demandato il progetto da [[Società Autostrada Tirrenica|SAT]] ad [[Anas (azienda)|Anas]] con un contributo di 36,5 milioni di euro.<ref>{{Cita web|url=https://www.consiglio.regione.toscana.it/upload/COCCOINA/documenti/Decisione_n_17_del_11-11-2024-Allegato-A.pdf|titolo=Documento di monitoraggio del Piano Regionale Integrato Infrastrutture e Mobilità (PRIIM) Regione Toscana - pag. 54}}</ref><ref>{{Cita web|url=https://www.tirrenica.it/sites/default/files/2022-04/SAT_Bilancio_2021_-_fascicolo_completo.pdf|titolo=ATTIVITA’ SVOLTA NELL’ESERCIZIO - SAT Bilancio 2021 - Pagina 13}}</ref>
+
+== Tabella percorso ==
+[[File:Viadotto Bisagno, autostrada A12.jpg|thumb|Il [[viadotto Bisagno]]]]
+=== A12 Genova - Rosignano Marittimo ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A12 Italia.svg|30}} GENOVA - ROMA'''<br />Autostrada Tirrenica
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+|{{simbolo|AB-Kreuz-grün.svg|17}} || {{simbolo|Italian traffic signs - strada europea 62.svg|27}} {{simbolo|Autostrada A7 Italia.svg|23}} [[Autostrada A7 (Italia)|Milano]] - Genova Ovest<br /> {{simbolo|AB-Kreuz-grün.svg|17}} {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A10 Italia.svg|23}} [[Autostrada A10 (Italia)|Ventimiglia]]
+|style="text-align: right;"|0 ||align="right"| 463,7|| rowspan="15" align="center" |[[Città metropolitana di Genova|GE]] || rowspan="38" align="center" |[[File:Italian traffic signs - strada europea 80.svg|50px|link=Strada europea E80]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Genova]] Est|| align="right"|4,2 ||align="right"|459,5
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Priaruggia"<ref name="a">solo direzione ovest</ref>|| ||align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Nervi (Genova)|Genova Nervi]]|| align="right"|11,5 ||452,2
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Sant'Ilario"|| align="right"|14,5 ||
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Rupanego"<ref name="a" />|| ||align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Recco]]|| align="right"|22,8 ||align="right"|440,9
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Poggio"<ref name="b">solo direzione est</ref> || align="right"|24,3 ||align="right"|
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Caravaggio"<ref name="b" /> || align="right"|26,4 ||align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rapallo]]|| align="right"|28,4 ||align="right"|435,3
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Campodonico"<ref name="a" /> || align="right"| ||align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chiavari]]|| align="right"|38,3 ||align="right"|425,4
+|-
+| [[File:AB-AS-grün.svg]]|| [[Lavagna (Italia)|Lavagna]]||align="right"|41,1 ||align="right"|422,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sestri Levante]]|| align="right"|48,7 ||align="right"|415,0
+|-
+| {{simbolo|AB-Tank.svg}}|| [[Area di servizio]] "Riviera"|| align="right"|48,8 || align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Deiva Marina]]|| align="right"|60,5 ||align="right"| 403,2|| rowspan="9" align="center" |[[Provincia della Spezia|SP]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Carrodano]] - [[Levanto]]|| align="right"|70,1 ||align="right"|393,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Brugnato]] - [[Borghetto di Vara|Borghetto Vara]]||align="right"|75,8 ||align="right"|387,9
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Brugnato]]"|| align="right"|76,8 || align="right"|
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Albiano Magra]] - [[Ceparana]]<ref>Solo da e per [[Rosignano Marittimo]]</ref>
+|style="text-align: right;"| 93
+|370,7
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 33.svg|27}} {{simbolo|Autostrada A15 Italia.svg|23}} [[Autostrada A15 (Italia)|La Spezia - Parma]]
+<small>{{simbolo|Italian traffic signs - icona porto.svg|17}}{{simbolo|Italian traffic signs - icona traghetto.svg|17}}{{simbolo|Italian traffic signs - icona porto turistico.svg|17}}[[Porto della Spezia]]</small>
+
+<small>[[Santo Stefano di Magra]]</small>
+
+<small>{{simbolo|Italian traffic signs - icona punto panoramico.svg}}{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Parco nazionale delle Cinque Terre]]</small>
+
+<small>{{simbolo|Italian traffic signs - icona pineta + mare.svg}} [[Portovenere]] - [[Lerici]]</small>
+|style="text-align: right;"|94,4 ||align="right"|369,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Magra]]"|| align="right"|96,5 || align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sarzana]]|| align="right"|101,6 ||align="right"|362,1
+|-
+|{{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "[[Luni]]"
+<small>{{simbolo|Italian traffic signs - icona zona archeologica.svg}} [[Luna (colonia romana)|Luni antica]]</small>
+|style="text-align: right;"| 108,5
+|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Carrara]]|| align="right"|110,0 ||align="right"|353,7
+| align="center" rowspan="2" |[[Provincia di Massa e Carrara|MS]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Massa (Italia)|Massa]]||align="right"|116,4 ||align="right"|347,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Versilia]]|| align="right"|127,9 ||align="right"| 335,8|| rowspan="3" align="center" |[[Provincia di Lucca|LU]]
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Versilia]]"|| align="right"|131,2 || align="right"|
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A11-A12 Italia.svg|23}} [[Autostrada A11 (Italia)|Lucca - Firenze]]<br />{{simbolo|AB-AS-grün.svg|15}} [[Viareggio]]|| align="right"|135,7 ||align="right"|328,0
+|-
+| [[File:AB-Kreuz-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 76.svg|27}} {{simbolo|Autostrada A11 Italia.svg|23}} [[Autostrada A11 (Italia)|Firenze]]<br /><small>{{simbolo|AB-AS-grün.svg|15}} [[Pisa]] nord</small>|| align="right"|151,0 ||align="right"| 312,7|| rowspan="4" align="center" |[[Provincia di Pisa|PI]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pisa]] Centro {{simbolo|Italian traffic signs - centro città.svg|17}}<br />{{simbolo|Strada di Grande Comunicazione, Italia.svg|35}} ''[[Strada di grande comunicazione Firenze-Pisa-Livorno|SGC FI-PI-LI]]''<br />{{simbolo|Italian traffic signs - icona aeroporto.svg|17}} [[Aeroporto di Pisa-San Giusto|G. Galilei]]||align="right"|161,6 ||align="right"|302,1
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Castagnolo"|| align="right"|163,5 || align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Livorno]]<br />{{simbolo|Italian traffic signs - icona porto.svg|17}} [[Porto di Livorno|Porto]]<br />{{simbolo|Strada Statale 1 Italia.svg|35}} ''[[Strada statale 1 Via Aurelia#Da Grosseto a Livorno|SGC Variante Aurelia]]''<br />{{simbolo|Strada di Grande Comunicazione, Italia.svg|35}} ''[[Strada di grande comunicazione Firenze-Pisa-Livorno|SGC FI-PI-LI]]''|| align="right"|170,7 ||align="right"|293,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Collesalvetti]]<br />{{simbolo|Strada di Grande Comunicazione, Italia.svg|35}} ''[[Strada di grande comunicazione Firenze-Pisa-Livorno|SGC FI-PI-LI]]''|| align="right"|177,8 ||align="right"| 285,9|| rowspan="5" align="center" |[[Provincia di Livorno|LI]]
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Savalano"<ref name="solo_sud">solo direzione sud</ref>|| align="right"|196,0 || align="right"|
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Fine"<ref name="solo_nord">solo direzione nord</ref>|| align="right"|200,1 || align="right"|
+|-
+|[[File:AB-AS-grün.svg]]|| [[Rosignano Marittimo]]<br />{{simbolo|Strada Statale 1 Italia.svg|35}} [[Strada statale 1 Via Aurelia#Da Grosseto a Livorno|SGC Variante Aurelia]] [[Livorno]]<br />|| align="right"|205,9 || align="right"|257,8
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera Rosignano ||align="right"|206,9 || align="right"|256,8
+|-
+| {{simbolo|Italian traffic signs - fine autostrada.svg|17}} <small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg}}</small>|| Fine tratto autostradale, inizio stratto superstradale|| align="right" |210,0|| align="right"|253,7
+|[[Provincia di Livorno|LI]]
+|
+|-
+| [[File:AB-AS-blau.svg]]|| Cecina Nord || align="right" | 212,3|| align="right" |251,4
+| rowspan="10" align="center" |[[Provincia di Livorno|LI]]
+| rowspan="38" align="center" |[[File:Italian traffic signs - strada europea 80.svg|50px|link=Strada europea E80]]
+|-
+| [[File:AB-AS-blau.svg]]|| [[Cecina (Italia)|Cecina]] Centro<br /><small>{{simbolo|Strada Statale 68 Italia.svg|35}} [[Strada statale 68 di Val Cecina|di Val di Cecina]]<br />[[Volterra]]</small>|| align="right" | 214,1|| align="right" | 249,6
+
+|-
+| [[File:AB-AS-blau.svg]]|| Cecina Sud - La California || align="right" | 218,9|| align="right" |244,8
+|-
+| [[File:AB-AS-blau.svg]]|| [[Castagneto Carducci|Castagneto]] - [[Donoratico]]||align="right"| 230,6|| align="right" |233,1
+|-
+| [[File:AB-AS-blau.svg]]|| [[San Vincenzo (Italia)|San Vincenzo]] nord||align="right"| ~232,2|| align="right" |~231,6
+|-
+| [[File:AB-AS-blau.svg]]|| [[San Vincenzo (Italia)|San Vincenzo]] sud||align="right"| ~233,8|| align="right" |~230,1
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Venturina]]"||align="right"| 234,3|| align="right" |-
+|-
+| [[File:AB-AS-blau.svg]]|| [[Venturina]] - [[Piombino]]<br /><small> {{simbolo|Strada Statale 398 Italia.svg|35}} [[Strada statale 398 Via Val di Cornia|Via Val di Cornia]] [[Piombino]]<br />{{simbolo|Italian traffic signs - icona porto.svg|17}}{{simbolo|Italian traffic signs - icona porto turistico.svg|17}}[[Porto di Piombino]]<br />{{simbolo|Italian traffic signs - icona traghetto.svg|17}}Traghetti per [[Isola d'Elba]] e [[Arcipelago Toscano]]<br />{{simbolo|Italian traffic signs - icona industria.svg|17}}[[Stabilimento siderurgico Piombino|Stabilimenti siderurgici]]<br /></small>||align="right"| 235,3|| align="right" |228,6
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Campiglia Marittima|Campiglia]]"||align="right"| -|| align="right" |227,1
+|-
+| [[File:AB-AS-blau.svg]]|| [[Vignale Riotorto]]||align="right"| 242,5|| align="right" |221,4
+|-
+| [[File:AB-AS-blau.svg]]|| [[Follonica]] nord||align="right"| 246,8|| align="right" | 217,1|| rowspan="23" align="center" |[[Provincia di Grosseto|GR]]
+|-
+|{{simbolo|AB-Tank.svg}}
+|Area di servizio "[[Follonica]]"
+| -
+|210,9
+|-
+| [[File:AB-AS-blau.svg]]|| [[Follonica]] est - [[Massa Marittima]]<br />||align="right"| 254,5|| align="right" |209,3
+|-
+|{{simbolo|AB-Tank.svg}}
+|Area di servizio "[[Scarlino]]"
+|256,3
+| -
+|-
+| [[File:AB-AS-blau.svg]]|| [[Scarlino]]||align="right"| 257,1|| align="right" |206,7
+|-
+|[[File:AB-AS-blau.svg]]|| [[Gavorrano]]||align="right"| 262,2|| align="right" |201,6
+|-
+|{{simbolo|AB-Tank.svg}}
+|Area di servizio "[[Gavorrano]]"
+| -
+|199,4
+|-
+| [[File:AB-AS-blau.svg]]|| [[Gavorrano]] scalo||align="right"| 266,1|| align="right" |197,7
+|-
+| [[File:AB-AS-blau.svg]]|| [[Giuncarico]]||align="right"| 276,8|| align="right" |187,0
+|-
+| [[File:AB-AS-blau.svg]]|| [[Braccagni]]||align="right"| 280,9|| align="right" |182,9
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Braccagni]]"||align="right"| 283,0|| align="right" |-
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Grosseto]]"||align="right"| -|| align="right" |173,8
+|-
+| [[File:AB-AS-blau.svg]]|| [[Grosseto]] nord||align="right"| 291,4|| align="right" |172,6
+|-
+| [[File:AB-AS-blau.svg]]|| [[Grosseto]] Roselle<br />{{simbolo|Strada Statale 223 Italia.svg|35}} [[Strada statale 223 di Paganico|di Paganico]] [[Siena]]<br />{{simbolo|Italian traffic signs - raccordo autostradale 3.svg|35}} [[Raccordo autostradale 3|Raccordo Firenze-Siena]]<br />{{simbolo|Strada Statale 73 Italia.svg|35}} [[Strada statale 73 Senese Aretina|Sinalunga]]<br />{{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano-Napoli]]<br />{{simbolo|Italian traffic signs - raccordo autostradale 6.svg|35}} [[Raccordo autostradale 6|Perugia]] ||align="right"| 293,6|| align="right" |170,4
+|-
+| [[File:AB-AS-blau.svg]]|| [[Grosseto]] Est<br />{{simbolo|Italian traffic signs - icona industria.svg|17}} Zona industriale<br />||align="right"| 296,8|| align="right" |167,2
+|- 
+| [[File:AB-AS-blau.svg]]|| [[Grosseto]] sud||align="right"| 301,7|| align="right" |162,3
+|-
+|{{simbolo|Italian traffic signs - fine strada extraurbana principale (figura II 346).svg}} <small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg}}</small>
+|Fine tratta superstradale, inizio tratta a carreggiate separate
+|style="text-align: right;"|302,4
+|style="text-align: right;"|161,6
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Rispescia"||align="right"| 319,5|| align="right" |143,8
+|-
+| [[File:AB-AS-blau.svg]]|| [[Fonteblanda]]||align="right"| 320,3|| align="right" |142,8
+|-
+| [[File:AB-AS-blau.svg]]|| [[Monte Argentario]] - [[Isola del giglio]] - [[Orbetello]]<br /> {{simbolo|italian traffic signs - icona porto.svg|17}}{{ simbolo|italian traffic signs - icona porto turistico.svg|17}}traghetti per [[arcipelago toscano]]||align="right"| 336,5|| align="align=" right" |127,3
+|-
+|{{simbolo|Italian traffic signs - fine strada extraurbana principale (figura II 346).svg}} {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg}}
+|Fine tratta a carreggiate separate, inizio tratta a carreggiata unica
+|style="text-align: right;"|341,2
+| align="align=" |122,6
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Capalbio|Capalbio Ovest]]"<ref name="c">solo carreggiata sud</ref>||align="right"| 348,5|| align="right" |-
+|-
+| [[File:AB-AS-blau.svg]]|| [[Capalbio]] ||align="right"| 350,6|| align="right" |112,9
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Capalbio|Capalbio Est]]"<ref>solo carreggiata nord</ref>||align="right"| -|| align="right" |111,6
+|-
+|<small>{{simbolo|Italian traffic signs - strada extraurbana principale.svg}}</small>
+|Fine tratto a carreggiata unica, inizio tratto a carreggiate separate
+|style="text-align: right;"|354,9
+|style="text-align: right;"|108,6
+|-
+| [[File:AB-AS-blau.svg]]|| [[Pescia Romana]]||align="right"| 358,2|| align="right" |105,3 || align="center" rowspan=4|[[Provincia di Viterbo|VT]]
+|-
+| [[File:AB-AS-blau.svg]]|| Centrale [[Enel]]||align="right"| 369,9|| align="right" |93,6
+|-
+| [[File:AB-AS-blau.svg]]|| [[Montalto di Castro]]||align="right"| 373,9|| align="right" |89,6
+|-
+| [[File:AB-AS-blau.svg]]|| Riva dei Tarquini||align="right"| 380,4|| align="right" |83,1
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg|17}} {{simbolo|Italian traffic signs - fine strada extraurbana principale (figura II 346).svg}}
+| Inizio tratto autostradale, fine tratto a carreggiate separate 
+|style="text-align: right;"|384,1
+|style="text-align: right;"|79,4
+|}
+=== A12 Roma-Civitavecchia ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A12 Italia.svg|30}} ROMA - CIVITAVECCHIA'''<ref>{{cita web|url=https://www.autostrade.it/it/comunicazione-e-media/comunicati-stampa-viabilita/-/bulletin/view/a36a26d5-0793-481f-9b29-f87c524a2c5b|titolo=A92 ROMA-CIVITAVECCHIA: TEMPORANEAMENTE CHIUSO PER ISPEZIONI IL TRATTO TRA TORRIMPIETRA E CERVETERI VERSO LA SS1 AURELIA}}</ref> <ref name="Punti della strada A92"/>
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 80.svg|24}} {{simbolo|Autostrada A91 Italia.svg|23}} [[Autostrada A91|Roma - Fiumicino]]<br /><small>{{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Napoli]]<br />{{simbolo|Autostrada A90 Italia.svg|23}} [[Autostrada A90|Grande Raccordo Anulare]]</small>
+|style="text-align: right;"| 0,0|| align="right" |79,4
+|align="center" rowspan=16|[[Città metropolitana di Roma Capitale|RM]]
+| align="center" rowspan=23|[[File:Italian traffic signs - strada europea 80.svg|50px|link=Strada europea E80]]
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Arrone (fiume)|Arrone]]"
+|| || align="right"|70,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Maccarese]] - [[Fregene]] {{simbolo|Italian traffic signs - stazione.svg|15}}|| align="right"| 11,3|| align="right" |60,5
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera [[Roma]] Ovest||align="right"| 11,6|| align="right" |60,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Torrimpietra]]<br /><small>[[File:Strada Statale 1 Italia.svg|35px|link=Strada Statale 1 Via Aurelia]] ''[[Strada statale 1 Via Aurelia|Via Aurelia]]''<br />{{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Firenze]]<br />{{simbolo|Autostrada A90 Italia.svg|23}} [[Autostrada A90|Grande Raccordo Anulare]]</small>|| align="right" | 14,9|| align="right" |57,9
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Il Pineto" || align="right"| ||align="right"|52,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cerveteri]] - [[Ladispoli]]||align="right"| 27,9|| align="right" |44,9
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Alberobello" || align="right"| ||align="right"|38,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Mar Tirreno|Tirreno]]"|| align="right"| || align="right"|30,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Santa Marinella]] - [[Santa Severa (Santa Marinella)|Santa Severa]]|| align="right"| 41,1|| align="right" |32,7
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Belvedere"<ref name="solo_nord" /> || align="right"| ||align="right"|29,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Civitavecchia]] Sud
+|style="text-align: right;"| 52,2|| align="right" |21,6
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera Aurelia||align="right"| 52,3|| align="right" |21,7
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "S. Liborio" || align="right"| ||align="right"|17,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Civitavecchia]] Nord<br /><small>{{simbolo|Italian traffic signs - icona porto.svg}} [[Porto di Civitavecchia|Porto]]</small>|| align="right"| 57,5|| align="right" |17,5
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "[[Tolfa]]"<br /><small>{{simbolo|Italian traffic signs - divieto di transito.svg|15}} ''dismessa in direzione Roma''</small>
+|| || align="right"|59,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Civitavecchia]] Porto<br /><small>{{simbolo|Italian traffic signs - strada europea 840.svg|24}} {{simbolo|Strada Statale 698 Italia.svg|35}} ''[[Strada statale 698 del Porto di Civitavecchia|del Porto di Civitavecchia]]''<br />{{simbolo|Strada Statale 1 Italia.svg|35}} ''[[Strada statale 1 Via Aurelia|Via Aurelia]]''</small>
+|style="text-align: right;"| 65,1|| align="right" |12,9
+| align="center" rowspan=7|[[Provincia di Viterbo|VT]]
+|-
+| {{simbolo|AB-Tank.svg}}||
+Area di servizio "Corneto"<ref name="c" />
+|style="text-align: right;"| || align="right"|65,8
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "[[Mignone]]"<ref name="solo_sud" /> || align="right"| ||align="right"|68,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Monte Romano]]<br /><small>{{simbolo|Strada Statale 675 Italia.svg|35}} [[Strada statale 675 Umbro-Laziale|Orte-Viterbo]]<br />{{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano-Napoli]]<br />[[File:Italian traffic signs - strada europea 45.svg|27px|link=Strada europea E45]] {{simbolo|Strada Statale 3bis Italia.svg|35}} [[Strada statale 3 bis Tiberina|Terni-Perugia-Cesena-Ravenna]]</small>||align="right"| 70,5|| align="right" |8,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Tarquinia]]||align="right"| 75,6|| align="right" |3,4
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera Tarquinia||align="right"| 77,8|| align="right" |1,6
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg|17}} {{simbolo|Italian traffic signs - fine strada extraurbana principale (figura II 346).svg}}
+| Inizio tratto autostradale, fine tratto a carreggiate separate 
+|style="text-align: right;"|79,4
+|style="text-align: right;"|0,0
+|}
+
+=== Progetto Roma-Latina ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="7" | '''{{simbolo|Autostrada A12 Italia.svg|30}} ROMA - LATINA''' (''progetto'')
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''
+!'''Note'''!! align="center" |'''Area'''!!align="center"|'''Strada europea'''
+|-
+|-
+|
+|'''{{simbolo|Strada Statale 8 Italia.svg|45}} [[Strada statale 8 Via del Mare|Via del Mare]]'''
+'''{{simbolo|Strada Statale 8bis Italia.svg|45}} [[Via Ostiense]]'''
+|style="text-align: right;"|465,8
+|style="text-align: right;"| - 2,1
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Barriera di Ponte Galeria
+|style="text-align: right;"|467,2
+|style="text-align: right;"| - 3,5
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Via Cristoforo Colombo (E.U.R./Ostia)
+|style="text-align: right;"|475,5
+|style="text-align: right;"| - 11,8
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|'''{{simbolo|Strada Statale 148 Italia.svg|45}} [[Strada statale 148 Pontina|Via Pontina]]'''
+Roma "Tor de Cenci"
+
+<small>{{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Napoli]]<br />{{simbolo|Autostrada A90 Italia.svg|23}} [[Autostrada A90|Grande Raccordo Anulare]]</small>
+|style="text-align: right;"|479,5
+|style="text-align: right;"| -15,8
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Decima Nord
+|style="text-align: right;"|481,2
+|style="text-align: right;"| - 17,5
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Decima Sud
+|style="text-align: right;"|482,9
+|style="text-align: right;"| - 19,2
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Torvajanica - Pratica Mare
+|style="text-align: right;"|487.1
+|style="text-align: right;"| - 23.4
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Castel Romano
+|style="text-align: right;"|489.8
+|style="text-align: right;"| - 26,1
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Pomezia Nord
+|style="text-align: right;"|494,0
+|style="text-align: right;"| - 30,3
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Pomezia Sud
+|style="text-align: right;"|498,2
+|style="text-align: right;"| - 34,5
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Aprilia Nord
+|style="text-align: right;"|506,8
+|style="text-align: right;"| - 43,1
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Aprilia Sud
+|style="text-align: right;"|512,9
+|style="text-align: right;"| - 49,2
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Campoverde
+|style="text-align: right;"|519,1
+|style="text-align: right;"| - 55,4
+|Interscambio con la Bretella "Cisterna - Valmontone"
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Barriera di Latina Nord
+|style="text-align: right;"|528,5
+|style="text-align: right;"| - 64,8
+|
+|style="text-align: center;"|
+|style="text-align: center;"|
+|-
+|
+|Latina "Borgo Piave"
+|style="text-align: right;"|532,0
+|style="text-align: right;"| - 68,3
+|Interscambio con la Tangenziale di Latina
+|style="text-align: center;"|
+|style="text-align: center;"|
+|}
+
+=== Progetto futuro Penetrazione Urbana ===
+{| class="wikitable"
+|+
+! colspan="7" |'''{{simbolo|Autostrada A12 Italia.svg|30}} PENETRAZIONE URBANA''' (''progetto futuro'')
+|-
+!'''Tipo'''
+!'''Indicazione'''
+!'''↓km↓'''
+!'''↑km↑'''
+!'''Note'''
+!'''Area'''
+!'''Strada europea'''
+|-
+|
+|Via del Crocifisso/Via Guido Dorso/Via Piave/Str. Della Chiesuola/SP16 Str. Acque Alte
+|532,1
+| 2,7
+| rowspan="3" |Tratto in galleria dal Km 532+200 al Km 534+900 (galleria artificiale "LATINA" 2,7 Km)
+| rowspan="3" |[[Provincia di Latina|LT]]
+|
+|-
+|
+|Via Piave/Via Amerigo Vespucci
+|533,1
+| 1,7
+|
+|-
+|
+|Viale Le Corbusier/Via Mario Lauro Pietrosanti
+|535,0
+| 0
+|
+|}
+
+== Bretella A11/A12 ==
+{{vedi anche|Autostrada A11 (Italia)#Bretella A11/A12}}
+[[File:Autostrada A11-A12 Italia.svg|sinistra|35x35px]]
+Il raccordo '''A11/A12''' è un breve tratto autostradale di 18 chilometri, senza corsia d'emergenza; aperto al traffico nel [[1973]], che permette un più rapido percorso nella direttrice fra [[Firenze]] e [[Genova]]. L'autostrada possiede solo l'uscita intermedia di [[Massarosa]] ed è una delle più costose in Italia contando i suoi €3.40 per 18 km. La galleria più lunga è quella del Monte Quiesa (1244m) e il viadotto più lungo è il [[Montramito]] (2066m). È presente una sola area di servizio in direzione [[Viareggio]] ed è quella del Monte Quiesa Nord. Nel 2007 è stato inaugurato il nuovo assetto dell'intersezione tra la bretella e l'autostrada A12, eliminando le barriere di Lucca Ovest e Viareggio; in questo modo è possibile percorrere le autostrade senza fermarsi.
+
+Tale tratto è gestito dalla [[Concessioni del Tirreno S.p.A.]] del gruppo [[ASTM (azienda)|ASTM]].
+
+== A12 Diramazione Livorno ==
+{{Strada
+|nome = Autostrada A12
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Livorno
+|simbolo =Autostrada A12 Italia.svg 
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-TOS}}
+|divisione amm 2 = {{IT-PI}}<br />{{IT-LI}}
+|inizio = A12
+|fine = [[Stagno (Collesalvetti)]]
+|lunghezza = 4,5<ref>{{cita web |url=https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=40&ramo=42&code=D12&link=&tipo= |titolo=Copia archiviata |accesso=24 luglio 2009 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20060508024120/https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=40&ramo=42&code=D12&link=&tipo= }}</ref>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore =[[Concessioni del Tirreno]] 
+|pedaggio = gratuita
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+La '''diramazione Livorno''' della A12 si sviluppa per {{TA|4,5 km}} partendo dallo svincolo Livorno. Nel suo breve percorso prima s'interseca con la [[strada di grande comunicazione Firenze-Pisa-Livorno]] e poi confluisce nella [[variante Aurelia]] all'altezza di [[Stagno (Collesalvetti)|Stagno]].
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''A12 Livorno'''
+|-
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Provincia'''
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Autostrada A12 Italia.svg|23}} Genova-Rosignano||align="right"| 0,0||align="right"| || align="center" rowspan=3|[[Provincia di Pisa|PI]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera Livorno||align="right"| 0,8||align="right"|
+|-
+| [[File:AB-AS-grün.svg]] ||{{simbolo|Strada Statale 1 Italia.svg|35}} ''[[Strada statale 1 Via Aurelia|Via Aurelia]]''<br /><small>[[Stagno (Collesalvetti)|Stagno Nord]]</small>||align="right"| 1,3||align="right"|
+|-|
+| [[File:AB-AS-grün.svg]] ||{{simbolo|Strada di Grande Comunicazione, Italia.svg|40}} [[Strada di grande comunicazione Firenze-Pisa-Livorno|SGC FI-PI-LI]]<br /><small>[[Stagno (Collesalvetti)|Stagno Sud]]</small>||align="right"| 3,8||align="right"| || align="center" rowspan=2|[[Provincia di Livorno|LI]]
+|-
+| {{simbolo|AB-ende-grün.svg|17}} ||{{simbolo|Strada Statale 1 Italia.svg|35}} [[Strada statale 1 Via Aurelia#Da Grosseto a Livorno|Variante Aurelia]] || align="right"| 4,5||align="right"|
+|}
+
+== Raccordo autostradale di Pisa ==
+{{Strada
+|nome = Autostrada A12
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Raccordo autostradale di Pisa
+|simbolo = Autostrada A12 Italia.svg
+|nome precedente = 
+|nome successivo =
+|divisione amm 1 = {{IT-TOS}}
+|divisione amm 2 = {{IT-PI}}
+|inizio = [[Strada di grande comunicazione Firenze-Pisa-Livorno|SGC FI-PI-LI]] in corrispondenza uscita di [[Pisa]] Ovest
+|fine = Autostrada A12
+|lunghezza = 2,8
+|direzione = 
+|apertura = 1992
+|provvedimento istituzione = Ordinanza del 31 agosto 1992
+|gestore = [[Concessioni del Tirreno]]
+|pedaggio = gratuita
+|città servite = [[Pisa]]
+|intersezioni =
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+La strada, in concessione alla società Concessioni del Tirreno, non ha una denominazione ufficiale propria e non è compresa nell'elenco dei ''[[Raccordo autostradale|raccordi autostradali]]''. Essa è collegata senza soluzione di continuità alla [[Strada di grande comunicazione Firenze-Pisa-Livorno|SGC FI-PI-LI]], all'altezza dello svincolo di [[Pisa]] Ovest. È lunga 2,8&nbsp;km e conduce al casello di [[Pisa]] Centro dell'Autostrada A12. Nel suo percorso, l'unica uscita è quella per [[San Piero a Grado]] e il litorale pisano, che vengono raggiunti mediante una bretella di 3&nbsp;km, con carreggiate a corsia unica.
+
+La strada è a carreggiata a doppia corsia, senza corsia di emergenza. La segnaletica stradale è a fondo verde e presenta i segnali d'inizio e fine autostrada.
+
+I segnali identificativi dei cavalcavia sono di tipo autostradale e riportano il numero progressivo dell'Autostrada A12, mentre la numerazione progressiva chilometrica è un proseguimento di quella della contigua SGC FI-PI-LI.
+
+Il limite di velocità sull'intero percorso è di 110&nbsp;km/h.
+{| class="wikitable"
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | {{simbolo|Autostrada A12 Italia.svg|30}}<br />'''Raccordo autostradale di Pisa'''
+|-
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Provincia'''
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Strada di Grande Comunicazione, Italia.svg|30}} [[Strada di grande comunicazione Firenze-Pisa-Livorno|SGC Pisa-Firenze]]<br/><small>[[Pisa]] centro</small>||align="right"| 76,0||align="right"|2,8 || align="center" rowspan=4|[[Provincia di Pisa|PI]]
+|-
+| [[File:AB-AS-grün.svg]] ||[[Marina di Pisa]]-[[Tirrenia]]<br /><small> {{simbolo|Italian traffic signs - icona mare fiume lago.svg|17}} [[Litorale pisano|Mare]]<br />{{simbolo|Italian traffic signs - icona porto turistico.svg|17}} [[Porto di Bocca d'Arno|Porto]]<br />[[Camp Darby]]</small>||align="right"| 78,5||align="right"|0,3
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera Pisa Centro||align="right"|78,8||align="right"|0,0
+|-
+|{{simbolo|AB-Vzw-grün.svg|17}} ||{{simbolo|Autostrada A12 Italia.svg|25}} Genova - Livorno || align="right"| 78,8||align="right"|0,0
+|}
+
+== Lavori e progetti ==
+Il 18 maggio 2019 è stato inaugurato un collegamento pedonale in grado di facilitare l'accesso dalle aree di sosta dell'autostrada al sito archeologico di [[Luni]].<ref>{{Cita web |url=https://ecodellalunigiana.it/2019/05/13/museo-archeologico-nazionale-di-luni-inaugura-nuova-via-daccesso-dallautostrada-a12/ |titolo=Copia archiviata |accesso=8 agosto 2019 |urlarchivio=https://web.archive.org/web/20190808153228/https://ecodellalunigiana.it/2019/05/13/museo-archeologico-nazionale-di-luni-inaugura-nuova-via-daccesso-dallautostrada-a12/ |urlmorto=sì }}</ref> I progetti per la costruzione sia della terza corsia che della terza corsia dinamica nel tratto Santo Stefano-Viareggio sono stati definitivamente cancellati. 
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Sestri Levante-Livorno con diramazione Viareggio-Lucca |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 3 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = marzo |pp = 115-123 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/174/mode/2up }}
+* {{Cita pubblicazione |titolo = L'autostrada Genova - Sestri Levante |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 10 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = ottobre |pp = 488-504 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/684/mode/2up }}
+* Corrado Bozzano, Roberto Pastore, Claudio Serra, ''Tra mare e monti da Genova alla Spezia'', Nuova Editrice Genovese, Genova, 2010. ISBN 978-88-88963-38-9
+
+== Voci correlate ==
+* [[Sistema viario di Genova]]
+* [[Ponte dell'autostrada A12]]
+* [[Viadotto Torrente Sori]]
+
+== Altri progetti ==
+{{Interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.autostrade.it|titolo=Autostrade per l'Italia}}
+* {{cita web|url=https://www.concessionideltirreno.it/|titolo=Concessioni del Tirreno}}
+* {{cita web|url=http://www.tirrenica.it/|titolo=SAT- Società Autostrada Tirrenica}}
+* {{cita web|url=http://www.lotsberg.net/data/italia/A12.html|titolo=Gallerie e viadotti della A12}}
+* {{cita web|url=http://www.lotsberg.net/data/italia/D11.html|titolo=Gallerie e viadotti della A11/A12}}
+
+{{Autostrade italiane}}
+{{Portale|Liguria|Toscana|trasporti}}
+
+[[Categoria:Autostrada A12 (Italia)| ]]
+[[Categoria:Trasporti in Liguria]]
+[[Categoria:Trasporti nella provincia di Viterbo]]
+[[Categoria:Trasporti in Toscana]]
+[[Categoria:Trasporti nella città metropolitana di Roma]]

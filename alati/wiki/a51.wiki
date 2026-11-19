@@ -1,0 +1,150 @@
+{{Strada
+|nome = Autostrada A51
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Tangenziale Est di Milano
+|simbolo = Autostrada A51 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-MI}}<br />{{IT-MB}}
+|inizio = Allacciamento da [[Autostrada A1 (Italia)|A1]], presso [[Rogoredo (Milano)|Rogoredo]], [[Milano]]
+|fine = [[Usmate Velate]] ([[Provincia di Monza e della Brianza|MB]])
+|lunghezza = 29,4<ref>{{Cita web |url=http://www.serravalle.it/pag.php?pg=2&autostrada=3 |titolo=La A51 sul sito del gestore |accesso=24 febbraio 2010 |urlarchivio=https://web.archive.org/web/20100609105610/http://www.serravalle.it/pag.php?pg=2&autostrada=3 |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1973]]<ref>{{Cita web |url=http://www.serravalle.it/Storia-43.html |titolo=Storia della A51 sul sito del gestore |accesso=24 febbraio 2010 |urlarchivio=https://web.archive.org/web/20090612082531/http://www.serravalle.it/Storia-43.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore =[[Milano Serravalle - Milano Tangenziali]] 
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|sistema aperto]]
+|città servite = 
+|intersezioni = 
+|mappa = Italia - mappa autostrada A51.svg
+|tracciato = Mappa autostrada A51.svg
+}}
+L''''autostrada A51 tangenziale Est di Milano'''<ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |titolo=A pag. 8 |accesso=8 maggio 2010 |urlarchivio=https://web.archive.org/web/20131016102523/http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |urlmorto=sì }}</ref> è un'[[autostrada]] tangente alla città e all'area suburbana di [[Milano]] nella sua parte [[est]], gestita dalla [[Milano Serravalle - Milano Tangenziali]].
+
+Insieme ad [[Autostrada A50|A50]] (tangenziale Ovest di Milano), [[Autostrada A52 (Italia)|A52]] (tangenziale Nord di Milano) e [[Autostrada A58|A58]] (Tangenziale Est Esterna di Milano) compone il più esteso sistema italiano di tangenziali intorno a una città, per una lunghezza complessiva di 106&nbsp;km. Aggiungendo alle quattro tangenziali i tratti urbani di [[autostrada A1 (Italia)|A1]] e [[Autostrada A4 (Italia)|A4]], che corre parallelo alla Tangenziale Nord collegando A51, A50 e A58, si ottiene un sistema di autostrade urbane di {{m|133|u=km}} che circonda totalmente la città. Il flusso di traffico che interessa questo tratto autostradale è di oltre 170.000 transiti giornalieri<ref>{{Cita web | 1 = http://www.serravalle.it/doc/47testi_2Bilancio_07.pdf | 2 = Bilancio 2007 della Milano Serravalle Milano Tangenziali Spa | urlmorto = sì }}</ref>.
+
+== Storia ==
+Fu la seconda tangenziale milanese realizzata dopo la [[Autostrada A50|tangenziale ovest]]. I lavori iniziarono nel 1969 dalla società concessionaria "[[Milano Serravalle - Milano Tangenziali|S.p.a per l'autostrada Serravalle Milano Ponte Chiasso]]".<ref>{{Cita web | url=https://www.serravalle.it/OLD/httpswww.serravalle.it/it/la-societa/profilo-del-gruppo/storia.html | titolo=STORIA | accesso=21 aprile 2023 | dataarchivio=21 aprile 2023 | urlarchivio=https://web.archive.org/web/20230421044210/https://www.serravalle.it/OLD/httpswww.serravalle.it/it/la-societa/profilo-del-gruppo/storia.html | urlmorto=sì }}</ref>
+
+Il 16 ottobre 1971 venne aperto al traffico il tratto fra [[Rogoredo (Milano)|Rogoredo]] e lo svincolo di [[Viale Enrico Forlanini|viale Forlanini]]<ref>{{Cita news|autore =|titolo = Il «millepiedi» scavalcherà parco, fiume e ferrovia|pubblicazione = [[Corriere della Sera]]|città = Milano|editore =|data = 17 ottobre 1971|p =}}</ref>.
+
+Il tronco da Agrate a [[Vimercate]] venne aperto al traffico nel 1975<ref>{{Cita news|autore =|titolo = Si allunga la tangenziale est|pubblicazione = [[Corriere della Sera]]|città = Milano|editore =|data = 19 aprile 1975|p =}}</ref>.
+
+Nel 1992 prese la connotazione attuale con la costruzione di ulteriori 10&nbsp;km da [[Vimercate]] sino a [[Usmate Velate]].
+
+Il progetto della Tangenziale Est si rese necessario per mettere in comunicazione direttamente la direttrice autostradale est - ovest con la direttrice autostradale nord - sud senza che i mezzi entrassero in città, complicando una situazione di traffico già critica all'epoca della costruzione.
+
+== Descrizione ==
+L'A51 ha inizio con il km 0 all'altezza del quartiere di [[rogoredo (Milano)|Rogoredo]], come proseguimento senza soluzione di continuità dell'[[Autostrada A1 (Italia)|autostrada del Sole]]. Prosegue verso nord lambendo le ultime propaggini urbane. Degno di nota è il [[Viadotto dei Parchi]], lungo circa 5&nbsp;km, che partendo in corrispondenza dello svincolo di [[viale Forlanini]] prosegue verso Nord attraversando il [[parco Forlanini]], la zona di via Rubattino e il [[Parco Lambro]].
+
+La tangenziale prosegue intersecando la [[Strada statale 11 Padana Superiore|SP ex SS 11]] presso [[Cascina Gobba]], e poco oltre vi si dirama la [[Autostrada A52 (Italia)|tangenziale nord]] in direzione di Monza. La tangenziale est prosegue attraverso i comuni di [[Cologno Monzese]], [[Brugherio]] e [[Carugate]], mentre in corrispondenza del comune di [[Agrate Brianza]] interseca l'[[Autostrada A4 (Italia)|autostrada Torino-Trieste]].
+
+Raggiunge il comune di [[Usmate Velate]] al km 29,300 dopo aver attraversato i comuni di [[Vimercate]] e [[Concorezzo]] per mezzo di alcuni tratti realizzati in trincea.
+
+La tangenziale è dotata di tre [[corsia di marcia|corsie per senso di marcia]] più la [[corsia di emergenza]], ad esclusione del tratto tra la barriera di Agrate Brianza e Usmate Velate, che ha due corsie per senso di marcia più la [[corsia di emergenza]].
+
+Una particolarità che caratterizzava la tangenziale Est è stata la presenza di uno svincolo (quello di viale Forlanini-Linate) con rampe d'uscita sul lato sinistro della carreggiata, in entrambi i sensi di marcia. Nel mese di marzo [[2008]] le due uscite dalla prima corsia di sorpasso sono state smantellate e rimpiazzate da svincoli sulla destra.<ref>{{collegamento interrotto|1=[http://www.urbanfile.org/public/Fiore/114816_forla_prima.jpg Svincolo Forlanini: prima dell'intervento] |data=novembre 2017 |bot=InternetArchiveBot }}</ref><ref>{{collegamento interrotto|1=[http://www.urbanfile.org/public/Fiore/114852_forla_durante.jpg Svincolo Forlanini: durante l'intervento] |data=novembre 2017 |bot=InternetArchiveBot }}</ref><ref>{{collegamento interrotto|1=[http://www.urbanfile.org/public/Fiore/11507_forla_dopo.JPG Svincolo Forlanini: dopo l'intervento] |data=novembre 2017 |bot=InternetArchiveBot }}</ref>
+
+La velocità massima consentita sulla A51 è normalmente di 90&nbsp;km/h, con riduzione a 80&nbsp;km/h in alcuni tratti.
+
+==Tabella percorso==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A51 Italia.svg|30}} TANGENZIALE EST DI MILANO'''
+|-
+!align="center"|'''n°'''!!align="center"|'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Area'''
+|-
+| || {{simbolo|AB-gerade-grün.svg|13}} ||{{simbolo|Italian traffic signs - simbolo autostrada (figura II 161).svg}} [[Autostrada A1 (Italia)#Raccordo A1-A51|Raccordo R6]]<br /><small>{{simbolo|Italian traffic signs - simbolo autostrada (figura II 161).svg}} [[Autostrada A1 (Italia)#Raccordo A1-Piazzale Corvetto|Raccordo R5]] - {{simbolo|Autostrada A1 Italia.svg|23}} ''[[Autostrada A1 (Italia)|del Sole]]''</small>|| align="right"|0,0 ||align="right"|29,3 || rowspan=17 align="center"|[[Provincia di Milano|MI]]
+|-
+| {{simbolo|MA Route 1.svg}}<br />{{simbolo|MA Route 2.svg}} ||[[File:AB-AS-grün.svg]]|| [[Corvetto (Milano)|Piazzale Corvetto]] - {{simbolo|Strada Statale 9 Italia.svg|45}} [[Strada statale 9 Via Emilia|Via Emilia]]<br /><small>{{simbolo|Italian traffic signs - icona centro.svg}} [[Milano]] - [[San Donato Milanese]]</small> ||align="right"|0,5 ||align="right"|28,8
+|-
+| {{simbolo|MA Route 3.svg}} || [[File:AB-AS-grün.svg]]|| [[Paullo]] - {{simbolo|Strada Provinciale exSS415 Italia.svg|45}} [[Strada statale 415 Paullese|Paullese]]<br /><small>{{simbolo|Milano linea M3.svg}} [[Linea M3 (metropolitana di Milano)|MM3]] [[San Donato (metropolitana di Milano)|San Donato]]</small> ||align="right"|1,0 ||align="right"|28,3
+|-
+| {{simbolo|MA Route 4.svg}} || [[File:AB-AS-grün.svg]]|| Via Mecenate
+{{Simbolo|Italian traffic signs - icona stadio.svg|link=no}} [[Unipol Dome]]<br /><small>[[Peschiera Borromeo]]</small>
+| align="right" |2,5 ||align="right"|26,8
+|-
+| {{simbolo|MA Route 5.svg}} || [[File:AB-AS-grün.svg]]|| C.A.M.M.<br /><small>Consorzio Autostazione Merci di Milano</small> ||align="right"|3,0 ||align="right"|26,3
+|-
+| {{simbolo|MA Route 6.svg}} || [[File:AB-AS-grün.svg]]|| [[Milano]] [[Viale Forlanini]]<br /><small>''{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Linate|Aeroporto internazionale di Milano Linate]]<br />{{simbolo|Strada Provinciale 14 Italia.svg|45}}  Rivoltana''</small> ([[File:Autostrada A58 Italia.svg|25x25px]] [[Autostrada A58|Tangenziale Est Esterna di Milano]] – ingresso di [[Liscate]] a 16&nbsp;km) ||align="right"|4,0 ||align="right"|25,3
+|-
+| {{simbolo|MA Route 7.svg}} || [[File:AB-AS-grün.svg]]|| Via Rubattino<br /><small>[[Segrate]]</small> ||align="right"|6,0 ||align="right"|23,3
+|-
+| {{simbolo|MA Route 8.svg}} || [[File:AB-AS-grün.svg]]|| [[Segrate]]<br />{{simbolo|Strada Provinciale 103 Italia.svg|45}} ''Cassanese'' ([[File:Autostrada A58 Italia.svg|25x25px]] [[Autostrada A58|Tangenziale Est Esterna di Milano]] – ingresso di [[Pozzuolo Martesana]] a 16&nbsp;km) ||align="right"|6,7 ||align="right"|22,6
+|-
+| {{simbolo|MA Route 8.svg}} A || [[File:AB-AS-grün.svg]] || [[Lambrate]] ||align="right"|7,0 ||align="right"|22,3
+|-
+| || {{simbolo|AB-Tank.svg}}|| Area Servizio "Cascina Gobba"<br /><small>Inversione di marcia mediante sottopasso</small>||align="right"|9,7 ||align="right"|19,6
+|-
+| {{simbolo|MA Route 9.svg}}<br />{{simbolo|MA Route 10.svg}} ||[[File:AB-AS-grün.svg]]|| [[Cascina Gobba]] - Via Padova<br /><small>{{simbolo|Strada Statale 11 Italia.svg|35}} ''[[Strada statale 11 Padana Superiore|Padana Superiore]]'' - [[Vimodrone]]<br /><small> {{simbolo|Italian traffic signs - icona centro.svg|18}} [[Crescenzago|V.le Palmanova]]</small><br />{{simbolo|Milano linea M2.svg}} [[Linea M2 (metropolitana di Milano)|MM2]] [[Cascina Gobba|Gobba]]<br />{{simbolo|Italian traffic signs - icona ospedale.svg}} [[Istituto scientifico universitario San Raffaele]]</small>||align="right"|10,5 ||align="right"|18,8
+|-
+| || [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A52 Italia.svg|23}} [[Autostrada A52 (Italia)|Tangenziale Nord]]<ref group="A51" name="uscita">uscita possibile solo in direzione nord; ingresso solo in direzione sud</ref>
+| align="right"|11,5 ||align="right"|17,8
+|-
+| {{simbolo|MA Route 11.svg}} || [[File:AB-AS-grün.svg]]|| [[Cologno Monzese|Cologno]] Ovest<br /><small>Collegamento con la [[Autostrada A52 (Italia)|A52]] per chi viaggia verso sud</small> || align="right" |12,0 ||align="right"|17,3
+|-
+| {{simbolo|MA Route 12.svg}} || [[File:AB-AS-grün.svg]]|| [[Cologno Monzese|Cologno]] Est<br /><small>''{{simbolo|Milano linea M2.svg}} [[Linea M2 (metropolitana di Milano)|MM2]] [[Cologno Nord]]''</small><br /><small>[[Brugherio]]</small> || align="right" |14,0 ||align="right"|15,3
+|-
+| || {{simbolo|AB-Tank.svg}}|| Area Servizio "Cologno Est" ||align="right"|15,7 ||align="right"|--
+|-
+| {{simbolo|MA Route 13.svg}} || [[File:AB-AS-grün.svg]]|| {{simbolo|Strada Provinciale 113 Italia.svg|45}} [[Cernusco sul Naviglio|Cernusco S.N.]]<br /><small>[[Brugherio]] sud</small>||align="right"|16,0 ||align="right"|13,3
+|-
+| {{simbolo|MA Route 14.svg}} || [[File:AB-AS-grün.svg]]|| [[Carugate]]<br /><small>{{simbolo|Strada Provinciale 208 Italia.svg|45}} [[Brugherio]] nord</small> ||align="right"|18,0 ||align="right"|11,3
+|-
+| || {{simbolo|AB-Tank.svg}}|| Area Servizio "Carugate" ||align="right"|19,0 ||align="right"|10,3||rowspan=13 align="center"|[[Provincia di Monza e della Brianza|MB]]
+|-
+| || {{simbolo|Italian traffic signs - stazione.svg}}|| Barriera di [[Agrate Brianza]]<br /><small>''pedaggio 2,00 €<ref>{{cita web  | url=http://www.serravalle.it/it/viaggia-informato/pedaggio/calcola-pedaggio.html  | titolo=Pedaggio sul sito del gestore  | accesso=21 agosto 2015  | urlarchivio=https://web.archive.org/web/20150826022527/http://www.serravalle.it/it/viaggia-informato/pedaggio/calcola-pedaggio.html  | urlmorto=sì  }}</ref>''</small> ||align="right"|19,5 ||align="right"|9,8
+|-
+| || [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 64.svg|27}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Torino - Venezia]]<ref group="A51" name="uscita" /> (solo per chi viaggia verso Lecco)
+| align="right"|20,5 ||align="right"|8,8
+|-
+| {{simbolo|MA Route 15.svg}} || [[File:AB-AS-grün.svg]]|| [[Agrate Brianza]]<br /><small>Collegamento con la [[Autostrada A4 (Italia)|A4]] per chi viaggia verso sud</small><br />||align="right"|21,0 ||align="right"|8,3
+|-
+| {{simbolo|MA Route 16.svg}} || [[File:AB-AS-grün.svg]]|| [[Monza]] Est ||align="right"|21,2 ||align="right"|8,1
+|-
+| {{simbolo|MA Route 17.svg}} || [[File:AB-AS-grün.svg]]|| [[Concorezzo]] (uscita direzione sud, entrata direzione nord)<br /><small>[[Agrate Brianza|Agrate]] nord</small> || align="right" |22,0 ||align="right"|7,3
+|-
+| {{simbolo|MA Route 18.svg}} || [[File:AB-AS-grün.svg]]|| {{simbolo|Strada Provinciale 41 Italia.svg|45}} C.na Morosina - [[Burago di Molgora|Burago]] ||align="right"|24,0 ||align="right"|5,3
+|-
+| {{simbolo|MA Route 19.svg}}<br />{{simbolo|MA Route 20.svg}} || [[File:AB-AS-grün.svg]]|| [[Vimercate]] Sud - Q.re Torri Bianche<br />[[Villasanta]] - [[Arcore]] ||align="right"|25,0 ||align="right"|4,3
+|-
+| {{simbolo|MA Route 21.svg}} || [[File:AB-AS-grün.svg]]|| {{simbolo|Italian traffic signs - icona centro.svg|18}} [[Vimercate]] Centro - [[Oreno]]<br/>{{simbolo|Italian traffic signs - icona ospedale.svg}} ''Vimercate'' ||align="right"|26,0 ||align="right"|3,3
+|-
+| {{simbolo|MA Route 22.svg}} || [[File:AB-AS-grün.svg]]|| [[Vimercate]] Nord - Velasca ||align="right"|28,0 ||align="right"|1,3
+|-
+| || {{simbolo|AB-Tank.svg}}|| Area Servizio "Vimercate ovest" <small>(direzione sud)</small>||align="right"|-- ||align="right"|0,8
+|-
+| {{simbolo|MA Route 23.svg}}||[[File:AB-AS-grün.svg]]|| [[Carnate]] ||align="right"|29,0 ||align="right"|0,3
+|-
+| {{simbolo|MA Route 24.svg}} ||[[File:AB-AS-grün.svg]]|| [[Usmate Velate]] Sud ||align="right"|29,2 ||align="right"|0,1
+|-
+| || {{simbolo|Italian traffic signs - fine strada riservata ai veicoli a motore.svg|17}}|| {{simbolo|Strada Statale 342dir Italia.svg|45}} [[Strada statale 342 Briantea#Strada statale 342 dir Briantea|direzione Lecco]] ||align="right"|29,3 ||align="right"|0,0
+|-
+|}
+<references group="A51" />
+
+==Note==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = La Tangenziale Est alla città di Milano |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno L |numero = 12 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1970 |mese = dicembre |pp = 714-731 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1562#page/1028/mode/2up }}
+
+== Voci correlate ==
+* [[Milano Serravalle-Milano Tangenziali]]
+* [[Autostrada A50|Tangenziale Ovest]]
+* [[Autostrada A52 (Italia)]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+*{{cita web|url=http://www.serravalle.it|titolo=Milano Serravalle- Milano Tangenziali S.p.A.}}
+*{{cita web|url=http://traffico.octotelematics.it/|titolo=(Octotelematics): Monitoraggio in tempo reale del traffico sulle tangenziali di Milano.|accesso=10 aprile 2008|dataarchivio=27 aprile 2020|urlarchivio=https://web.archive.org/web/20200427183531/http://traffico.octotelematics.it/|urlmorto=sì}}
+*{{cita web | url = http://www.lotsberg.net/data/italia/A51.html | titolo = Gallerie e viadotti della A51 | accesso = 3 agosto 2009 | urlarchivio = https://web.archive.org/web/20090828112015/http://www.lotsberg.net/data/italia/A51.html | urlmorto = sì }}
+
+{{Autostrade italiane}}{{Tangenziali in Italia}}{{Portale|Milano|trasporti}}
+
+[[Categoria:Autostrada A51 (Italia)| ]]

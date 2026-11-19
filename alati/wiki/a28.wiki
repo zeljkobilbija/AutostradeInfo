@@ -1,0 +1,134 @@
+{{Strada
+|nome = Autostrada A28
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Portogruaro-Conegliano
+|simbolo = Autostrada A28 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-VEN}}<br />{{IT-FVG}}
+|divisione amm 2 ={{IT-VE}}<br />{{IT-PN}}<br />{{IT-TV}} 
+|inizio = [[Portogruaro]]
+|fine = [[Conegliano]]
+|lunghezza = 48,7<ref name=":3"/>
+|direzione = 
+|apertura = [[1974]]<ref name=":1" />
+|provvedimento istituzione = 
+|gestore = [[Società Autostrade Alto Adriatico]]
+|pedaggio =gratuita (nella tratta tra Conegliano e la barriera di Cordignano il pedaggio è richiesto solo in alcuni casi) 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A28.svg
+|tracciato = 
+}}
+L{{'}}'''autostrada A28''' ha origine a [[Portogruaro]] dall'[[Autostrada A4 (Italia)|autostrada A4]], passa per la città di [[Pordenone]] e dopo un percorso di poco più di 40&nbsp;km termina a [[Conegliano]] sull'[[Autostrada A27 (Italia)|A27]]. Il suo completamento ha richiesto ben 38 anni, per problemi legati all'[[impatto ambientale]]. Sono obbligatorie le dotazioni invernali dal [[15 novembre]] al [[15 aprile]] su tutta la tratta<ref>{{Cita web|url=https://www.infoviaggiando.it/code/14277/Viabilita-invernale|titolo=Autovie Venete|sito=Autovie Venete|lingua=it|accesso=1º gennaio 2021}}</ref>.
+
+== Storia ==
+[[File:L'A28 al km 41 in direzione A4.JPG|thumb|left|upright|L'A28 al km 41 in direzione A4]]
+
+Nel [[1950]], quando fu assegnata la costruzione della [[Autostrada A4 (Italia)|A4]] [[Venezia]]-[[Trieste]] ad [[Autovie Venete]], la concessione era per costruire e gestire l’autostrada [[Venezia]] - [[Palmanova]] - [[Trieste]] con [[Autostrada A23 (Italia)|diramazione Palmanova - Udine]] per 147 chilometri complessivi<ref>{{Cita web|url=https://www.autovieforkids.it/storia/|titolo=La nostra storia|sito=Autovie for KIDS|lingua=it|accesso=1º gennaio 2021|dataarchivio=1 dicembre 2020|urlarchivio=https://web.archive.org/web/20201201020100/https://www.autovieforkids.it/storia/|urlmorto=sì}}</ref>, mentre era previsto di collegare gli altri due capoluoghi di provincia [[Gorizia]] e [[Pordenone]] attraverso una strada a 4 corsie senza [[Autostrada#Italia|standard autostradali]].<ref>A testimonianza di ciò il cavalcavia originale della SS 251 sopra la A4 (1968) era stato predisposto per il raddoppio, e la attuale [[Autostrada A34 (Italia)|A34]] (ex RA17, aperto nel 1970) era costruito a 4 corsie senza corsia di emergenza.</ref><ref name=":0">{{Cita web|url=https://ricerca.gelocal.it/messaggeroveneto/archivio/messaggeroveneto/2007/07/31/PN_03_PNC2.html|titolo=Della bretella Portogruaro-Pordenone si iniziò a parlare negli anni Sessanta - Messaggero Veneto|sito=Archivio - Messaggero Veneto|lingua=it|accesso=1º gennaio 2021}}</ref>
+
+Poco dopo il completamento della [[Autostrada A4 (Italia)|Venezia-Trieste]] e del raccordo [[Autostrada A34 (Italia)|Villesse-Gorizia]], nel [[1970]]<ref name=":1">{{Cita web|url=http://www.lotsberg.net/data/italia/autostrade.html|titolo=Cronologia delle aperture delle autostrade, per autostrada|sito=lotsberg.net|accesso=1º gennaio 2021|dataarchivio=5 ottobre 2018|urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html|urlmorto=sì}}</ref><ref>{{Cita web|url=http://www.lotsberg.net/data/italia/autostra-2.html|titolo=Cronologia delle aperture dei raccordi autostradali, per raccordi autostradali|accesso=1º gennaio 2021|dataarchivio=7 aprile 2016|urlarchivio=https://web.archive.org/web/20160407033506/http://www.lotsberg.net/data/italia/autostra-2.html|urlmorto=sì}}</ref>, [[Autovie Venete]] propose un tracciato diverso ipotizzato in precedenza: al posto del raddoppio della [[Strada statale 251 della Val di Zoldo e Val Cellina|SS 251]] a 4 corsie senza [[corsia di emergenza]], era infatti stato presentato un tracciato nuovo completamente [[autostrada]]le, che prevedeva anche una importante modifica all'uscita della [[Autostrada A4 (Italia)|A4]] a [[Portogruaro]].<ref name=":0" /><ref>Fino alla costruzione della terza corsia dell'A4 dall'alto si poteva ancora notare la vecchia configurazione ed il vecchio casello, ora adibito a deposito mezzi di manutenzione.</ref>
+
+Nel 1972 venne posata la prima pietra, e il 31 dicembre 1974 venne inaugurato il tratto A4 Portogruaro - Pordenone, che terminava sulla SS 251, con un incrocio<ref>"Tracce del precedente incrocio sono ancora visibili ai lati del cavalcavia, come le reti di recinzione delle proprietà private. Ulteriori conferme possono essere trovate consultando la sezione '[https://eaglefvg.regione.fvg.it/eagle/main.aspx?configuration=guest CTR Raster 1980-1986]' del portale Eagle FVG, dove la vecchia conformazione dell'incrocio è chiaramente documentata.</ref>. Negli anni seguenti in seguito all'aumento della popolazione di [[Pordenone]], [[Sacile]] e [[Conegliano]], grazie anche alla presenza dell'industria [[Zanussi]]-[[Electrolux]] con sedi sia a [[Porcia]] che [[Conegliano]]<ref>{{Cita web|url=http://propordenone.org/wp-content/uploads/2018/01/7-21.pdf|titolo=La storia centenaria della Zanussi-Electrolux di Giuseppe Griffoni}}</ref>, il dibattito sul prolungamento della A28 fino all'[[Autostrada A27 (Italia)|A27]] si fece sempre più vivo, anche se osteggiato dai [[Treviso|trevigiani]] e dagli [[Ambientalismo|ambientalisti]]<ref name=":0" />. Il prolungamento [[Pordenone]]-[[Conegliano]], per 28,1 chilometri, venne comunque previsto da una legge del [[1982]], Piano decennale per la viabilità di grande comunicazione<ref>{{Cita web|url=http://www.edizionieuropee.it/law/html/52/zn93_09_047.html|titolo=§ 93.9.47 - Legge 12 agosto 1982, n. 531. Piano decennale per la viabilità di grande comunicazione e misure di riassetto del settore autostradale.|accesso=11 settembre 2021}}</ref>.
+
+A seguito dell'approvazione del progetto del primo tratto [[Pordenone]]-[[Fontanafredda]] venne realizzata una nuova uscita (Pordenone - Interporto) per collegare il costruendo [[interporto]] di Pordenone all'autostrada al posto di un'[[area di servizio]] in località [[Villanova (Pordenone)|Villanova Vecchia di Pordenone]] e il [[Raccordo autostradale 16|raccordo autostradale Cimpello - Pian di Pan]] da parte dell'[[ANAS]], perché  l'uscita di Pordenone Sud venne chiusa per permettere la realizzazione del [[Cavalcavia|sovrappasso]] alla SS 251.
+
+Nel [[1985]]<ref>{{Cita web|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1998/02/16/piani-soldi-ci-sono-basta-litigi.html|titolo=Piani e soldi ci sono Basta litigi - la Repubblica.it|sito=Archivio - la Repubblica.it|lingua=it|accesso=1º gennaio 2021}}</ref> dopo numerose varianti di percorso vennero approvati i primi due lotti e partono i lavori: il primo, 24: [[Pordenone]]-[[Porcia]], e il secondo, 25: [[Porcia]]-[[Fontanafredda]] e il collegamento [[Fontanafredda]] - [[Strada statale 13 Pontebbana|SS 13]]. Nel novembre [[1986]] vengono conclusi i lavori<ref name=":6">{{Cita web|url=https://www.oggitreviso.it/node/29611|titolo=DOPO 36 ANNI APERTA LA A28|lingua=en|accesso=13 febbraio 2021}}</ref>, ma a seguito di un [[Cedimento strutturale|crollo]] nel [[collaudo]] del [[ponte]] sul fiume [[Noncello]] l'autostrada rimase chiusa per indagini della magistratura e altri collaudi alle strutture, l'[[ANAS]] nel novembre [[1988]] conferma la corrispondenza dell'opera agli standard costruttivi richiesti.<ref name=":6" /> Il 1º agosto [[1992]] venne aperta al traffico una sola carreggiata a doppio senso di marcia nel tratto [[Porcia]]-[[Pordenone]]<ref name=":0" />. Il progetto di massima del tratto [[Fontanafredda]]-[[Conegliano]] venne redatto nel febbraio del [[1986]] e, nel giugno dello stesso anno, approvato dall'[[ANAS]].<ref>{{Cita web|url=https://www.ilgiornaledivicenza.it/oltre-vicenza/veneto/dopo-decenni-completato-il-pezzo-di-a28-friuli-veneto-1.1104333|titolo=Dopo decenni completato il pezzo di A28 Friuli-Veneto|autore=Società Editrice Athesis S.p.A, Società Editrice Athesis S.p.A|sito=Il Giornale di Vicenza.it|data=31 luglio 2010T12:00:00+0200|accesso=1º gennaio 2021}}</ref> Il terzo lotto, 26, e il quarto, 27, con i relativi collegamenti Sacile Est con la provinciale 50 e Sacile ovest con la [[Strada statale 13 Pontebbana|SS 13]], vennero consegnati nel [[1991]] e l'autostrada inaugurata il 17 dicembre [[1994]].<ref name=":1" /><ref name=":6" />
+
+Il progetto del tratto Sacile Ovest - innesto [[Autostrada A27 (Italia)|A27]] venne redatto nel [[1991]], approvato dall'[[ANAS]] nel [[1993]], ma per [[Palù (paesaggio)#I palù e l'autostrada A28|problemi legati all'impatto ambientale]] ci fu il diniego della [[Valutazione di impatto ambientale|VIA]]<ref name=":5">{{Cita web|url=https://va.minambiente.it/File/Documento/64070|titolo=Decreto del Ministero dell'Ambiente di concerto con il Ministero per i Beni e le Attività Culturali - Autostrada A28 - Progetto dei lotti 28 e 29 per complessivi 14 km (seconda VIA - 1997)}}</ref>, che è stata rifatta due volte con numerose varianti e riduzione dell'area di occupazione dell'autostrada. Infine è stato scelto il percorso originale del 1991 per il lotto 28, mentre per il lotto 29 un percorso simile all'originale, destando alcune polemiche in fase di VIA in quanto tagliava di netto la linea delle risorgive e i [[Palù (paesaggio)|Palù]]; non è stata costruita una area di parcheggio in località Ghebo/Fontanelle in piena area Palù subito prima dello svincolo dell'[[Autostrada A27 (Italia)|A27]].<ref name=":5" /><ref name="Grande esodo" /><ref>{{Cita web|url=https://va.minambiente.it/File/Documento/63390|titolo=Decreto del Ministero dell'Ambiente di concerto con il Ministero per i Beni e le Attività Culturali - Autostrada A28 - Progetto dei lotti 28 e 29 per complessivi 14 km (terza VIA - 2003)}}</ref><ref>{{Cita web|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1998/03/02/le-strade-perdute-nel-labirinto.html|titolo=Le strade perdute nel labirinto - la Repubblica.it|sito=Archivio - la Repubblica.it|lingua=it|accesso=1º gennaio 2021}}</ref><ref name=":2">{{Cita web|url=https://www.autovie.it/ProxyVFS.axd?snode=16959&stream=|titolo=Sistema A28}}</ref><ref name=":4">{{Cita web|url=http://www.dmi.unipg.it/mamone/sci-dem/nuocontri_3/NBreda.pdf|titolo=Grandi opere come disciplinamento della vita,
+tecnologie del sé e del territorio.|cognome=Breda|nome=Nadia|accesso=1 gennaio 2021|dataarchivio=31 agosto 2021|urlarchivio=https://web.archive.org/web/20210831040108/http://www.dmi.unipg.it/mamone/sci-dem/nuocontri_3/NBreda.pdf|urlmorto=sì}}</ref>
+
+Le associazioni ambientaliste hanno proposto più di una volta un percorso più a Nord in affiancamento alla ferrovia con delle gallerie di sotto-attraversamento di [[Pianzano]] e [[Orsago]]: il problema del suddetto percorso era l'innesto con la A27 in quanto era troppo vicino all'uscita di Conegliano rendendo pericolose le entrate ed uscite<ref>{{Cita web|url=http://web.tiscali.it/vialaa28/home3.html|titolo=Comitato per un percorso alternativo della A28 lontano palù.|sito=web.tiscali.it|accesso=11 gennaio 2021}}</ref>, e i costi delle gallerie dei centri abitati che richiedevano numerosi espropri e sistemi antiallagamento. Stessa cosa per un percorso Sud che sbuca in località [[Santa Maria del Piave]], dove peraltro è previsto un nuovo svincolo della [[Autostrada A27 (Italia)|A27]] a servizio della popolazione locale.<ref>{{Cita web|url=http://caccia.provincia.treviso.it/Engine/RAServePG.php/P/520510010300/T/Firma-del-Protocollo-per-la-realizzazione-del-Casello-di-Santa-Lucia|titolo=Firma del Protocollo per la realizzazione del Casello di Santa Lucia|autore=e-ntRA- CMS per siti accessibili- http://www e-ntra it/- Ra Computer S.p.A|sito=caccia.provincia.treviso.it|lingua=it|accesso=11 gennaio 2021}}</ref>
+
+Nel 2003 iniziarono i lavori del lotto 28, già assegnati nel 2001 e conclusi il 16 settembre 2006<ref name=":1" /><ref name=":2" />, con l'apertura da parte di [[Autovie Venete]] del tratto Sacile Ovest - [[Godega di Sant'Urbano]]. Il tratto venne chiuso il 1º settembre 2009<ref>{{Cita web|url=https://corrieredelveneto.corriere.it/veneto/notizie/cronaca/2009/31-agosto-2009/levada-chiuso-svincolo-a28-1601719915558.shtml?fr=correlati|titolo=Levada, chiuso lo svincolo dell'A28 - Corriere del Veneto|sito=corrieredelveneto.corriere.it|accesso=1º gennaio 2021}}</ref>. La chiusura di tale tratto è stata determinata dal ricorso effettuato dai cittadini di Pianzano al [[Consiglio di Stato]] per l'intensità del traffico in uscita dallo svincolo di Godega che intasava le vie del paese e l'assenza delle opere complementari<ref>{{Cita web|url=https://www.oggitreviso.it/node/17585|titolo=IL CASELLO DI PIANZANO HA I GIORNI CONTATI|lingua=en|accesso=1º gennaio 2021}}</ref>. La bretella di collegamento con la [[Strada statale 13 Pontebbana|SS13 Pontebbana]] che permette di evitare l'attraversamento del centro di Pianzano è stata inaugurata il 23 agosto 2010, ma senza la riapertura dell'autostrada.<ref name=":2" /><ref>{{Cita web|url=http://www.regioni.it/dalleregioni/2010/08/23/friuli-venezia-giulia-viabilita-a28-inaugurata-variante-a-sp-41-di-pianzano-2-130353/|titolo=[Comunicato stampa Giunta regionale Friuli Venezia Giulia] VIABILITA': A28, INAUGURATA VARIANTE A SP 41 DI PIANZANO (2)|sito=Regioni.it|data=T|accesso=1º gennaio 2021|dataarchivio=15 settembre 2021|urlarchivio=https://web.archive.org/web/20210915221640/http://www.regioni.it/dalleregioni/2010/08/23/friuli-venezia-giulia-viabilita-a28-inaugurata-variante-a-sp-41-di-pianzano-2-130353/|urlmorto=sì}}</ref><ref>{{Cita web|url=https://www.oggitreviso.it/node/28014|titolo=BRETELLA DI PIANZANO: OGGI L'INAUGURAZIONE|lingua=en|accesso=1º gennaio 2021}}</ref> Il tratto autostradale venne riaperto il 23 ottobre 2010, ma senza lo svincolo di Godega di Sant'Urbano, che è rimasto chiuso fino al 10 dicembre, quando è stato completato e inaugurato il casello di Godega.<ref>{{Cita web|url=https://www.lestradedellinformazione.it/rubriche/le-nuove-strade/articolo5877|titolo=Infrastrutture, aperto nuovo casello di Godega Sant'Urbano dell'autostrada A28}}</ref>
+
+Tra il 2003 e il 2007 nel tratto autostradale Pordenone-Portogruaro venogno create 70 nuove piazzole di sosta ogni circa 500 metri e installate ogni 4 piazzole una colonnina SOS.<ref>Confrontando le ortofoto CGR del 2003 e del 2007 disponibili sul portale [https://eaglefvg.regione.fvg.it/eagle/main.aspx?configuration=guest Eagle FVG], emerge la realizzazione delle piazzole di sosta, che risultano assenti nelle immagini del 2003.</ref>
+
+I cantieri dell'ultimo tratto iniziano nel 2007, dopo ben 3 [[Valutazione di impatto ambientale|VIA]] e numerose prescrizioni ambientali per evitare di distruggere i [[Palù (paesaggio)|Palù]]<ref name=":2" />, già gravemente rovinati dalle bonifiche degli anni '70.<ref name=":4" /> L'ultimo tratto Godega di Sant'Urbano - innesto A27 a Conegliano venne inaugurato il 23 ottobre 2010<ref>{{Cita web|url=https://www.oggitreviso.it/node/31170|titolo=A28, CASELLO APERTO. ZAIA: SCUSE PER I 40 ANNI D’ATTESA|lingua=en|accesso=1º gennaio 2021}}</ref>. L'apertura di questa tratta, solamente provenendo dalla A27, è stata anticipata nei weekend di agosto 2010 per permettere di evitare il tratto critico dell'[[Autostrada A4 (Italia)|autostrada A4]] tra [[Mestre]] e [[Portogruaro]] nonostante i lavori non del tutto conclusi.<ref name="Grande esodo">{{Cita web|url=https://corrieredelveneto.corriere.it/veneto/notizie/cronaca/2010/31-luglio-2010/grande-esodo-ora-c-via-fuga-aperta-quarant-anni-a28-1703496187455.shtml|titolo=Grande esodo, ora c’è la via di fuga Aperta dopo quarant’anni la A28 - Corriere del Veneto|sito=corrieredelveneto.corriere.it|accesso=1º gennaio 2021}}</ref>
+
+== L'autostrada oggi ==
+L'autostrada è da due corsie più corsia d'emergenza, il tratto tra [[Fontanafredda]] e [[Cimpello]] funge anche da Tangenziale Sud per la città di Pordenone, riducendo drasticamente il traffico nel sud della città di [[Pordenone]]. Questa direttrice è in gestione alla società [[Società Autostrade Alto Adriatico]], lungo l'itinerario sono presenti due [[area di servizio|aree di servizio]]: Gruaro e Porcia/Brugnera. Sulla tratta tra Azzano Decimo e Villotta in direzione Portogruaro sono presenti i dispositivi Safety Tutor per il controllo della velocità media.<ref>{{Cita web|url=https://www.infoviaggiando.it/code/14180/Tutor|titolo=Autovie Venete|sito=Autovie Venete|lingua=it|accesso=11 gennaio 2021}}</ref> Sono obbligatorie le dotazioni invernali su tutta la tratta dal 15 novembre al 15 aprile.<ref>{{Cita web|url=https://www.autovie.it/Sicurezza|titolo=Viabilità invernale|sito=Autovie Venete|lingua=it|accesso=11 gennaio 2021}}</ref>
+
+La tratta da Sacile ovest (passato il casello di Cordignano) a Portogruaro è esente da pedaggio.
+
+=== Percorso ===
+L'autostrada inizia dallo svincolo della [[Autostrada A4 (Italia)|A4]] nelle vicinanze della Zona industriale di [[Portogruaro]] e prosegue per un intero tratto quasi rettilineo fino all'uscita di [[Cimpello]] seguendo lo stesso percorso della [[Strada statale 251 della Val di Zoldo e Val Cellina|SS 251]], ma bypassando i centri abitati. Da qui l'autostrada si distacca dal percorso della [[Strada statale 251 della Val di Zoldo e Val Cellina|SS 251]] e segue l'itinerario della [[Strada statale 13 Pontebbana|SS 13]] mantenendo una distanza superiore rispetto a quella tenuta dalla [[Strada statale 251 della Val di Zoldo e Val Cellina|SS 251]]<ref>Circa 4&nbsp;km, rispetto al km di prima, dovuto al fatto che i centri abitati tra Pordenone e Conegliano sono più densamente abitati di quelli tra Portogruaro e Pordenone.</ref>, rendendo quindi necessario alcune bretelle di collegamento ([[Raccordo autostradale 16|RA 16]], Bretella di Fontanafredda, Sacile Est, Sacile Ovest, Variante di Pianzano). Subito dopo l'uscita di Cimpello l'autostrada sovrappassa il fiume [[Meduna]] attraverso un viadotto, successivamente ci sono le uscite Pordenone Interporto - Centro Ingrosso e Pordenone Sud. Dopo aver oltrepassato l'uscita di [[Pordenone]] l'autostrada non procede più in rettilineo e principalmente in viadotto superando il fiume [[Noncello]] e le risorgive di [[Porcia]]. L'uscita di [[Fontanafredda]] ricade interamente nel comune di [[Porcia]], e il nome Fontanafredda deriva dal fatto che il tratto finale della bretella di Fontanafredda finisce a Ronche di Fontanafredda, a pochi passi dal confine comunale. Inoltre, l'uscita di Fontanafredda viene usata anche per collegare le due zone industriali di [[Porcia]]. Nel tratto tra [[Sacile]] Est e Sacile Ovest l'autostrada supera il fiume [[Livenza]] col viadotto più lungo della A28 (ben 1.140 metri)<ref>{{Cita web|url=http://www.lotsberg.net/data/italia/A28.html|titolo=The World's longest Tunnel Page: Infrastrutture sulla A28 Portogruaro (A4) - Conegliano (A27)|accesso=11 gennaio 2021}}</ref>. Superata la Barriera di Cordignano l'autostrada taglia perpendicolarmente i [[Palù (paesaggio)|Palù]] attraverso dei terrapieni<ref name=":4" /> e termina a [[Conegliano]] ove si innesta sulla [[autostrada A27 (Italia)|A27]].
+
+=== Tabella percorso ===
+{| class="wikitable"
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''{{simbolo|Autostrada A28 Italia.svg|30}} PORTOGRUARO - PORDENONE - CONEGLIANO'''
+|-
+! '''Tipo'''!! align="center"| '''Indicazione'''!! align="center"|'''↓km↓'''<ref name=":3">{{Cita web|url=https://www.autovie.it/ProxyVFS.axd/null/r20375/Planimetria-Schematica-estesa-autostradale-All-n-2-pdf?ext=.pdf|titolo=Allegato n.2: PLANIMETRIA SCHEMATICA ESTESA AUTOSTRADALE DI COMPETENZA S.P.A. AUTOVIE VENETE}}</ref>!! align="center"| '''↑km↑'''!! align="center"| '''Area'''
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 55.svg|24}}{{simbolo|Italian traffic signs - strada europea 70.svg|24}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Venezia - Trieste]]
+| align="right"| 0|| align="right"| 48,75|| rowspan=4 align="center"| [[Città metropolitana di Venezia|VE]]
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera di [[Portogruaro]] || align="right"| 0,658 ||align="right"| 48,092
+|-
+| [[File:AB-AS-grün.svg]]|| [[Portogruaro]]|| align="right"| 1,08|| align="right"| 47,67
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Gruaro"|| align="right"| 1,200
+| align="right" |
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sesto al Reghena]]|| align="right"| 4,692|| align="right"| 44,058|| rowspan="13" align="center" |[[Provincia di Pordenone|PN]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chions|Villotta]]|| align="right"| 8,672|| align="right"| 40,078
+|-
+| [[File:AB-AS-grün.svg]]|| [[Azzano Decimo]]|| align="right"| 13,951|| align="right"| 34,799
+|-
+| [[File:AB-AS-grün.svg]]{{simbolo|AB-Kreuz-blaugrün.svg|17}}|| [[Fiume Veneto|Cimpello]]
+{{simbolo|Italian_traffic_signs_-_raccordo_autostradale_16.svg|23}} [[Raccordo autostradale 16|Raccordo Cimpello - Pian del Pan]]
+| align="right"| 17,225|| align="right"| 31,525
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pordenone|Pordenone Interporto - Centro Ingrosso]]{{simbolo|Italian traffic signs - icona supermercato.svg}}<ref>ex Pordenone Zona Commerciale, svincolo di competenza di INTERPORTO - CENTRO INGROSSO DI PORDENONE S.p.A. e non della concessionaria.</ref>|| align="right" | 20,449|| align="right"| 28,301
+|-
+|{{simbolo|AB-Tank.svg}}{{simbolo|Italian_traffic_signs_-_divieto_di_transito.svg|16}}
+|Area di Servizio dismessa<ref>Area di Servizio dismessa a seguito della realizzazione dello svincolo Pordenone Interporto. La superficie dell'ex area di Servizio è ancora di proprietà di Autovie Venete e identificabile dall'alto.</ref>
+| align="right" | 20,449
+| align="right" | 28,301
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pordenone]]|| align="right"| 21,510|| align="right"| 27,24
+|-
+| [[File:AB-AS-grün.svg]]|| [[Porcia]]|| align="right"| 24,364|| align="right"| 24,386
+|-
+|[[File:AB-AS-grün.svg]]|| [[Fontanafredda]]|| align="right" | 28,059|| align="right"| 20,691
+|-
+|{{simbolo|AB-Tank.svg}}|| Area di servizio "Porcia"<ref>solo direzione Conegliano</ref>|| align="right" | 29,300|| align="right"|
+|-
+|{{simbolo|AB-Tank.svg}}|| Area di servizio "Brugnera"<ref>solo direzione Portogruaro</ref>|| align="right" | 29,500|| align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sacile|Sacile Est]]|| align="right"| 31,129|| align="right"| 17,621
+|-
+| [[File:AB-AS-grün.svg]]|| [[Sacile|Sacile Ovest]]|| align="right"| 35,05|| align="right"| 13,70
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera di Cordignano|| align="right"| 36,428|| align="right"| 12,322|| rowspan=3 align="center"|[[Provincia di Treviso|TV]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Godega di Sant'Urbano]]|| align="right"| 43,790|| align="right"| 4,96
+|-
+| [[File:AB-AS-grün.svg]] {{simbolo|AB-Kreuz-grün.svg|17}}|| [[Conegliano]]<br />{{simbolo|Autostrada A27 Italia.svg|23}} [[Autostrada A27 (Italia)|Venezia-Belluno]]|| align="right"| 48,75|| align="right"| 0
+|}
+
+== Note ==
+<references />
+
+== Voci correlate ==
+* [[Palù (paesaggio)]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|http://www.autovie.it|Autovie Venete}}
+* {{cita web|http://www.lotsberg.net/data/italia/A28.html|Gallerie e viadotti della A28}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A28]]
+[[Categoria:Autostrade in Friuli-Venezia Giulia]]

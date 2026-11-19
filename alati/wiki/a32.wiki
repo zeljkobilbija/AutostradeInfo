@@ -1,0 +1,156 @@
+{{Strada
+|nome = Autostrada A32
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada del Frejus<br />Torino-Bardonecchia
+|simbolo = Autostrada A32 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}
+|divisione amm 2 = {{IT-TO}} 
+|inizio = [[Torino]]
+|fine = [[Traforo stradale del Frejus]]
+|lunghezza = 73<ref>{{Cita web |url=http://www.sitaf.it/home.aspx?ch=2 |titolo=Sitaf |accesso=24 giugno 2009 |urlarchivio=https://web.archive.org/web/20090828092055/http://www.sitaf.it/home.aspx?ch=2 |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1987]]<ref>{{Cita web |url=http://www.sitaf.it/home.aspx?ch=4 |titolo=Sitaf |accesso=24 giugno 2009 |urlarchivio=https://web.archive.org/web/20090903121456/http://www.sitaf.it/home.aspx?ch=4 |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore =[[Società Italiana per il Traforo Autostradale del Frejus|SITAF]] 
+|pedaggio = [[Pedaggio#Sistema autostradale aperto|sistema aperto]]
+|città servite = 
+|intersezioni = 
+|europea1 = 70
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A32.svg
+|tracciato = Tracciato A32.svg
+}}
+L''''autostrada A32,''' nota anche come '''Autostrada del Frejus''' o '''Torino-Bardonecchia,''' è un'infrastruttura autostradale lunga 72,4&nbsp;km con percorso che si sviluppa interamente nella [[città metropolitana di Torino]]. Partendo dal [[Torino|capoluogo piemontese]], collega l'[[Italia]] alla [[Francia]] col [[traforo stradale del Frejus]] per poi proseguire fino a [[Lione]] come [[Autoroute A43]].
+
+== Storia ==
+La sua costruzione iniziò subito dopo l'apertura del traforo stradale del Frejus nel luglio [[1980]]; nel [[1983]] fu inaugurato il tratto Savoulx-Traforo, a unica [[carreggiata]] con tre [[corsia di marcia|corsie]], di cui due per la salita verso il traforo.
+
+Nel [[1987]] fu aperta al traffico la tratta Deveys-Savoulx, già a carreggiate separate, mentre dal [[1985]] erano iniziati i lavori della tratta più complessa dal punto di vista orografico e quindi delle opere, la Susa-Deveys appunto.
+Parallelamente, a valle si procedeva dalla barriere di Bruere e dallo svincolo di [[Rivoli]] (raccordo della [[Autostrada A55|tangenziale di Torino]]), aprendo i tratti [[Avigliana]]-[[Bussoleno]] Rivoli-Avigliana, tutti entro il [[1990]].
+
+Nel novembre [[1992]] veniva terminata la tratta più difficile da Susa Est a Deveys, con, tra l'altro, la [[Tunnel|galleria]] Cels, a doppia canna, lunga 5,2&nbsp;km.
+
+Quasi tutto era terminato: mancava il tassello Bussoleno-Susa Est, con la lunga galleria Prapontin di 4,4&nbsp;km; tale tratta fu terminata entro l'estate del 1994.
+
+Successivamente, nel 1997, è stato aperto il nuovo svincolo di Oulx Ovest-S.S. 24 Monginevro con una lunga galleria, mentre le [[Olimpiadi invernali di Torino|Olimpiadi di Torino 2006]] hanno permesso di trovare i finanziamenti per raddoppiare la tratta da cui è iniziata la storia dell'autostrada: la Savoulx-Traforo Frejus, anch'essa a carreggiate separate, con due corsie per senso di marcia.
+
+== L'autostrada oggi ==
+L'autostrada ha la sua progressiva chilometrica d'inizio tre chilometri dopo la barriera di pedaggio di Bruere, al termine del ramo di connessione della [[Autostrada A55|Tangenziale di Torino]], appartenente alla Tangenziale Nord essendo già stato realizzato contestualmente al sistema tangenziale torinese. Dopo brevissima distanza, sottopassa la [[Anfiteatro morenico di Rivoli-Avigliana|collina morenica di Rivoli]] tramite due gallerie, passate le quali inizia a percorrere con pendenze ridottissime l'ampio fondovalle della [[Val di Susa|Bassa Valle di Susa]], correndo a metà strada fra le statali [[Strada statale 24 del Monginevro|24]] e [[Strada statale 25 del Moncenisio|25]]. In questo tratto pressoché pianeggiante incontra le tre uscite di [[Avigliana]], la sua barriera di pedaggio e gli svincoli di [[Borgone Susa]] e [[Chianocco]].
+
+Poco prima del comune di [[Bussoleno]] si trova la prima galleria di una certa lunghezza, la ''Prapontin'', di circa 4,4 km, che serve sostanzialmente all'autostrada per aggirare il centro abitato e raggiungere agevolmente la conca di [[Susa (Italia)|Susa]], servita anch'essa da tre uscite, di cui una che collega direttamente la SS25 verso il [[Colle del Moncenisio]].
+
+Da questo punto in poi, l'orografia del percorso muta radicalmente, e l'autostrada comincia a salire con pendenze nettamente maggiori per superare la grande differenza di quota presente fra la città di Susa (circa 500 m s.l.m.) e il paese di [[Salbertrand]] (circa 1050 m s.l.m.), situato in Alta Valle, coprendo gli oltre 500 metri di dislivello in meno di 15 chilometri, su un tracciato ricco di viadotti e gallerie, tra cui la più lunga, la ''Cels'', di circa 5,3 km, che supera le gole della [[Dora Riparia]] nei pressi del paese di [[Exilles]] e aggira l'[[Forte di Exilles|omonimo forte]].
+
+Giunta in Alta Valle, l'autostrada spiana e incontra prima l'ultima barriera di pedaggio a Salbertrand, e successivamente le tre uscite di [[Oulx]], tra cui l'ultima permette, tramite una circonvallazione classificata come raccordo autostradale, di collegare la A32 direttamente con la SS24 verso il [[Colle del Monginevro]]. Superata Oulx, inizia l'ultimo tratto (gratuito) che porta in direzione di [[Bardonecchia]] e del traforo, con pendenze nuovamente significative e un percorso che si sviluppa a mezza costa lungo il versante sinistro della valle. Lo svincolo di Bardonecchia si trova poche decine di metri prima dell'ultima area di servizio prima del traforo e della barriera di accesso a quest'ultimo, superata la quale, a una quota di circa 1300 m s.l.m. l'autostrada termina presso l'imbocco del [[Traforo stradale del Frejus|Traforo del Frejus]].
+
+La gestione è di competenza della ''SITAF'' (''[[Società Italiana per il Traforo Autostradale del Frejus]]''), unitamente alla parte italiana del traforo.
+
+La A32 fa parte, per quanto riguarda le [[strade europee]] e per la sua totalità, della [[Strada Europea E70|E70]], dorsale ovest-est che unisce [[La Coruña]] in [[Spagna]] con [[Trebisonda]] in [[Turchia]].
+
+=== Pedaggi ===
+A differenza della stragrande maggioranza delle autostrade italiane, la Torino-Bardonecchia non è dotata di caselli per il pagamento del pedaggio ai collegamenti con la viabilità ordinaria, ma sono presenti due sole barriere per la riscossione del pedaggio: una in Bassa Valle Susa, nel territorio del comune di Avigliana e una in Alta Valle Susa, nel territorio del comune di Salbertrand. Pertanto, qualsiasi percorso autostradale fra due collegamenti che non implichi l'attraversamento di una delle due barriere non è soggetto a pagamento di pedaggio.
+
+=== Tabella percorso ===
+[[File:Ramat02.JPG|thumb|Il viadotto ''Ramat'', di fronte al comune di [[Chiomonte]]]]
+[[File:AutostA3201.JPG|thumb|L'Autostrada A32 nei pressi di [[Beaulard]]. Sulla destra in basso la [[Ferrovia del Frejus]] e la [[Dora di Bardonecchia]].]]
+[[File:autoporto susa palazzina sitaf da monte fassolino.jpg|thumb|L'autoporto di Susa (a destra) e la palazzina con gli uffici della [[SITAF]].]]
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font -size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A32 Italia.svg|30}} TORINO - FREJUS'''<br />Autostrada del Frejus
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A55 Italia.svg|22}} [[Autostrada A55|tangenziale Nord di Torino]] ||align="right"|- || align="right"|- ||align="center" rowspan=19|[[Provincia di Torino|TO]]||align="center" rowspan=20| [[File:Italian traffic signs - strada europea 70.svg|50px|link=Strada europea E70]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rivoli]] - [[Rosta]]<ref name="Direzione Torino: solo uscita">Direzione Torino: ''solo uscita''</ref><br /><small>{{simbolo|Italian traffic signs - icona industria.svg}} Zona industriale </small><br />||align="right"|0||align="right"|73
+|-
+| [[File:AB-AS-grün.svg]]|| [[Avigliana]] Est<ref name="FrejusNo">Direzione Frejus: ''né ingresso né uscita''</ref>||align="right"|6.9||align="right"|66,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Avigliana]] Centro<ref name="FrejusNo" />||align="right"|7,2||align="right"|65,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Avigliana]] Ovest - [[Almese]]||align="right"|9||align="right"|64
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera [[Avigliana]]<br /><small>''pedaggio 5,40[[euro|€]]''</small> ||align="right"| ||align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Borgone Susa|Borgone]]<ref name="ReferenceA">Direzione Torino: ''solo ingresso'', Direzione Frejus: ''solo uscita''</ref>||align="right"|24||align="right"|43 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chianocco]]||align="right"|28||align="right"| 45
+|-
+| [[File:AB-AS-grün.svg]]|| [[Susa (Italia)|Susa]] Est || align="right" |35 ||align="right"|38
+|-
+| [[File:AB-AS-grün.svg]]|| [[Susa (Italia)|Susa]] Est<ref name="ReferenceA"/><small>Autoporto</small>||align="right"|36 ||align="right"|37
+|-
+| [[File:AB-AS-grün.svg]]|| [[Susa (Italia)|Susa]] Ovest<ref name="Direzione Torino: solo uscita"/><br />{{simbolo|Strada Statale 25 Italia.svg|35}} <small>''[[Strada statale 25 del Moncenisio|del Moncenisio]]'' - [[Venaus]]</small> ||align="right"|40 ||align="right"|33
+|-
+|[[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Gran Bosco Salbertrand" ||align="right"|54 ||align="right"|19
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera [[Salbertrand]]<br /><small>''pedaggio 7,40[[euro|€]]''</small> ||align="right"|57 ||align="right"|16
+|-
+| [[File:AB-AS-grün.svg]]|| [[Oulx]] Est<ref name="ReferenceA"/> ||align="right"|59 ||align="right"|14
+|-
+| [[File:AB-AS-grün.svg]]|| [[Oulx]] Ovest<ref name="Direzione Torino: solo uscita"/> || align="right" |61,5 ||align="right"|11,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Oulx]] Circ.ne<br /><small>{{simbolo|Strada Statale 24 Italia.svg|35}} ''[[Strada statale 24 del Monginevro|del Monginevro]]''</small> ||align="right"| ||align="right"|
+|-
+| [[File:AB-AS-grün.svg]]|| [[Savoulx]]<ref>Direzione Frejus: ''solo ingresso''</ref><br /><small>{{simbolo|Strada Statale 335 Italia.svg|35}} ''[[Strada statale 335 di Bardonecchia|di Bardonecchia]]''</small> ||align="right"|65 ||align="right"|8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bardonecchia]]<br /><small>{{simbolo|Strada Statale 335 Italia.svg|35}} ''[[Strada statale 335 di Bardonecchia|di Bardonecchia]]''</small> || align="right" |72 ||align="right"|1
+|-
+|[[File:Italian traffic signs - simbolo area servizio.svg|30x30px]] || Area di servizio "Frejus"||align="right"|73 ||align="right"|0
+|-
+| {{simbolo|Italian traffic signs - galleria.svg|18}}|| {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Traforo T4 Italia.svg|22}} [[Traforo stradale del Frejus]] ||align="right"|- ||align="right"|- 
+|-
+|{{simbolo|Italian traffic signs - preavviso di confine di Stato tra paesi della Comunità Europea (Francia).svg|22}}|| {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autoroute française 43.svg|30}} [[Autoroute A43|autostrada della Maurienne]]<br />{{bandiera|EUR|dim=18}} {{bandiera|FRA|dim=18}} <small>Confine di Stato - [[Francia]]</small><br />|| align="right"|-|| align="right"|-|| align="center"|-
+|}
+
+== Circonvallazione di Oulx ==
+{{Strada|nome=A32 Circonvallazione di Oulx|apertura=|mappa=|europea altro=|europea3=|europea2=|europea1=|intersezioni=|città servite=|pedaggio=no|gestore=|provvedimento istituzione=|direzione=|tipo=[[Autostrada]]|lunghezza=2,3|fine=Oulx|inizio=A32|divisione amm 2={{IT-TO}}|divisione amm 1={{IT-PIE}}|nome successivo=|nome precedente=|simbolo=Autostrada A32 Italia.svg|nome secondario=|stato=ITA|tracciato=}}Dallo svincolo Oulx Circonvallazione della A32, inizia la Circonvallazione di Oulx, che, sebbene a carreggiata unica, è classificata come autostrada.<ref>{{Cita web|url=https://www.mit.gov.it/comunicazione/news/autostrade-concessioni-autostradali-direzione-generale-vigilanza|titolo=Elenco autostrade del MIT|accesso=21 dicembre 2020|urlarchivio=https://web.archive.org/web/20210111162246/https://www.mit.gov.it/comunicazione/news/autostrade-concessioni-autostradali-direzione-generale-vigilanza|urlmorto=sì}}</ref> Aggira l'abitato di [[Oulx]] per una lunghezza complessiva di 2,3 Km<ref>{{Cita web|url=https://www.google.com/maps/@45.0272412,6.8342207,3a,75y,212.18h,71.59t/data=!3m6!1e1!3m4!1s3_GLWTqORgx1Z6CYKdN-wg!2e0!7i13312!8i6656|titolo=Google Maps}}</ref> e presenta uno svincolo per [[Cesana Torinese]]. Viene gestito dalla stessa [[Società Italiana per il Traforo Autostradale del Frejus|SITAF]].<ref>{{Cita web|url=https://www.sitaf.it/a32-torino-bardonecchia/percorso-e-traffico-a32/percorso-autostradale/|titolo=Circonvallazione di Oulx sul sito della SITAF}}</ref>
+{| class="wikitable"
+| colspan="5" align="center" |CIRCONVALLAZIONE DI OULX
+|-
+!Tipo
+!Indicazione
+!↓km↓
+!↑km↑
+!Provincia
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|[[File:Autostrada_A32_Italia.svg|24x24px|A32]] Torino - Bardonecchia
+| align="right" |0,0
+| align="right" |2,3
+| rowspan="3" |[[Provincia di Torino|TO]]
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Cesana Torinese]]
+[[File:Strada Statale 24 Italia.svg|30x30px]] [[Strada statale 24 del Monginevro|<small>del Monginevro</small>]]
+<small>(uscita inesistente in direzione A32)</small>
+|0,8
+|1,5
+|-
+|{{simbolo|AB-ende-grün.svg|17}}
+|[[File:Strada Provinciale 214 Italia.svg|50x50px]] [[Oulx]] - [[Sauze d'Oulx]]
+| align="right" |2,3
+| align="right" |0
+|}
+
+== Note ==
+<references/>
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.sitaf.it/home.aspx?ch=1|titolo=SITAF|urlmorto=sì|accesso=19 luglio 2006|dataarchivio=12 luglio 2006|urlarchivio=https://web.archive.org/web/20060712211922/http://www.sitaf.it/home.aspx?ch=1}}
+* {{cita web|url=http://www.quattroruote.it/telecamere/ViewPoint.cfm?ZonaVp=4&Camera=25|titolo=Webcam all'imbocco in direzione Frejus (fonte www.quattroruote.it)|urlmorto=sì|urlarchivio=https://web.archive.org/web/20070101002431/http://www.quattroruote.it/telecamere/viewpoint.cfm?ZonaVp=4&Camera=25}}
+* {{cita web|http://www.lotsberg.net/data/italia/A32.html|Gallerie e viadotti della A32}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A32]]

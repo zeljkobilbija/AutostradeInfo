@@ -1,0 +1,90 @@
+{{Strada
+|nome = Autostrada A53
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Bereguardo-Pavia 
+|simbolo = Autostrada A53 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 ={{IT-PV}} 
+|inizio = [[Bereguardo]]
+|fine = [[Pavia]]
+|lunghezza = 9,1<ref>{{Cita web |url=http://www.serravalle.it/Tratte-autostradali-2.html |titolo=Dal sito del gestore |accesso=16 luglio 2009 |urlarchivio=https://web.archive.org/web/20120209233152/http://www.serravalle.it/Tratte-autostradali-2.html |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1960]]<ref name=autogenerato1>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Milano Serravalle - Milano Tangenziali]] 
+|pedaggio = Assente
+|città servite = 
+|intersezioni = [[Autostrada A7 (Italia)|A7]], [[Autostrada A54 (Italia)|A54]]
+|mappa = Italia - mappa autostrada A53.svg
+|tracciato = Mappa autostrada A53.svg
+}}
+[[File:Raccordo Autostradale 7 Bereguardo-Pavia - Italia.svg|miniatura|Indicazione alternativa del raccordo indicata dai documenti [[Anas (azienda)|Anas]]]]
+L''''[[autostrada]] A53'''<ref name="autogenerato3">{{Cita web |url=http://www.serravalle.it/Tratte-autostradali-2.html |titolo=Milano Serravalle |accesso=16 luglio 2009 |urlarchivio=https://web.archive.org/web/20120209233152/http://www.serravalle.it/Tratte-autostradali-2.html |urlmorto=sì }}</ref><ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |titolo=A pag. 8 |accesso=8 maggio 2010 |urlarchivio=https://web.archive.org/web/20131016102523/http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |urlmorto=sì }}</ref> (o '''[[raccordo autostradale]] 7 (RA 7)''' secondo la numerazione dell'[[Anas (azienda)|Anas]])<ref name="autogenerato2">{{Cita web|url=http://www.stradeanas.it/index.php?/file/open/10482|titolo=|accesso=17 ottobre 2009|dataarchivio=13 settembre 2011|urlarchivio=https://web.archive.org/web/20110913060217/http://www.stradeanas.it/index.php?%2Ffile%2Fopen%2F10482|urlmorto=sì}}</ref> è un breve [[Raccordo autostradale|raccordo]], a due corsie per senso di marcia senza corsie di emergenza, di 9&nbsp;km che collega l'[[Autostrada A7 (Italia)|autostrada A7]] alla [[Autostrada A54 (Italia)|A54]] (la tangenziale Ovest di [[Pavia]]), inaugurato il 10 settembre 1960.<ref name="autogenerato1" />
+
+Affidata in gestione alla società [[Milano Serravalle-Milano Tangenziali]], la stessa concessionaria che gestisce il tratto da [[Milano]] a [[Serravalle Scrivia]] dell'A7, la tangenziale Ovest di Pavia e le tangenziali Nord, Est e Ovest di Milano, l'A53 è stata classificata come raccordo autostradale con [[Decreto ministeriale|d. m.]] del 23/03/1971 ([[Gazzetta Ufficiale della Repubblica Italiana|GU]] 73 del 17/03/1972).<ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/trim_3_4_2009.pdf |titolo=Aiscat informazioni, n°3-4 (2009). |accesso=8 settembre 2010 |urlarchivio=https://web.archive.org/web/20101008173949/http://www.aiscat.it/pubblicazioni/downloads/trim_3_4_2009.pdf |urlmorto=sì }}</ref>
+
+Il decreto del presidente del Consiglio dei ministri del 21 settembre 2001 (Gazzetta Ufficiale n. 226 del 28-09-2001)<ref>{{cita testo|url=http://gazzette.comune.jesi.an.it/2001/226/3.htm|titolo=Il decreto con gli allegati regione per regione|accesso=30 agosto 2009|dataarchivio=24 marzo 2016|urlarchivio=https://web.archive.org/web/20160324000824/http://gazzette.comune.jesi.an.it/2001/226/3.htm|urlmorto=sì}}</ref> ha assegnato al raccordo la numerazione ''RA 7''.
+
+Sono stati eseguiti una serie di interventi di adeguamento agli standard autostradali, con un investimento di 20,8 milioni di euro.<ref>{{cita testo|url=http://www.serravalle.it/Progetti-infrastrutturali-65.html|titolo=Dal sito del gestore|urlarchivio=https://web.archive.org/web/20090614151610/http://www.serravalle.it/Progetti-infrastrutturali-65.html }}</ref>
+
+== Segnaletica ==
+La numerazione A53 è presente solo nei pannelli integrativi posti in prossimità dei cavalcavia, mentre la numerazione RA 7 è assente nella segnaletica stradale. Tutti i segnali stradali presenti nel raccordo sono a sfondo blu, di norma usati per le strade extraurbane, mentre i segnali stradali a sfondo verde, usati per le autostrade, presenti nel raccordo sono quelli delle progressive chilometriche. Sono inoltre presenti i segnali di inizio e fine autostrada.
+
+== Percorso ==
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''A53 Raccordo BEREGUARDO - PAVIA'''
+|-
+!'''Tipo'''
+!n°
+uscita
+! align="center" |'''Indicazione'''!!align="center"|'''↓km↓'''!!align="center"|'''↑km↑'''!!align="center"|'''Provincia'''
+|-
+|{{simbolo|AB-Kreuz-grün.svg|17}}
+| ||{{simbolo|Autostrada A7 Italia.svg|23}} [[Autostrada A7 (Italia)|Milano - Genova]] || align="right"| 0,0 || align="right"| 9,1 || rowspan=10 align="center"|[[Provincia di Pavia|PV]]
+|-
+|{{simbolo|Italian traffic signs - stazione.svg}} 
+| ||Barriera [[Bereguardo]] || align="right"| 0,1 || align="right"| 9,0 
+|-
+|[[File:AB-AS-grün.svg]] 
+|1||[[Bereguardo]] || align="right"| 0,6 || align="right"| 8,5 
+|-
+|[[File:AB-AS-grün.svg]] 
+|2||Cascina Carpana || align="right"| 2,0 || align="right"| 7,1 
+|-
+|[[File:AB-AS-grün.svg]] 
+|3||[[Casottole]] || align="right"| 2,8 || align="right"| 6,3 
+|-
+|[[File:AB-AS-grün.svg]] 
+|4||[[Torre d'Isola]] || align="right"| 4,1 || align="right"| 5,0 
+|-
+|[[File:AB-AS-grün.svg]] 
+|5||[[Villaggio dei Pioppi]] || align="right" | 4,8 || align="right"| 5,3 
+|-
+|[[File:AB-AS-grün.svg]] 
+|6||Massaua || align="right" | 6,5 || align="right"| 2,6 
+|-
+|[[File:AB-AS-grün.svg]] 
+|7||[[Pavia]] Via Riviera || align="right"| 8,5 || align="right"| 0,6 
+|-
+|{{simbolo|AB-Kreuz-grün.svg|17}}
+| ||{{simbolo|Autostrada A54 Italia.svg|23}} [[Autostrada A54 (Italia)|Tangenziale di Pavia]]|| align="right"| 9,1 || align="right"| 0,0 
+|}
+
+== Note ==
+<references />
+
+== Altri progetti ==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A53]]
+[[Categoria:Raccordi autostradali in Italia|07]]

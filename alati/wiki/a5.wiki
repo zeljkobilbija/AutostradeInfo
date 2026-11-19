@@ -1,0 +1,258 @@
+{{Strada
+|nome = Autostrada A5
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada della Valle d'Aosta<br/>(FR) Autoroute de la Vallée d'Aoste<br/>Torino-Monte Bianco
+|simbolo = Autostrada A5 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}<br />{{IT-VAO}}
+|divisione amm 2 = {{IT-TO}}<br/>{{IT-AO}}
+|inizio = [[Torino]]
+|fine = [[Traforo del Monte Bianco|T1]]-[[Monte Bianco]] presso [[Courmayeur]] ([[Valle d'Aosta|AO]])
+|lunghezza = 143,4<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=16&ramo=16&code=A05&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali |accesso=8 dicembre 2009 |dataarchivio=12 gennaio 2014 |urlarchivio=https://web.archive.org/web/20140112191139/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=16&ramo=16&code=A05&link=&tipo= |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = 1961<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref> (primo tratto aperto)
+|provvedimento istituzione = 
+|gestore = *Ivrea Torino Piacenza S.p.A. ([[Sacyr]]) (Torino-Quincinetto)
+*[[Società Autostrade Valdostane|SAV]] ([[ASTM (azienda)|ASTM]]) (Quincinetto-Aosta)
+*[[Raccordo Autostradale Valle d'Aosta|RAV]] ([[Autostrade per l'Italia]]) (Aosta-Traforo del Monte Bianco)
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]] tra [[Settimo Torinese]] e [[Aosta]]. Senza caselli in uscita, ma con pedaggio anticipato alla barriera tra [[Aosta]] e il [[Traforo del Monte Bianco]]
+|città servite = [[Torino]] e [[Aosta]]
+|intersezioni = [[Autostrada A55 (Italia)|A55]], [[Autostrada A4 (Italia)|A4]], [[Traforo del Monte Bianco|T1]]
+|europea1 = 25
+|europea2 = 612
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A5.svg
+|tracciato = Tracciato A5.svg
+}}
+L{{'}}'''autostrada A5''' (o '''autostrada della Valle d'Aosta''', {{francese|Autoroute de la Vallée d'Aoste}}) collega [[Torino]] al [[Traforo del Monte Bianco]], passando per [[Ivrea]] e la [[Valle d'Aosta]]. Annoverata tra le autostrade più avanzate in Italia, in quanto dotata di particolari impianti termici per prevenire la formazione di ghiaccio sul manto stradale, è lunga 143,4&nbsp;[[chilometro|km]] ed è l'autostrada più cara d'Italia<ref name=":2">{{Cita pubblicazione|titolo=Le 5 autostrade più care d’Italia|accesso=26 luglio 2020|url=https://www.brumbrum.it/blog/5-autostrade-piu-care-di-italia/7177/}}</ref>.
+
+Pur avendo un'unica numerazione e progressiva chilometrica, la A5 è la concatenazione senza soluzione di continuità di tre autostrade costruite in tempi diversi e gestite da società diverse: la Torino-[[Quincinetto]], la Quincinetto-[[Aosta]] e la Aosta-Monte Bianco. È l'unica autostrada della Valle d'Aosta. 
+
+Rappresenta un'infrastruttura fondamentale per il Nord-Ovest, sia per il turismo, poiché consente l'accesso alle località [[sci]]istiche e ai parchi naturali valdostani, sia per i trasporti pesanti, poiché garantisce i collegamenti da tutto il Nord Italia e dai porti liguri e tirrenici verso la [[Francia]] centro-settentrionale, la [[Svizzera romanda|Svizzera francese]] e la [[Germania]] occidentale. Per questo motivo, il traffico nel tratto tra Ivrea e il Monte Bianco è spesso sostenuto, con rallentamenti al rientro nei fine settimana e lunghe attese per attraversare il traforo.
+
+== Storia ==
+Il 2 agosto [[1954]] venne costituita a Torino la società ''[[ATIVA]] - Autostrada Torino Ivrea Valle d'Aosta''<ref>{{Cita web|lingua=it-IT|url=https://www.ativa.it/ativa/la-storia/|titolo=La storia|sito=Autostrada Torino Ivrea Valle d'Aosta - Ativa|accesso=2026-08-25}}</ref>, posseduta per il 50% dalla [[Provincia di Torino]], per il 20% dal Comune di Torino, per il 4% dal Comune di Ivrea e per il residuo 26% da soci privati, tra cui [[FIAT|Fiat]] e [[Olivetti]]<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,2/articleid,0053_01_1954_0122_0002_15469908/|titolo=Per l'autostrada Torino Ivrea|pubblicazione=La Stampa|data=23 maggio 1954|p=2}}</ref>. Lo scopo era quello di realizzare un collegamento autostradale tra Torino e l'imbocco della Valle d'Aosta; i cantieri furono avviati nel febbraio [[1958]]. Il tratto da Torino a Ivrea fu inaugurato il 17 luglio [[1960]]<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,1/articleid,1575_02_1960_0171A_0001_23577156/|titolo=Dall'aereo uno sguardo all'autostrada Torino-Ivrea|pubblicazione=Stampa Sera|data=18 luglio 1960|p=1}}</ref>; il residuo tratto fino a Quincinetto fu aperto il 20 maggio [[1961]]<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,15/articleid,0080_01_1961_0120_0015_16893464/|titolo=Inaugurato il tratto Ivrea - Quincinetto dell'autostrada Torino-Valle di Aosta|pubblicazione=La Stampa|data=21 maggio 1961|p=15}}</ref>.
+
+Alla stessa società venne poi affidata la costruzione dell'[[Autostrada A4 - A5 (Diramazione Ivrea - Santhià)|autostrada A4/A5]] (inaugurata nel [[1968]]) e della [[Autostrada A55|tangenziale di Torino]] (inaugurata nel [[1976]]), integrando la Torino-Quincinetto in un sistema autostradale più ampio.
+
+Il 17 novembre [[1962]] fu costituita ad Aosta la ''[[Società Autostrade Valdostane|S.A.V.]] - Società Autostrade Valdostane''<ref name=":0">{{Cita web|lingua=it-IT|url=https://www.sav-a5.it/la-storia/|titolo=La storia|sito=Autostrada SAV A5|accesso=2026-08-25}}</ref>, su impulso della [[Valle d'Aosta|Regione Valle d'Aosta]] e con il compito di prolungare l'autostrada da Quincinetto ad Aosta, facilitando il collegamento con il [[traforo del Monte Bianco]] e con [[Traforo del Gran San Bernardo|quello del Gran San Bernardo]], allora in costruzione.
+
+Il tratto fino alla barriera terminale di Aosta (oggi casello di Aosta est) fu inaugurato per fasi:
+
+* Quincinetto - Verrès, apertura il 2 luglio [[1967]]
+* Verrès - Châtillon, apertura il 16 agosto [[1968]]<ref>{{Cita pubblicazione |titolo = 11 chilometri da manuale |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno X |numero = 10 |editore = |città = Roma |anno = 1968 |mese = ottobre |p = 13 |ISSN = 0005-1756 }}</ref>
+* Châtillon - Nus, apertura il 9 luglio [[1969]]
+* Nus - Aosta, apertura il 27 maggio [[1970]].
+
+L'autostrada assunse così il nome di ''Torino-Aosta'' e un tracciato che rimase stabile fino al [[1994]]. Come unica modifica, durante la costruzione della tangenziale di Torino a metà degli [[Anni 1970|anni '70]], il tratto iniziale della A5 fu rivoluzionato, collegando l'autostrada direttamente alla nuova arteria e integrando l'originario percorso iniziale nel nuovo svincolo tra tangenziale e [[Autostrada A4 (Italia)|A4]].
+
+Nel [[1983]] fu infine costituita la società ''[[Raccordo Autostradale Valle d'Aosta|R.A.V.]] - Raccordo Autostradale Valle d'Aosta'', inizialmente posseduta quasi per intero da [[Italstat]], società di costruzioni autostradali del gruppo [[IRI]], poi ceduta per il 42% alla Regione Valle d'Aosta e per il 58% alla [[Società Autostrade]] tramite la società di gestione del traforo del Monte Bianco<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,35/articleid,0795_01_1993_0198_0062_11211550/|titolo=Nessun blocco per l'autostrada|pubblicazione=La Stampa - Edizione Valle d'Aosta|data=21 luglio 1993|p=35}}</ref><ref name=":1">{{Cita web|url=https://www.ravspa.it/chi-siamo|titolo=Chi Siamo {{!}} RAV|sito=www.ravspa.it|accesso=2026-08-25}}</ref>. Lo scopo societario era quello di completare il collegamento autostradale fino al traforo, aggirando Aosta ed eliminando il transito dei mezzi pesanti sulla tortuosa [[Strada statale 26 della Valle d'Aosta|statale dell'alta valle]].
+
+Il primo tratto a essere completato, nel maggio [[1994]], fu quello di 20 km dalla galleria di [[Sarre]] a [[Morgex]]<ref name=":1" />; con l'inaugurazione il 24 dicembre 1994 degli 11,6 km tangenziali ad Aosta, costruiti e gestiti dalla SAV<ref name=":0" />, fu possibile arrivare senza interruzioni da Torino fino a Morgex. Il 29 giugno [[2001]] (direzione Torino)<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,33/articleid,0394_01_2001_0178_0099_3541826/|titolo=In autostrada da Courmayeur|pubblicazione=La Stampa - Edizione Valle d'Aosta|data=30 giugno 2001|p=38}}</ref> e il 13 agosto [[2002]] (direzione Monte Bianco)<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,33/articleid,0294_01_2002_0217_0107_2804391/|titolo=L'autostrada del Monte Bianco taglia il traguardo di Courmayeur|pubblicazione=La Stampa - Edizione Valle d'Aosta|data=10 agosto 2002|p=33}}</ref> venne aperto il tronco Morgex - [[Courmayeur]] sud; infine, nel [[2007]] l'autostrada raggiunse [[Entrèves]], collegandosi direttamente agli ultimi tornanti prima del traforo.
+
+Essendo controllata dalla società Autostrade (oggi [[Autostrade per l'Italia]]), anche la RAV fu privatizzata nel [[1999]] verso il [[Benetton (azienda)|gruppo Benetton]] e poi riacquisita dallo Stato nel [[2022]]. Nel frattempo, comunque, anche le altre due società concessionarie erano state progressivamente privatizzate.
+
+Infatti, nel 1994-95 la Provincia e il Comune di Torino vendettero ai privati le quote di controllo dell'ATIVA<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,40/articleid,0688_01_1995_0345_0038_9332901/|titolo=Il Comune incassa 26 miliardi|pubblicazione=La Stampa|data=22 dicembre 1995|p=40}}</ref>, che finirono prevalentemente nelle mani di due grandi aziende piemontesi di appalti stradali, ossia la Mattioda di [[Cuorgnè|Cuorgné]] e il [[gruppo Gavio]] di [[Tortona]]. Nello stesso periodo, nonostante il coinvolgimento diretto nello [[Mani pulite|scandalo Mani Pulite]] proprio per presunte tangenti per lavori della A5<ref>{{Cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,39/articleid,0723_01_1994_0017_0073_10451594/|titolo=Scandalo Sav|pubblicazione=La Stampa - Edizione Valle d'Aosta|data=18 gennaio 1994|p=1}}</ref>, il gruppo Gavio acquistò anche la maggioranza (71%) della SAV.
+
+Nel [[2019]], con una cessione diretta dai Mattioda ai Gavio, quest'ultimo gruppo riunì nelle proprie mani la maggioranza di entrambe le società concessionarie<ref>{{Cita web|lingua=it-IT|autore=Mattia Aimola|url=https://www.startmag.it/smartcity/gruppo-gavio/|titolo=Come sfreccia in Piemonte il gruppo Gavio|sito=Startmag|data=2019-11-17|accesso=2026-08-25}}</ref>. Tuttavia, nel [[2021]] il gruppo Gavio fu escluso dalla gara per il rinnovo della concessione della Torino-Quincinetto per errori formali nella propria proposta; nonostante i ricorsi, l'esclusione fu confermata nell'ottobre [[2023]]<ref>{{Cita web|lingua=it|autore=Agenzia ANSA|url=https://www.ansa.it/piemonte/notizie/2023/10/06/consiglio-di-stato-respinge-il-ricorso-di-gavio-su-a21-e-a5_b172ce5c-3c72-4d74-8bea-76966d54e06e.html|titolo=Consiglio di Stato respinge il ricorso di Gavio su A21 e A5 - Notizie - Ansa.it|sito=Agenzia ANSA|data=2023-10-06|accesso=2026-08-25}}</ref>. ATIVA divenne così una scatola vuota e venne messa in liquidazione, mentre dal 1º dicembre [[2024]] il tratto Torino - Quincinetto passò in gestione alla società [[Ivrea Torino Piacenza]] della famiglia Dogliani, vincitrice della gara.<ref>{{Cita web|lingua=it-IT|url=https://torino.corriere.it/notizie/economia/24_ottobre_05/i-dogliani-al-volante-delle-autostrade-piemontesi-a-dicembre-parte-la-ivrea-torino-piacenza-0964e7b9-d272-468e-8567-33fd2b284xlk.shtml?refresh_ce%7CI|titolo=I Dogliani al volante delle autostrade piemontesi:«A dicembre parte la Ivrea-Torino-Piacenza»|sito=Corriere della Sera|data=2024-10-05|accesso=2025-03-05}}</ref>
+
+==Percorso==
+La gestione del primo tronco, da Torino fino a [[Quincinetto]], è affidata alla società [[Ivrea Torino Piacenza]] S.p.A. (gruppo Dogliani) che ne cura i 53 chilometri con cinque svincoli ([[Settimo Torinese]], [[Volpiano]], [[San Giorgio Canavese]], [[Scarmagno]], [[Ivrea]]); tale gestione comprende anche la [[Autostrada A4 - A5 (Diramazione Ivrea - Santhià)|diramazione A4/A5]].
+
+Il percorso inizia a Torino, alla rotonda al termine di corso Giulio Cesare, e per i primi 1,8 km è in comune con la [[Autostrada A4 (Italia)|A4]], da cui si distacca attraverso il complesso svincolo che collega anche la [[Autostrada A55|tangenziale nord di Torino (A55)]] e la [[Strada statale 11 Padana Superiore|strada statale 11]]. Dopo un insieme di rampe di lunghezza diversa a seconda della direzione, il percorso imbocca un breve rettilineo; in origine, qui era presente una stazione di servizio che ospitava anche un [[SEMI|Motel Agip]], chiuso negli [[Anni 1990|anni '90]]. In questo tratto, il percorso è oggi indicato sui segnali dei cavalcavia come diramazione della A55. Tramite una coppia di rampe, l'autostrada si immette quindi sul tratto terminale della tangenziale e immediatamente incontra la barriera di ingresso di [[Settimo Torinese]] (Torino nord), dove la sua chilometrica ricomincia dal km 3,7.
+
+Da qui in poi, l'autostrada è quasi interamente rettilinea; l'unica asperità degna di nota è la collina tra San Giorgio e Scarmagno, che viene superata con pendenze piuttosto ripide e con una breve galleria di valico artificiale. Poco prima di Quincinetto si trova l'unica galleria in roccia di tutto il tronco, presso [[Quassolo]]. A causa della progettazione risalente agli [[Anni 1950|anni '50]], le due gallerie risultano strette e con limite di velocità posto a 80 km/h, mentre il limite sul resto della tratta è di 110 km/h.
+
+Dal tronco da Quincinetto alla galleria di [[Sarre]], lungo 58 km, è sotto la gestione della [[SAV S.p.A.]] (gruppo Gavio); esso contiene sei svincoli ([[Quincinetto]], [[Pont-Saint-Martin (Italia)|Pont-Saint-Martin]], [[Verrès]], [[Châtillon (Italia)|Châtillon]]/[[Saint-Vincent (Italia)|Saint-Vincent]], [[Nus]] e [[Aosta|Aosta Est]]). Il percorso si snoda sul fondo della valle d'Aosta, salendo costantemente di quota e attraversando più volte la [[Dora Baltea]]. Il primo breve tratto da Quincinetto a Pont-Saint-Martin è soggetto a un'enorme e incombente frana<ref>{{Cita web|lingua=it-IT|url=https://www.lavalleenotizie.it/dal-giornale/fa-paura-la-frana-che-incombe-sull-autostrada-delle-vacanze/|titolo=Fa paura la frana che incombe sull’autostrada delle vacanze - La Vallée Notizie|accesso=2026-08-25}}</ref>, che ha richiesto imponenti lavori di monitoraggio e contenimento durati oltre un decennio e terminati nel [[2026]]<ref>{{Cita web|lingua=it-IT|autore=Simona Bombonato|url=https://lasentinella.it/cronaca/2026/01/16/frana_di_quincinetto_dopo_14_anni_la_bonifica_del_versante-15469561/|titolo=Frana di Quincinetto, dopo 14 anni la bonifica del versante|sito=La Sentinella del Canavese|data=2026-01-16|accesso=2026-08-25}}</ref>. Più avanti, l'autostrada supera con lunghe gallerie i tratti più stretti e ripidi della valle: il primo tra [[Donnas]] e [[Hône]], di fronte al [[forte di Bard]]; il secondo tra [[Montjovet]] e [[Saint-Vincent (Italia)|Saint-Vincent]]. Oltre lo svincolo di Châtillon, l'autostrada ridiventa sostanzialmente pianeggiante fino ad Aosta; nonostante questo, l'intero tronco è classificato come montano ed è soggetto ai pedaggi più cari d'Italia<ref name=":2" />.
+
+Presso la barriera di Aosta est, un tempo termine dell'autostrada, si passa al sistema di pedaggio aperto: chi prosegue senza uscire paga qui l'intero pedaggio fino al Monte Bianco, anche nel caso in cui esca dall'autostrada dopo pochi chilometri, e la stessa cosa vale per chi arriva in direzione opposta. Di fronte alle ripetute proteste, dal [[2000]] è attivo un sistema di rimborso per i soli clienti dotati di dispositivo di [[telepedaggio]], che permette l'addebito di pedaggi proporzionali all'effettiva percorrenza nel caso in cui si esca o si sia entrati a uno svincolo intermedio<ref>{{Cita web|url=https://www.ravspa.it/agevolazioni-tariffarie|titolo=Agevolazioni tariffarie {{!}} RAV|sito=www.ravspa.it|accesso=2026-08-25}}</ref>. Oltre la barriera si entra nel cosiddetto ''sistema tangenziale di Aosta'', privo di svincoli, che dopo una decina di chilometri si immette senza interruzioni nel tronco successivo. Invece, uscendo presso la barriera di Aosta est si può imboccare direttamente il [[Autostrada A5 (Italia)#Raccordo A5-SS 27|raccordo autostradale A5-SS27]] verso il [[traforo del Gran San Bernardo]].
+
+All'imbocco orientale della galleria Les Crêtes, di fronte al paese di Sarre, inizia il tronco di 32,4 km gestito da [[Raccordo Autostradale Valle d'Aosta|RAV]], completamente montano e quasi per intero costituito da viadotti e gallerie lunghe anche più di 3 km. Il tronco comprende gli svincoli di [[Aosta]] ovest/[[Aosta|Aoste]] ouest, [[Morgex]] e [[Courmayeur]] sud; il primo è aperto in tutte le direzioni, ed è presente un casello di pedaggio specifico per chi lo usa da/per il Monte Bianco, mentre gli altri due, non essendo dotati di casello, sono utilizzabili soltanto da/per Torino. Dopo avere aggirato Courmayeur con la lunga e discussa galleria di [[Dolonne]], il tronco termina in località [[Entrèves]] innestandosi sulla [[Strada statale 26 della Valle d'Aosta#Strada statale 26 dir della Valle d'Aosta|SS 26 dir]], che in meno di 2 km conduce al [[Traforo del Monte Bianco]]. È in progetto che questo innesto sulla viabilità ordinaria venga sostituito da un percorso autostradale che arrivi direttamente al [[Traforo del Monte Bianco]], reso però complicato dalla difficile conformazione del territorio.
+
+All'uscita del traforo, l'autostrada si innesta nel [[Autostrade in Francia|sistema autostradale francese]] attraverso l'[[Autoroute A40]].
+== Tabella percorso ==
+[[File:Panneaux Autoroute A5 Italie - Aoste est.JPG|thumb|L'uscita Aosta est in direzione di Torino]]
+[[File:Autostrada A5 Pont Saint Martin.jpg|thumb|Casello autostradale a [[Pont-Saint-Martin (Italia)|Pont-Saint-Martin]] ]]
+[[File:Panneau autoroute A5 Vallée d'Aoste Les Îles Brissogne.png|thumb|Cartello presso [[Brissogne|Les Îles]]]]
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''{{simbolo|Autostrada A5 Italia.svg|30}} TORINO - AOSTA - MONTE BIANCO'''<br />''Autostrada della Valle d'Aosta''
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''km'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|Italian traffic signs - città.svg}}|| [[Corso Giulio Cesare (Torino)|Torino corso Giulio Cesare]]||align="right"|''0''<ref name=":3">Le progressive chilometriche di questo tratto risalgono a prima della costruzione della tangenziale di Torino; oggi, esse non sono più indicate e sono state sostituite dalle chilometriche delle singole rampe di collegamento.</ref>|| rowspan="13" align="center" |[[Città metropolitana di Torino|TO]]||align="center"|[[File:Italian traffic signs - strada europea 64.svg|50px|link=Strada europea E64]][[File:Italian traffic signs - strada europea 612.svg|50px|link=Strada europea E612]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 64.svg|25}} {{simbolo|Autostrada A4 Italia.svg}} [[Autostrada A4 (Italia)|Torino - Trieste]] <br />{{simbolo|Autostrada A55 Italia.svg|23}} [[Autostrada A55|tangenziale di Torino]]<br /><small>[[File:AB-AS-grün.svg]] [[Torino]] Abbadia di Stura</small><br /><small> {{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Torino-Caselle|Torino-Caselle]]</small><br />{{simbolo|Strada Regionale 11 Italia.svg|35}} ''[[Strada statale 11 Padana Superiore|Padana Superiore]]''|| align="right"|''1,8''<ref name=":3" />|| rowspan="9" align="center" |[[File:Italian traffic signs - strada europea 612.svg|50px|link=Strada europea E612]]
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Settimo Torinese est"<ref name=AMB/><br />{{simbolo|Italian traffic signs - divieto di transito.svg}} ''area di servizio dismessa''||align="right"|''2,8''<ref name=":3" />
+|-
+| [[File:AB-AS-grün.svg]]|| [[Settimo Torinese]]|| align="right" |''3,5''<ref name=":3" />
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}||  Barriera [[Torino]] nord || align="right" |3,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Volpiano]]|| align="right" |10,8 
+|-
+| [[File:AB-AS-grün.svg]]|| [[San Giorgio Canavese]]|| align="right" |24,9 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}||Area di parcheggio "Pietra Grossa"<ref name="TO" /> ||align="right"| 29,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Scarmagno]]|| align="right" |33,0
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Scarmagno"|| align="right" |35,2 
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 25.svg|24}} {{simbolo|Autostrada A4-A5 Italia.svg|23}} [[Autostrada A4 - A5 (Diramazione Ivrea - Santhià)|Diramazione Ivrea - Santhià]]<br /> {{simbolo|Italian traffic signs - strada europea 64.svg|25}} {{simbolo|Autostrada A4 Italia.svg}} [[Autostrada A4 (Italia)|Torino - Trieste]]<br />{{simbolo|Italian traffic signs - strada europea 25.svg|24}} {{simbolo|Autostrada A26 Italia.svg}} [[Autostrada A26 (Italia)|Genova - Gravellona Toce]]|| align="right" |37,2 || rowspan="2" align="center" |[[File:Italian traffic signs - strada europea 25.svg|50px|link=Strada europea E25]][[File:Italian traffic signs - strada europea 612.svg|50px|link=Strada europea E612]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Ivrea]]|| align="right" |39,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Quincinetto]]|| align="right" |53,4 || rowspan="22" align="center" |[[File:Italian traffic signs - strada europea 25.svg|50px|link=Strada europea E25]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pont-Saint-Martin (Italia)|Pont-Saint-Martin]]|| align="right" |57,6 || rowspan="21" align="center" |[[Valle d'Aosta|AO]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Arnad"|| align="right" |66,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Verrès]]|| align="right" |70,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Châtillon (Italia)|Châtillon]] - [[Saint-Vincent (Italia)|Saint-Vincent]]|| align="right" |81,3
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Châtillon - Saint-Vincent"|| align="right" |81,4
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Prolex"<ref name="AMB">solo in direzione Monte Bianco</ref>|| align="right" |83,5
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Chambave"<ref name="AMB" />|| align="right"|87,7
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Champagne"<ref name="TO">solo in direzione Torino</ref>|| align="right" | 89,4
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Crêtes"<ref name="TO" /> ||align="right"| 91,6
+|-
+| [[File:AB-AS-grün.svg]]|| [[Nus]]|| align="right" |92,7
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Les Îles de Brissogne"<ref name="AMB" />|| align="right" |98,9 
+|-
+| {{simbolo|Italian traffic signs - stazione.svg}}||  Barriera [[Aosta|Aosta / Aoste]]|| align="right" |100,2
+|-
+| [[File:AB-AS-grün.svg]]||[[Aosta]] est / [[Aosta|Aoste]] est<br />[[File:Italian traffic signs - strada europea 27.svg|31px]] [[Autostrada A5 (Italia)#Raccordo A5-SS 27|R39 Raccordo A5-SS27]]<br /><small>[[File:Strada Statale 27 Italia.svg|30px]] [[Strada statale 27 del Gran San Bernardo|del Gran S. Bernardo / du Grand-St-Bernard]]<br/>{{simbolo|Traforo T2 Italia.svg|18}} [[Traforo del Gran San Bernardo|Traforo del Gran S. Bernardo / Tunnel du Grand-St-Bernard]]</small><br />{{simbolo|Flag of Switzerland (Pantone).svg|18}} <small>Confine di Stato: [[Svizzera|Svizzera / Suisse]]</small>|| align="right" |100,5 
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Autoporto / Autoport"<ref name="AMB" />|| align="right" |100,8
+|-
+| [[File:Italian traffic signs - simbolo area servizio.svg|30x30px]]|| Area di servizio "Autoporto / Autoport"<ref name=TO/> || align="right" |101,9
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}|| Area di parcheggio "Grand Combin"<ref name="AMB" />|| align="right" |104,5
+|-
+|
+|''Cambio di competenza SAV / RAV<ref>{{Cita web|url=https://www2.autostrade.it/BVS/portale/rete/punti.jsp?strada=16&ramo=16&code=A05&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali|sito=www2.autostrade.it|accesso=2026-08-27}}</ref>''
+| align="right" |110,9
+|-
+| [[File:AB-AS-grün.svg]]||[[Aosta]] ovest / [[Aosta|Aoste]] ouest - [[Saint-Pierre (Italia)|Saint-Pierre]]|| align="right" |112,8 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Morgex]]<ref name=":4">solo da e per Torino</ref>|| align="right" |130,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Courmayeur]] sud<ref name=":4" />
+| align="right" |138,0
+|-
+|<small>{{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|17}}</small>
+|Raccordo [[Strada statale 26 della Valle d'Aosta#Strada statale 26 dir della Valle d'Aosta|SS26 dir]]
+<small>[[File:Italian traffic signs - strada europea 25.svg|31px]] {{simbolo|Traforo T1 Italia.svg|23}} [[Traforo del Monte Bianco|Traforo del Monte Bianco / Tunnel du Mont-Blanc]]</small><br />{{bandiera|FRA|dim=18}} <small>Confine di Stato: [[Francia|Francia / France]]</small>
+[[Courmayeur]]<ref>solo da e per il Monte Bianco</ref>
+| align="right" |143,4
+|}
+
+==Raccordo A5-SS 27==
+{{Strada
+|nome = Raccordo A5-SS 27
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = 
+|simbolo = 
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-VAO}}
+|divisione amm 2 = 
+|inizio = A5
+|fine = [[Strada statale 27 del Gran San Bernardo|SS 27]]
+|lunghezza = 7,9<ref name=autogenerato1>{{Cita web |url=http://www.sav-a5.it/index.php/corporate/storia/ |titolo=Autostrada A5 Torino Aosta - Tratta Quincinetto Aosta ovest e raccordo A5-ss27 del Gran San Bernardo {{!}} Corporate {{!}} Storia |accesso=8 maggio 2010 |urlarchivio=https://web.archive.org/web/20140511202210/http://www.sav-a5.it/index.php/corporate/storia/ |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1997]] (primo tratto)
+|provvedimento istituzione = 
+|gestore = [[Società Autostrade Valdostane|SAV]]
+|pedaggio = 
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro = 
+|asiatica1 = 
+|asiatica2 = 
+|asiatica3 = 
+|asiatica altro = 
+|africana1 = 
+|africana2 = 
+|africana3 = 
+|africana altro = 
+|panamericana = 
+|mappa = 
+|tracciato = 
+}}
+[[File:Panneaux Quart 2.JPG|thumb|left|Segnaletica bilingue italo-francese al bivio per il raccordo A5-SS 27 al [[Quart (Italia)|Villair de Quart]]]]
+Il [[raccordo autostradale|raccordo]] tra la A5 e la [[strada statale 27 del Gran San Bernardo]] è una strada di 7,9&nbsp;km che per la maggior parte (6761&nbsp;m) corre in galleria<ref>{{cita web |url=http://www.sav-a5.it/inside.php?ctype=1&x=13 |titolo=Copia archiviata |accesso=21 giugno 2009 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20081230180842/http://www.sav-a5.it/inside.php?ctype=1 }}</ref> e serve a raggiungere la [[Strada statale 27 del Gran San Bernardo|SS 27]], dall'A5, senza dover attraversare il centro abitato di Aosta.
+
+Il raccordo pur essendo a carreggiata unica e pur non presentando i segnali di inizio e fine autostrada<ref>{{Cita web|url=https://maps.google.it/maps?q=SS27,+Aosta,+Valle+D'Aosta&ie=UTF8&hl=it&cd=1&geocode=FeQCuwIdznduAA&split=0&sll=41.442726,12.392578&sspn=8.563192,14.941406&hq=&hnear=SS27,+11100+Aosta,+Valle+D'Aosta&ll=45.740663,7.384272&spn=0,0.010986&z=17&layer=c&cbll=45.740901,7.384094&panoid=vkF9LbdtpOGhxYEszCzHhg&cbp=12,322.97,,0,1.82|titolo=L'inizio del raccordo. Il segnale di fine autostrada si riferisce alla fine dell'A5}}</ref> viene considerato un tronco autostradale dall'[[AISCAT]]<ref>{{Cita web |url=http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |titolo=AISCAT-mensile dic09 |accesso=8 maggio 2010 |dataarchivio=16 ottobre 2013 |urlarchivio=https://web.archive.org/web/20131016102523/http://www.aiscat.it/pubblicazioni/downloads/mensile-dic-09.pdf |urlmorto=sì }}</ref>. Il raccordo presenta le stesse restrizioni al transito delle autostrade<ref>{{Cita web|url=https://www.google.it/maps/@45.742529,7.382777,3a,75y,322.97h,88.18t/data=!3m4!1e1!3m2!1ssUDWd6Q3K6ZFCHjS1KfVkw!2e0?hl=it|titolo=Google Maps}}</ref>.
+[[File:Mappa autostradale del Raccordo SS26 - SS27 - A5.png|destra|miniatura|350x350px|Mappa autostradale del raccordo tra la SS27 e l'A5]]
+
+È stato costruito ed è attualmente gestito dalla [[Società Autostrade Valdostane|SAV]]; il primo tratto di 5,6&nbsp;km, comprendente la galleria più lunga (tra l'A5 e la [[strada statale 27 del Gran San Bernardo]] poco oltre il fiume [[Buthier]]) è stata aperta al pubblico il 19 dicembre 1997, mentre la seconda parte del percorso, di 2,3&nbsp;km, (comprendente la galleria più corta ed il collegamento con la [[strada statale 27 del Gran San Bernardo]] in direzione [[Svizzera]]) è stata aperta al pubblico il 5 novembre 2001<ref>{{cita web |url=http://www.sav-a5.it/inside.php?ctype=1&x=1 |titolo=Copia archiviata |accesso=21 giugno 2009 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20081230180842/http://www.sav-a5.it/inside.php?ctype=1 }}</ref>. Entrambe le gallerie sono a canna unica (con due corsie nel percorso in salita ed una in quello in discesa) ed il raccordo è raggiungibile dalla A5 tramite lo svincolo di Aosta Est (stazione Aosta-Gran San Bernardo). In questo raccordo la velocità massima consentita è di 80&nbsp;km/h.
+
+Questo raccordo è anche classificato come ''raccordo R39/Aosta-Gran San Bernardo'' secondo la numerazione interna di [[Autostrade per l'Italia]]<ref>{{cita web |url=https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=16&ramo=19&code=R29&link=&tipo= |titolo=Copia archiviata |accesso=13 luglio 2009 |urlmorto=sì |urlarchivio=https://web.archive.org/web/20060508022647/https://teonline.autostrade.it/BVS/sito/ReteAutostrade/punti.jsp?strada=16&ramo=19&code=R29&link=&tipo= }}</ref>.
+
+===Tabella Percorso===
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="5" | '''RACCORDO A5-SS 27'''<br />
+|-
+!'''Tipo'''!!align="center"|'''Indicazione'''!!align="center"|'''km'''!!align="center"|'''Area'''!!align="center"|'''Strada europea'''
+|-
+| {{simbolo|Italian traffic signs - autostrada.svg|17}}||{{simbolo|Italian traffic signs - strada europea 25.svg|24}} {{simbolo|Autostrada A5 Italia.svg|23}} Torino - Aosta - Monte Bianco ||align="right"| 0,0 || rowspan="6" align="center" |[[Valle d'Aosta|AO]]|| rowspan="6" align="center" |
+|-
+|[[File:AB-AZ-grün.svg]]
+|[[Aosta]] centro
+<small>(in tutte le direzioni tranne entrata verso SS 27 e uscita verso l'A5)</small>
+| align="right" |0,3
+|-
+| {{simbolo|Italian traffic signs - galleria.svg}}|| Inizio Galleria "Côte de Sorreley"|| align="right" | 0,4
+|-
+| [[File:AB-AZ-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 27.svg|24}} {{simbolo|Strada Statale 27 Italia.svg|35}} [[Strada statale 27 del Gran San Bernardo|SS 27]]
+<small>(solo entrata in direzione A5)</small>
+| align="right" |6,1
+|-
+| {{simbolo|Italian traffic signs - galleria.svg}}|| Inizio Galleria "Signayes"|| align="right" |6,3
+|-
+| {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg}}|| {{simbolo|Italian traffic signs - strada europea 27.svg|24}} {{simbolo|Strada Statale 27 Italia.svg|35}} [[Strada statale 27 del Gran San Bernardo|SS 27]] <small>{{simbolo|Traforo T2 Italia.svg|18}} [[Traforo del Gran San Bernardo]]</small><br />{{simbolo|Flag of Switzerland (Pantone).svg|18}} <small>Confine di Stato - [[Svizzera]]</small>|| align="right"|7,9
+|}
+
+==Note==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Quincinetto-Aosta |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 5 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = maggio |pp = 234-245 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/338/mode/2up }}
+* {{Cita pubblicazione |titolo = Diramazione autostradale da Ivrea a Santhià per il collegamento delle autostrade Torino-Ivrea-Quincinetto e Torino-Milano |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLVIII |numero = 7 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1968 |mese = luglio |pp = 351-358 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1560#page/494/mode/2up }}
+
+==Altri progetti==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+*{{cita web|http://www.autostrade.it|Autostrade per l'Italia}}
+*{{cita web|https://www.itpspa.it/|ITP - Ivrea Torino Piacenza S.p.A.}}
+*{{cita web | url = http://www.ativa.it/home.htm | titolo = Ativa SpA | accesso = 27 dicembre 2005 | urlarchivio = https://web.archive.org/web/20060214145151/http://www.ativa.it/home.htm | urlmorto = sì }}
+*{{cita web |url=http://www.sav-a5.it/index.php |titolo=SAV SpA |accesso=27 giugno 2012 |urlarchivio=https://web.archive.org/web/20120627000550/http://www.sav-a5.it/index.php |urlmorto=sì }}
+*{{cita web|http://www.ravspa.it/|RAV SpA}}
+*{{cita web | 1 = http://www.lotsberg.net/data/italia/A05.html | 2 = Gallerie e viadotti della A5 | accesso = 3 agosto 2009 | dataarchivio = 12 luglio 2013 | urlarchivio = https://web.archive.org/web/20130712233756/http://www.lotsberg.net/data/italia/A05.html | urlmorto = sì }}
+*{{cita web|https://www.lotsberg.net/data/italia/R04.html|Gallerie e viadotti della A4/A5}}
+
+{{Autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A05]]
+[[Categoria:Trasporti in Valle d'Aosta]]
+[[Categoria:Trasporti in Piemonte]]

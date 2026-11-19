@@ -1,0 +1,232 @@
+{{Strada
+|nome = Autostrada A21
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada dei Vini<br/>Torino-Piacenza-Brescia
+|simbolo = Autostrada A21 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-PMN}}<br />{{IT-EMR}}<br />{{IT-LOM}}
+|divisione amm 2 = {{IT-TO}}<br/>{{IT-AT}}<br/>{{IT-AL}}<br/>{{IT-PV}}<br/>{{IT-PC}}<br/>{{IT-CR}}<br/>{{IT-BS}}
+|inizio = Innesto in [[Autostrada A55 (Italia)|A55]] presso [[Santena]] ([[Provincia di Torino|TO]])
+|fine = [[Brescia]]
+|lunghezza = 238,3<ref>{{Cita web|url=https://www2.autostrade.it/BVSPortal/?strada=21&ramo=21&code=A21&link=&tipo=|titolo=Portale Trasporti Eccezionali|sito=www2.autostrade.it|accesso=2022-06-05}}</ref>
+|direzione = 
+|apertura = [[1968]]<ref name="autogenerato1">{{Cita web |url=http://www.satapweb.it/index.php?method=section&id=213 |titolo=La storia - Satap S.p.A. Autostrade Torino-Milano e Torino-Piacenza<!-- Titolo generato automaticamente --> |accesso=26 luglio 2009 |dataarchivio=13 dicembre 2014 |urlarchivio=https://web.archive.org/web/20141213014652/http://www.satapweb.it/index.php?method=section&id=213 |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore =* Ivrea Torino Piacenza S.p.A. ([[Sacyr]]) (Torino-Piacenza)
+* Autovia Padana ([[ASTM (azienda)|ASTM]]) (Piacenza-Brescia)
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]<ref>[[Pedaggio#Sistema autostradale aperto|Sistema aperto]] allo svincolo di [[Villanova d'Asti]] con pedaggio di 0,80€.</ref><br/>(gratuito nella tratta [[piemonte]]se [[Torino]]-[[Villanova d'Asti|Villanova]] e nella tratta urbana [[Lombardia|lombarda]] a [[Brescia]])
+|città servite = [[Torino]], [[Asti]], [[Alessandria (Italia)|Alessandria]], [[Piacenza]], [[Cremona]], [[Brescia]] 
+|intersezioni =[[Autostrada A33 (Italia)|A33]], [[Autostrada A26 (Italia)|A26]], [[Autostrada A7 (Italia)|A7]], [[Autostrada A1 (Italia)|A1]]
+|europea1 = 70
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A21.svg
+|tracciato = Tracciato A21.svg
+}}
+L{{'}}'''autostrada A21''' è un'autostrada [[italia]]na che collega [[Torino]] a [[Brescia]] attraverso la [[pianura Padana]] passando da [[Piacenza]] (Torino e Brescia sono collegate anche dall'[[Autostrada A4 (Italia)|autostrada A4]], passando per le città di [[Novara]], [[Milano]] e [[Bergamo]]). Nel tratto compreso tra il [[Torino|capoluogo piemontese]] e la [[Piacenza|città emiliana]] è gestita dalla [[Sacyr|Ivrea Torino Piacenza S.p.A.]], mentre da [[Piacenza]] a [[Brescia]] è gestita dalla Società Autovia Padana (quest'ultima parte del gruppo [[ASTM (azienda)|ASTM]] della famiglia Gavio).
+
+== Storia ==
+Il tratto autostradale Torino - [[Piacenza]] nacque da un'iniziativa della [[Provincia di Torino]], che nel luglio [[1960]] fonda la ''[[SATAP]]'', società che sottoscrisse la costruzione e poi l'esercizio dell'[[autostrada]]. Nel febbraio [[1963]] ottenne la concessione e l'anno successivo iniziarono i lavori per la realizzazione che durarono più di 5 anni: l'autostrada entrò progressivamente in esercizio tra il dicembre [[1968]] e il dicembre [[1969]]. Il costo fu di 130 miliardi di [[lira italiana|lire]].
+
+Il tratto da [[Santena]] ad [[Asti]] est venne aperto il 31 dicembre [[1968]],<ref>{{Cita pubblicazione |titolo = «Quattro corsie» dedicate a Bacco |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XI |numero = 1 |editore = |città = Roma |anno = 1969 |mese = gennaio |p = 13 |ISSN = 0005-1756 }}</ref><ref>{{Cita pubblicazione |titolo = Aperto al traffico il tratto Torino - Asti est della Torino - Piacenza |rivista = [[Le Strade]] |volume = anno XLIX |numero = 1 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1969 |mese = gennaio |p = 30 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1561#page/48/mode/2up }}</ref> mentre il tratto da [[Pontecurone]] a [[Piacenza]] ovest seguì il 29 marzo [[1969]].<ref>{{Cita pubblicazione |titolo = Da Piacenza a Voghera sullʾautostrada dei vini |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XI |numero = 4 |editore = |città = Roma |anno = 1969 |mese = aprile |p = 10 |ISSN = 0005-1756 }}</ref><ref name = "Strade 70">{{Cita pubblicazione |titolo = Completata l'autostrada Torino-Piacenza |rivista = [[Le Strade]] |volume = anno L |numero = 1 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1970 |mese = gennaio |p = 69 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1562#page/90/mode/2up }}</ref>
+
+Il tratto intermedio da Asti est a Pontecurone, comprendente le stazioni intermedie di [[Felizzano]], [[Alessandria (Italia)|Alessandria]] ovest, Alessandria est e [[Tortona]], venne inaugurato il 15 dicembre [[1969]] alla presenza del [[Ministero dei lavori pubblici|ministro dei lavori pubblici]] [[Lorenzo Natali]].<ref name = "Strade 70"/><ref>{{Cita pubblicazione |titolo = Completata l'autostrada dei vini |rivista = [[Autostrade (rivista)|Autostrade]] |volume = anno XI |numero = 12 |editore = |città = Roma |anno = 1969 |mese = dicembre |p = 34 |ISSN = 0005-1756 }}</ref>
+
+Il collegamento con l'[[Autostrada A1 (Italia)|A1]] fu completato nel [[1972]], quello con la Piacenza-Brescia nel [[1973]] e quello con l'[[Autostrada A7 (Italia)|A7]] Milano-[[Genova]] nel [[1987]]<ref name=autogenerato1 />.
+
+Dalla parte opposta si costituisce in SPA nel [[1970]] la [[Autostrade Centropadane|Centropadane]], società incaricata della costruzione e poi concessionaria del tronco Brescia-Piacenza e del raccordo A21-A1.
+Il 1º marzo 2018 la Società Autovia Padana subentra come concessionario per la tratta Brescia-Piacenza e la diramazione di Fiorenzuola d'Arda.
+
+Dal 1º dicembre [[2024]] il tratto Torino - Piacenza dell'autostrada è gestito dalla società [[Ivrea Torino Piacenza]] della famiglia Dogliani, nuova concessionaria subentrata alla [[SATAP]] del gruppo Gavio.<ref>{{cita news|Christian Benna|https://torino.corriere.it/notizie/economia/24_ottobre_05/i-dogliani-al-volante-delle-autostrade-piemontesi-a-dicembre-parte-la-ivrea-torino-piacenza-0964e7b9-d272-468e-8567-33fd2b284xlk.shtml?refresh_ce|I Dogliani al volante delle autostrade piemontesi: «A dicembre parte la Ivrea-Torino-Piacenza»|Corriere della Sera|5 ottobre 2024|2 dicembre 2024|it}}</ref>
+
+Il 30 Ottobre 2025, un piccolo incendio ha danneggiato il casello di Brescia Sud. L'uscita è stata in seguito chiusa e riaperta il 10 Dicembre dello stesso anno. 
+
+== L'autostrada oggi ==
+[[File:Autostrada A21.jpg|miniatura|sinistra|L'A21 nel tratto Piacenza-Brescia.]]
+L'autostrada A21 è soprannominata "autostrada dei vini" perché percorre molte zone rinomate per la produzione di [[vino|vini]] ([[Provincia di Asti|Astigiano]], [[Provincia di Alessandria|Alessandrino]], [[Oltrepò Pavese]], [[Provincia di Piacenza|Piacentino]], raggiungendo Brescia nelle vicinanze della [[Franciacorta]]); il suo percorso concorre con quello della [[strada statale 10 Padana Inferiore]] tra Torino e Cremona e con quello della [[strada statale 45 bis Gardesana Occidentale]] tra Cremona e Brescia. È interamente a due corsie per senso di marcia più la corsia di emergenza (risultando comunque in larga parte già predisposta per la terza corsia), tranne i tratti Brescia Centro-Manerbio e Santena-Barriera di Villanova, già a tre corsie per senso di marcia più la corsia di emergenza.
+
+Il [[pedaggio]] per i veicoli che percorrono solo il tratto compreso tra la barriera di Piacenza ovest e Piacenza est è stato dal [[1987]] al 7 agosto [[2007]] a carico del comune di Piacenza, anche se in modo forfettario, poiché considerato una tratta autostradale urbana, svolgendo in pratica un ruolo come [[tangenziale]] nord di Piacenza. Per mezzo degli svincoli di Piacenza ovest e Piacenza est si poteva pertanto entrare o uscire dall'autostrada liberamente.
+
+Questa situazione è cambiata da quando è stato aperto il raccordo diretto tra l'A21 e l'A1, con la conseguente disattivazione delle barriere di Piacenza ovest e La Villa e la chiusura dello svincolo di Piacenza est, e la tratta è ora a pagamento. Il comune di Piacenza ha stipulato un accordo con le concessionarie interessate, SATAP e Autostrade per l'Italia, per cui i veicoli (solo auto e moto) dei residenti nel comune di Piacenza, purché dotati di apparato Telepass appositamente abilitato presso il Centro servizi - Punto blu di Piacenza ovest, possono transitare senza spese tra i caselli di Piacenza sud (A1) e Piacenza ovest (A21).
+
+Il 27 dicembre [[1996]] l'autostrada è diventata tristemente famosa nella cronaca per l'[[omicidio di Maria Letizia Berdini]], uccisa da un lancio di sassi da un [[cavalcavia]]<ref>{{cita web|url=https://torino.repubblica.it/cronaca/2016/12/27/news/sassi_dal_cavalcavia_vent_anni_dalla_tragedia_di_tortona_la_sorella_della_vittima_non_perdonero_mai_gli_assassini_-154946640/|titolo=Sassi dal cavalcavia, vent'anni dalla tragedia di Tortona. La sorella della vittima: "Non perdonerò mai gli assassini"|data=27 dicembre 2016}}</ref>.
+
+Il 2 gennaio [[2018]], nei pressi di [[Montirone]], allo svincolo di [[Brescia]] Sud, avvenne un drammatico incidente, in cui persero la vita 6 persone: 5 membri di una famiglia francese (fra cui 2 bambini) e l'autista dell'autocisterna coinvolta, esplosa a seguito del tamponamento.<ref>{{Cita news|lingua=|autore=|url=https://www.ansa.it/lombardia/notizie/2018/01/02/si-incendia-cisterna-su-a21-sei-morti_2722fc59-0386-4cba-a381-4879a0d99e1f.html|titolo=Si incendia cisterna su A21. Sei morti anche 2 bambini|pubblicazione=Ansa.it|data=|accesso=3 gennaio 2018}}</ref>
+
+In provincia di Brescia l'A21 ha anche un raccordo di interconnessione con altre attuali (e future) autostrade e strade provinciali, l'[[autostrada A21 racc]].
+
+== Tabella percorso ==
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="6" | '''{{simbolo|Autostrada A21 Italia.svg|30}} TORINO-PIACENZA-BRESCIA<br/>(TO-PC-BS)'''<br />Autostrada dei Vini
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Area!!Strada europea
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg|18}}|| {{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A55 Italia.svg|23}} [[Autostrada A55|Tangenziale Sud di Torino]] (Santena)||align="right"|0||align="right"| 238,3|| align="center" |[[Città metropolitana di Torino|TO]]|| align="center" rowspan="32" |[[File:Italian traffic signs - strada europea 70.svg|47px|link=Strada europea E70]]
+|-
+| [[File:AB-AS-grün.svg]] || [[Villanova d'Asti|Villanova]] || align="right"|11 ||align="right"| 227,3|| rowspan="5" align="center" |[[Provincia di Asti|AT]]
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera Villanova || align="right"|11||align="right"|227,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Villanova"|| align="right"|13||align="right"|225,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Asti]] ovest || align="right"|32 ||align="right"|206,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Asti]] est<br />[[File:AB-Kreuz-grün.svg]]{{simbolo|Autostrada A33 Italia.svg}} [[Autostrada A33 (Italia)|Cuneo]] || align="right"|39||align="right"|199,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Crocetta"|| align="right"|48||align="right"| 190,3|| rowspan="7" align="center" |[[Provincia di Alessandria|AL]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Felizzano]] - [[Quattordio]] || align="right"|52||align="right"|186,3
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 25.svg|27}} {{simbolo|Autostrada A26 Italia.svg|23}} [[Autostrada A26 (Italia)|Genova - Gravellona Toce]] || align="right"|65||align="right"|173,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Alessandria (Italia)|Alessandria]] ovest || align="right"|66||align="right"|172,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Alessandria (Italia)|Alessandria]] est || align="right"|76||align="right"|162,3
+|-
+| [[File:AB-Kreuz-grün.svg]]||{{simbolo|Italian traffic signs - strada europea 62.svg|27}} {{simbolo|Autostrada A7 Italia.svg|23}} [[Autostrada A7 (Italia)|Milano - Genova]]<br /><small>[[File:AB-AS-grün.svg]] [[Tortona]]</small>||align="right"| 87||align="right"|151,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Tortona"|| align="right"|91,5||align="right"|146,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Voghera]] || align="right"|101,3||align="right"| 137|| rowspan="4" align="center" |[[provincia di Pavia|PV]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Casteggio]] - [[Casatisma]] || align="right"|115||align="right"|123,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Broni]] - [[Stradella]] || align="right"|127||align="right"|111,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Stradella"|| align="right"|130,2||align="right"|108,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castel San Giovanni]] || align="right"|141||align="right"| 97,3|| rowspan="8" align="center" |[[Provincia di Piacenza|PC]]
+|-
+| {{simbolo|AB-Tank.svg}}||Area di servizio "Trebbia"||align="right"|157||align="right"|81,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Piacenza]] ovest || align="right"|157||align="right"|81,3
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano - Napoli]]<br /><small>[[File:AB-AS-grün.svg]] [[Piacenza]] sud</small>||align="right"| 165||align="right"|72,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Nure"|| align="right"|166||align="right"|72,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Caorso]]|| align="right"|176 ||align="right"|62,3
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A21dir Italia.svg|23}} Diramazione [[Fiorenzuola d'Arda|Fiorenzuola]]<br />{{simbolo|Italian traffic signs - strada europea 35.svg|24}}{{simbolo|Italian traffic signs - strada europea 45.svg|24}} {{simbolo|Autostrada A1 Italia.svg}}<small> [[Parma]] - [[Autostrada A1 (Italia)|Bologna]]<br />''uscita solo in direzione Piacenza, entrata solo in direzione Brescia''</small> || align="right"|181||align="right"|57,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castelvetro Piacentino]]|| align="right"|186||align="right"|52,3
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Cremona"|| align="right"|193,0||align="right"| 37,3|| rowspan="2" align="center" |[[provincia di Cremona|CR]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cremona]] || align="right"|194,8||align="right"|35,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pontevico]] - [[Robecco d'Oglio|Robecco D'Oglio]]|| align="right" |210,0||align="right"| 28,3|| rowspan="7" align="center" |[[Provincia di Brescia|BS]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Manerbio]]|| align="right"|220,3||align="right"|18
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Ghedi"|| align="right"|230,4||align="right"|9,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Brescia]] sud<br /><small> {{simbolo|Autostrada A21racc Italia.svg|23}} [[Raccordo autostradale Ospitaletto-Montichiari]]<br />{{simbolo|Italian traffic signs - icona aeroporto.svg}} [[Aeroporto di Brescia-Montichiari]]</small>|| align="right"|233,2||align="right"|5,1
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 64.svg|27}}{{simbolo|Italian traffic signs - strada europea 70.svg|27}} {{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Torino - Trieste]] || align="right"|237,0||align="right"|1,3
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| [[Brescia]] centro || align="right"|238,3||align="right"| 0|| rowspan="2" |
+|-
+| {{simbolo|AS-rondo-icon-grün.svg}}|| [[Brescia]] {{simbolo|Italian traffic signs - icona centro.svg|18}}<br/><small>{{simbolo|Strada Provinciale BS11TS Italia.svg|30}} ''[[Strada statale 11 Padana Superiore#Tangenziale Sud di Brescia|Tangenziale Sud]]<br/>{{simbolo|Strada Provinciale BS45 Italia.svg|30}} [[Strada statale 45 bis Gardesana Occidentale|Gardesana Occidentale]]''</small> ||align="right"| 238,3||align="right"|0
+|}
+Il casello di Brescia Sud è stata chiusa dal 30 ottobre 2025 a causa di un incendio che ha comportato la distruzione della stazione, il 10 dicembre 2025 è stata riaperta.<ref>https://www.autoviapadana.it/a21-piacenza-brescia-casello-brescia-sud-il-10-dicembre-prevista-la-riapertura-in-modalita-provvisoria/</ref>
+
+== A21 dir Diramazione Fiorenzuola d'Arda ==
+{{Strada
+|nome = Autostrada A21 dir
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Fiorenzuola d'Arda
+|simbolo = Autostrada A21dir Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-EMR}}
+|divisione amm 2 = {{IT-PC}}
+|inizio = [[Castelvetro Piacentino]]
+|fine = [[Fiorenzuola d'Arda]]
+|lunghezza = 12,3<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=21&ramo=22&code=D21&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali<!-- Titolo generato automaticamente --> |accesso=8 dicembre 2009 |dataarchivio=4 marzo 2016 |urlarchivio=https://web.archive.org/web/20160304104215/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=21&ramo=22&code=D21&link=&tipo= |urlmorto=sì }}</ref>
+|direzione = 
+|apertura = [[1972]]<ref name=autogenerato1 />
+|provvedimento istituzione = 
+|gestore =Autovia Padana ([[ASTM (azienda)|ASTM]]) 
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A21 dir.svg
+|tracciato = 
+}}
+
+La '''diramazione Fiorenzuola d'Arda''', gestita dalla Società Autovia Padana, si stacca dal percorso principale dell'autostrada A21 tra gli svincoli autostradali di [[Caorso]] e [[Castelvetro Piacentino]], più precisamente nel territorio comunale di [[Monticelli d'Ongina]] e si congiunge con l'autostrada [[Autostrada A1 (Italia)|A1]] allo svincolo autostradale di [[Fiorenzuola d'Arda]]. È stata realizzata in contemporanea con il resto del tronco [[Piacenza]]-[[Cremona]]-[[Brescia]] allo scopo di consentire ai mezzi provenienti da queste ultime due città di raggiungere l'[[Autostrada A1 (Italia)|autostrada del Sole]] in direzione per [[Bologna]] senza passare per il nodo di Piacenza.
+
+Lunga poco più di 12&nbsp;km, è a due corsie per ciascun senso di marcia, oltre alla [[corsia di emergenza]]. Il tratto non ha uscite intermedie, solo gli innesti dalla A21 e dalla A1. Attualmente è soggetta a [[pedaggio]], mentre fino a non molti anni fa si trattava di un raccordo autostradale gratuito. Fino all'introduzione del pedaggio era presente un unico svincolo intermedio, [[Cortemaggiore]], che allo stato odierno non è invece più accessibile, sia in entrata che in uscita.
+
+La sigla alfanumerica A21 dir è presente in alcuni segnali stradali, ad esempio sull'A1. Lungo la diramazione nei pannelli di identificazione dei cavalcavia è indicata invece come A21.
+{| class="wikitable"
+|- bgcolor="08842C" align="center" style="color: white;font-size:100%;"
+| colspan="5" |Diramazione Fiorenzuola d'Arda
+|-
+|-
+!Tipo
+!Indicazione
+!↓km↓
+!↑km↑
+!Provincia
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|{{simbolo|Autostrada A21 Italia.svg|23}}
+| align="right" |0,0
+| align="right" |12,3
+| rowspan="3" align="center" |[[Provincia di Piacenza|PC]]
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Cortemaggiore]]
+<small>svincolo dismesso</small>
+
+<small>(svincolo solo da e per l'A21)</small>
+| align="right" |7,3
+| align="right" |5,0
+|-
+|[[File:AB-Kreuz-grün.svg]][[File:AB-AS-grün.svg]]
+|{{simbolo|Autostrada A1 Italia.svg|23}} [[Fiorenzuola d'Arda]]
+| align="right" |12,3
+| align="right" |0,0
+|}
+
+== Curiosità ==
+Tra gli svincoli di [[Voghera]] e [[Casteggio]]-[[Casatisma]] è posizionato un pannello informativo, che sovrasta entrambe le carreggiate dell'autostrada, che indica l'attraversamento del 45º [[Parallelo (geografia)|parallelo]] nord.
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{Cita pubblicazione |titolo = L'autostrada Torino-Piacenza |autore = Paolo de' Castiglioni |rivista = [[Le Strade]] |volume = anno XLVI |numero = 6 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1966 |mese = giugno |pp = 253-260 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1558#page/374/mode/2up }}
+* {{Cita pubblicazione |titolo = L'autostrada Torino Alessandria Piacenza |autore = Agostino Sajeva |rivista = [[Le Strade]] |volume = anno XLIX |numero = 5 |editore = [[Touring Club Italiano]] |città = Milano |anno = 1969 |mese = maggio |pp = 253-262 |ISSN = |url = http://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=1561#page/354/mode/2up }}
+
+== Voci correlate ==
+* [[Sistema tangenziale di Cremona]]
+
+== Altri progetti ==
+{{Interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|https://www.autoviapadana.it/|Autovia Padana}}
+* {{cita web|https://www.itpspa.it/|ITP - Ivrea Torino Piacenza S.p.A.}}
+* {{cita web|https://www.lotsberg.net/data/italia/A21.html|Gallerie e viadotti della A21}}
+
+{{autostrade italiane}}
+{{Portale|trasporti}}
+
+[[Categoria:Autostrade in Italia|A21]]
+[[Categoria:Trasporti a Brescia]]
+[[Categoria:Trasporti in Lombardia]]
+[[Categoria:Trasporti in Emilia-Romagna]]
+[[Categoria:Trasporti in Piemonte]]

@@ -1,0 +1,571 @@
+{{Strada
+|nome = Autostrada A29
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Palermo-Mazara del Vallo
+|simbolo = Autostrada A29 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 = {{IT-PA}}<br/>{{IT-TP}}
+|inizio = immissione su A29 raccordo-bis
+|fine = [[Mazara del Vallo]]
+|lunghezza = 114,8<ref name=a>{{Cita web|url=http://www.stradeanas.it/index.php?/file/open/10558|titolo=Autostrada A29}}</ref>
+|direzione = 
+|apertura = [[1978]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Anas (azienda)|Anas]] 
+|pedaggio = Gratuito
+|città servite = 
+|intersezioni = [[#A29 dir Diramazione Alcamo-Trapani|A29 dir]] ad [[Alcamo]] 
+|europea1 = 90
+|europea2 = 931
+|europea3 = 933
+|europea altro =
+|mappa = Italia - mappa autostrada A29.svg
+|tracciato = A29,A29dir percorso.svg
+}}
+L{{'}}'''autostrada A29''' è un'[[autostrada]] [[italia]]na che collega [[Palermo]] con [[Mazara del Vallo]] e, attraverso una diramazione, con [[Trapani]] e [[Marsala (Italia)|Marsala]]. L'autostrada è lunga circa 115 chilometri, la diramazione principale chiamata A29dir, priva di corsia d'emergenza ma con banchina asfaltata,  è lunga 36,9&nbsp;km. L'A29 è gestita dall'Anas e non è soggetta a [[pedaggio]]. È parte della [[strada europea E90]] e dallo svincolo di Mazara del Vallo, inizia la [[strada europea E931]].
+
+== Storia ==
+Costruita dopo il [[terremoto del Belice del 1968]], la posa della prima pietra avvenne il 30 agosto [[1971]]; simultaneamente a [[Palermo]] nei pressi dell'attuale svincolo per il sobborgo di ''Tommaso Natale'' e a [[Mazara del Vallo]] in prossimità dell'odierno inizio del tratto dell'[[autostrada]].
+
+I lavori ebbero inizio con la realizzazione del tratto [[Palermo]]-[[Aeroporto di Palermo-Punta Raisi|aeroporto]], che fu completato nel giugno [[1972]]. Nel frattempo, da Mazara del Vallo veniva realizzata l'opera fino all'attuale svincolo di Gallitello nelle campagne tra [[Alcamo]] e [[Salemi]]. Dopo quasi un anno di interruzione, nei lavori nell'aprile [[1973]] si iniziò l'opera del tragitto principale da [[Villagrazia di Carini]] all'attuale uscita Alcamo Est.
+
+Questi lavori durarono ben 20 mesi e, nel dicembre [[1975]], l'Anas dichiarò completato anche il tracciato in questione. Frattanto, nel febbraio 1975, veniva dato il via alla realizzazione per quella che doveva essere solo una [[superstrada]], ossia la [[Trapani]]-[[Alcamo]] di circa 45&nbsp;km. Questa venne completata nel maggio [[1976]] e innestata all'autostrada vera e propria, che nei primi mesi dello stesso anno assumeva la configurazione attuale con l'ultimazione del tratto tra Alcamo e l'innesto con l'attuale A29-dir, che venne, malgrado l'assenza di corsia d'emergenza, assimilata ad autostrada. Successivamente, tra il [[1979]] e il [[1980]] veniva realizzato il percorso tra Dattilo-Paceco e l'aeroporto di Trapani, che non era stato contemplato nel lotto iniziale della diramazione per Trapani. Era anche previsto che questo itinerario continuasse fino a [[Marsala (Italia)|Marsala]], ma alla fine il progetto non venne mai messo in pratica, anche se si è teorizzato di completare l'"anello" con [[Mazara del Vallo]], con lo scopo di decongestionare il traffico nell'area urbana di Marsala, che risulta "spalmata" per almeno 20 chilometri lungo la strada statale 115, con conseguenti problemi di traffico e [[inquinamento]] atmosferico da [[gas]] di scarico delle automobili. Negli [[Anni 1980|anni ottanta]] si prolungò l'autostrada che arrivava fino al quartiere periferico di [[Palermo]] denominato [[Tommaso Natale (Palermo)|Tommaso Natale]], fino a collegarla alla [[viale della Regione Siciliana|circonvallazione di Palermo]], inoltre venne successivamente aperto un nuovo svincolo, Tommaso Natale - [[Mondello]], all'altezza del precedente innesto autostradale.
+
+Negli [[anni novanta]], fu realizzato un nuovo svincolo, Alcamo Ovest, che venne allacciato alla SS 113 nord-occidentale sicula, poi furono riqualificati alcuni tratti dell'autostrada, con l'aggiunta di ulteriori colonnine SOS e dell'eliminazione della riga gialla al lato destro, migliorando in seguito l'illuminazione notturna e incrementando le protezioni laterali nei viadotti e tra le due carreggiate, nonché aumentando la sicurezza nelle gallerie tra [[Palermo]] e [[Isola delle Femmine]], con dei lavori che sono durati oltre un decennio e completati solo nel [[2007]].
+
+== L'autostrada oggi ==
+[[File:Sizilien Autobahn A29DIR.jpg|thumb|left|Il viadotto "Caldo" dell'autostrada A29dir, vicino a [[Segesta]]]]
+[[File:Falcone Denkmal.jpg|thumb|Il monumento in ricordo di [[Giovanni Falcone]], della moglie e di 3 agenti della loro scorta, all’altezza dello svincolo per [[Capaci]], posta nel luogo dove avvenne la [[Strage di Capaci|strage]].]]
+Risulta sprovvista di [[area di servizio|aree di servizio]] per il rifornimento di [[carburante]] su tutto il percorso.
+
+La [[galleria (ingegneria)|galleria]] più lunga del percorso, denominata "[[Segesta]]", poco prima dello svincolo per Calatafimi-Segesta sulla A29 dir, benché misuri 1615 metri di lunghezza, non è provvista di vie di fuga, aerazione e colonnine Sos.
+
+Il 30 maggio 2018 sono stati ultimati i lavori di adeguamento strutturali della canna in direzione Trapani, dopo 4 anni di lavori fra ritardi nei lavori fermati a più riprese e inchieste della procura distrettuale antimafia.
+L’adeguamento della canna in ottemperanza alle Direttive Europee per la sicurezza delle gallerie, ha previsto un investimento complessivo di 16 milioni di euro, ripartiti in interventi di adeguamento delle strutture, per 9 milioni di euro, e degli impianti tecnologici, per 6 milioni di euro, oltre a un milione relativo ai costi per la sicurezza.
+Gli adeguamenti strutturali hanno comportato il risanamento del rivestimento interno, l’installazione dei New Jersey di protezione laterale oltre che la realizzazione dei tre bypass pedonali tra le due carreggiate e il risanamento del preesistente bypass carrabile.
+Per quanto riguarda gli adeguamenti tecnologici, sono stati realizzati nuovi impianti di illuminazione e ventilazione, segnaletica luminosa, impianto radio, sistemi SOS, di diffusione sonora, telecontrollo, videosorveglianza, rilevazione incendi e impianto idrico antincendio.
+
+Un'altra galleria di una certa lunghezza è quella denominata "Fumosa" tra gli svincoli di Fulgatore e Dattilo sulla A29 dir, lunga circa 500 metri e leggermente in dosso.
+
+Il [[viadotto]] più lungo, denominato "Caldo" (dal nome del [[torrente]] sottostante), precede la suddetta galleria ed è lungo 2382 metri.
+
+Le due principali aree di sosta sono denominate "Costa Gaia", illuminata e sita tra l'uscita Alcamo Est e l'uscita Castellammare del Golfo dove è prevista la costruzione di un'area di rifornimento, e "Fontanelle", non illuminata e sita tra lo svincolo di Mazara del Vallo e quello di Campobello di Mazara, in prossimità di quest'ultimo.
+
+L'illuminazione notturna è principalmente concentrata nel tratto iniziale da Palermo viale Belgio all'uscita per l'aeroporto del capoluogo siciliano, gli svincoli successivi non sono tutti provvisti di illuminazione.
+
+All'altezza dello svincolo di [[Capaci]] sono presenti due [[obelisco|obelischi]] (uno per senso di marcia) eretti in ricordo del giudice [[Giovanni Falcone]], della moglie [[Francesca Morvillo]] e degli agenti della scorta morti il [[Strage di Capaci|23 maggio 1992]].
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | {{simbolo|Autostrada A29 Italia.svg|35}}<br />''Palermo - Mazara del Vallo''
+|-
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg|17}} || {{simbolo|Italian traffic signs - strada europea 90.svg|27}} {{simbolo|Autostrada A29racc bis Italia.png|24}} Raccordo A29-Palermo || align="right"| - || align="right"| - || rowspan=12 align="center"|[[Città metropolitana di Palermo|PA]] || rowspan=25 align="center"|[[File:Italian traffic signs - strada europea 90.svg|50px|link=Strada europea E90]]
+|-
+| [[File:AB-AS-grün.svg]] || [[Tommaso Natale (Palermo)|Tommaso Natale]] - {{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Mondello]]|| align="right" | 0,0 || align="right"| 114,8 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Capaci]] - [[Isola delle Femmine]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 4,4 || align="right"| 109,4
+|-
+| [[File:AB-AS-grün.svg]] || [[Carini]] || align="right"| 7,6 || align="right"| 106,2
+|-
+| {{simbolo|AB-Kreuz-grün.svg|22}} || [[File:Autostrada A29racc Italia.png|24px|link=#A29 Bretella Aeroporto "Falcone e Borsellino"]] {{simbolo|RWBA Flughafen(R).svg|17}} Bretella Aeroporto Falcone-Borsellino || align="right" | 13,5 || align="right"| 100,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Villagrazia di Carini]] || align="right"| 15,1 || align="right"| 98,7
+|-
+| [[File:AB-AS-grün.svg]]|| [[Cinisi]] || align="right"| 17,6 || align="right"| 96,2
+|-
+| [[File:AB-AS-grün.svg]]|| [[Terrasini]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 23,5 || align="right"| 90,3
+|-
+| [[File:AB-AS-grün.svg]]|| [[Montelepre]] - [[Carini|Zucco]] || align="right"| 29,0 || align="right"| 84,8
+|-
+| [[File:AB-AS-grün.svg]]|| [[Partinico]] <br/> {{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right"| 30,9 || align="right"| 82,9
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || <small>Area di parcheggio "Giambruno"</small> || align="right"| 34,7 || align="right"| 79,1
+|-
+| [[File:AB-AS-grün.svg]]|| [[Balestrate]] || align="right"| 39,8 || align="right"| 74,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Alcamo]] est <br/> {{simbolo|Strada Statale 732 Italia.svg|35}} <small>[[Strada statale 732 Bretella di Alcamo Est|Bretella di Alcamo Est]]</small> || align="right"| 44,8 || align="right"| 69,0 || rowspan=13 align="center"|[[Provincia di Trapani|TP]]
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || <small>Area di parcheggio "Costa Gaia"</small> || align="right"| 47,0 || align="right"| 66,8
+|-
+| [[File:AB-AS-grün.svg]] || [[Castellammare del Golfo]] <br/> {{simbolo|Strada Statale 731 Italia.svg|35}} <small>[[Strada statale 731 Bretella di Castellammare del Golfo|Bretella di Castellammare del Golfo]]</small>|| align="right"| 47,7 || align="right"| 66,1
+|-
+| [[File:AB-AS-grün.svg]] || [[Alcamo]] ovest <br/> {{simbolo|Strada Statale 733 Italia.svg|35}} <small>[[Strada statale 733 Bretella di Alcamo Ovest|Bretella di Alcamo Ovest]]</small> || align="right"| 51,0 || align="right"| 62,8
+|-
+| {{simbolo|AB-Kreuz-grün.svg|22}} || {{simbolo|Italian traffic signs - strada europea 933.svg|27}} {{simbolo|Autostrada A29dir Italia.png|24}} Alcamo-Trapani || align="right"| 53,0 || align="right"| 60,8
+|-
+| [[File:AB-AS-grün.svg]] || [[Stazione di Gallitello|Gallitello]] || align="right"| 65,4 || align="right"| 48,4
+|-
+| [[File:AB-AS-grün.svg]] || [[Salemi]] - [[Gibellina|Gibellina Nuova]] || align="right"| 76,4 || align="right"| 37,4
+|-
+| [[File:AB-AS-grün.svg]] || [[Santa Ninfa]] - [[Partanna]]  <br/> {{simbolo|Strada Statale 119 Italia.svg|35}} <small>[[Strada statale 119 di Gibellina|di Gibellina]]</small> || align="right"| 84,1 || align="right"| 29,7
+|-
+| [[File:AB-AS-grün.svg]] || [[Castelvetrano]] || align="right"| 93,5 || align="right"| 20,3 
+|-
+| [[File:AB-AS-grün.svg]] || [[Campobello di Mazara]]  <br/> {{simbolo|Strada Statale 115 Italia.svg|35}} <small>[[Strada statale 115 Sud Occidentale Sicula|Sud Occidentale Sicula]]</small> || align="right" | 97,8 || align="right"| 16,0
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || <small>Area di parcheggio "Fontanelle"</small> || align="right"| 100,5 || align="right"| 13,3
+|-
+| [[File:AB-AS-grün.svg]] || [[Mazara del Vallo]] || align="right"| 113,8 || align="right" | 0,4 
+|-
+| {{simbolo|AB-ende-grün.svg|17}} || {{simbolo|Italian traffic signs - strada europea 90.svg|27}} {{simbolo|Italian traffic signs - strada europea 931.svg|27}} {{simbolo|Strada Statale 115 Italia.svg|35}} <small>[[Strada statale 115 Sud Occidentale Sicula|Sud Occidentale Sicula]]</small> || align="right"| 114,2 || align="right" | 0,0
+|}
+
+== A29 dir Diramazione Alcamo-Trapani ==
+{{Strada
+|nome = Autostrada A29dir
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione Alcamo-Trapani
+|simbolo = Autostrada A29dir Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 ={{IT-TP}} 
+|inizio = A29 presso [[Alcamo]]
+|fine = [[Trapani]]
+|lunghezza = 36,9<ref name=a/>
+|direzione = est-ovest
+|apertura = 
+|provvedimento istituzione = 
+|gestore =[[Anas (azienda)|Anas]] 
+|pedaggio = no
+|città servite = 
+|intersezioni = A29 ad [[Alcamo]], [[#A29 dirA Diramazione per Birgi (Italia)|A29 dirA]] a Dattilo (Frazione di [[Paceco]])
+|europea1 = 933
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa strada europea E933.svg
+|tracciato = 
+}}
+
+[[File:Sizilien Autobahn A29DIR.jpg|thumb|Un tratto della A29 dir nei pressi di [[Segesta]]]]
+
+La '''A29 dir Alcamo-Trapani''' è una diramazione autostradale della A29 che collega l'asse [[Palermo]]-[[Mazara del Vallo]] con [[Trapani]]. Ha origine dall'A29 nel territorio di [[Alcamo]] e si sviluppa interamente nel [[libero consorzio comunale di Trapani]] per '''36,9&nbsp;km''', terminando nell'area urbana del capoluogo trapanese. È gestita dall'[[ANAS]] e, come la A29 principale, non è soggetta a pedaggio.<ref name="ANAS-A29dir">{{Cita web
+|url=https://www.stradeanas.it/sites/default/files/pdf/3.4.2/11%20-%20Provvedimento%20Anas%20del%2020.10.2010.pdf
+|titolo=Elenco delle autostrade in gestione ANAS
+|sito=ANAS
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+La diramazione costituisce il principale collegamento autostradale tra Trapani e la rete autostradale siciliana e consente, attraverso l'innesto con la A29, i collegamenti verso [[Palermo]] e la Sicilia sud-occidentale. Nel tratto terminale raggiunge la viabilità urbana di Trapani in corrispondenza dello [[Scorrimento Villa Rosina]].<ref name="ordinanza">{{Cita web
+|url=https://comune.trapani.it/wp-content/uploads/2025/11/SU_DET_ORDD_1004_2025-1.pdf
+|titolo=Ordinanza n. 1004 del 30 ottobre 2025
+|sito=Comune di Trapani
+|data=30 ottobre 2025
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+=== Storia ===
+La realizzazione della diramazione rientrò nel programma di costruzione delle autostrade della Sicilia occidentale. Secondo la ricostruzione storica dell'ANAS, nel '''1968''' ebbe inizio la costruzione dell'A29 Palermo-Mazara del Vallo, comprendente anche la diramazione da Alcamo verso Trapani.<ref name="ANAS-Sicilia">{{Cita web
+|url=https://www.stradeanas.it/it/search/content/A20%20Strada
+|titolo=La rete autostradale ANAS in Sicilia
+|sito=ANAS
+|accesso=3 settembre 2026
+}}</ref>
+
+L'autostrada verso Trapani fu completata e aperta al traffico nel '''1976''', due anni prima del completamento dell'intero asse Palermo-Mazara del Vallo, inaugurato nel 1978.<ref name="ANAS-Sicilia"/> La sua realizzazione consentì di dotare il capoluogo trapanese di un collegamento a carreggiate separate con l'asse autostradale diretto verso Palermo e con la restante rete viaria della Sicilia occidentale.
+
+La denominazione ufficiale utilizzata dall'ANAS è '''A29 DIR – Alcamo-Trapani'''. L'ente ne indica una progressiva compresa tra il km 0,000 e il km 36,900 e la classifica come autostrada senza pedaggio.<ref name="ANAS-A29dir"/>
+
+=== Descrizione ===
+La diramazione ha origine dall'A29 nei pressi di [[Alcamo]], da cui procede inizialmente verso nord-ovest attraverso un territorio prevalentemente collinare. Il primo tratto attraversa il territorio di [[Calatafimi Segesta]] e serve l'area archeologica di [[Segesta]], prima di proseguire verso [[Fulgatore]] e la pianura trapanese.
+
+Tra gli svincoli di Alcamo e Segesta si trova la '''galleria Segesta''', principale opera in sotterraneo dell'autostrada. La galleria è costituita da due fornici: quello in direzione Trapani è lungo '''1.651 metri''', mentre quello in direzione Alcamo misura '''1.640 metri'''. L'infrastruttura è compresa tra il km 7+030 e il km 8+700 e ricade nel territorio comunale di Calatafimi Segesta.<ref name="Segesta-2026">{{Cita web
+|url=https://prefettura.interno.gov.it/it/prefetture/trapani/notizie/esercitazione-presso-galleria-segesta-a29-dir-alcamo-trapani
+|titolo=Esercitazione presso Galleria di Segesta – A29 DIR Alcamo-Trapani
+|sito=Prefettura – Ufficio Territoriale del Governo di Trapani
+|data=24 aprile 2026
+|accesso=3 settembre 2026
+}}</ref>
+
+La galleria rientra nell'ambito di applicazione della normativa sulla sicurezza delle gallerie appartenenti alla [[Reti transeuropee dei trasporti|rete stradale transeuropea]]. Il fornice in direzione Trapani è dotato di quattro bypass pedonali di emergenza, impianti di illuminazione e ventilazione, segnalazione semaforica e pannelli a messaggio variabile, postazioni SOS, rilevazione incendi e videosorveglianza.<ref name="Segesta-2026"/> Il fornice in direzione Alcamo è interessato da un programma di adeguamento strutturale e tecnologico avviato dall'ANAS nel 2022, per un investimento di circa '''18 milioni di euro'''; nel 2026 i relativi lavori di ammodernamento risultavano ancora in corso.<ref name="Segesta-2026"/><ref>{{Cita web
+|url=https://www.stradeanas.it/it/print/pdf/node/229635
+|titolo=Sicilia, Anas: al via i lavori di adeguamento delle strutture e degli impianti della galleria Segesta in direzione Alcamo
+|sito=ANAS
+|data=17 gennaio 2022
+|accesso=3 settembre 2026
+}}</ref>
+
+Superata la zona di Segesta, l'autostrada raggiunge lo svincolo di [[Fulgatore]], che consente il collegamento con la [[Strada statale 113 Settentrionale Sicula|SS 113]], e prosegue verso [[Paceco|Dattilo]]. In quest'area si innesta la diramazione per Birgi, mentre la A29 dir continua direttamente verso Trapani.
+
+Nel tratto occidentale il percorso assume caratteristiche prevalentemente pianeggianti e attraversa l'entroterra immediatamente a sud-est della città. I rilevamenti di traffico ANAS collocano, nel 2023, una postazione sulla A29 dir al km 25,152 nel territorio di Trapani con una media giornaliera rilevata di oltre '''10.000 veicoli leggeri''' e circa '''480 mezzi pesanti''', a testimonianza del ruolo dell'arteria nella mobilità dell'area trapanese.<ref>{{Cita web
+|url=https://www.stradeanas.it/sites/default/files/paginabase/documenti/Anas-Dati-TGMA-2023_rev2.pdf
+|titolo=Dati di traffico medio giornaliero annuale 2023
+|sito=ANAS
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+La carreggiata prosegue infine verso l'area urbana di Trapani, dove il raccordo autostradale si integra con la viabilità cittadina attraverso l'asse di via Salemi e lo Scorrimento Villa Rosina.<ref name="ordinanza" />
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | {{simbolo|Autostrada A29dir Italia.png|35}}<br />''Alcamo - Trapani''
+|-
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+|[[File:AB-Vzw-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 90.svg|27}} {{simbolo|Autostrada A29 Italia.svg|24}} Palermo-Mazara del Vallo || align="right"| 0,0 || align="right"| 36,9 || rowspan=7 align="center"|[[Provincia di Trapani|TP]] || rowspan=7 align="center"|[[File:Italian traffic signs - strada europea 933.svg|50px|link=Strada europea E933]]
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Segesta]]<br><small>[[Calatafimi Segesta|Calatafimi S.]]</small>
+| align="right" |8,9
+| align="right" |27,9
+|-
+| [[File:AB-AS-grün.svg]]|| [[Fulgatore]] <br/>{{simbolo|Strada Statale 113 Italia.svg|35}} <small>[[Strada statale 113 Settentrionale Sicula|Settentrionale Sicula]]</small> || align="right" | 21,3 || align="right"| 15,5
+|-
+| [[File:AB-AS-grün.svg]]|| [[Paceco|Dattilo]] || align="right"| 27,9 || align="right"| 8,9
+|-
+| {{simbolo|AB-Kreuz-grün.svg|22}} || {{simbolo|Autostrada A29dirA Italia.png|24}} Diramazione per Birgi || align="right"| 28,7 || align="right"| 8,1
+|-
+| {{simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}} || Area di parcheggio "Dattilo"<br><small>(solo in direzione Trapani)</small>
+| align="right" | 32,6 || align="right"| -
+|-
+| {{simbolo|AB-ende-grün.svg|17}} || [[Trapani]]<br />{{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|17}} <small>[[Scorrimento Villa Rosina]]</small>|| align="right"| 36,9 || align="right"| 0,0
+|}
+
+== A29 dir/A Diramazione per Birgi ==
+{{Strada
+|nome = Autostrada A29dirA
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione per Birgi
+|simbolo = Autostrada A29dirA Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 ={{IT-TP}} 
+|inizio = [[#A29 dir Diramazione Alcamo-Trapani|A29 dir]] presso [[Paceco|Dattilo]]
+|fine = [[Strade provinciali della provincia di Trapani#SP 20 - SP 29|SP21]] presso [[Misiliscemi|Locogrande]]
+|lunghezza = 13,1<ref name=a/>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = 
+|pedaggio = no
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+La '''A29 dir/A Diramazione per Birgi''' è una diramazione autostradale della '''A29 dir Alcamo-Trapani''' che collega l'asse autostradale con l'area di [[Birgi (Marsala)|Birgi]], nella pianura a sud di [[Trapani]], e con l'[[Aeroporto di Trapani-Birgi]]. Ha origine nei pressi di [[Paceco|Dattilo]] e si sviluppa per '''13,1&nbsp;km''' in direzione sud-occidentale.<ref name="ANAS-A29dirA">{{Cita web
+|url=https://stradeanas.it/sites/default/files/attivita_servizi/doc/Provvedimento-Anas-del-25.09.2025.pdf
+|titolo=Elenco dei coefficienti «Ki» delle strade in gestione ANAS
+|sito=ANAS
+|data=25 settembre 2025
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+L'infrastruttura è gestita dall'[[ANAS]], che la identifica ufficialmente con la sigla '''A29 dir/A''' e la denominazione «Diramazione per Birgi». La progressiva chilometrica si estende dal km 0,000 al km 13,100 e l'autostrada non è soggetta a pedaggio.<ref name="ANAS-A29dirA"/><ref name="ANAS-autostrade">{{Cita web
+|url=https://www.stradeanas.it/sites/default/files/pdf/3.4.2/11%20-%20Provvedimento%20Anas%20del%2020.10.2010.pdf
+|titolo=Elenco delle autostrade in gestione ANAS
+|sito=ANAS
+|data=20 ottobre 2010
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+La diramazione costituisce il collegamento autostradale con l'area aeroportuale di Trapani-Birgi; l'ANAS la indica infatti come un'autostrada di 13,1&nbsp;km diretta verso l'aeroporto.<ref name="ANAS-Sicilia" /> L'aeroporto civile e il sedime militare del [[37º Stormo]] si trovano nel territorio di [[Misiliscemi]].<ref>{{Cita web
+|url=https://www.airgest.it/
+|titolo=Aeroporto Internazionale di Trapani Birgi «Vincenzo Florio»
+|sito=Airgest
+|accesso=3 settembre 2026
+}}</ref><ref>{{Cita web
+|url=https://www.aeronautica.difesa.it/news/37-stormo-a-miliscemi-la-cerimonia-di-avvicendamento-al-comando-del-reparto/
+|titolo=37º Stormo: all'aeroporto di Trapani-Birgi la cerimonia di avvicendamento al comando del reparto
+|sito=Aeronautica Militare
+|data=30 luglio 2026
+|accesso=3 settembre 2026
+}}</ref>
+
+=== Storia ===
+La realizzazione della diramazione rientrò nel più ampio programma di costruzione dell'A29 e dei collegamenti autostradali della Sicilia occidentale. Secondo la ricostruzione storica dell'ANAS, nel '''1968''' ebbe inizio la costruzione della Palermo-Mazara del Vallo insieme alle diramazioni da Alcamo verso Trapani e verso '''Birgi e Marsala'''.<ref name="ANAS-Sicilia"/>
+
+La costruzione dell'asse rispondeva alla necessità di collegare alla nuova rete autostradale la fascia costiera compresa tra Trapani e Marsala e l'area aeroportuale di Birgi. L'ANAS ricomprende oggi la diramazione tra le autostrade direttamente gestite in Sicilia insieme alla A19, alla A29, alla A29 dir Alcamo-Trapani e alla Catania-Siracusa.<ref name="ANAS-Sicilia"/>
+
+Con il decreto legislativo 29 ottobre 1999, n. 461, relativo all'individuazione della rete autostradale e stradale nazionale, il collegamento venne ricompreso nella rete autostradale di interesse nazionale.<ref>{{Cita web
+|url=https://www.normattiva.it/eli/id/1999/12/09/099G0533/CONSOLIDATED/20200128
+|titolo=Decreto legislativo 29 ottobre 1999, n. 461 – Individuazione della rete autostradale e stradale nazionale
+|sito=Normattiva
+|data=29 ottobre 1999
+|accesso=3 settembre 2026
+}}</ref> Nei provvedimenti dell'ANAS la diramazione è distinta dalla Alcamo-Trapani mediante la sigla '''A29 dir/A'''.<ref name="ANAS-A29dirA"/>
+
+=== Descrizione ===
+La A29 dir/A ha origine dall{{'}}'''A29 dir Alcamo-Trapani''' nella zona di [[Paceco|Dattilo]], da cui si dirige verso sud-ovest attraversando la pianura trapanese in direzione di Birgi. L'ACI individua gli estremi dell'autostrada nell'allacciamento con la A29 dir presso Dattilo e in Birgi.<ref>{{Cita web
+|url=https://aci.gov.it/app/uploads/2025/10/OV-11.pdf
+|titolo=Statistiche – Autostrade
+|sito=Automobile Club d'Italia
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+Il tracciato presenta due carreggiate separate ed è inserito in un territorio prevalentemente pianeggiante e agricolo. Nel tratto intermedio serve la viabilità diretta verso [[Trapani]], [[Marsala (Italia)|Marsala]] e le località della costa, mentre nell'ultimo tratto attraversa l'area di [[Marausa]] e [[Misiliscemi|Locogrande]], nel territorio di Misiliscemi, raggiungendo infine Birgi.<ref>{{Cita web
+|url=https://www.comune.misiliscemi.tp.it/atm-trapani-misiliscemi-31r-e-31n-deviazione-di-percorso/
+|titolo=ATM Trapani-Misiliscemi 31R e 31N, deviazione di percorso
+|sito=Comune di Misiliscemi
+|data=11 maggio 2026
+|accesso=3 settembre 2026
+}}</ref>
+
+Il termine dell'autostrada si trova nell'area aeroportuale, in prossimità del sedime del 37º Stormo; da qui la viabilità ordinaria consente di raggiungere l'[[Aeroporto di Trapani-Birgi]] e si collega alla '''Strada provinciale 21 Trapani-Marsala'''. L'indirizzo ufficiale dell'aeroporto è infatti situato lungo la SP 21 nel territorio di Misiliscemi.<ref>{{Cita web
+|url=https://www.airgest.it/wp-content/uploads/2024/07/BIRGI%20_APT_MARSALA%20e%20viceversa%20dal%2008.07.2024.pdf
+|titolo=Collegamenti Aeroporto Trapani-Birgi-Marsala
+|sito=Airgest
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+La diramazione svolge pertanto una duplice funzione: da un lato costituisce l'accesso autostradale all'aeroporto civile e militare di Birgi, dall'altro collega la A29 dir alla viabilità della fascia costiera Trapani-Marsala.<ref name="ANAS-Sicilia"/><ref>{{Cita web
+|url=https://www.airgest.it/bus-e-navette
+|titolo=Bus e navette da e per l'Aeroporto di Trapani-Birgi
+|sito=Airgest
+|accesso=3 settembre 2026
+}}</ref>
+
+L'ANAS identifica ufficialmente l'arteria come '''A29 dir/A – Diramazione per Birgi''', con progressiva chilometrica autonoma compresa tra il km 0,000 e il km 13,100.<ref name="ANAS-A29dirA" /> La segnaletica verticale lungo il percorso è stata aggiornata con la sigla '''A29 dir/A''', riportata anche sui segnali di progressiva chilometrica; i segnali di '''inizio e fine autostrada''' conservano tuttavia la denominazione '''«A29 dir Alcamo-Trapani»'''.
+
+Una particolarità riguarda inoltre la numerazione dei cavalcavia: mentre quelli della A29 dir Alcamo-Trapani sono numerati fino all'11, sulla A29 dir/A la serie utilizzata dal Ministero parte dal '''102''' e arriva al '''110''', senza proseguire quindi la numerazione della diramazione principale.<ref>{{Cita web
+|url=https://www.mit.gov.it/nfsmitgov/files/media/notizia/2021-12/Decreto_Sottopassi_Sovrappassi.pdf
+|titolo=Decreto ministeriale n. 485 del 30 novembre 2021 – Elenco delle strutture, sottopassi e sovrappassi
+|sito=Ministero delle infrastrutture e dei trasporti
+|data=30 novembre 2021
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref> La documentazione ministeriale non specifica l'origine di questa numerazione.
+
+La A29 dir/A presenta infine la particolarità di diramarsi da un'altra diramazione autostradale, la '''A29 dir Alcamo-Trapani'''.<ref name="ANAS-A29dirA"/>
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | {{simbolo|Autostrada A29dirA Italia.png|35}}<br />''Diramazione per Birgi''
+|-
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia
+|-
+|[[File:AB-Vzw-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 933.svg|27}} {{simbolo|Autostrada A29dir Italia.png|24}} Alcamo-Trapani || align="right"| 0,0 || align="right"| 13,1 || rowspan=5 align="center"|[[Provincia di Trapani|TP]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Marsala (Italia)|Marsala]] - [[Trapani|Trapani ovest]]<br>[[File:Strada Statale 115 Italia.svg|30x30px]] <small>[[Strada statale 115 Sud Occidentale Sicula|Sud Occidentale Sicula]]</small> 
+|align="right" |7,0
+|align="right" |6,0
+|-
+| [[File:AB-AS-grün.svg]]|| [[Marausa]] || align="right" | 11,5 || align="right"| 1,5
+|-
+| [[File:AB-AS-grün.svg]]||[[37º Stormo]]<br /><small>(uscita per mezzi autorizzati solo in direzione Birgi)</small>|| align="right"| 13,0 || align="right"| -
+|-
+| {{simbolo|AB-ende-grün.svg|17}} ||{{simbolo|Strada Provinciale 21 Italia.svg|35}} [[Strade provinciali del libero consorzio comunale di Trapani#SP 20 - SP 29|''Strada provinciale 21'']]<br />[[Trapani]] - [[Marsala (Italia)|Marsala]] - [[Mozia]] - {{simbolo|RWBA Flughafen(R).svg|17}}[[Aeroporto di Trapani-Birgi|Birgi]]|| align="right" | 13,1 || align="right"| 0,0
+|}
+
+== A29 racc Diramazione per Punta Raisi ==
+{{Strada
+|nome = Autostrada A29 racc
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Diramazione per Punta Raisi
+|simbolo = Autostrada A29racc Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 ={{IT-PA}} 
+|inizio = A29 presso [[Villagrazia di Carini]]
+|fine = [[Aeroporto di Palermo "Falcone e Borsellino"]]
+|lunghezza = 4<ref name=a/>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore =[[Anas (azienda)|Anas]] 
+|pedaggio = no
+|città servite = 
+|intersezioni = 
+|europea1 = 
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+La '''A29 racc Diramazione per Punta Raisi''' è un breve raccordo autostradale che collega l'A29 Palermo-Mazara del Vallo con l'[[Aeroporto di Palermo-Punta Raisi|Aeroporto internazionale di Palermo «Falcone e Borsellino»]], nella località di [[Cinisi|Punta Raisi]]. Ha una lunghezza di '''4&nbsp;km''' ed è gestita dall'[[ANAS]].<ref name="ANAS-A29dirA" />
+
+L'ANAS identifica ufficialmente l'arteria con la sigla '''A29 racc''' e la denominazione «Diramazione per Punta Raisi», assegnandole una progressiva chilometrica autonoma compresa tra il km 0,000 e il km 4,000.<ref name="ANAS-A29dirA" /> Nonostante la progressiva indipendente e la distinta denominazione amministrativa, i segnali di '''inizio e fine autostrada''' presenti lungo il raccordo riportano la denominazione '''«A29 Palermo-Mazara del Vallo»'''.
+
+=== Storia ===
+Il collegamento con Punta Raisi fu realizzato nell'ambito della costruzione dell'autostrada Palermo-Mazara del Vallo. Già nel luglio 1972 l'[[Assemblea regionale siciliana]] faceva riferimento all'asse autostradale '''Palermo-Punta Raisi-Mazara del Vallo''' tra le infrastrutture realizzate o in corso di realizzazione nella Sicilia occidentale.<ref>{{Cita web
+|url=https://w3.ars.sicilia.it/DocumentiEsterni/ResSteno/07/07_1972_07_11_089_D.pdf
+|titolo=Resoconti parlamentari – VII legislatura, 89ª seduta
+|sito=Assemblea regionale siciliana
+|data=11 luglio 1972
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+Nel ''decreto legislativo 29 ottobre 1999, n. 461'', relativo all'individuazione della rete autostradale e stradale nazionale, la diramazione per Punta Raisi era ancora ricompresa sotto la denominazione '''A29''' e risultava indicata separatamente come «Diramazione per Punta Raisi».<ref>{{Cita web
+|url=https://www.edizionieuropee.it/law/html/52/zn93_09_073.html
+|titolo=Decreto legislativo 29 ottobre 1999, n. 461 – Individuazione della rete autostradale e stradale nazionale
+|sito=Edizioni Europee
+|data=29 ottobre 1999
+|accesso=3 settembre 2026
+}}</ref> Negli attuali elenchi ANAS l'arteria è invece distinta dalla A29 principale mediante la sigla '''A29 racc'''.<ref name="ANAS-A29dirA" />
+
+=== Descrizione ===
+La diramazione ha origine dall'A29 nella zona di [[Villagrazia di Carini]] e procede verso nord-ovest in direzione della costa. Dopo essersi separata dall'asse Palermo-Mazara del Vallo, attraversa il territorio di [[Carini]] e raggiunge l'area di Punta Raisi, nel comune di [[Cinisi]], terminando presso la viabilità di accesso all'aeroporto.
+
+Il raccordo costituisce il principale collegamento stradale tra la rete autostradale e l'[[Aeroporto di Palermo-Punta Raisi]]. Il piano di sviluppo aeroportuale individua infatti l'A29, insieme al collegamento ferroviario, tra le principali infrastrutture terrestri di accesso diretto allo scalo.<ref>{{Cita web
+|url=https://www.aeroportodipalermo.it/wp-content/uploads/2021/06/PQ%202020-2023%20-%20Rimodulazione%20Luglio%202020.pdf
+|titolo=Piano di sviluppo aeroportuale – Rimodulazione
+|sito=Aeroporto di Palermo
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | {{simbolo|Autostrada A29racc Italia.png|35}}<br />''Bretella Aeroporto "Falcone e Borsellino"''
+|-
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia
+|-
+|[[File:AB-Vzw-grün.svg]] || {{simbolo|Italian traffic signs - strada europea 90.svg|27}} {{simbolo|Autostrada A29 Italia.svg|24}} Palermo-Mazara del Vallo || align="right"| 0,0 || align="right"| 4,0 || rowspan=3 align="center"|[[Città metropolitana di Palermo|PA]]
+|-
+| [[File:AB-AS-grün.svg]]|| Marina di Cinisi<br /><small>(entrata e uscita solo in direzione Aeroporto)</small>|| align="right"| 0,5 || align="right"| -
+|-
+| {{simbolo|AB-ende-grün.svg|17}} || {{simbolo|RWBA Flughafen(R).svg|17}} [[Aeroporto di Palermo "Falcone e Borsellino"|Aeroporto "Falcone e Borsellino"]]|| align="right"| 4,0 || align="right"| 0,0
+|}
+
+== A29 racc bis Raccordo per via Belgio ==
+{{Strada
+|nome = Autostrada A29 racc bis
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Raccordo per via Belgio
+|simbolo = Autostrada A29racc bis Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-SIC}}
+|divisione amm 2 = {{IT-PA}}
+|inizio = A29 presso [[Tommaso Natale (Palermo)|Tommaso Natale]] - [[Cardillo (Palermo)|Cardillo]] - [[Mondello (Palermo)|Mondello]]
+|fine = [[Palermo]]
+|lunghezza = 5,6<ref name=a/>
+|direzione = 
+|apertura = 
+|provvedimento istituzione = 
+|gestore = 
+|pedaggio = no
+|città servite = 
+|intersezioni = 
+|europea1 = 90
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = 
+|tracciato = 
+}}
+
+La '''A29 racc bis Raccordo per via Belgio''' è un raccordo autostradale urbano di [[Palermo]] che collega l'A29 Palermo-Mazara del Vallo con la [[Viale della Regione Siciliana|circonvallazione di Palermo]]. È gestito dall'[[ANAS]], ha una lunghezza di '''5,6&nbsp;km''' e una progressiva chilometrica autonoma compresa tra il km 0,000 e il km 5,600.<ref name="ANAS-Belgio">{{Cita web
+|url=https://www.stradeanas.it/sites/default/files/pdf/Provvedimento%20Anas%20del%2030.10.2019%20pubblicato%20sulla%20G.U.%20del%2009.11.2019%20n.%20132%20-%20foglio%20delle%20inserzioni%20parte%20II.pdf
+|titolo=Provvedimento ANAS del 30 ottobre 2019
+|sito=ANAS
+|data=30 ottobre 2019
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+L'ANAS identifica ufficialmente l'arteria con la sigla '''A29 racc bis''' e la denominazione «Raccordo per via Belgio».<ref name="ANAS-Belgio"/> La segnaletica di '''inizio e fine autostrada''' presente lungo il raccordo continua tuttavia a riportare la denominazione '''«A29 Palermo-Mazara del Vallo»''', anziché quella amministrativa del raccordo.
+
+=== Storia ===
+Il raccordo fu realizzato come prolungamento dell'asse autostradale proveniente dalla Sicilia occidentale verso la circonvallazione di Palermo. La sua esistenza come tratto distinto dell'A29 è documentata almeno dagli anni novanta: nel 1997 il Governo, in una risposta parlamentare relativa alle infrastrutture dell'autostrada Palermo-Mazara del Vallo, faceva esplicito riferimento al «raccordo» compreso nel tratto tra via Belgio e Terrasini.<ref>{{Cita web
+|url=https://legislature.camera.it/_dati/leg13/lavori/stenografici/sed168/pdfbtris.pdf
+|titolo=Atti parlamentari – XIII legislatura, seduta del 17 marzo 1997
+|sito=Camera dei deputati
+|data=17 marzo 1997
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+La denominazione '''A29 racc bis''' è oggi utilizzata autonomamente dall'ANAS negli elenchi della rete autostradale in gestione diretta e negli atti relativi alla manutenzione dell'infrastruttura.<ref>{{Cita web
+|url=https://www.stradeanas.it/it/print/pdf/node/236877
+|titolo=Sicilia, Anas: limitazioni su tratti saltuari dell'autostrada A29 Racc Bis «Raccordo per Via Belgio»
+|sito=ANAS
+|data=30 ottobre 2025
+|accesso=3 settembre 2026
+}}</ref>
+
+=== Descrizione ===
+Il raccordo si sviluppa interamente nel territorio comunale di Palermo. Ha origine nella zona di [[Tommaso Natale-Cardillo|Tommaso Natale]], in continuità con l'A29 proveniente da Mazara del Vallo, e procede verso sud-est attraverso la periferia settentrionale della città fino a raggiungere via Belgio e la circonvallazione.<ref>{{Cita web
+|url=https://palermo.mobilita.org/2017/09/18/a29-palermo-mazara-del-vallo-lavori-notturni-agli-svincoli-belgio-e-tommaso-natale/
+|titolo=A29 Palermo-Mazara del Vallo – Lavori notturni agli svincoli Belgio e Tommaso Natale
+|sito=Mobilita Palermo
+|data=18 settembre 2017
+|accesso=3 settembre 2026
+}}</ref>
+
+L'arteria è costituita da due carreggiate separate con due corsie per senso di marcia e corsia di emergenza. Lungo il percorso serve l'[[Ospedale Vincenzo Cervello]] e la zona industriale settentrionale di Palermo, prima di innestarsi sulla viabilità urbana in corrispondenza di via Belgio.
+
+Il progetto della [[Pedemontana di Palermo]] prevede che il futuro collegamento autostradale tra A19 e A29 si innesti nella parte settentrionale sulla A29 racc bis, garantendo la continuità con l'asse della A29 verso la Sicilia occidentale.<ref>{{Cita web
+|url=https://dibattitopubblico.stradeanas.it/wp-content/uploads/2024/10/PA885_Relazione-conclusiva.pdf
+|titolo=Pedemontana di Palermo – Relazione conclusiva del dibattito pubblico
+|sito=ANAS
+|anno=2024
+|formato=PDF
+|accesso=3 settembre 2026
+}}</ref>
+
+=== Tabella percorso ===
+{| class="wikitable" 
+|-
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | {{simbolo|Autostrada A29racc bis Italia.png|35}}<br />''Raccordo A29-Palermo''
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea
+|-
+|{{simbolo|Italian traffic signs - autostrada.svg|17}} || [[File:Italian traffic signs - strada europea 90.svg|27px|link=Strada europea E90]] {{simbolo|Autostrada A29 Italia.svg|24}} Palermo-Mazara del Vallo || align="right" | 0,0 || align="right"|5,6 || align="center" rowspan=4|[[Città metropolitana di Palermo|PA]] ||align="center" rowspan=4|[[File:Italian traffic signs - strada europea 90.svg|50px|link=Strada europea E90]]
+|-
+|[[File:AB-AS-grün.svg]] || {{simbolo|Italian traffic signs - ospedale.svg|17}} Ospedale Cervello<br /><small>(solo uscita in direzione Palermo)</small> || align="right" | 1,4 || align="right"| -
+|-
+|-
+|[[File:AB-AS-grün.svg]] || {{simbolo|RWB Industriegebiet.svg|23}} Zona industriale nord<br /><small>(entrata solo in direzione Mazara del Vallo e in uscita solo in direzione Palermo)</small> || align="right" | 3,1 || align="right"| 2,2
+|-
+|{{simbolo|AB-ende-grün.svg|17}} || [[File:Italian traffic signs - strada europea 90.svg|27px|link=Strada europea E90]] {{simbolo|Italian traffic signs - strada a viabilità ordinaria.svg|17}} [[Circonvallazione di Palermo|Viale Regione Siciliana]]<br><small>[[Palermo]] - Via Belgio
+| align="right" |5,6 || align="right"| 0,0
+|}
+
+== Note ==
+<references />
+
+== Altri progetti ==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{cita web | url = http://www.stradeanas.it/ | titolo = Anas | accesso = 22 agosto 2006 | urlarchivio = https://web.archive.org/web/20161207082814/http://www.stradeanas.it/ | urlmorto = sì }}
+* {{cita web|http://www.lotsberg.net/data/italia/A29.html|Gallerie e viadotti della A29}}
+* {{cita web|http://www.lotsberg.net/data/italia/D29.html|Gallerie e viadotti della A29dir}}
+
+{{Autostrade italiane}}
+{{Portale|Sicilia|trasporti}}
+
+[[Categoria:Autostrade gestite dall'ANAS]]
+[[Categoria:Autostrade in Italia|A29]]
+[[Categoria:Autostrade in Sicilia]]

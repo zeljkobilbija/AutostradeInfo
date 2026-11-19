@@ -1,0 +1,273 @@
+{{Strada
+|nome = Autostrada A15
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Autostrada della Cisa <br />Sissa Trecasali - La Spezia
+|simbolo = Autostrada A15 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-EMR}}<br />{{IT-TOS}}<br />{{IT-LIG}}
+|divisione amm 2 = {{IT-PR}}<br/>{{IT-MS}}<br/>{{IT-SP}}
+|inizio = [[Sissa Trecasali ]]
+|fine = [[La Spezia]]
+|lunghezza = 108,5<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=45&ramo=45&code=A15&link=&tipo= |titolo=TE - Trasporti Eccezionali - Rami autostradali |accesso=8 dicembre 2009 |dataarchivio=29 settembre 2013 |urlarchivio=https://web.archive.org/web/20130929091120/https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=45&ramo=45&code=A15&link=&tipo= |urlmorto=sì }}</ref> + 9,5<ref>Primo tratto dell'autostrada TIBRE fino al casello di Sissa Trecasali, che è anch'essa classificata come A15</ref>
+|direzione = 
+|apertura = [[1975]]<ref>{{Cita web |url=http://www.lotsberg.net/data/italia/autostrade.html |titolo=The World's longest Tunnel Page: Motorways in Italy |accesso=26 luglio 2009 |dataarchivio=5 ottobre 2018 |urlarchivio=https://web.archive.org/web/20181005154606/http://www.lotsberg.net/data/italia/autostrade.html |urlmorto=sì }}</ref>
+|provvedimento istituzione = 
+|gestore = [[Società Autostrada Ligure Toscana]]
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]
+|città servite = 
+|intersezioni = [[Autostrada A1 (Italia)|A1]], [[Autostrada A12 (Italia)|A12]]
+|europea1 = 33
+|europea2 = 
+|europea3 = 
+|europea altro =
+|mappa = Italia - mappa autostrada A15.svg
+|tracciato = Tracciato A15.svg
+}}
+L{{'}}'''autostrada A15''' (detta anche '''Autostrada della Cisa''') è un'[[autostrada]] italiana che attraversa la bassa valle del [[Taro (fiume)|Taro]] e la [[Lunigiana]], superando l'[[appennino tosco-emiliano]] presso il [[passo della Cisa]]. 
+
+Inizia vicino a [[Sissa Trecasali]] in prossimità di [[Parma]], si allaccia all'[[Autostrada A1 (Italia)|A1]] e termina allacciandosi sull'[[Autostrada A12 (Italia)|A12]] presso [[La Spezia]], precisamente a Santo Stefano Magra, mettendo così in diretta comunicazione la [[pianura padana]] a nord con la [[riviera ligure]] e la [[Versilia]] a sud. 
+
+Gestita interamente da [[Società Autostrada Ligure Toscana]] (gruppo [[ASTM (azienda)|ASTM]]), fino al 1º novembre 2017 la gestione è stata quasi interamente a carico dell'[[Autocamionale della Cisa (azienda)|Autocamionale della Cisa S.p.A.]], poi incorporata nella SALT stessa, e il suo intero percorso coincide con la [[strada europea E33]]. Con l'apertura del primo lotto della [[Corridoio plurimodale Tirreno-Brennero|Ti-Bre]] nel 2025, anch'esso classificato come A15, dall'allacciamento dell'[[Autostrada A1 (Italia)|Autostrada A1]] l'autostrada è stata prolungata fino al casello di [[Sissa Trecasali]],<ref>{{Cita web|url=https://www.parmatoday.it/attualita/buselli-tibre.html|titolo=TiBre, ecco l'inaugurazione del primo tratto: apre il casello di Sissa Trecasali - Parma Today}}</ref> e continuerà (da progetto) fino all'[[Autostrada A22 (Italia)|Autostrada A22]] a [[Nogarole Rocca]].
+
+== Storia ==
+Il primo progetto per questa [[autostrada]] è degli [[anni 1950|anni cinquanta]] con l'intento di fornire un itinerario alternativo per collegare la Pianura padana con la costiera [[Mar Tirreno|tirrenica]]. Per la sua costruzione dovettero essere approntati numerosi [[viadotto|viadotti]] e [[tunnel|gallerie]] per poter raggiungere l'altitudine massima di 745 [[metro|m]] [[livello del mare|s.l.m.]], a cui si arriva presso l'imbocco della galleria di valico. La sua struttura, a due [[carreggiata|carreggiate]], è in ogni caso molto curvilinea e di conseguenza molto impegnativa per la guida e per i mezzi; per molti anni è stata uno dei percorsi utilizzati come [[test]] per i [[autocarro|veicoli pesanti]]. L'apertura al traffico avvenne il 24 maggio 1975.
+
+Nel tempo si sono susseguiti interventi volti per rendere più lineare il tracciato e metterlo al sicuro dai movimenti franosi, grazie alla costruzione di nuovi viadotti e gallerie, come avvenuto fra il 2003 e il 2009 per il tratto di [[Roccaprebalza]]. Un imponente viadotto a due piani è stato privato del piano superiore e affiancato da un nuovo viadotto più rettilineo<ref>{{Cita web|url=https://www.youtube.com/watch?v=iF9pi0kkzpI|titolo=A15 della Cisa - Demolizione viadotto Roccaprebalza - parte 1}}</ref>. {{Senza fonte|Un'altra coppia di viadotti successiva è stata demolita e sostituita da due gallerie preesistenti, ma inutilizzate per difficoltà tecniche al tempo della costruzione dell'autostrada}}.
+
+==L'autostrada oggi ==
+L'autostrada si compone di due tratte contigue: la Parma-La Spezia, denominata Autostrada della Cisa, ed il Corridoio plurimodale Tirreno-Brennero (o semplicemente TIBRE) di cui è in servizio il solo primo lotto da Parma a Sissa Trecasali. 
+
+=== Tratto Parma-La Spezia ===
+Il tratto autostradale ha origine dall'[[Autostrada A1 (Italia)|autostrada A1]], nei pressi di Parma. Dopo l'uscita di Parma Ovest il percorso s'inerpica lungo la valle del [[Taro (fiume)|Taro]], con le uscite di [[Fornovo di Taro]], [[Borgo Val di Taro]] e [[Berceto]], tutte situate in territorio [[Emilia-Romagna|emiliano]]. Successivamente, dopo la galleria di valico, l'autostrada prosegue in territorio [[Toscana|toscano]], in cui si incontrano le uscite di [[Pontremoli]] e [[Aulla]]. Infine il percorso fa il suo ingresso in [[Liguria]] dove, dopo un brevissimo tratto, è situato l'innesto con l'[[Autostrada A12 (Italia)|autostrada A12]] presso la piana di [[Santo Stefano di Magra]], a pochi chilometri dalla [[La Spezia|Spezia]].
+
+Con un costo di 11,3 centesimi di euro per ogni chilometro percorso, al 2013 era la terza autostrada dal pedaggio più costoso d'Italia; ciò è principalmente dovuto alla complessità costruttiva del tracciato il quale, dovendo attraversare profonde gole e rilievi tipici dell'impervio Appennino Tosco-Emiliano, è realizzato principalmente su viadotti e attraverso gallerie. Ciò fa sì che la manutenzione ordinaria e straordinaria sia necessariamente frequente e costosa<ref>{{Cita web|http://www.ilgiornale.it/news/genova/classifica-quattroruotele-autostrade-liguri-sono-pi-care-890604.html|CLASSIFICA QUATTRORUOTE Le autostrade liguri sono le più care - IlGiornale.it}}</ref>.
+
+Le stazioni di servizio e le aree di sosta presenti sono sette, quattro in direzione La Spezia e tre in direzione Parma.
+
+=== Tratto Parma-Sissa Trecasali ===
+{{vedi anche|Corridoio plurimodale Tirreno-Brennero}}
+Il tratto autostradale ha origine dall'[[Autostrada A1 (Italia)|autostrada A1]], nei pressi di Parma, senza soluzione di continuità con il tratto Parma-La Spezia. 
+
+L'obbiettivo è prolungare il percorso autostradale verso nord-est attraverso un raccordo con la [[A22 Modena-Brennero]], che dovrebbe terminare in località [[Nogarole Rocca]]. Il primo segmento di 9,5&nbsp;km del [[Corridoio plurimodale Tirreno-Brennero]] (Ti.Bre.), dallo svincolo dell'A1 presso Parma fino a [[Sissa Trecasali]] è stato realizzato tra settembre 2016 e luglio 2023, e aperto al traffico il 16 aprile 2025<ref>{{Cita web|url=https://www.parmatoday.it/attualita/buselli-tibre.html|titolo=TiBre, ecco l'inaugurazione del primo tratto: apre il casello di Sissa Trecasali}}</ref>. 
+
+== Tabella percorso ==
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="6" | '''{{simbolo|Autostrada A15 Italia.svg|30}} SISSA TRECASALI - LA SPEZIA'''<br />Autostrada della Cisa
+|-
+!Tipo!!Indicazione!!↓km↓!!↑km↑!!Provincia!!Strada europea e/o note
+|-
+|{{simbolo|AB-grün.svg|17}}
+|[[Sissa Trecasali]]
+| align="right" | -6,3|| align="right" | 114,8
+|[[Provincia di Parma|PR]]
+|
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Fontevivo"<br><small>(in progetto)</small>
+|||||[[Provincia di Parma|PR]]
+|
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}}|| {{simbolo|Italian traffic signs - strada europea 35.svg|27}} {{simbolo|Autostrada A1 Italia.svg|23}} [[Autostrada A1 (Italia)|Milano - Bologna]]
+| align="right" | 0|| align="right" | 108,5 
+| rowspan="11" |[[Provincia di Parma|PR]]
+| rowspan="26" |[[File:Italian traffic signs - strada europea 33.svg|50px|link=Strada europea E33]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Parma]] Ovest || align="right" | 5,2
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Medesano"||align="right"| 14,7|| align="right"| 94 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Fornovo di Taro|Fornovo]] || align="right"| 22,7|| align="right"| 86
+|-
+|{{Simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Grontone"<ref name=":2" />
+|align="right"|37,5
+|align="right"| -
+|-
+|{{Simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Case Pesci"<ref name=":1" />
+|align="right"|66,9
+|align="right"| -
+|-
+| [[File:AB-AS-grün.svg]]|| [[Borgotaro]] || align="right"| 42,1|| align="right"| 66
+|-
+|{{Simbolo|Italian traffic signs - Parcheggio autostradale.svg|15|}}
+|Area di parcheggio "Casacca"<ref name=":2">solo direzione La Spezia</ref>
+|align="right"|43,1
+| -
+|-
+| [[File:AB-AS-grün.svg]]|| [[Berceto]] || align="right"| 51,0|| align="right"| 57
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Tugo"||align="right"| 54,3|| align="right"| 54
+|-
+|{{Simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Gravagna"<ref name=":1" />
+|align="right"| -
+|align="right"|50
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Montaio" <ref>{{simbolo|Fig. 28 - Divieto di transito nei due sensi - 1959.svg|20}} ''dismessa in direzione Parma''</ref>||align="right"| 65,3|| align="right"| -|| rowspan="5" align="center" |[[Provincia di Massa Carrara|MS]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Pontremoli]] || align="right"| 74,6|| align="right"| 34
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "San Benedetto"||align="right"| 79,8|| align="right"| 28
+|-
+|{{Simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "Lusuolo"
+|align="right"|86
+|align="right"|23
+|-
+| [[File:AB-AS-grün.svg]]|| [[Aulla]] || align="right"| 91,4|| align="right"| 17
+|-
+|{{Simbolo|Italian traffic signs - Parcheggio autostradale.svg|15}}
+|Area di parcheggio "S. Stefano Magra"
+|align="right"|99,9
+|align="right"|9
+| rowspan="10" |[[Provincia della Spezia|SP]]
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Italian traffic signs - strada europea 80.svg|27}} {{simbolo|Autostrada A12 Italia.svg|23}} [[Autostrada A12 (Italia)|Genova - Livorno]]
+| align="right"| 100,7|| align="right"| 8
+|-
+| {{simbolo|italian traffic signs - stazione.svg}}|| Barriera [[La Spezia]] || align="right"| 101,7|| align="right"| 7
+|-
+| {{simbolo|AB-Kreuz-grün.svg|17}}|| Diramazione [[Santo Stefano di Magra]] || align="right"| 101,9|| align="right"| 6 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Vezzano Ligure]]<ref>uscita solo direzione La Spezia</ref><ref>entrata solo direzione Parma</ref>
+| align="right" | 103,2|| align="right"| 5 
+|-
+| {{simbolo|AB-Tank.svg}}|| Area di servizio "Melara"<ref name=":1">solo direzione Parma</ref>|| align="right" |- || align="right"| 2 
+|-
+|[[File:AB-AS-grün.svg]]
+|Melara - Pianazze<ref>uscita solo direzione Parma</ref> {{simbolo|Italian traffic signs - icona industria.svg|17}}
+|align="right"|-|| align="right"|1,9
+
+|- bgcolor="D0C9CF"
+| {{simbolo|AB-AS-grün geschlossen.svg}} || {{simbolo|Strada Statale 1var-A Italia.svg|40}} [[Strada statale 1 var/A Variante di La Spezia|Variante di La Spezia]] <br/>{{simbolo|Italian traffic signs - lavori.svg|17}} ''in costruzione''|| align="right" | || align="right"|  
+|-
+| [[File:AB-AS-grün.svg]]|| [[La Spezia]] [[Porto della Spezia|Porto]] {{simbolo|Italian traffic signs - icona porto.svg}}<small>{{simbolo|Italian traffic signs - icona porto turistico.svg|17}}</small>
+{{simbolo|AB-Kreuz-grün.svg|17}} Raccordo per [[Lerici]]
+| align="right" | 107,6|| align="right"| 1 
+|-
+| {{simbolo|Italian traffic signs - città.svg}}|| [[La Spezia]] Via Carducci
+<small>{{simbolo|Italian traffic signs - centro città.svg|17}} Centro città</small>
+
+<small>{{simbolo|Italian traffic signs - icona porto.svg|17}} Imbarco crociere</small>
+
+<small>{{simbolo|Italian traffic signs - icona traghetto.svg|17}} Traghetti per [[Isola Palmaria]], [[Arcipelago Spezzino]], [[Portovenere]], [[Cinque Terre]], [[Riviera di Levante]] e [[Versilia]]</small>
+
+<small>{{simbolo|Italian traffic signs - icona pineta + mare.svg}} [[Portovenere]]</small>
+
+<small>{{simbolo|Italian traffic signs - icona punto panoramico.svg}}{{simbolo|Italian traffic signs - icona mare fiume lago.svg}} [[Parco nazionale delle Cinque Terre]]</small>
+| align="right" | 108,5|| align="right"| 0 
+|}
+
+==Diramazione per Santo Stefano di Magra==
+{{Strada|nome=Autostrada A15|apertura=|mappa=|europea altro=|europea3=|europea2=|europea1=|intersezioni=|città servite=|pedaggio=|gestore=|provvedimento istituzione=|direzione=|tipo=[[Autostrada]]|lunghezza=1,0|fine=A15|inizio=Santo Stefano di Magra|divisione amm 2={{IT-SP}}|divisione amm 1={{IT-LIG}}|nome successivo=|nome precedente=|simbolo=Autostrada A15 Italia.svg|nome secondario=Diramazione per Santo Stefano di Magra|stato=ITA|tracciato=}}Dal punto di incrocio con la [[Autostrada A12 (Italia)|A12]] (al km 100,7), in direzione La Spezia, l'A15 era sin dall'inizio di competenza della società ''[[Società Autostrada Ligure Toscana|SALT S.p.A.]]'' In direzione [[La Spezia]] al km 101,9 l'A15 si dirama (tramite una interconnessione a quadrifoglio): da un lato prosegue (come diramazione) per 1,2&nbsp;km<ref name=":0">{{Cita web|url=https://teonline.autostrade.it/BVS/portale/rete/punti.jsp?strada=45&ramo=41&code=D15&link=&tipo=|titolo=TE - Trasporti Eccezionali - Rami autostradali}}</ref> verso la cittadina di [[Santo Stefano di Magra]] dall'altro lato prosegue (come A15) fino a La Spezia. La tratta classificata come autostrada termina in corrispondenza dello svincolo per la Zona Industriale, a 0,2&nbsp;km da Santo Stefano di Magra, pertanto la lunghezza effettiva dell'autostrada è di 1,0&nbsp;km.<ref>{{Cita web|url=https://www.google.com/maps/@44.1531122,9.9152531,3a,75y,257.74h,81.79t/data=!3m6!1e1!3m4!1sTGf8A9USimLJLk-JNkoyGg!2e0!7i13312!8i6656|titolo=Google maps}}</ref>
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="7" |{{simbolo|Autostrada A15 Italia.svg|30}} '''DIRAMAZIONE PER SANTO STEFANO DI MAGRA'''
+|-
+|-
+!'''Tipo'''
+! align="center" |'''Indicazione'''
+! align="center" |'''↓km↓'''
+! align="center" |'''↑km↑'''
+! align="center" |'''Provincia'''
+|-
+|{{Simbolo|Italian traffic signs - città.svg|20}}
+|Santo Stefano di Magra
+| align="right" |0,0
+| align="right" |1,2
+| rowspan="5" align="center" |[[Provincia della Spezia|SP]]
+|-
+|[[File:AB-AS-grün.svg]]
+|Zona Industriale {{simbolo|Italian traffic signs - icona industria.svg|17}}
+| align="right" |0,2
+| align="right" |1,0
+|-
+|[[File:AB-AS-grün.svg]]
+|Area Retroportuale {{simbolo|Italian traffic signs - icona porto.svg}}
+|0,5
+|0,7
+|
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|Sissa Trecasali - La Spezia {{simbolo|Autostrada A15 Italia.svg|23}}
+|1,2
+|0,0
+|
+|}
+
+== Raccordo La Spezia-Lerici ==
+{{Strada
+|nome=Autostrada A15
+|apertura=
+|mappa=
+|intersezioni=
+|città servite=
+|pedaggio=
+|gestore=
+|provvedimento istituzione=
+|tipo=[[Autostrada]]
+|lunghezza=3,7
+|fine=SS 331 presso Lerici
+|inizio=A15
+|divisione amm 2={{IT-SP}}
+|divisione amm 1={{IT-LIG}}
+|simbolo=Autostrada A15 Italia.svg
+|nome secondario=Raccordo per Lerici
+|stato=ITA
+|tracciato=
+}}
+Il raccordo La Spezia-Lerici, nonostante sia a carreggiata unica con due sole corsie di marcia totali, presenta i segnali di inizio e fine autostrada e la segnaletica ha colore verde. Questo raccordo è anche classificato come ''R19'' secondo la numerazione interna ed è lungo 3,7&nbsp;km<ref>{{Cita web |url=https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |titolo=TE - Trasporti Eccezionali - Mappe |accesso=13 novembre 2014 |dataarchivio=13 marzo 2013 |urlarchivio=https://web.archive.org/web/20130313001656/https://teonline.autostrade.it/BVS/portale/rete/mappe.jsp?n=2 |urlmorto=sì }}</ref>. La diramazione è gestita dalla ''[https://www.concessionideltirreno.it/ Concessioni del Tirreno S.p.A.], ''come appare indicato nei segnali di inizio autostrada.
+{| class="wikitable" 
+|- align="center" bgcolor="08842C" style="color: white;font-size:100%;"
+| colspan="7" |{{simbolo|Autostrada A15 Italia.svg|30}} '''RACCORDO PER LERICI'''
+|-
+|-
+!'''Tipo'''
+!'''Indicazione'''
+!'''↓km↓'''
+!'''↑km↑'''
+!'''Provincia'''
+|-
+|{{Simbolo|AB-Kreuz-grün.svg|15}}
+|Sissa Trecasali - La Spezia {{simbolo|Autostrada A15 Italia.svg|23}}
+|0,0
+|3,7
+| rowspan="3" |[[Provincia della Spezia|SP]]
+|-
+|[[File:AB-AZ-grün.svg]]
+|[[Porto della Spezia|Porto Est]] {{simbolo|Italian traffic signs - icona porto.svg}}<small>{{simbolo|Italian traffic signs - icona porto turistico.svg|17}}</small> - Zona Industriale {{simbolo|Italian traffic signs - icona industria.svg|17}}
+|0,6
+|3,1
+|-
+|{{simbolo|AB-ende-grün.svg|17}}
+|{{Simbolo|Strada Statale 331 Italia.svg|50}} [[Lerici]] {{simbolo|Italian traffic signs - icona pineta + mare.svg}} - Romito Magra
+|3,7
+|0
+|}
+
+==Monumenti==
+[[File:Monumento A15.JPG|thumb|Il monumento del km 9 visto dagli automobilisti provenienti dalla A1.]]
+Nei pressi del km 9 è situato un curioso monumento di "benvenuto" con tanti elementi a forma di "C", una sorta di "ciuffo" di acciaio e cemento, {{Senza fonte|opera di Luigi Magnani}}, posto nell'ampia area spartitraffico tra le due carreggiate. Il monumento è rivolto verso gli automobilisti provenienti dalla A1.
+
+==Note==
+<references/>
+
+== Voci correlate ==
+* [[Corridoio plurimodale Tirreno-Brennero]]
+
+==Altri progetti==
+{{interprogetto|preposizione=sull'}}
+
+==Collegamenti esterni==
+*{{cita web|http://www.salt.it/|Società Autostrada Ligure Toscana S.p.A.}}
+*{{cita web|http://www.lotsberg.net/data/italia/A15.html|Gallerie e viadotti della A15}}
+*{{cita web|http://www.lotsberg.net/data/italia/D15.html|Gallerie e viadotti della diramazione di S. Stefano Magra}}
+
+{{Autostrade italiane}}
+{{portale|Emilia|Liguria|Toscana|trasporti}}
+
+[[Categoria:Autostrade in Italia|A15]]
+[[Categoria:Trasporti in Liguria]]

@@ -1,0 +1,155 @@
+{{Strada
+|nome = Autostrada A35
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = BreBeMi<br />Brescia-Milano
+|simbolo = Autostrada A35 Italia.svg
+|nome precedente = 
+|nome successivo = 
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-BS}}<br />{{IT-BG}}<br />{{IT-MI}}
+|inizio = Innesto su [[Autostrada A4 (Italia)|Autostrada A4]] a [[Castegnato]] ([[Provincia di Brescia|BS]])
+|fine = Innesto su [[Autostrada A58|A58-TEEM]], presso [[Pozzuolo Martesana]] ([[Città metropolitana di Milano|MI]])
+|lunghezza = 62,1
+|apertura = 23 luglio [[2014]]
+|provvedimento istituzione = 
+|gestore = Società di Progetto Brebemi S.p.A (gruppo Aleatica S.A.)
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]]<br/>Gratuito tra [[Chiari]] Est e [[Brescia]]
+|mappa = Italia - mappa autostrada A35.svg
+}}
+
+L{{'}}'''autostrada A35''', nota anche con la sigla '''BreBeMi''' dalle iniziali delle tre province interessate [[Provincia di Brescia|Brescia]], [[Provincia di Bergamo|Bergamo]] e [[Provincia di Milano|Milano]], collega le città di [[Brescia]] e [[Milano]] con un percorso posizionato più a sud rispetto al tracciato dell'[[autostrada A4 (Italia)|autostrada A4]]. L'A35 è gestita dalla omonima società Brebemi<ref>Società di Progetto Brebemi S.p.A.</ref>.
+
+La medesima società gestisce l’A35-Var (variante di Liscate) una strada extraurbana principale che collega l'A58 alla SP14.
+
+==Storia==
+[[File:Segnaletica per raccordo per A35 in A4 direzione Milano.jpg|thumb|upright=1.2|La segnaletica in A4 direzione Milano per la connessione con l'A35]]
+Nonostante il collegamento tra il capoluogo lombardo e Brescia sia già assicurato dall'autostrada della Serenissima, la [[Autostrada A4 (Italia)|A4]], la necessità di prendere in considerazione una soluzione alternativa si è mostrata di anno in anno più impellente. Questo perché il tratto in questione della suddetta autostrada presenta volumi di traffico particolarmente consistenti, essendo percorso mediamente da {{formatnum:100000}} veicoli al giorno, con punte di {{formatnum:140000}}<ref name=autogenerato2>{{Cita web|url=http://www.autostrade.it/opere/a4_mibg.html?initPos=2|titolo=Descrizione dell'opera|urlarchivio=https://web.archive.org/web/20120314063929/http://www.autostrade.it/opere/a4_mibg.html?initPos=2|urlmorto=sì}}</ref>. Ad aggravare la situazione è il transito di molti [[autocarro|mezzi pesanti]] (punte di {{formatnum:40000}} al giorno)<ref name=autogenerato2 />.
+
+In considerazione di questi elementi si decise in primo luogo di portare le [[corsia di marcia|corsie]] del tratto dell'A4 Milano-Bergamo a 4 per [[Mano da tenere|senso di marcia]] più [[corsia di emergenza]], ampliamento completato nel 2007. L'autostrada diretta avrebbe comunque consentito un risparmio in termini di chilometri percorsi, in virtù del tracciato che permettesse di evitare la deviazione verso nord per toccare Bergamo e la successiva discesa verso sud per Brescia o Milano.
+
+Si è cominciato a parlare di un collegamento autostradale diretto tra le due città all'inizio degli anni novanta. Dal primo studio di prefattibilità (1996) si sono succeduti uno studio d'approfondimento, due studi di fattibilità (1999 e 2000) e infine un progetto preliminare, posto come base per la gara d'appalto. Dal 2001, anno di presentazione del progetto preliminare, al 2009, si è svolto l'iter autorizzativo. Dopo il parere positivo del [[Comitato interministeriale per la programmazione economica|CIPE]] e la conseguente delibera (2005), il progetto definitivo è stato approvato il 26 giugno 2009.<ref>{{Cita web|titolo=Storia|url=http://www.brebemi.it/site/?page_id=3008|accesso=26 luglio 2014|dataarchivio=3 dicembre 2020|urlarchivio=https://web.archive.org/web/20201203234746/https://www.brebemi.it/site/?page_id=3008|urlmorto=sì}}</ref>
+
+I lavori di costruzione sono iniziati il 22 luglio 2009 e sono terminati nella primavera del 2014. L'autostrada è stata inaugurata, contestualmente all'apertura del tratto ARCO TEEM della [[Autostrada A58|Tangenziale Est Esterna di Milano (A58)]], come da programma, il 23 luglio 2014, alla presenza del presidente del Consiglio dei Ministri [[Matteo Renzi]], del ministro dei trasporti [[Maurizio Lupi]] e del presidente della [[Lombardia|Regione Lombardia]], [[Roberto Maroni]].<ref>{{Cita news|url=http://www.bergamonews.it/cronaca/renzi-martina-e-lupi-allinaugurazione-brebemi-bgnews-diretta-twitter-193062|editore=Bergamo News|titolo=Renzi, Martina e Lupi all'inaugurazione Brebemi - BgNews in diretta Twitter|data=23 luglio 2014|pubblicazione=|accesso=23 luglio 2014|urlarchivio=https://web.archive.org/web/20140728011117/http://www.bergamonews.it/cronaca/renzi-martina-e-lupi-allinaugurazione-brebemi-bgnews-diretta-twitter-193062|urlmorto=sì}}</ref>
+
+Da quando è stato aperto l'intero tratto della A58 (16 maggio 2015) la A35 ha avuto, nelle settimane immediatamente successive, un aumento del traffico di circa il 30%.<ref>{{Cita web|url = https://www.ecodibergamo.it/stories/Cronaca/brebemi-approfitta-di-teemtransiti-aumentati-del-35_1122844_11/|titolo = Brebemi «approfitta» di Teem Transiti aumentati del 35%|accesso = 6 giugno 2015|editore = [[L'Eco di Bergamo]]|data = 26 maggio 2015}}</ref>
+
+Il 13 novembre 2017 è stato attivato l'ultimo tassello mancante dell'intero sistema: il collegamento diretto con l'[[Autostrada A4 (Italia)|Autostrada A4]] nelle immediate vicinanze della città di Brescia.<ref>{{Cita news|url=http://www.milanotoday.it/economia/connessione-brebemi.html|titolo=Autostrade: inaugurata l'interconnessione tra l'A35 Brebemi e la A4 Torino Venezia|pubblicazione=MilanoToday|accesso=14 novembre 2017}}</ref>
+
+== I costi ==
+[[File:A35 treviglio.jpg|miniatura|La A35 all'altezza dell'uscita di [[Treviglio]]]]
+L'autostrada, che la società di gestione dichiara essere stata realizzata in finanza di progetto, aveva un costo preventivato di circa 800 milioni di euro, a carico dei privati che pianificavano il rientro della cifra investita tramite l'incasso dei [[pedaggio|pedaggi]]<ref>{{Cita web | urlarchivio = https://web.archive.org/web/20140813180820/http://brebemi.it/index.php/la-societa.html | url = http://www.brebemi.it/index.php/la-societa.html | titolo = Tappe del progetto | editore = BreBeMi | accesso = 6 gennaio 2014 }}</ref>; al momento dell'inaugurazione, tuttavia, i costi erano lievitati fino a {{formatnum:2439}} milioni di euro<ref>{{cita web | url = http://www.bresciatoday.it/cronaca/costo-brebemi-project-financing-legambiente.html/ | titolo = Brebemi: 1 km d'autostrada costa il doppio rispetto alla Spagna | data = 30 gennaio 2012 | pubblicazione = Brescia Today | accesso = 30 gennaio 2012}}</ref><ref>{{cita news|url=http://milano.repubblica.it/cronaca/2016/07/18/news/brebemi-144348756/|titolo=L'autostrada deserta, Legambiente: "Brebemi in rosso e vuota. Va espropriata"|pubblicazione=la Repubblica|data=18 luglio 2016|accesso=2 ottobre 2017}}</ref>, in gran parte coperti dalla [[Banca europea degli investimenti]] (prestito da 700 milioni)<ref name="finanziamenti">{{Cita news | url = https://espresso.repubblica.it/palazzo/2015/01/05/news/per-l-autostrada-brebemi-aiuti-da-renzi-e-maroni-1.193813 | pubblicazione = [[L'Espresso]] | titolo = Brebemi, {{sic|l’autostrada}} amica di Renzi e Maroni | data = 5 gennaio 2015 | accesso = 6 gennaio 2015 | autore = Michele Sasso }}</ref> e dalla [[Cassa depositi e prestiti]] (820 milioni<ref name="finanziamenti" />).
+
+Inoltre l'elevato pedaggio (circa 15 eurocent/km contro i 7 dell'[[Autostrada A4 (Italia)|A4]] che copre lo stesso percorso<ref>{{cita news | url = https://bergamo.corriere.it/notizie/cronaca/14_giugno_13/brebemi-attacca-svela-pedaggi-7-euro-un-tratto-45-chilometri-c7ccb154-f2bf-11e3-9109-f9f25fcc02f9.shtml | titolo = Brebemi attacca e svela i pedaggi: 7 euro per un tratto di 45 chilometri | autore = Pietro Tosca | pubblicazione = [[Corriere della Sera]] | accesso = 6 gennaio 2014 | data = 13 giugno 2014 }}</ref>) e il fatto che l'autostrada sia sostanzialmente un doppione del preesistente tratto di A4 che collega Milano a Brescia hanno fatto sì che il traffico previsto di 60&nbsp;000 veicoli al giorno, ritenuto necessario per rientrare dell'investimento in tempi ragionevoli, non sia mai stato raggiunto, attestandosi invece sulle 20&nbsp;000 unità<ref name="finanziamenti" />; il governo italiano, con la legge finanziaria del 27 dicembre 2014, e la Regione Lombardia hanno quindi stanziato complessivamente 360 milioni di euro di fondi pubblici<ref name="finanziamenti" />; il primo, sotto la denominazione di ''Fondo interconnessione tratte autostradali'', ha stanziato 300 milioni erogabili in quindici ''tranche'' annuali di 20 milioni dal 2017 al 2031<ref name="finanziamenti" /><ref>{{Cita pubblicazione|titolo = Legge 23 dicembre 2014, n. 190. Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2015)|rivista = Gazzetta Ufficiale della Repubblica|volume = Supplemento ordinario n. 99|numero = 300|editore = [[Istituto Poligrafico e Zecca dello Stato|IPZS]]|città = Roma|data = 29 dicembre 2014|url = http://www.gazzettaufficiale.it/do/gazzetta/downloadPdf?dataPubblicazioneGazzetta=20141229&numeroGazzetta=300tipoSerie=SG&tipoSupplemento=SO&numeroSupplemento=99&estensione=pdf&edizione=0|accesso = 6 gennaio 2015|urlmorto = sì}}</ref>, mentre la seconda ha stanziato 60 milioni<ref name="finanziamenti" />; la manovra è stata ampiamente criticata da vari politici e da [[Legambiente]], che hanno sottolineato sia l'inutilità dell'autostrada, incapace di finanziarsi con il proprio traffico, sia l'inopportunità di finanziare con denaro pubblico un'opera approvata sotto la condizione che dovesse essere interamente finanziata da privati<ref name="finanziamenti" />; per quanto riguarda altresì i finanziamenti promessi dalla Regione Lombardia, le polemiche hanno riguardato l'inopportunità di elargire 60 milioni di euro a una struttura in perdita invece di finanziare sanità e istruzione pubblica nella Regione<ref>{{cita news | url = https://www.ilfattoquotidiano.it/2014/12/13/autostrada-brebemi-costi-aumentati-pochi-pedaggi-in-arrivo-i-soldi/1271008/ | pubblicazione = [[Il Fatto Quotidiano]] | titolo = Autostrada Brebemi, costi aumentati e pochi pedaggi: in arrivo i soldi dello Stato | data = 13 dicembre 2014 | accesso = 6 gennaio 2015 | autore = Luigi Franco}}</ref>.
+
+==Le società coinvolte==
+La Società di Progetto Brebemi S.p.A. ha per oggetto la progettazione, costruzione e gestione dell'opera.
+
+Essa è controllata da: 
+* [[Autostrade Lombarde|Autostrade Lombarde S.p.A.]] - 86,82% 
+** [[Autostrada Brescia Verona Vicenza Padova|Autostrada Brescia-Verona-Vicenza-Padova]], 
+**[[Autostrade Centropadane]],
+** [[Milano Serravalle-Milano Tangenziali]], 
+** associazioni industriali,
+** camere di commercio ed enti locali<ref>{{Cita web | 1 = http://www.autostradelombarde.it/auto_lombarde87f1.html | 2 = Autostrade Lombarde-Azionisti | accesso = 17 ottobre 2010 | dataarchivio = 6 dicembre 2011 | urlarchivio = https://web.archive.org/web/20111206043338/http://www.autostradelombarde.it/auto_lombarde87f1.html | urlmorto = sì }}</ref>.
+
+La società [[Concessioni Autostradali Lombarde]] S.p.A. (50% ANAS, 50% Infrastrutture Lombarde che è al 100% della regione Lombardia) ha per oggetto il "monitoraggio dell'iter approvativo della Convenzione Unica di Concessione, il monitoraggio delle attività di Brebemi preliminari all'elaborazione del progetto definitivo, attività tecniche connesse all'accordo di Programma promosso da Regione Lombardia, rilascio/diniego attestazioni di compatibilità tecnica di interventi urbanistici in fascia di salvaguardia"<ref>{{Cita web |url=http://www.calspa.it/Default.aspx |titolo=Concessioni Autostradali Lombarde |accesso=17 ottobre 2010 |urlarchivio=https://web.archive.org/web/20100526050003/http://www.calspa.it/Default.aspx |urlmorto=sì }}</ref>.
+
+Dal punto di vista esecutivo l'opera è stata realizzata dal consorzio emiliano BBM (costituito dalle imprese [[Impresa Pizzarotti|Pizzarotti]], Consorzio Cooperative Costruzioni e Unieco) in qualità di contraente generale dell'appalto affidato dalla concessionaria Brebemi s.p.a. Il contratto è stato firmato nell'ottobre 2009<ref>{{Cita web | 1 = http://brebemi.it/index.php/novita/165-firmato-lappalto-la-brebemi-affidata-ufficialmente-al-consorzio-bbm.html | 2 = Sito Brebemi | accesso = 3 agosto 2014 | dataarchivio = 5 agosto 2014 | urlarchivio = https://web.archive.org/web/20140805215000/http://brebemi.it/index.php/novita/165-firmato-lappalto-la-brebemi-affidata-ufficialmente-al-consorzio-bbm.html | urlmorto = sì }}</ref>.
+
+==Descrizione del tracciato==
+[[File:Tracciato Brebemi.svg|thumb|upright=1.9|Un’antica ipotesi per la ''BreBeMi'' (in rosa) con le altre anche ipotetiche autostrade [[Autostrada A36 (Italia)|Pedemontana]] e [[Autostrada A21 racc|Raccordo Autostradale Ospitaletto-Montichiari]]]]
+
+[[File:BreBeMi Bariano.JPG|thumb|Casello di Bariano ]]
+
+La A35 costituisce una connessione diretta tra Brescia e Milano, rispetto all'A4, in quanto passando per la bassa bergamasca attraverso [[Treviglio]], evita la deviazione verso nord della ''Serenissima'' per raggiungere Bergamo.
+
+Considerando lo sviluppo dell'opera da est a ovest, l'inizio della BreBeMi si situa in collegamento diretto sull'autostrada A4, poco dopo il casello di Brescia Ovest (barriera di Castegnato). L'autostrada riceve anche il traffico proveniente dalla Tangenziale Sud di Brescia, la SP BS 11. Sino al 13 novembre 2017 l'inizio della A35 si trovava sulla SP 19 al confine<ref>L'area che copriva lo svincolo sulla SP 19 (inizio A35) era per metà (zona nord-est) nel comune di Cazzago San Martino e per l'altra metà (zona sud-ovest) nel comune di Travagliato {{Cita web|url=https://www.openstreetmap.org/#map=16/45.5302/10.0529&layers=N|titolo=OpenStreetMap}}</ref> tra la frazione Pedrocca di [[Cazzago San Martino]] e [[Travagliato]], come proseguimento di un raccordo A35-Tangenziale Sud di Brescia. Inizialmente questo raccordo era classificato come [[strada extraurbana secondaria]] di 7,2 km<ref>{{Cita web|url=http://www.brebemi.it/doc/ordinanze/140722%20Ordinanza%20N.01%20del%2022-07-14%20pubblicata%20il%2022-07-14%20alle%20ore%2019.30.pdf|titolo=Ordinanza Brebemi|formato=PDF|urlmorto=sì|urlarchivio=https://web.archive.org/web/20140808043426/http://www.brebemi.it/doc/ordinanze/140722%20Ordinanza%20N.01%20del%2022-07-14%20pubblicata%20il%2022-07-14%20alle%20ore%2019.30.pdf}}</ref>, ma è stato riqualificato in un collegamento autostradale nel contesto dell'interconnessione con l'A4: in pratica il precedente raccordo è stato trasformato in proseguimento dell'autostrada A35 sino alla connessione con la A4, con l'aggiunta di nuove uscite e svincoli nonché la barriera in entrata dalla A4.
+
+Dopo aver incontrato la barriera di esazione di Castegnato, inaugurata nel novembre 2017 con il resto dell'interconnessione A35-A4, l'autostrada incontra l'inizio della corda molle (A21 racc) ovvero il raccordo autostradale Ospitaletto (sulla A4) – Poncarale (sulla [[Autostrada A21 (Italia)|A21]]) – Montichiari Aeroporto.
+
+L'A35 prosegue verso ovest attraverso 6&nbsp;km di autostrada senza pedaggio fino al raggiungimento della barriera di esazione [[Chiari]] est. Prima della barriera vi sono i caselli liberi (ovvero senza stazione) di Travagliato est e Travagliato ovest (riqualificati in uscite autostradali grazie all'interconnessione con l'A4), di [[Rovato]] e successivamente di [[Castrezzato]]. In direzione Milano appena prima della barriera c'è pure l'uscita Chiari est.
+
+La BreBeMi, nel suo tratto a pedaggio, ha sei svincoli di uscita, uno sviluppo di 42&nbsp;km, tre [[viadotto|viadotti]] (funzionali al guado dei fiumi [[Oglio]], [[Serio]] e [[Adda]]) e una [[Galleria (ingegneria)|galleria]] (sottopassaggio della ex SS 11 e della [[Alta velocità ferroviaria|linea ferroviaria AV/AC]] Milano-Brescia tra i caselli di Treviglio e Caravaggio). L'autostrada confluisce poi nella tangenziale Est Esterna di Milano ([[Autostrada A58|A58]]) nel territorio compreso tra [[Melzo]] e [[Pozzuolo Martesana]]. Per raggiungere Milano, dalla TEEM si può procedere lungo due strade provinciali esistenti riqualificate in [[Strada extraurbana principale|superstrade]]: la strada provinciale SP 14 Rivoltana a sud (nel tratto Liscate-viale Forlanini) e la strada provinciale SP 103 Cassanese a nord (nel tratto Melzo-[[Autostrada A51|tangenziale Est A51]], via Rombon). Il collegamento tra la A58 e il tratto riqualificato della SP 14 Rivoltana è assicurato dal tratto di strada extraurbana principale Variante di Liscate<ref>{{Cita web|1=http://www.brebemi.it/site/wp-content/uploads/2014/07/150102-Ordinanza-N.01-del-02-01-15-pubblicata-il-02-01-15-alle-ore-19.00.pdf|2=2015|formato=PDF|accesso=26 maggio 2015|dataarchivio=27 maggio 2015|urlarchivio=https://web.archive.org/web/20150527021610/http://www.brebemi.it/site/wp-content/uploads/2014/07/150102-Ordinanza-N.01-del-02-01-15-pubblicata-il-02-01-15-alle-ore-19.00.pdf|urlmorto=sì}}</ref>, che si sviluppa per 4&nbsp;km dal comune di Comazzo e quello di Liscate, dove è situata la seconda barriera di pedaggio.
+
+== L'autostrada oggi ==
+A quasi 5 anni dall'apertura dell'autostrada è stata eseguita da Agici (febbraio 2019) una valutazione ACB (analisi costi benefici) i cui risultati sono parzialmente positivi<ref>{{Cita web|url=https://www.repubblica.it/economia/2019/02/18/news/brebemi_a35_ecco_tutti_i_benefici_dell_autostrada_fantasma-219457191/|titolo=Brebemi A35, ecco tutti i benefici dell'autostrada fantasma|sito=la Repubblica|data=2019-02-18|lingua=it|accesso=2024-01-28}}</ref>. Questo è dovuto a un moderato aumento di transiti, alla decisione di alcune grandi aziende di aprire sedi lungo l'autostrada e alla riduzione di traffico nelle strade locali della zona.
+
+===Tabella percorso===
+{| class="wikitable"
+|-
+|- align="center" style="color: white;font-size:100%;" bgcolor="#08842c"
+| colspan="4" | {{simbolo|Autostrada A35 Italia.svg|30}} '''BRESCIA - MILANO'''<br />BreBeMi - Brescia Bergamo Milano
+|-
+!Tipo!!Indicazione!!Prov.
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A4 Italia.svg|18}} {{simbolo|Italian traffic signs - strada europea 64.svg|22}} [[Autostrada A4 (Italia)|Autostrada A4]] <small>([[Verona]]-[[Vicenza]]-[[Padova]]-[[Venezia]])</small> || rowspan="11" align="center" |[[Provincia di Brescia|BS]]
+|-
+| {{simbolo|Italian traffic signs - stazione.svg|18}}|| Barriera [[Castegnato]]
+|-
+| [[File:AB-AS-grün.svg]]|| {{simbolo|Italian traffic signs - strada extraurbana principale.svg|17}} [[Strada statale 11 Padana Superiore#Tangenziale Sud di Brescia|Tangenziale Sud di Brescia]] {{simbolo|Strada Provinciale BS11TS Italia.svg|35}}<br />{{simbolo|Italian traffic signs - icona centro.svg|17}} [[Brescia]] Centro
+|-
+| [[File:AB-AS-grün.svg]]|| [[Travagliato]] Est
+|-
+| [[File:AB-AS-grün.svg]]|| [[Travagliato]] Ovest
+|-
+| [[File:AB-AS-grün.svg]] || {{simbolo|Autostrada A21racc Italia.svg|22}} [[Autostrada A21 racc]] Ospitaletto-Montichiari<br />{{simbolo|Italian traffic signs - strada europea 64.svg|22}} {{simbolo|Autostrada A4 Italia.svg|17}} [[Autostrada A4 (Italia)|Venezia]] (casello di <span style="color:green">Ospitaletto</span>)<br />{{simbolo|Autostrada A21 Italia.svg|17}} [[Autostrada A21 (Italia)|Cremona-Piacenza]] (casello di <span style="color:green">Brescia Sud</span>) 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Rovato]] Sud<ref>Uscita inizialmente denominata Rovato, poi corretta perché si confondeva con l'omonimo casello A4.</ref>
+|-
+| [[File:AB-AS-grün.svg]]|| [[Castrezzato]]
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Chiari]] Est<ref>Uscita in direzione Milano, entrata in direzione Brescia.</ref>
+|-
+| {{simbolo|Italian traffic signs - stazione.svg|18}}|| Barriera [[Chiari]] Est 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Chiari]] Ovest 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Calcio (Italia)|Calcio]] || rowspan="5" align="center" |[[Provincia di Bergamo|BG]]
+|-
+| [[File:AB-AS-grün.svg]]|| [[Romano di Lombardia]]<br /><small>{{simbolo|Strada Statale 591 Italia.svg|35}} [[Strada statale 591 Cremasca]] ([[Bergamo]]-[[Crema (Italia)|Crema]]-[[Codogno]])</small> 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Bariano]] 
+|-
+| [[File:AB-AS-grün.svg]]|| [[Caravaggio (Italia)|Caravaggio]]<br /><small>{{simbolo|Italian traffic signs - icona chiesa.svg}} [[Santuario di Santa Maria del Fonte presso Caravaggio]]</small>
+[[File:Italian traffic signs - simbolo area servizio.svg|alt=|29x29px]] Area di Servizio "Adda Sud ed Adda Nord"<ref>{{Cita web|url=https://www.stradeeautostrade.it/notizie/2018/a35-brebemi-inaugurazione-aree-servizio-adda-sud-nord/|titolo=A35 Brebemi: inaugurazione aree di servizio Adda Sud e Nord|sito=Strade & Autostrade Online|lingua=it|accesso=12 luglio 2020}}</ref>
+|-
+| [[File:AB-AS-grün.svg]]|| [[Treviglio]]<br /><small>{{simbolo|Strada Statale 472 Italia.svg|25}} [[Strada statale 472 Bergamina|Bergamina]] ([[Pandino]], [[Lodi]])<br />{{simbolo|Strada Statale 11 Italia.svg|25}} [[Strada statale 11 Padana Superiore|Padana superiore]] ([[Cassano d'Adda]])</small>
+| km 46
+|-
+| [[File:AB-Kreuz-grün.svg]]|| {{simbolo|Autostrada A58 Italia.svg|20}} [[Autostrada A58|Tangenziale Esterna di Milano]]<br /><small>{{simbolo|Autostrada A1 Italia.svg|16}} [[Autostrada A1 (Italia)|A1]] ([[Bologna]])</small><br /><small>{{simbolo|Autostrada A4 Italia.svg|16}} [[Autostrada A4 (Italia)|A4]] ([[Torino]])</small> || align="center" |[[Provincia di Milano|MI]]
+| km 55
+|}
+
+== Caratteristiche tecniche ==
+[[File:A35.jpg|thumb|Uscita della A35 al casello di [[Castrezzato]]]]
+Lo sviluppo complessivo della BreBeMi<ref>{{cita web|url=http://www.brebemi.it/index.php/hidden-numeri-del-progetto.html|titolo=I numeri del progetto|accesso=18 marzo 2009}}</ref> è di 62,1&nbsp;km, così ripartiti:
+*in rilevato: 37,9&nbsp;km
+*in trincea: 19,2&nbsp;km
+*in [[viadotto]]: 3,7&nbsp;km
+*in galleria: 1,3&nbsp;km
+
+Tra le dotazioni dell'autostrada, sono presenti caselli completamente automatizzati, un impianto di [[illuminazione]] (con sistemi avanzati di segnalazione nell'asfalto<ref>{{Cita news|autore=|url=http://www.bsnews.it/2017/12/15/autostrada-brebemi-tecnologie-anti-nebbia/|titolo=A35 Brebemi, ora tecnologie abbinate anche contro la nebbia|pubblicazione=BsNews.it|data=|accesso=19 dicembre 2017|urlarchivio=https://web.archive.org/web/20171222052649/http://www.bsnews.it/2017/12/15/autostrada-brebemi-tecnologie-anti-nebbia/|urlmorto=sì}}</ref>) lungo tutto il tracciato – ritenuto necessario per le frequenti [[nebbia|nebbie]] che investono il territorio interessato –  quattro [[area di servizio|aree di servizio]], due aree di sosta e [[parcheggio]], nonché centri di manutenzione e un centro operativo della Brebemi SpA. L'intera autostrada è costituita da tre corsie per senso di marcia più corsia d'emergenza. Il tratto tra la TEEM e la SP 14 Rivoltana è invece costituito da due corsie per senso di marcia più corsia d'emergenza.
+
+== Note ==
+<references/>
+
+==Voci correlate==
+*[[Autostrada A36 (Italia)]]
+*[[Autostrada A58]]
+*[[Autostrada A21 racc]]
+
+==Altri progetti==
+{{interprogetto}}
+
+==Collegamenti esterni==
+* {{Cita web|http://www.brebemi.it/|Sito ufficiale BreBeMi}}
+* {{Cita web | 1 = http://brebemi.it/index.php/il-progetto.html | 2 = Sito Brebemi sul progetto | accesso = 2 agosto 2014 | dataarchivio = 9 agosto 2014 | urlarchivio = https://web.archive.org/web/20140809190111/http://brebemi.it/index.php/il-progetto.html | urlmorto = sì }}
+* ''[https://www.lotsberg.net/data/italia/A35.html Gallerie e viadotti della A35], lotsberg.net''.
+
+{{Autostrade italiane}}
+{{Portale|Lombardia|trasporti}}
+
+[[Categoria:Trasporti in Lombardia]]
+[[Categoria:Autostrade in Italia|A35]]

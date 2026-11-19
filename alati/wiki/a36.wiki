@@ -1,0 +1,231 @@
+{{In futuro|infrastruttura}}
+{{Aggiornare|commento=la voce va riorganizzata sia nell'incipit sia nei paragrafi (''il tracciato'' in particolare) in modo da separare quello che è già stato fatto da quello che deve essere ancora fatto. Menzionare il numero dei lotti su un qualcosa di già realizzato confonde. Tutta la voce è strutturata come un'opera futura. Anche le immagini non sembrano essere aggiornate.|arg=trasporti}}
+{{Strada
+|nome = Autostrada A36
+|tipo = [[Autostrada]]
+|stato = ITA
+|nome secondario = Pedemontana Lombarda
+|simbolo = Autostrada A36 Italia.svg
+|divisione amm 1 = {{IT-LOM}}
+|divisione amm 2 = {{IT-VA}}<br />{{IT-CO}}<br />{{IT-MB}}
+|inizio = [[Autostrada A8 (Italia)|A8]] presso [[Cassano Magnago]] ([[Provincia di Varese|VA]])
+|fine = Innesto su [[Strada statale 35 dei Giovi|SP ex SS 35]] presso [[Lentate sul Seveso]] ([[Provincia di Monza e della Brianza|MB]])
+|lunghezza = 22
+|apertura = 26 gennaio [[2015]]<br /><small>(prima tratta A8-A9)</small> 
+|provvedimento istituzione = 
+|gestore = Autostrada Pedemontana Lombarda
+|pedaggio = [[Pedaggio#Sistema autostradale chiuso|sistema chiuso]] - free flow
+|città servite = 
+|intersezioni = [[Autostrada A8 (Italia)|A8]], [[Autostrada A9 (Italia)|A9]], [[Superstrada Milano-Meda|SP ex SS 35]]
+|mappa = Italia - mappa autostrada A36.svg
+|tracciato =A36 percorso.png 
+|didascalia =Percorso della A36: ad oggi risultano completate le tratte A e B1, mentre le tratte B2 e C sono alla fase di cantiere. 
+}}
+
+L{{'}}'''autostrada A36''' (detta '''Pedemontana Lombarda''') è un'opera viabilistica autostradale italiana che ha l'obiettivo di velocizzare gli spostamenti nell'area nord di Milano, realizzando una via esterna alla città metropolitana di Milano per collegare le province di [[provincia di Varese|Varese]], [[Provincia di Bergamo|Bergamo]] e l'area a nord di [[Milano]], oltre che l'[[aeroporto di Milano-Malpensa]] con l'[[aeroporto di Bergamo-Orio al Serio]].
+
+La tratta fra il raccordo con la [[Autostrada A8 (Italia)|A8]] presso [[Cassano Magnago]] e la SP ex SS 35 presso [[Lentate sul Seveso]] è stata aperta fra il gennaio e il novembre 2015<ref name="varesenews.it">{{Cita web|url=http://www.varesenews.it/2015/10/pedemontana-il-5-novembre-inaugura-il-tratto-lomazzo-lentate/411395/|titolo=Pedemontana, il 5 novembre inaugura il tratto Lomazzo – Lentate|accesso=16 novembre 2026|sito=VareseNews|data=21 ottobre 2015}}</ref><ref>{{Cita web|url=http://www.varesenews.it/2015/11/pedemontana-si-allunga-inaugurato-il-tratto-fino-a-lentate/415521/|titolo=Pedemontana si allunga: inaugurato il tratto fino a Lentate|accesso=16 novembre 2026|sito=VareseNews|data=5 novembre 2015|autore=Marco Corso}}</ref><ref>{{Cita web|url=http://www.ilgiornale.it/news/milano/pedemontana-avanza-ora-servono-2-miliardi-1191346.html|titolo=La Pedemontana avanza Ma ora servono 2 miliardi|sito=Il Giornale|data=6 novembre 2015|autore=Lucia Galli|accesso=16 novembre 2026}}</ref>.
+
+Per la tratta da [[Lentate sul Seveso|Lentate]] all'[[Autostrada A4 (Italia)|autostrada A4]] è previsto un prolungamento che prevede la trasformazione della [[Strada statale 35 dei Giovi|superstrada Milano-Meda]] in autostrada, fino a [[Cesano Maderno]], per poi proseguire con un nuovo tracciato fino a [[Osio Sotto]].
+
+Nel dicembre 2024 sono iniziate le attività di cantiere per il solo tratto compreso tra [[Lentate sul Seveso|Lentate]] e l'allacciamento con la [[Tangenziale est di Milano|tangenziale est]] a [[Vimercate]].<ref name=":0">{{Cita web|url=https://www.monzatoday.it/attualita/pedemontana-desio-che-succede.html|titolo=Cantieri di Pedemontana, che cosa sta succedendo a Desio? I Comitati scendono in piazza|sito=MonzaToday|accesso=30 aprile 2025}}</ref>
+
+== Il contesto ==
+Il sistema di autostrada e viabilità locale interessa la viabilità delle province di [[Provincia di Varese|Varese]] e [[Provincia di Como|Como]] e, con il termine dei lavori, anche quelle della [[città metropolitana di Milano]] e delle province di [[Provincia di Monza e della Brianza|Monza e della Brianza]], [[Provincia di Bergamo|Bergamo]] e in generale di tutto il Nord della Lombardia, realizzando un nuovo collegamento diretto fra [[Cassano Magnago]] (Varese) e [[Osio Sotto]] (Bergamo) in un tessuto urbano fra i più densamente abitati d'Italia e d'Europa.<ref name=autogenerato3>{{Cita web |url=http://www.pedemontana.com/il-progetto.html |titolo=Il progetto - Autostrada Pedemontana Lombarda S.p.A |accesso=27 gennaio 2015 |urlarchivio=https://web.archive.org/web/20150129045147/http://www.pedemontana.com/il-progetto.html |urlmorto=sì }}</ref> L'iter amministrativo del progetto prevede anche il completamento del [[sistema tangenziale di Varese]], la realizzazione della tangenziale di [[Como]] che, collegando la [[Autostrada A9 (Italia)|A9 Lainate-Chiasso]] e la [[strada statale 342 Briantea]] in comune di [[Albese con Cassano]], costituisce la connessione diretta al sistema stradale dei territori dell'[[Erba (Italia)|Erbese]] e della [[Valassina]] ed è inoltre prevista la costruzione di un raccordo ([[Autostrade Bergamasche|interconnessione Pedemontana BreBeMi]]) con caratteristiche autostradali tra la [[BreBeMi]] e l'autostrada Pedemontana con un tracciato parallelo a destra della [[tangenziale Est Esterna di Milano]]<ref>{{Cita web |url=http://www.ipbspa.it/ |titolo=I Soci e l'oggetto sociale AUTOSTRADE BERGAMASCHE SPA |accesso=16 settembre 2009 |urlarchivio=https://web.archive.org/web/20130515041908/http://ipbspa.it/ |urlmorto=sì }}</ref>. Questo raccordo è parte della futura autostrada Bergamo-Treviglio-Lodi<ref>{{cita news|url=http://www.ecodibergamo.it/stories/Cronaca/120972_bergamo_-_treviglio/|titolo=2015: tra Bergamo e Treviglio un collegamento autostradale| pubblicazione=L'Eco di Bergamo}}</ref>.
+{{Vedi anche|Autostrada A60 (Italia)|Autostrada A59}}
+
+== Costi ==
+Il progetto, approvato dal [[CIPE]], prevede una spesa totale di 4.115.000.000 di euro (il contributo statale ammonta a 1,2 miliardi di euro)<ref>{{Cita web |url=http://www.pedemontana.com/news_view.php?id=158 |titolo=Il Cipe approva il Progetto Definitivo |accesso=6 febbraio 2010 |urlarchivio=https://web.archive.org/web/20100210054445/http://www.pedemontana.com/news_view.php?id=158 |urlmorto=sì }}</ref> per un totale di 87&nbsp;km di autostrada e 70&nbsp;km di nuova viabilità provinciale e comunale, comprendente anche le nuove tangenziali di [[Como]] e [[Varese]].
+
+Con un esborso stimato in 57,8 milioni di euro al chilometro per 5 miliardi complessivi di spesa, è stata valutata come l'autostrada più costosa della storia italiana<ref>{{cita web | autore = G. Turano | url = http://espresso.repubblica.it/inchieste/2018/06/01/news/pedemontana-fa-flop-anche-in-veneto-1.323255 | titolo = Se la Pedemontana fa flop anche in Veneto | data = 5 giugno 2018 | sito = espresso.repubblica.it | urlarchivio = https://web.archive.org/web/20181124221347/http://espresso.repubblica.it/inchieste/2018/06/01/news/pedemontana-fa-flop-anche-in-veneto-1.323255/ | urlmorto = no}}</ref>.
+
+== Assetto societario e realizzazione ==
+=== Concessionaria ===
+Progettazione, costruzione e gestione dell’opera sono affidate ad Autostrada Pedemontana Lombarda S.p.A. (APL). A seguito dell'uscita dei soci bancari, la società è interamente a capitale pubblico<ref name="16-3-lombardianotizie.online-cita">{{cita web|url=https://www.lombardianotizie.online/pedemontana-lombarda/|titolo=Pedemontana, ok a intervento di completamento e finanziamento dell’opera}}</ref> e soggetta alla direzione di Regione Lombardia. Al 2024, il capitale sociale di 1.081.926.000 euro è così ripartito<ref name="17-15-pedemontana.com-cita">{{cita web|url=https://www.pedemontana.com/it/chi-siamo/bilanci-e-relazioni|titolo=Bilanci e Relazioni. Autostrada Pedemontana Lombarda}}</ref>:
+
+* Regione Lombardia: 77,95%
+* Milano Serravalle - Milano Tangenziali S.p.A.: 22,05%
+
+=== Concedente ===
+Il ruolo di ente concedente e vigilante è ricoperto da Concessioni Autostradali Lombarde S.p.A. (CAL), partecipata pariteticamente da ANAS e Regione Lombardia (tramite ARIA S.p.A.)<ref name="18-30-ariaspa.it-cita">{{cita web|url=https://www.ariaspa.it/wps/portal/Aria/Home/cosa-facciamo/infrastrutture/concessioni-autostradali-lombarde|titolo=Concessioni autostradali lombarde|sito=ARIA}}</ref>, che ha il compito di coordinare l'iter approvativo e le procedure di gara per l'affidamento dei lotti.
+
+=== Appaltatori ===
+La realizzazione è stata suddivisa tra diversi raggruppamenti di imprese:
+
+* Tratta A e Tangenziali: consorzio guidato da Impregilo (oggi Webuild)
+* Tratta B1: Associazione Temporanea di Imprese guidata da Strabag
+* Tratte B2 e C: appalto aggiudicato nel 2021 al consorzio Pedelombarda Nuova (Webuild 70%, Pizzarotti 30%) per 1,26 miliardi di euro; i cantieri sono stati avviati a dicembre 2024<ref>{{cita news|url=http://www.ilsole24ore.com/art/notizie/2010-08-08/grandi-opere-risvegliano-mercato-080235.shtml|titolo=Ripartono le grandi opere: appalti in aumento del 72%| pubblicazione=Il Sole 24 ORE|data=8 agosto 2010}}</ref><ref name="15-84-bergamo.corriere.it-cita">{{cita web|url=https://bergamo.corriere.it/bergamo/notizie/cronaca/12_febbraio_17/pedemontana-bergamo-1903327646410.shtml|titolo=Pedemontana, tratto bergamasco Via al progetto esecutivo |sito=Corriere Bergamo|data=12 febbraio 2017}}</ref><ref>{{Cita web|url=https://www.webuildgroup.com/it/media/comunicati-stampa/aggiudicazione-definitiva-contratto-per-autostrada-pedemontana-lombarda/|titolo=Webuild si aggiudica in via definitiva contratto da €1,26 miliardi per le tratte B2 e C dell’autostrada Pedemontana Lombarda|sito=Webuild Group|accesso=7 dicembre 2023}}</ref>.
+
+== Pedaggio ==
+[[File:Segnaletica Pedaggio free flow A59 Pedemontana Lombarda.jpg|miniatura|Segnaletica stradale per il pedaggio free-flow]]
+L'A36 è soggetta a pedaggio esclusivamente con sistema elettronico [[Pedaggio#Sistema esclusivamente free-flow|free-flow]]<ref>Free-flow (flusso libero) significa che non vi sono caselli di pedaggio presidiati o semiautomatici (Viacard o simili) ma si paga unicamente tramite apparati di [[telepedaggio]], app oppure sistema Conto Targa ricaricabile. Chi non ha utilizzato questi sistemi deve regolarizzare (la targa è rilevata lungo l'intero tratto) pagando tramite portale o Punto blu o call center.</ref><ref>{{cita web|url=http://www.pedemontana.com/in-viaggio/nuovo-sistema-free-flow.html|titolo=Il Nuovo Sistema Free Flow|accesso=10 novembre 2015|urlarchivio=https://web.archive.org/web/20151110100249/http://www.pedemontana.com/in-viaggio/nuovo-sistema-free-flow.html|urlmorto=sì}}</ref><ref>Gli apparati di telepedaggio ammessi sul tratto autostradale soggetto a free-flow sono [[Telepass]], [[UnipolMove]], [[MooneyGo]] e dei principali creditori di telepedaggio europei.</ref> a partire dal 1º novembre 2015<ref>{{cita web|url=http://www.pedemontana.com/Binary/UFFICI/COMUNICAZIONE/COMUNICATI_STAMPA/Comunicato_Stampa_apertura_Tratta_B1_05-11-2015.pdf|titolo=Apre la tratta B1 (A36) e prende il via il sistema Free Flow|data=5 novembre 2015|accesso=10 novembre 2015}}</ref>; prima di quella data, il pedaggio non veniva riscosso<ref>{{cita news|url=http://www3.varesenews.it/lombardia/apre-al-traffico-l-a36-maroni-pedaggio-durante-expo-paga-la-regione-305032.html|titolo=Apre al traffico l'A36, Maroni: "Pedaggio? Durante Expo paga la Regione"|sito=VareseNews|data=26 gennaio 2015|accesso=10 novembre 2015|pubblicazione=|urlarchivio=https://web.archive.org/web/20150129013031/http://www3.varesenews.it/lombardia/apre-al-traffico-l-a36-maroni-pedaggio-durante-expo-paga-la-regione-305032.html#|urlmorto=sì}}</ref>.
+
+La stessa modalità di pedaggio sarà in futuro attuata anche sulla tratta attualmente in costruzione.<ref>{{Cita web|url=https://www.ilgiorno.it/monza-brianza/cronaca/pedemontana-pagamento-riduzioni-residenti-12ce4b33|titolo=Pedemontana a pagamento, la battaglia dei sindaci: “Riduzioni per i residenti"|sito=Il Giorno|data=16 maggio 2024|accesso=30 aprile 2025}}</ref>
+
+== Storia ==
+Alla fine degli [[anni 1950|anni cinquanta]] nasce l'idea della pedemontana come infrastruttura necessaria per lo sviluppo delle zone nord-occidentali lombarde. Questa pedemontana avrebbe collegato [[Bergamo]] a [[Biella]] (in base ai primi progetti degli anni successivi). Il progetto negli [[anni 1970|anni settanta]] viene fermato per il blocco della costruzione di nuove autostrade. Nel [[1983]] la Regione Lombardia chiede di derogare alla legge e successivamente l'autostrada pedemontana rientra nel programma triennale ANAS. Il 14 novembre 1986 nasce la società Autostrada Pedemontana Lombarda S.p.A. costituita dalla Società Autostrade e dalla Società Serravalle - Milano - Ponte Chiasso.
+
+Il 31 agosto 1990 con decreto interministeriale viene autorizzata la concessione per la realizzazione dell'infrastruttura.
+
+Nel periodo dei primi [[anni 2000]] il tracciato della pedemontana assume la fisionomia di quello in costruzione. Nel marzo del 2003 l'autostrada viene inserita nella [[legge obiettivo]]. Il progetto preliminare e la valutazione di impatto ambientale vengono pubblicati nel febbraio del 2004; il 29 marzo 2006 il [[CIPE]] approva il progetto preliminare.
+
+Il 1º agosto 2007 la società Autostrada Pedemontana Lombarda S.p.A. e la concedente [[Concessioni Autostradali Lombarde|Cal S.p.A.]] firmano la convenzione che autorizza la concessione per la realizzazione dell'autostrada.<ref>{{Cita web |url=http://www.pedemontana.com/a_che_punto_siamo.php# |titolo=A che punto siamo - Autostrada Pedemontana Lombarda |accesso=17 ottobre 2010 |urlarchivio=https://web.archive.org/web/20100210205128/http://www.pedemontana.com/a_che_punto_siamo.php# |urlmorto=sì }}</ref>
+
+Nel corso del 2008, durante l'elaborazione del progetto definitivo, sono stati sviluppati approfondimenti di molte parti del tracciato finalizzate, da un lato, al rispetto delle prescrizioni dettate dal CIPE con l'approvazione del progetto preliminare e, dall'altro, a migliorare e ottimizzare le soluzioni progettuali, d'intesa con gli Enti locali territorialmente interessati.
+
+Il progetto definitivo è stato pubblicato il 21 aprile 2009 e reso consultabile sul sito ufficiale<ref>{{cita web|url=http://www.pedemontana.com|titolo=sito ufficiale}}</ref>: rispetto al preliminare, sono state accolte 384 prescrizioni del CIPE e introdotte ulteriori 22 varianti, approvate all'unanimità in seguito all'intensa attività sviluppata dai tavoli territoriali e ambientali.
+
+Il 29 maggio 2009 si è tenuta la Conferenza dei Servizi in Regione Lombardia, nel rispetto dei tempi programmati.
+
+Il [[CIPE]] ha approvato il progetto definitivo e il piano finanziario il 6 novembre 2009.
+
+I lavori inerenti alla tratta A ([[Autostrada A8 (Italia)|A8]]-[[Autostrada A9 (Italia)|A9]]) sono iniziati il 6 febbraio 2010, contestualmente ai primi lotti delle tangenziali di Como e di Varese<ref>{{Cita web |url=http://www.affaritaliani.it/milano/pedemontana_lavori060210.html |titolo=Pedemontana/ Rotto il ghiaccio: al via i cantieri |urlarchivio=https://web.archive.org/web/20130927140304/http://www.affaritaliani.it/milano/pedemontana_lavori060210.html |urlmorto=sì |data=8 febbraio 2010}}</ref><ref>{{cita news|url=http://www.ecodibergamo.it/stories/Cronaca/115842_pedemontana_inaugurazione_del_cantiere_a_cassano_magnago/|titolo=Pedemontana al via, Berlusconi: «Prova del nostro buon governo»|pubblicazione=L'eco di Bergamo|data=6 febbraio 2010}}</ref> e si sono conclusi nel dicembre del 2013: l'apertura al traffico è avvenuta, invece, il 26 gennaio 2015.
+
+I lavori della tratta B1 ([[Autostrada A9 (Italia)|A9]]-[[Lentate sul Seveso]]) sono stati avviati nel dicembre del 2013 e sono terminati nel 2015; l'apertura al traffico della tratta B1 è avvenuta il 5 novembre 2015<ref name="varesenews.it" />.
+
+A settembre 2021, è stato aggiudicato l'appalto per i lavori della tratta B2 e della tratta C al consorzio guidato da [[Webuild]]. A novembre 2022, è stato firmato il contratto da 1,26 miliardi di euro con lo stesso consorzio<ref>{{Cita web|url=https://www.webuildgroup.com/it/media/comunicati-stampa/webuild-firmato-contratto-da-1-26-miliardi-autostrada-pedemontana-lombarda-tatte-b2-e-c/|titolo=Webuild, in consorzio: firmato contratto da 1,26 miliardi di euro per le tratte B2 e C dell’Autostrada Pedemontana Lombarda|sito=Webuild Group|accesso=7 dicembre 2023}}</ref>. L'inizio delle prime attività propedeutiche alla realizzazione dell'opera è avvenuto il 19 dicembre 2024.<ref name=":0" />
+
+I restanti cantieri relativi alla tratta D non sono ancora stati avviati e ad oggi non è prevista una data di inizio lavori.
+
+=== Controversie ===
+Nel corso degli anni il progetto di Pedemontana è stato oggetto di controversie sia da parte della cittadinanza, che da parte di istituzioni locali.<ref>{{Cita web|url=https://www.monzatoday.it/attualita/pedemontana-comuni-fermano-tratta-d-breve.html|titolo=I Comuni si uniscono per fermare Pedemontana: l'ultima mossa dei sindaci|sito=MonzaToday|accesso=1º maggio 2025}}</ref> Le critiche riguardano principalmente:
+
+* '''Il consumo di suolo e l'impatto ambientale''': il progetto si sviluppa attraversando da parte a parte la [[Provincia di Monza e della Brianza|provincia di Monza]], area già fortemente urbanizzata nel corso degli anni e prima provincia italiana per suolo consumato<ref>{{Cita web|url=https://www.isprambiente.gov.it/it/attivita/suolo-e-territorio/suolo/il-consumo-di-suolo/i-dati-sul-consumo-di-suolo|titolo=I dati sul consumo di suolo|sito=ISPRA Istituto Superiore per la Protezione e la Ricerca Ambientale|accesso=1º maggio 2025}}</ref>. Inoltre, il progetto si sviluppa in aree parte di 4 parchi: il [[Parco Agricolo NordEst]], il [[Parco regionale della Valle del Lambro|Parco della Valle del Lambro]], il [[Parco GruBrìa|Parco GruBria]] e il [[Parco delle Groane e della Brughiera Briantea|Parco delle Groane]]. A tal proposito sono nati numerosi comitati di cittadini in opposizione all'opera<ref>{{Cita web|autore=Chiara Pederzoli|url=https://www.ilcittadinomb.it/news/cronaca/pedemontana-anche-rischi-per-la-fauna-appello-di-comitati-e-gruppi-animalisti/|titolo=Pedemontana, anche rischi per la fauna: appello di comitati e gruppi animalisti|sito=Il Cittadino di Monza e Brianza|data=30 marzo 2025|accesso=1º maggio 2025}}</ref>, sono state promosse iniziative ed eventi divulgativi<ref>{{Cita web|url=https://www.monzatoday.it/attualita/birra-no-pedemontana.html|titolo=In Brianza è nata la prima birra che difende il suolo (e dice no a Pedemontana)|sito=MonzaToday|accesso=1º maggio 2025}}</ref><ref>{{Cita web|url=https://www.mbnews.it/2023/11/paolo-pileri-lissone-registra-il-71-di-consumo-di-suolo-non-e-vita/|titolo=Paolo Pileri: "Lissone registra il 71% di consumo di suolo: non è vita"|sito=MBNews|data=16 novembre 2023|accesso=1º maggio 2025}}</ref> e talvolta si sono registrati episodi di protesta<ref>{{Cita web|url=https://www.mbnews.it/2025/02/attivista-ferma-ruspe-pedemontana-boschi-bernate-arcore/|titolo=Attivista ferma le ruspe di Pedemontana al lavoro nei boschi di Bernate|sito=MBNews|data=18 febbraio 2025|accesso=1º maggio 2025}}</ref><ref>{{Cita web|autore=Chiara Pederzoli|url=https://www.ilcittadinomb.it/news/cronaca/pedemontana-proteste-ad-arcore-per-i-trattori-in-via-roccolo-ruspe-sulla-strada-dei-boschi/|titolo=Pedemontana: Arcore, trattori in via Roccolo e ruspe su strada boschi|sito=Il Cittadino di Monza e Brianza|data=2 aprile 2025|accesso=1º maggio 2025}}</ref>.
+* '''La diossina a [[Seveso]]''': la tratta B2 attraversa porzioni di territorio interessate dal [[disastro di Seveso]]; per tale motivo sono sorti dubbi e timori da parte della popolazione<ref>{{Cita web|url=https://www.monzatoday.it/attualita/pedemontana_paura-diossina.html|titolo="La diossina dopo 48 anni ci terrorizza": in Brianza la paura è ritornata|sito=MonzaToday|accesso=1º maggio 2025}}</ref> inerenti alla pericolosità che il cantiere comporterebbe per le zone attraversate. La società Pedemontana Lombarda, a tal proposito, ha predisposto e avviato un piano di bonifica e di monitoraggio affinché il cantiere possa svolgersi in sicurezza<ref>{{Cita web|url=https://www.pedemontana.com/it/sostenibilita/bonifica/la-bonifica-dellarea-ex-icmesa|titolo=La bonifica dell'area Ex-Icmesa|accesso=1º maggio 2025|sito=Autostrada Pedemontana Lombarda}}</ref>.
+* '''Il pedaggio sulla [[Superstrada Milano-Meda|Milano-Meda]]''': con la conversione ad autostrada, l'attuale tratto di superstrada Milano-Meda compreso tra [[Lentate sul Seveso]] e [[Bovisio Masciago]], oggi gratuito, verrà sottoposto a pagamento del pedaggio<ref>{{Cita web|url=https://www.ilgiorno.it/monza-brianza/cronaca/sei-euro-al-giorno-per-la-tratta-oggi-gratis-2f1669e6?live|titolo=Quando la Milano Meda sarà a pagamento: sei euro al giorno per la tratta che oggi è gratis|sito=Il Giorno|data=22 ottobre 2024|accesso=1º maggio 2025}}</ref>. Al riguardo, vari enti locali, anche di diverso colore politico, hanno chiesto di eliminare il pedaggiamento lungo la tratta o, comunque, di introdurre sconti ai residenti e pendolari<ref>{{Cita web|url=https://www.ilgiorno.it/monza-brianza/cronaca/pedemontana-pagamento-riduzioni-residenti-12ce4b33?live|titolo=Pedemontana a pagamento, la battaglia dei sindaci: “Riduzioni per i residenti"|sito=Il Giorno|data=16 maggio 2024|accesso=1º maggio 2025}}</ref> al fine di ridurre le spese per i pendolari ed evitare che il traffico si riversi sulla viabilità ordinaria. Tuttavia, la proposta presentata è stata bocciata dal consiglio regionale<ref>{{Cita web|url=https://www.quicomo.it/politica/milano-meda-a-pagamento-bocciata-proposta-orsenigo.html|titolo=Il consiglio regionale boccia la gratuità della Milano-Meda: sarà a pagamento|sito=QuiComo|accesso=1º maggio 2025}}</ref>.
+
+== Il tracciato ==
+[[File:A36 percorso.png|miniatura|Il tracciato della A36: le tratte B2 e C sono in costruzione, il percorso della tratta D deve essere definito.]]
+Aperta su 22 dei {{m|96|ul=km}} previsti il percorso si sviluppa con doppia carreggiata a due corsie per senso di marcia, partendo dall'interconnessione con la [[Autostrada A8 (Italia)|A8]] presso [[Cassano Magnago]] fino a [[Lentate sul Seveso]], dove si interconnette senza soluzione di continuità con la Superstrada [[Strada statale 35 dei Giovi#Superstrada Milano-Meda|Milano - Meda (SP-exSS 35)]], lungo il tracciato si trovano gli svincoli di [[Solbiate Olona]], [[Mozzate]], [[Cislago]], l'interconnessione con la [[Autostrada A9 (Italia)|A9 Milano - Como]] e lo svincolo di [[Bregnano]]-[[Lazzate]]. Nei pressi dello svincolo di [[Mozzate]] è prevista la realizzazione dell'area di servizio polifunzionale.
+
+Tratte in progetto/costruzione:
+* Tratta B2: lunga 9,3&nbsp;km, riqualificazione in sovrapposizione alla Superstrada Milano-Meda a due corsie fino a [[Meda (Italia)|Meda]] e a tre corsie per senso di marcia più emergenza sino a [[Cesano Maderno]];
+* Tratta C: lunga 16,6&nbsp;km, da [[Cesano Maderno]] alla [[Autostrada A51|A51]] (Tangenziale Est di Milano) presso [[Vimercate]] (a tre corsie per senso di marcia);
+* Tratta D: lunga 16,8&nbsp;km, a due corsie per senso di marcia, da [[Vimercate]] alla [[Autostrada A4 (Italia)|A4]] ([[Osio Sotto]]/[[Brembate]]).
+
+Presso l'innesto con la [[Autostrada A8 (Italia)|A8]] a [[Cassano Magnago]] è, inoltre, in fase di costruzione il nuovo svincolo della [[Strada statale 336 dell'Aeroporto della Malpensa|SS336 dell'aeroporto di Malpensa]], che consentirà, una volta aperto al traffico, un collegamento diretto tra la SS336 e la Pedemontana, ovviando al passaggio dall'entrata di [[Busto Arsizio]] e all'immissione in [[Autostrada A8 (Italia)|A8]].
+
+Il tracciato di Pedemontana Lombarda si inserisce in un territorio a rilevante sensibilità, in quanto caratterizzato da elevate densità abitative e insediative e dalla presenza di significativi vincoli ambientali e valori paesaggistici.
+
+Gli studi sviluppati nella fase di progettazione preliminare hanno orientato la concessionaria verso l'adozione di soluzioni che garantiscano una mitigazione strutturale degli impatti ambientali nei luoghi di massima criticità tramite la realizzazione di gallerie naturali e artificiali e adeguate misure di tutela e di inserimento ambientale e paesaggistico. Le situazioni di maggior criticità si hanno nella tratta da Lentate sul Seveso a Usmate Velate.
+
+Circa la metà dell'intero percorso dell'autostrada è previsto in galleria naturale o artificiale, mentre un altro terzo è previsto in trincea, che è la conformazione che meglio consente di coniugare la minimizzazione dell'impatto ambientale con la sicurezza della circolazione.
+
+=== Tratta "D breve" ===
+Nonostante il progetto originario preveda l'innesto con la [[Autostrada A4 (Italia)|A4]] all'altezza di [[Osio Sotto]], è stata avanzata dalla società la possibilità, presentata ufficialmente nel 2022, di ridurre la lunghezza della tratta D prevedendo l'innesto con la [[Autostrada A4 (Italia)|A4]] nei pressi dello svincolo tra la ''[[Autostrada A4 (Italia)|Serenissima]]'' e la [[Autostrada A58|A58 TEEM]]. Tale ipotesi comporterebbe una riduzione da 16,8 km a 9 km circa, con un notevole calo dei costi<ref>{{Cita web|url=https://www.provincia.mb.it/novita/archivio/Pedemontana-tratta-D-breve-convocato-incontro-in-Provincia-per-il-prossimo-5-settembre/|titolo=Pedemontana, tratta D “breve”: convocato incontro in Provincia per il prossimo 5 settembre|accesso=30 aprile 2025|urlarchivio=https://web.archive.org/web/20220818145220/https://www.provincia.mb.it/novita/archivio/Pedemontana-tratta-D-breve-convocato-incontro-in-Provincia-per-il-prossimo-5-settembre/|dataarchivio=18 agosto 2022|urlmorto=no}}</ref>.
+
+Il tracciato sarebbe alternativo e parallelo all'esistente [[Autostrada A51|tangenziale est]], comprendente due carreggiate a tre corsie per senso di marcia, lo svincolo di [[Vimercate]] est, il viadotto a scavalco del torrente [[Molgora]] e una barriera autostradale a 13 piste, ricadente in territorio comunale di [[Burago di Molgora]], con lo scopo di raccogliere gli utenti provvisti di biglietto cartaceo provenienti dalla [[Autostrada A4 (Italia)|A4]]<ref>{{Cita web|url=https://www.comune.cavenagobrianza.mb.it/dettaglio-pagina/Pedemontana-variante-tratta-D-progetto-definitivo/|titolo=Comune di Cavenago di Brianza : 01 09 2023 PEDEMONTANA - progetto definitivo tratta D "breve": Pedemontana - variante tratta D: progetto definitivo|accesso=1º maggio 2025}}</ref>.
+
+Attualmente, il progetto della tratta "D breve" è stato finalizzato, presentato agli enti preposti ed è in attesa di autorizzazione<ref>{{Cita web|autore=Chiara Pederzoli|url=https://www.ilcittadinomb.it/news/cronaca/pedemontana-parla-il-dg-fusco-cantieri-a-novembre-il-pedaggio-della-b2-non-si-tocca-la-d-breve/|titolo=Pedemontana, parla il dg Fusco: «Cantieri a novembre. Il pedaggio della B2? Non si tocca. La D? Breve»|sito=Il Cittadino di Monza e Brianza|data=31 ottobre 2024|accesso=30 aprile 2025}}</ref>.
+
+=== Tabella percorso ===
+''In verde è evidenziato il tratto in attuale esercizio.''
+
+{| class="wikitable"
+|- align="center" bgcolor="08842C" style="color: white;"
+| colspan="4" | '''{{simbolo|Autostrada A36 Italia.svg|30}} AUTOSTRADA A36'''<br />''Autostrada Pedemontana Lombarda''
+|- 
+! Tipo !! Indicazione !! &nbsp; km &nbsp; !! Provincia
+|- bgcolor="D0F0C0"
+| [[File:AB-Kreuz-grün.svg]] || {{simbolo|Autostrada A8 Italia.svg|23}} [[Autostrada A8 (Italia)|Milano - Varese]] || align="center" |0,0 || rowspan=2 align="center"|[[Provincia di Varese|VA]] 
+|- bgcolor="D0F0C0"
+| [[File:AB-AS-grün.svg]]|| [[Solbiate Olona]] ||align="center"|1,0
+|- bgcolor="D0F0C0"
+| [[File:AB-AS-grün.svg]] || [[Mozzate]]-[[Cislago]] || align="center"|8,0||rowspan=3 align="center"|[[Provincia di Como|CO]]
+|- bgcolor="D0F0C0"
+| [[File:AB-AS-grün.svg]] || [[Cislago]]<ref>Monodirezionale: uscita e ingresso per il traffico di Lentate.</ref>||align="center"|9,5
+|- bgcolor="D0F0C0"
+| [[File:AB-Kreuz-grün.svg]] || {{simbolo|Autostrada A9 Italia.svg|23}} [[Autostrada A9 (Italia)|Milano - Como]] || align="center" |15,0
+|- bgcolor="D0F0C0"
+| [[File:AB-AS-grün.svg]] || [[Bregnano]]-[[Lazzate]] ||align="center"|19,0|| rowspan="3" align="center" |[[Provincia di Monza e Brianza|MB]]
+|- bgcolor="D0F0C0"
+| [[File:AB-AS-grün.svg]] || [[Lentate sul Seveso]] ||align="center"|21,0
+|- bgcolor="D0F0C0"
+| [[File:AB-Kreuz-blaugrün.svg]] || {{simbolo|Strada Statale 35 Italia.svg|35}} [[Superstrada Milano-Meda|Milano - Meda]] * || align="center" |22,0
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Lentate sul Seveso]] sud||align="center"| 26,8|| rowspan="12" align="center" |[[Provincia di Monza e Brianza|MB]]
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Meda (Italia)|Meda]]
+|align="center"| 27,9
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Baruccana]]
+|align="center"| 30,9
+|-
+|[[File:AB-Kreuz-blaugrün.svg]]
+|[[Cesano Maderno]]
+{{simbolo|Strada Statale 35 Italia.svg|35}} [[Superstrada Milano-Meda|Milano - Meda]]
+|align="center"| 31,4
+|-
+|{{simbolo|AB-Tank.svg|16}}
+|Area di servizio
+|align="center"| 32,2
+|-
+|[[File:AB-Kreuz-blaugrün.svg]]
+|[[Desio]]
+<small>{{simbolo|Strada Statale 36 Italia.svg|35}}</small> [[Strada statale 36 del Lago di Como e dello Spluga|del Lago di Como e dello Spluga]]
+|align="center"| 35,1
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Macherio]]
+|align="center"| 36,1
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Arcore]]
+|align="center"| 46,9
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|{{simbolo|Autostrada A51 Italia.svg|23}} [[Autostrada A51|Tangenziale Est di Milano]]
+|align="center"| 47,8
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Bellusco]]
+|align="center"| 50,9
+|-
+|{{simbolo|AB-Tank.svg|16}}
+|Area di servizio
+|align="center"| 62,0
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Cornate d'Adda]]
+|align="center"| 73,9
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Filago (Italia)|Filago]]
+|align="center"| 88,7
+| rowspan="3" align="center"| [[Provincia di Bergamo|BG]]
+|-
+|[[File:AB-AS-grün.svg]]
+|[[Osio Sotto]]
+|align="center"| 95,9
+|-
+|[[File:AB-Kreuz-grün.svg]]
+|{{simbolo|Autostrada A4 Italia.svg|23}} [[Autostrada A4 (Italia)|Torino - Trieste]]
+|align="center"| 96,0
+|}
+<nowiki>*</nowiki> Svincolo da eliminare al termine del cantiere: prosecuzione senza soluzione di continuità in A36.
+
+== Note ==
+<references />
+
+== Voci correlate ==
+* [[BreBeMi]]
+* [[Tangenziale Est Esterna di Milano]]
+* [[Raccordo autostradale Ospitaletto-Montichiari]]
+* [[Sistema tangenziale di Varese]]
+
+== Altri progetti ==
+{{interprogetto|preposizione=sull'}}
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.pedemontana.com|titolo=Sito ufficiale della società responsabile della progettazione e la realizzazione dell'autostrada}}
+* {{cita web|url=http://www.stradeeautostrade.it/online/articolo.php?id=0111002|titolo=Articolo di Strade & Autostrade online sulla Pedemontana|urlmorto=sì}}
+
+{{Autostrade italiane}}
+{{Portale|Lombardia|trasporti}}
+
+[[Categoria:Trasporti in Lombardia]]
+[[Categoria:Autostrade in Italia in progetto]]
+[[Categoria:Autostrade in Italia|A36]]

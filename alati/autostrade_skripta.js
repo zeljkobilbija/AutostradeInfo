@@ -519,6 +519,11 @@ globalThis.AB = (() => {
         for (const k in o) if (!(k in dup)) dup[k] = o[k];
       } else stavke.push(o);
     }
+    // Bezimena "Area di sosta" bez ikakvog sadržaja je ugibalište (piazzola) pored kolovoza, ne parking (19.11.2026)
+    const PRAZNO = ['f', 'h', 're', 'wc', 'du', 'e', 'ho', 'sh', 'lkw', 'oh', 'tel', 'web', 'mail', 'af', 'ed'];
+    const piazzole = stavke.filter(x => x.t === 'P' && x.n === 'Area di sosta' && !PRAZNO.some(k => k in x));
+    if (piazzole.length) zapisi('izbačeno ' + piazzole.length + ' praznih ugibališta (Area di sosta bez naziva i sadržaja)');
+    stavke.splice(0, stavke.length, ...stavke.filter(x => !piazzole.includes(x)));
     // "Izlaz" istog naziva kao odmorište/parking na manje od 1 km je samo ulaz na njega (A5: Prolex, Champagne, Les Crêtes)
     const isto = n => n.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
     // i "Calstorta Nord" pored odmorišta "Calstorta Sud" (drugi kolovoz nije ucrtan): isti naziv, drugi nastavak strane

@@ -13,7 +13,7 @@ Postupak: podsetnik, poglavlje 4a (A → G). AdMob: JEDNA aplikacija, posle obja
 - Tekstovi: `play/opis/it-IT.txt` (glavni), `play/opis/en-US.txt` (Gestisci traduzioni → Inglese (Stati Uniti) – en-US)
 - Ikona 512×512: `play/grafika/ikona_512.png`
 - Grafica in primo piano 1024×500: `play/grafika/naslovna_1024x500.png`
-- Snimci ekrana telefona: `play/snimci/` (pravi ih Claude kad je telefon slobodan)
+- Snimci ekrana telefona: `play/snimci/it_1..5.png` (italijanski listing), `en_1..5.png` (engleski prevod)
 - Categoria: **Mappe e navigatori** · Tag po želji: Viaggi, Navigazione
 - Email za kontakt: isti kao za ostale aplikacije · Sito web: `https://zeljkobilbija.github.io`
 
@@ -67,7 +67,7 @@ First release: exits, service areas, fuel stations with average prices, parking 
 - [x] Politika privatnosti EN/IT na sajtu (push 20.11.2026)
 - [x] Tekstovi IT/EN, ikona, naslovna, ikona remove_ads
 - [x] AdMob (korak A, 20.11.2026): app ~1397737255, baner /6019508546, interstitial /1412168797 u `admob.xml`; [ ] proveriti GDPR poruku
-- [ ] Snimci ekrana (`play/snimci/`)
+- [x] Snimci ekrana (20.11.2026): `play/snimci/it_1..5.png`, `en_1..5.png` (`python alati/uramljivanje.py` iz `play/snimci/sirovo/`)
 - [ ] Novi ključ: Generate Signed App Bundle → **Create new…** → `keystore-kljucevi\autostradeinfo.jks` (NIKAD na GitHub; rezervna kopija)
 - [ ] Play Console: Crea app, listing, Contenuti dell'app, video za Vožnju
 - [ ] Test chiusi (Alpha) → remove_ads → probna kupovina → Produzione

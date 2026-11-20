@@ -20,11 +20,11 @@ android {
 
     buildTypes {
         release {
-            // R8 isključen: skraćivanje androidx.** izbacuje WorkDatabase_Impl (WorkManager iz AdMob-a,
-            // Room ga traži po imenu) → pad pri pokretanju release verzije (otkriveno u InterstateInfo 16.11.2026)
-            optimization {
-                enable = false
-            }
+            // R8 (skraćivanje i maskiranje) – Google traži bar 25% „offuscamento“.
+            // Pravila u proguard-rules.pro čuvaju WorkDatabase_Impl (WorkManager iz AdMob-a; Room ga traži po imenu,
+            // bez pravila je release verzija padala pri pokretanju, InterstateInfo 16.11.2026).
+            isMinifyEnabled = true
+            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
     }
     compileOptions {

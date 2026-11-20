@@ -66,7 +66,7 @@ First release: exits, service areas, fuel stations with average prices, parking 
 - [x] R8 + pravila, release proveren na telefonu (20.11.2026)
 - [x] Politika privatnosti EN/IT na sajtu (push 20.11.2026)
 - [x] Tekstovi IT/EN, ikona, naslovna, ikona remove_ads
-- [ ] AdMob (korak A): app, Banner, Interstitial → `app/src/main/res/values/admob.xml`; GDPR poruka
+- [x] AdMob (korak A, 20.11.2026): app ~1397737255, baner /6019508546, interstitial /1412168797 u `admob.xml`; [ ] proveriti GDPR poruku
 - [ ] Snimci ekrana (`play/snimci/`)
 - [ ] Novi ključ: Generate Signed App Bundle → **Create new…** → `keystore-kljucevi\autostradeinfo.jks` (NIKAD na GitHub; rezervna kopija)
 - [ ] Play Console: Crea app, listing, Contenuti dell'app, video za Vožnju

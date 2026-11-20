@@ -69,6 +69,9 @@ First release: exits, service areas, fuel stations with average prices, parking 
 - [x] AdMob (korak A, 20.11.2026): app ~1397737255, baner /6019508546, interstitial /1412168797 u `admob.xml`; [ ] proveriti GDPR poruku
 - [x] Snimci ekrana (20.11.2026): `play/snimci/it_1..5.png`, `en_1..5.png` (`python alati/uramljivanje.py` iz `play/snimci/sirovo/`)
 - [ ] Novi ključ: Generate Signed App Bundle → **Create new…** → `keystore-kljucevi\autostradeinfo.jks` (NIKAD na GitHub; rezervna kopija)
-- [ ] Play Console: Crea app, listing, Contenuti dell'app, video za Vožnju
-- [ ] Test chiusi (Alpha) → remove_ads → probna kupovina → Produzione
+- [x] Play Console (20.11.2026): Crea app, listing IT + EN, Contenuti dell'app (ocena: ispravljeno „elementi casuali“ → No), Data safety 9 tipova
+- [x] Test interni: 1 (1.0) objavljen 20.11.2026; instaliran sa Play-a i proveren: pokretanje, baner (pravi oglas – NE KLIKTATI), interstitial pri 3. otvaranju
+- [ ] Proizvod `remove_ads` u Play Console-u, pa probna kupovina
+- [ ] Video `play/voznja_video.mp4` na YouTube („Non in elenco“) → izjava FOREGROUND_SERVICE_LOCATION
+- [ ] Produzione (promovisati iz internog testa)
 - [ ] Posle objave: AdMob „Aggiungi store“ na ISTOJ aplikaciji

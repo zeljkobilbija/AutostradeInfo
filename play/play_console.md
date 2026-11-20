@@ -71,7 +71,7 @@ First release: exits, service areas, fuel stations with average prices, parking 
 - [ ] Novi ključ: Generate Signed App Bundle → **Create new…** → `keystore-kljucevi\autostradeinfo.jks` (NIKAD na GitHub; rezervna kopija)
 - [x] Play Console (20.11.2026): Crea app, listing IT + EN, Contenuti dell'app (ocena: ispravljeno „elementi casuali“ → No), Data safety 9 tipova
 - [x] Test interni: 1 (1.0) objavljen 20.11.2026; instaliran sa Play-a i proveren: pokretanje, baner (pravi oglas – NE KLIKTATI), interstitial pri 3. otvaranju
-- [ ] Proizvod `remove_ads` u Play Console-u, pa probna kupovina
+- [x] Proizvod `remove_ads` (2,99 €) aktivan; probna kupovina 20.11.2026 sa Play verzije: baner, dugme ⊘ i interstitial nestali
 - [ ] Video `play/voznja_video.mp4` na YouTube („Non in elenco“) → izjava FOREGROUND_SERVICE_LOCATION
 - [ ] Produzione (promovisati iz internog testa)
 - [ ] Posle objave: AdMob „Aggiungi store“ na ISTOJ aplikaciji

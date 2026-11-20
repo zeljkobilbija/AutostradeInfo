@@ -1,0 +1,40 @@
+NASLOV (28/30):
+Autostrade Info: Italy roads
+
+KRATAK OPIS (70/80):
+Exits, service areas, fuel and live traffic on every Italian motorway.
+
+PUN OPIS (2043/4000):
+On the road in Italy and need fuel, a coffee, a restroom or a place to park? Autostrade Info shows what's ahead on every Italian autostrada – exit by exit, sorted by kilometre, in your direction of travel.
+
+Pick a motorway and your direction, and you get:
+• every exit and interchange with its kilometre
+• service areas and parking areas on your side of the road
+• fuel stations with brand logos, cafés, restaurants and facilities (WC, shop, hotel)
+• phone number and website where available
+• national average price of petrol, diesel and LPG, updated weekly
+
+DRIVING MODE
+Start Driving mode and the app finds the motorway you are on, the kilometre (as on the roadside signs) and your direction, and shows the next exits, service areas and fuel stations ahead. When you change motorway, the list follows you. Stop it with one tap or by closing the app.
+
+LIVE TRAFFIC
+Accidents, queues, closures and roadworks from CCISS Viaggiare Informati, placed between exits and with direction. With notifications on, you get alerts for the motorway you selected or the one you are driving on.
+
+COVERAGE
+47 motorways, from the A1 Milan–Naples and A4 Turin–Trieste to the A14 Adriatic, the A22 Brenner, Rome's GRA ring road and the Milan ring roads.
+
+WORKS OFFLINE
+All motorway data is built into the app, so the list works without signal. Only traffic news and fuel prices need a connection.
+
+MADE FOR DRIVERS
+• one tap opens navigation to the place
+• share any service area or exit
+• filters: fuel, food, parking, exits
+• no account, no sign-up; your location stays on your phone
+• one-time purchase to remove ads
+• 18 languages
+
+DATA SOURCES
+Motorway data © OpenStreetMap contributors (ODbL). Traffic: CCISS Viaggiare Informati (www.cciss.it). Fuel prices: weekly national average (fuel-prices.eu, EU Weekly Oil Bulletin), not the price at a specific station.
+
+Independent app, not affiliated with Autostrade per l'Italia, other motorway operators or any government agency. Always follow road signs and traffic rules; do not use your phone while driving.

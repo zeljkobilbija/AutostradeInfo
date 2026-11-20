@@ -1,0 +1,39 @@
+NASLOV (30/30):
+Autostrade Info: uscite e aree
+
+KRATAK OPIS (80/80):
+Uscite, aree di servizio, carburante e traffico su tutte le autostrade italiane.
+
+PUN OPIS (2194/4000):
+In viaggio e ti serve carburante, un caffè, un bagno o un parcheggio? Autostrade Info mostra cosa c'è davanti a te su ogni autostrada italiana – uscita per uscita, in ordine di chilometro, nella tua direzione di marcia.
+
+Scegli un'autostrada e la direzione e trovi:
+• tutte le uscite e gli svincoli con il chilometro
+• aree di servizio e parcheggi dal tuo lato della carreggiata
+• distributori con il logo del marchio, bar, ristoranti e servizi (WC, negozio, hotel)
+• telefono e sito web dove disponibili
+• prezzo medio nazionale di benzina, gasolio e GPL, aggiornato ogni settimana
+
+MODALITÀ GUIDA
+Avvia la Modalità guida e l'app riconosce da sola l'autostrada su cui ti trovi, il chilometro (come sui cartelli a bordo strada) e la direzione di marcia, e mostra le prossime uscite, aree e distributori davanti a te. Quando passi su un'altra autostrada, l'elenco cambia da solo. Si ferma con un tocco o chiudendo l'app.
+
+TRAFFICO IN TEMPO REALE
+Incidenti, code, chiusure e lavori dal CCISS Viaggiare Informati, con la posizione tra le uscite e la direzione. Con le notifiche attive ricevi gli avvisi per l'autostrada scelta o quella su cui stai guidando.
+
+COPERTURA
+47 autostrade, dalla A1 Milano–Napoli alla A4 Torino–Trieste, A14 Adriatica, A22 del Brennero, il GRA di Roma e le tangenziali di Milano.
+
+FUNZIONA OFFLINE
+I dati delle autostrade sono inclusi nell'app: l'elenco funziona anche senza rete. Solo il traffico e i prezzi richiedono una connessione.
+
+PENSATA PER CHI GUIDA
+• un tocco apre la navigazione verso il punto scelto
+• condividi un'area o un'uscita con un amico
+• filtri: carburante, cibo, parcheggi, uscite
+• nessun account, nessuna registrazione; la posizione resta sul telefono
+• acquisto unico per rimuovere la pubblicità
+
+FONTI DEI DATI
+Dati autostradali © OpenStreetMap contributors (ODbL). Traffico: CCISS Viaggiare Informati (www.cciss.it). Prezzi carburante: media nazionale settimanale (fuel-prices.eu, Weekly Oil Bulletin UE), non il prezzo del singolo distributore.
+
+App indipendente, non affiliata ad Autostrade per l'Italia, ad altri concessionari né a enti pubblici. Rispetta sempre la segnaletica e il Codice della strada; non usare il telefono mentre guidi.

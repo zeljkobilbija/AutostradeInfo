@@ -111,4 +111,16 @@
     <string name="vrsta_prilaz">Salida cerrada</string>
     <string name="vrsta_ostalo">Aviso</string>
     <string name="lokacija_pravac">dirección %s</string>
+    <!-- Glasovne poruke u Vožnji -->
+    <string name="glas_start">Modo conducción iniciado. Pronto sabrá en qué autopista está.</string>
+    <string name="glas_stop">Modo conducción detenido.</string>
+    <string name="glas_polozaj">Está en la autopista %1$s, %3$s %2$s, dirección %4$s.</string>
+    <string name="glas_odmoriste">En %1$d %2$s, área de servicio: %3$s.</string>
+    <string name="glas_gorivo">Combustible: %s.</string>
+    <string name="glas_saobracaj">Aviso de tráfico: en %1$d %2$s, %3$s.</string>
+    <string name="glas_km_jed">kilómetros</string>
+    <string name="glas_mi_jed">millas</string>
+    <string name="glas_km_naziv">kilómetro</string>
+    <string name="glas_mi_naziv">milla</string>
+    <string name="glas_dugme">Mensajes de voz</string>
 </resources>
